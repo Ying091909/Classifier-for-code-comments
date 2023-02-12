@@ -1,0 +1,2753 @@
+@relation 1-0-developmentnotes-tfidf-heuristic
+
+@attribute heuristic-DevelopmentNotes- {0,1}
+@attribute 'heuristic-DevelopmentNotes-#s [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Adds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Adds message.' {0,1}
+@attribute heuristic-DevelopmentNotes-Adds. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Aids [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Allows [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Allows. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Appends [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Applies [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Assigns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Attrs [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Audio is normalized.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Avoids [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Bases [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Blocks string.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Boolean dtypes array.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Builds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Calls [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Calls. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Can [verb].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Can be read.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Can be scaled.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Can be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Can find.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Can not be read.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Categoricalindexes a.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Changes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Cmake builds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Cmake builds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Combines [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Computes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Computes average.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Considers [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Considers. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Contains [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Controls [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Converts [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Could use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Creates [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Creates array.' {0,1}
+@attribute heuristic-DevelopmentNotes-Creates. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Dataset contains.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Datum is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Default ns.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Defaults [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Defaults. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Defines [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Del vcards.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Disables [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Displays [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Do not exist.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Do not match.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Documents [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Does [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Does not [verb] [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Dons [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Embeds video.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Encounters [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Ensures [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Error is raised.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Error ns.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Error occurs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Escapes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Expression is found.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Files [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Files. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Finds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Folds size.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Generates [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Gets [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Gets com.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Gets internal.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Gives [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Has [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Has. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Have be added.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Hides [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Holds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-I ws.' {0,1}
+@attribute heuristic-DevelopmentNotes-Implementations. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Implements [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Includes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Indicates [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Indicates. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Instantiates [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is added.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is allowed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is assumed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is based.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is considered.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is converted.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is created.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is delimited.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is disabled.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is displayed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is done.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is enabled.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is executed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is followed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is found.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is given.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is kept.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is loaded.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is looked.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is passed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is provided.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is registered.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is rendered.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is required.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is resolved.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is returned.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is reused.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is set.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is specified.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is stripped.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is supplied.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is treated.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Is viewed.' {0,1}
+@attribute heuristic-DevelopmentNotes-Is. {0,1}
+@attribute 'heuristic-DevelopmentNotes-It [auxiliary] have [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-It have be proposed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-It is used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-It performs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-It will be treated.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Item is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Iterates [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Learns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Likes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Limits [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Load templates.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Loss is averaged.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Loss is summed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Manages [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Marks end.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Matches [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-May modify.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Means [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Means. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Methes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Method is called.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Method is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Method will be executed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Models [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Module modules.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Must have [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Normalizes. {0,1}
+@attribute heuristic-DevelopmentNotes-Notes. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Ns [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Ns. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Number is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Offset is required.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Ops [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Optionals [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Orders. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Overloads [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Overrides default.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Parameter is used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Params [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Parses [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Passes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Pds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Performs [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Permission limits.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Produces [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Proposes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Provides [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Raises [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Raises. {0,1}
+@attribute heuristic-DevelopmentNotes-Reads. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Reduces [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Reduces. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Rejects [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Releases [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Removes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Renders [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Replaces [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Represents [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Requires [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Requires. {0,1}
+@attribute heuristic-DevelopmentNotes-Respects. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Retains [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Retries [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Returns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Runs [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-S ^s.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-S false.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-S miss.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-S true.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Saves [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sees [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Sees. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Self functions.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sets [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sets header.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sets this.' {0,1}
+@attribute heuristic-DevelopmentNotes-Sets. {0,1}
+@attribute heuristic-DevelopmentNotes-Sevs. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Should be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Skips [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Specifies [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Stores [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Stride controls stride.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sum computes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Sums [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Supports [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Takes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Tensors [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Tests [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That [auxiliary] be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That applies [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That can be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That creates.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That has.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That implements.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-That is passed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-The builds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-They are.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This allows.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This can make [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This is intended.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This is set.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This is used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This means.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This returns.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-This scales [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To [verb] use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To allow.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To apply.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To attach.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To attempt to use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To avoid.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To be added.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To be tensor.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To be.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To chunk.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To compute.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To construct [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To control [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To create.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To disable.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To find.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To get.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To globl.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To have [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To indicate.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To insert.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To intervalindex.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To load [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To make.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To match [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To pack.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To perform.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To produce [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To provide [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To raise.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To read.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To reduce [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To remove [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To respect.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To retry.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To send.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To sound [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To store [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To store.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To use [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-To use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Tracks [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Tries [something].' {0,1}
+@attribute heuristic-DevelopmentNotes-Tries. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Unfolds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Updates [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Uses [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Uses algorithm.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Uses class.' {0,1}
+@attribute heuristic-DevelopmentNotes-Uses. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Value is none.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Value is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Value sets.' {0,1}
+@attribute heuristic-DevelopmentNotes-Values. {0,1}
+@attribute 'heuristic-DevelopmentNotes-Views form.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Wants [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-We retry.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Which can be changed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Which means.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will be inserted.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will be returned.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will be swopped.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will call.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will contents.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will execute.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will insert.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will return [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Will wrap.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Wrapper is used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-Wraps [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-You want.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] [verb].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] access.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] assign.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be being used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be called.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be found.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be normalized.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be printed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be set.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be supplied.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] change.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] contain [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] contents.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] create [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] define.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] describe.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] embed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] find [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] get [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] have [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] index.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] instantiate.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] is list.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] is none.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] is path.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] is tensor.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] mark.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] pull.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] raise [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] record.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] resolve.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] set [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] set.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] specify.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] start.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] take.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] validate.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[auxiliary] view.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] #s.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] act.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] be and one.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] call [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] not match.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [auxiliary] result.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] [verb]s [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ^s [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ^s.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] accepts.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] adds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] adds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] advances.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] allows [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] allows.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ands.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] applies [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] attempts.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] attributes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] attrs [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] backends.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] bars.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] bases.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] becomes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] builds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] builds type.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] builds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] calculates value.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] calls [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] calls.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] can be.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] can do [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] cares.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] changes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] changes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] channels [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] checks.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] combines [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] computes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] computes sum.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] computes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] connections.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] connects.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] considers [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] contains [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] creates [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] creates.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] defaults [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] defaults.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] defines [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] depends.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] describes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] do not exist.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] does not do.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] does not match.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] dons.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] encounters.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ensures [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] escapes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] executes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] expects [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] fails.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] features.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] fetches.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] files [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] files database.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] finds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] floats [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] foos.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] forces.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] frameworks.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] functions set and self.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] functions.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] gets to get and org.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] handles.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] has [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] has.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] headers.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] hes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] holds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] hooks.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] https.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ignores [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] implementations.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] implements interface.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] implements.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] includes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] indexes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] integers.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] interfaces.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ints.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is error.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is int.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is list.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is n.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is not.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is number.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is object.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is passed.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is subclass.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is time.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is vector.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is what.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] is.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] labels.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] leaves [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] likes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] logs [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] makes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] manages.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] marks to safe.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] marks.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] maxes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] may change.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] means [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] means.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] models.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] must be.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] names.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] needs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ns [something] and error ns.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] objects [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] objects.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] occurs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] optionals.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] outputs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] params.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] passes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] pds [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] points.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] prints.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] prods.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] provides [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] provides.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] raises.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] reads [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] recommends.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] records [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] records.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] reduces.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] renders.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] replaces.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] represents [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] requests.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] requires [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] restricts.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] results.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] retains [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] returns [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] returns.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] runs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] scalars.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] scales [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sections.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sees [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sequences.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ses.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sets [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sets.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] sizes.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] specifies [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] starts [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] stays.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] strings.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] strs.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] takes [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] tensors [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] tests.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] tracks.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] ts.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] tuples [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] unfolds to unfold and ^.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] urls.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] uses [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] utils [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] validates.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] values.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] verifies.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] views.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] will be observer.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] will be.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] will create [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] will have [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] will result.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] will sleep.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] works.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[something] wraps [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[verb]s [something] ^.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[verb]s [something] hash use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[verb]s [something] mark.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[verb]s algorithm use.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-[verb]s use.' {0,1}
+@attribute heuristic-DevelopmentNotes-[verb]s. {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ adds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ folds.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ gets [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ gets to evil.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ gets to get.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^ is get to none.' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^s [something].' {0,1}
+@attribute 'heuristic-DevelopmentNotes-^s array.' {0,1}
+@attribute heuristic-Expand- {0,1}
+@attribute 'heuristic-Expand-#s [something].' {0,1}
+@attribute 'heuristic-Expand-Adds [something].' {0,1}
+@attribute 'heuristic-Expand-Adds message.' {0,1}
+@attribute heuristic-Expand-Adds. {0,1}
+@attribute 'heuristic-Expand-Allows [something].' {0,1}
+@attribute heuristic-Expand-Allows. {0,1}
+@attribute 'heuristic-Expand-Appends [something].' {0,1}
+@attribute 'heuristic-Expand-Assigns [something].' {0,1}
+@attribute 'heuristic-Expand-Attrs [something].' {0,1}
+@attribute 'heuristic-Expand-Audio is normalized.' {0,1}
+@attribute 'heuristic-Expand-Avoids [something].' {0,1}
+@attribute 'heuristic-Expand-Blocks string.' {0,1}
+@attribute heuristic-Expand-Brews. {0,1}
+@attribute 'heuristic-Expand-Calls [something].' {0,1}
+@attribute 'heuristic-Expand-Calls op.' {0,1}
+@attribute heuristic-Expand-Calls. {0,1}
+@attribute 'heuristic-Expand-Can [verb].' {0,1}
+@attribute 'heuristic-Expand-Can be described.' {0,1}
+@attribute 'heuristic-Expand-Can be read.' {0,1}
+@attribute 'heuristic-Expand-Can be scaled.' {0,1}
+@attribute 'heuristic-Expand-Can be set.' {0,1}
+@attribute 'heuristic-Expand-Can be used.' {0,1}
+@attribute 'heuristic-Expand-Can find.' {0,1}
+@attribute 'heuristic-Expand-Can not be read.' {0,1}
+@attribute 'heuristic-Expand-Categoricalindexes a.' {0,1}
+@attribute 'heuristic-Expand-Category is given.' {0,1}
+@attribute 'heuristic-Expand-Changes [something].' {0,1}
+@attribute 'heuristic-Expand-Class is used.' {0,1}
+@attribute 'heuristic-Expand-Class uses.' {0,1}
+@attribute 'heuristic-Expand-Cmake builds [something].' {0,1}
+@attribute 'heuristic-Expand-Cmake builds.' {0,1}
+@attribute 'heuristic-Expand-Color ^s.' {0,1}
+@attribute 'heuristic-Expand-Combines [something].' {0,1}
+@attribute 'heuristic-Expand-Compiles [something].' {0,1}
+@attribute 'heuristic-Expand-Computes [something].' {0,1}
+@attribute 'heuristic-Expand-Configs [something].' {0,1}
+@attribute heuristic-Expand-Considers. {0,1}
+@attribute 'heuristic-Expand-Constructs [something].' {0,1}
+@attribute 'heuristic-Expand-Contains [something].' {0,1}
+@attribute 'heuristic-Expand-Controls [something].' {0,1}
+@attribute 'heuristic-Expand-Converts [something].' {0,1}
+@attribute 'heuristic-Expand-Could use.' {0,1}
+@attribute 'heuristic-Expand-Creates [something].' {0,1}
+@attribute 'heuristic-Expand-Creates array.' {0,1}
+@attribute heuristic-Expand-Creates. {0,1}
+@attribute 'heuristic-Expand-Dataset contains.' {0,1}
+@attribute 'heuristic-Expand-Datum is.' {0,1}
+@attribute 'heuristic-Expand-Default is [something].' {0,1}
+@attribute 'heuristic-Expand-Default is.' {0,1}
+@attribute 'heuristic-Expand-Defaults [something].' {0,1}
+@attribute 'heuristic-Expand-Defines [something].' {0,1}
+@attribute 'heuristic-Expand-Del vcards.' {0,1}
+@attribute 'heuristic-Expand-Dilation controls.' {0,1}
+@attribute 'heuristic-Expand-Disables [something].' {0,1}
+@attribute 'heuristic-Expand-Displays [something].' {0,1}
+@attribute 'heuristic-Expand-Do not exist.' {0,1}
+@attribute 'heuristic-Expand-Do not match.' {0,1}
+@attribute 'heuristic-Expand-Documents [something].' {0,1}
+@attribute 'heuristic-Expand-Does [something].' {0,1}
+@attribute 'heuristic-Expand-Does not [verb] [something].' {0,1}
+@attribute 'heuristic-Expand-Dons [something].' {0,1}
+@attribute 'heuristic-Expand-Embeds video.' {0,1}
+@attribute 'heuristic-Expand-Empties [something].' {0,1}
+@attribute 'heuristic-Expand-Encapsulates [something].' {0,1}
+@attribute 'heuristic-Expand-Ensures [something].' {0,1}
+@attribute 'heuristic-Expand-Error is raised.' {0,1}
+@attribute 'heuristic-Expand-Error ns.' {0,1}
+@attribute 'heuristic-Expand-Error occurs.' {0,1}
+@attribute 'heuristic-Expand-Escapes [something].' {0,1}
+@attribute heuristic-Expand-Expects. {0,1}
+@attribute 'heuristic-Expand-Expression is found.' {0,1}
+@attribute 'heuristic-Expand-Files [something].' {0,1}
+@attribute heuristic-Expand-Files. {0,1}
+@attribute 'heuristic-Expand-Finds [something].' {0,1}
+@attribute 'heuristic-Expand-Folds size.' {0,1}
+@attribute 'heuristic-Expand-Generates [something].' {0,1}
+@attribute 'heuristic-Expand-Gets [something].' {0,1}
+@attribute 'heuristic-Expand-Gets com.' {0,1}
+@attribute 'heuristic-Expand-Gets internal.' {0,1}
+@attribute 'heuristic-Expand-Gives [something].' {0,1}
+@attribute 'heuristic-Expand-Has [something].' {0,1}
+@attribute heuristic-Expand-Has. {0,1}
+@attribute 'heuristic-Expand-Have be added.' {0,1}
+@attribute 'heuristic-Expand-Have create.' {0,1}
+@attribute 'heuristic-Expand-Hides [something].' {0,1}
+@attribute 'heuristic-Expand-Holds [something].' {0,1}
+@attribute heuristic-Expand-Implementations. {0,1}
+@attribute 'heuristic-Expand-Indicates [something].' {0,1}
+@attribute 'heuristic-Expand-Instantiates [something].' {0,1}
+@attribute 'heuristic-Expand-Is added.' {0,1}
+@attribute 'heuristic-Expand-Is allowed.' {0,1}
+@attribute 'heuristic-Expand-Is applied.' {0,1}
+@attribute 'heuristic-Expand-Is assumed.' {0,1}
+@attribute 'heuristic-Expand-Is based.' {0,1}
+@attribute 'heuristic-Expand-Is bound.' {0,1}
+@attribute 'heuristic-Expand-Is cleaned.' {0,1}
+@attribute 'heuristic-Expand-Is composed.' {0,1}
+@attribute 'heuristic-Expand-Is considered.' {0,1}
+@attribute 'heuristic-Expand-Is converted.' {0,1}
+@attribute 'heuristic-Expand-Is created.' {0,1}
+@attribute 'heuristic-Expand-Is defined.' {0,1}
+@attribute 'heuristic-Expand-Is disabled.' {0,1}
+@attribute 'heuristic-Expand-Is done.' {0,1}
+@attribute 'heuristic-Expand-Is enabled.' {0,1}
+@attribute 'heuristic-Expand-Is expected.' {0,1}
+@attribute 'heuristic-Expand-Is found.' {0,1}
+@attribute 'heuristic-Expand-Is kept.' {0,1}
+@attribute 'heuristic-Expand-Is loaded.' {0,1}
+@attribute 'heuristic-Expand-Is looked.' {0,1}
+@attribute 'heuristic-Expand-Is made.' {0,1}
+@attribute 'heuristic-Expand-Is maintained.' {0,1}
+@attribute 'heuristic-Expand-Is needed.' {0,1}
+@attribute 'heuristic-Expand-Is not allowed.' {0,1}
+@attribute 'heuristic-Expand-Is not shown.' {0,1}
+@attribute 'heuristic-Expand-Is passed.' {0,1}
+@attribute 'heuristic-Expand-Is provided.' {0,1}
+@attribute 'heuristic-Expand-Is registered.' {0,1}
+@attribute 'heuristic-Expand-Is required.' {0,1}
+@attribute 'heuristic-Expand-Is resolved.' {0,1}
+@attribute 'heuristic-Expand-Is returned.' {0,1}
+@attribute 'heuristic-Expand-Is reused.' {0,1}
+@attribute 'heuristic-Expand-Is sent.' {0,1}
+@attribute 'heuristic-Expand-Is set.' {0,1}
+@attribute 'heuristic-Expand-Is shown.' {0,1}
+@attribute 'heuristic-Expand-Is specified.' {0,1}
+@attribute 'heuristic-Expand-Is stored.' {0,1}
+@attribute 'heuristic-Expand-Is stripped.' {0,1}
+@attribute 'heuristic-Expand-Is supported.' {0,1}
+@attribute 'heuristic-Expand-Is treated.' {0,1}
+@attribute 'heuristic-Expand-Is used.' {0,1}
+@attribute 'heuristic-Expand-Is viewed.' {0,1}
+@attribute heuristic-Expand-Is. {0,1}
+@attribute 'heuristic-Expand-It [auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Expand-It has [something].' {0,1}
+@attribute 'heuristic-Expand-It is applied.' {0,1}
+@attribute 'heuristic-Expand-It is created.' {0,1}
+@attribute 'heuristic-Expand-It is used.' {0,1}
+@attribute 'heuristic-Expand-It performs [something].' {0,1}
+@attribute 'heuristic-Expand-It will be treated.' {0,1}
+@attribute 'heuristic-Expand-Item is.' {0,1}
+@attribute 'heuristic-Expand-Iterates [something].' {0,1}
+@attribute 'heuristic-Expand-Likes [something].' {0,1}
+@attribute 'heuristic-Expand-Limits [something].' {0,1}
+@attribute 'heuristic-Expand-List is.' {0,1}
+@attribute 'heuristic-Expand-Load templates.' {0,1}
+@attribute 'heuristic-Expand-Loads [something].' {0,1}
+@attribute 'heuristic-Expand-Loss is averaged.' {0,1}
+@attribute 'heuristic-Expand-Loss is summed.' {0,1}
+@attribute 'heuristic-Expand-Makes [something].' {0,1}
+@attribute heuristic-Expand-Makes. {0,1}
+@attribute 'heuristic-Expand-Manages [something].' {0,1}
+@attribute 'heuristic-Expand-Marks end.' {0,1}
+@attribute 'heuristic-Expand-Markups [something].' {0,1}
+@attribute 'heuristic-Expand-Matches [something].' {0,1}
+@attribute 'heuristic-Expand-Means [something].' {0,1}
+@attribute 'heuristic-Expand-Measures [something].' {0,1}
+@attribute 'heuristic-Expand-Meets [something].' {0,1}
+@attribute 'heuristic-Expand-Methes [something].' {0,1}
+@attribute 'heuristic-Expand-Method is called.' {0,1}
+@attribute 'heuristic-Expand-Method is.' {0,1}
+@attribute 'heuristic-Expand-Models [something].' {0,1}
+@attribute 'heuristic-Expand-Module modules.' {0,1}
+@attribute 'heuristic-Expand-Must have [something].' {0,1}
+@attribute 'heuristic-Expand-N ws.' {0,1}
+@attribute heuristic-Expand-Needs. {0,1}
+@attribute heuristic-Expand-Normalizes. {0,1}
+@attribute heuristic-Expand-Notes. {0,1}
+@attribute 'heuristic-Expand-Ns [something].' {0,1}
+@attribute heuristic-Expand-Ns. {0,1}
+@attribute 'heuristic-Expand-Number is.' {0,1}
+@attribute 'heuristic-Expand-Object sets [something].' {0,1}
+@attribute 'heuristic-Expand-Offset is required.' {0,1}
+@attribute 'heuristic-Expand-Ops [something].' {0,1}
+@attribute 'heuristic-Expand-Optionals [something].' {0,1}
+@attribute 'heuristic-Expand-Output is.' {0,1}
+@attribute 'heuristic-Expand-Overrides validation.' {0,1}
+@attribute 'heuristic-Expand-Parameter is used.' {0,1}
+@attribute 'heuristic-Expand-Params [something].' {0,1}
+@attribute heuristic-Expand-Params. {0,1}
+@attribute 'heuristic-Expand-Parses [something].' {0,1}
+@attribute 'heuristic-Expand-Passes [something].' {0,1}
+@attribute heuristic-Expand-Passes. {0,1}
+@attribute 'heuristic-Expand-Performs [something].' {0,1}
+@attribute 'heuristic-Expand-Permission limits.' {0,1}
+@attribute 'heuristic-Expand-Prevents [something].' {0,1}
+@attribute 'heuristic-Expand-Produces [something].' {0,1}
+@attribute 'heuristic-Expand-Proposes [something].' {0,1}
+@attribute 'heuristic-Expand-Provides [something].' {0,1}
+@attribute 'heuristic-Expand-Raises [something].' {0,1}
+@attribute heuristic-Expand-Raises. {0,1}
+@attribute 'heuristic-Expand-Reads [something].' {0,1}
+@attribute heuristic-Expand-Reads. {0,1}
+@attribute 'heuristic-Expand-Reduces [something].' {0,1}
+@attribute heuristic-Expand-Reduces. {0,1}
+@attribute 'heuristic-Expand-Reduction is none.' {0,1}
+@attribute 'heuristic-Expand-Rejects [something].' {0,1}
+@attribute 'heuristic-Expand-Removes [something].' {0,1}
+@attribute 'heuristic-Expand-Renders [something].' {0,1}
+@attribute 'heuristic-Expand-Replaces [something].' {0,1}
+@attribute 'heuristic-Expand-Represents [something].' {0,1}
+@attribute 'heuristic-Expand-Requires [something].' {0,1}
+@attribute heuristic-Expand-Respects. {0,1}
+@attribute 'heuristic-Expand-Retains [something].' {0,1}
+@attribute 'heuristic-Expand-Retries [something].' {0,1}
+@attribute 'heuristic-Expand-Returns [something].' {0,1}
+@attribute 'heuristic-Expand-Runs [something].' {0,1}
+@attribute 'heuristic-Expand-S ^s.' {0,1}
+@attribute 'heuristic-Expand-S false.' {0,1}
+@attribute 'heuristic-Expand-S miss.' {0,1}
+@attribute 'heuristic-Expand-S true.' {0,1}
+@attribute 'heuristic-Expand-Scans [something].' {0,1}
+@attribute 'heuristic-Expand-Sees [something].' {0,1}
+@attribute heuristic-Expand-Sees. {0,1}
+@attribute 'heuristic-Expand-Self functions.' {0,1}
+@attribute 'heuristic-Expand-Sets [something].' {0,1}
+@attribute 'heuristic-Expand-Sets header.' {0,1}
+@attribute 'heuristic-Expand-Sets this.' {0,1}
+@attribute heuristic-Expand-Sets. {0,1}
+@attribute heuristic-Expand-Sevs. {0,1}
+@attribute 'heuristic-Expand-Should be used.' {0,1}
+@attribute 'heuristic-Expand-Specifies [something].' {0,1}
+@attribute 'heuristic-Expand-Stride controls stride.' {0,1}
+@attribute 'heuristic-Expand-Sum computes.' {0,1}
+@attribute 'heuristic-Expand-Sums [something].' {0,1}
+@attribute 'heuristic-Expand-Tensors [something].' {0,1}
+@attribute 'heuristic-Expand-Tests [something].' {0,1}
+@attribute 'heuristic-Expand-That [auxiliary] be used.' {0,1}
+@attribute 'heuristic-Expand-That can be used.' {0,1}
+@attribute 'heuristic-Expand-That creates.' {0,1}
+@attribute 'heuristic-Expand-That has.' {0,1}
+@attribute 'heuristic-Expand-That implements.' {0,1}
+@attribute 'heuristic-Expand-That is passed.' {0,1}
+@attribute 'heuristic-Expand-The builds.' {0,1}
+@attribute 'heuristic-Expand-They are.' {0,1}
+@attribute 'heuristic-Expand-This allows.' {0,1}
+@attribute 'heuristic-Expand-This is intended.' {0,1}
+@attribute 'heuristic-Expand-This is set.' {0,1}
+@attribute 'heuristic-Expand-This is used.' {0,1}
+@attribute 'heuristic-Expand-This is.' {0,1}
+@attribute 'heuristic-Expand-This means.' {0,1}
+@attribute 'heuristic-Expand-This returns.' {0,1}
+@attribute 'heuristic-Expand-This scales [something].' {0,1}
+@attribute 'heuristic-Expand-To add.' {0,1}
+@attribute 'heuristic-Expand-To allow.' {0,1}
+@attribute 'heuristic-Expand-To apply.' {0,1}
+@attribute 'heuristic-Expand-To attach.' {0,1}
+@attribute 'heuristic-Expand-To avoid.' {0,1}
+@attribute 'heuristic-Expand-To be tensor.' {0,1}
+@attribute 'heuristic-Expand-To be.' {0,1}
+@attribute 'heuristic-Expand-To chunk.' {0,1}
+@attribute 'heuristic-Expand-To compute.' {0,1}
+@attribute 'heuristic-Expand-To construct [something].' {0,1}
+@attribute 'heuristic-Expand-To control [something].' {0,1}
+@attribute 'heuristic-Expand-To create.' {0,1}
+@attribute 'heuristic-Expand-To disable.' {0,1}
+@attribute 'heuristic-Expand-To find.' {0,1}
+@attribute 'heuristic-Expand-To get.' {0,1}
+@attribute 'heuristic-Expand-To globl.' {0,1}
+@attribute 'heuristic-Expand-To have [something].' {0,1}
+@attribute 'heuristic-Expand-To indicate.' {0,1}
+@attribute 'heuristic-Expand-To insert.' {0,1}
+@attribute 'heuristic-Expand-To intervalindex.' {0,1}
+@attribute 'heuristic-Expand-To load [something].' {0,1}
+@attribute 'heuristic-Expand-To maintain [something].' {0,1}
+@attribute 'heuristic-Expand-To make.' {0,1}
+@attribute 'heuristic-Expand-To match [something].' {0,1}
+@attribute 'heuristic-Expand-To pack.' {0,1}
+@attribute 'heuristic-Expand-To perform.' {0,1}
+@attribute 'heuristic-Expand-To produce [something].' {0,1}
+@attribute 'heuristic-Expand-To provide [something].' {0,1}
+@attribute 'heuristic-Expand-To raise.' {0,1}
+@attribute 'heuristic-Expand-To read.' {0,1}
+@attribute 'heuristic-Expand-To reduce [something].' {0,1}
+@attribute 'heuristic-Expand-To remove [something].' {0,1}
+@attribute 'heuristic-Expand-To respect.' {0,1}
+@attribute 'heuristic-Expand-To retry.' {0,1}
+@attribute 'heuristic-Expand-To select.' {0,1}
+@attribute 'heuristic-Expand-To send.' {0,1}
+@attribute 'heuristic-Expand-To sound [something].' {0,1}
+@attribute 'heuristic-Expand-To store.' {0,1}
+@attribute 'heuristic-Expand-To support [something].' {0,1}
+@attribute 'heuristic-Expand-To use.' {0,1}
+@attribute 'heuristic-Expand-Tracks [something].' {0,1}
+@attribute 'heuristic-Expand-Trades [something].' {0,1}
+@attribute 'heuristic-Expand-Tries [something].' {0,1}
+@attribute heuristic-Expand-Tries. {0,1}
+@attribute 'heuristic-Expand-Unfolds [something].' {0,1}
+@attribute 'heuristic-Expand-Updates [something].' {0,1}
+@attribute 'heuristic-Expand-User creates.' {0,1}
+@attribute 'heuristic-Expand-Uses [something].' {0,1}
+@attribute heuristic-Expand-Uses. {0,1}
+@attribute 'heuristic-Expand-Value is none.' {0,1}
+@attribute 'heuristic-Expand-Value is.' {0,1}
+@attribute heuristic-Expand-Values. {0,1}
+@attribute 'heuristic-Expand-Views [something].' {0,1}
+@attribute 'heuristic-Expand-Views form.' {0,1}
+@attribute 'heuristic-Expand-Walks [something].' {0,1}
+@attribute 'heuristic-Expand-We retry.' {0,1}
+@attribute 'heuristic-Expand-Which can be changed.' {0,1}
+@attribute 'heuristic-Expand-Which means.' {0,1}
+@attribute 'heuristic-Expand-Will be inserted.' {0,1}
+@attribute 'heuristic-Expand-Will be normalized.' {0,1}
+@attribute 'heuristic-Expand-Will be returned.' {0,1}
+@attribute 'heuristic-Expand-Will be swopped.' {0,1}
+@attribute 'heuristic-Expand-Will be used.' {0,1}
+@attribute 'heuristic-Expand-Will call.' {0,1}
+@attribute 'heuristic-Expand-Will contents.' {0,1}
+@attribute 'heuristic-Expand-Will insert.' {0,1}
+@attribute 'heuristic-Expand-Will return [something].' {0,1}
+@attribute 'heuristic-Expand-Will wrap.' {0,1}
+@attribute 'heuristic-Expand-Wrapper is used.' {0,1}
+@attribute 'heuristic-Expand-Wraps [something].' {0,1}
+@attribute 'heuristic-Expand-You want.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] [verb].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] access.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] assign [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be added.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be being used.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be called.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be found.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be initialized.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be normalized.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be printed.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be replaced.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be set.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] be using.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] change.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] check.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] contain [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] contents.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] create [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] define.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] do.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] embed.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] find [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] get [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] implement.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] index.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] instantiate.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] is none.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] is path.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] is tensor.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] pass.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] perform [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] pull.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] raise [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] record.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] s contents.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] set [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] set.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] start.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] store [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] take.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] validate.' {0,1}
+@attribute 'heuristic-Expand-[auxiliary] view.' {0,1}
+@attribute 'heuristic-Expand-[something] #s.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] act.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] be and one.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] be.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] contain.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] not match.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] result.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] take.' {0,1}
+@attribute 'heuristic-Expand-[something] [auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Expand-[something] [verb]s.' {0,1}
+@attribute 'heuristic-Expand-[something] ^s [something].' {0,1}
+@attribute 'heuristic-Expand-[something] ^s.' {0,1}
+@attribute 'heuristic-Expand-[something] accepts [something].' {0,1}
+@attribute 'heuristic-Expand-[something] adds [something].' {0,1}
+@attribute 'heuristic-Expand-[something] adds.' {0,1}
+@attribute 'heuristic-Expand-[something] advances.' {0,1}
+@attribute 'heuristic-Expand-[something] algorithms.' {0,1}
+@attribute 'heuristic-Expand-[something] allows [something].' {0,1}
+@attribute 'heuristic-Expand-[something] allows.' {0,1}
+@attribute 'heuristic-Expand-[something] applies [something].' {0,1}
+@attribute 'heuristic-Expand-[something] applies.' {0,1}
+@attribute 'heuristic-Expand-[something] associates.' {0,1}
+@attribute 'heuristic-Expand-[something] attributes.' {0,1}
+@attribute 'heuristic-Expand-[something] attrs [something].' {0,1}
+@attribute 'heuristic-Expand-[something] backends.' {0,1}
+@attribute 'heuristic-Expand-[something] becomes.' {0,1}
+@attribute 'heuristic-Expand-[something] begins [something].' {0,1}
+@attribute 'heuristic-Expand-[something] builds [something].' {0,1}
+@attribute 'heuristic-Expand-[something] builds type.' {0,1}
+@attribute 'heuristic-Expand-[something] builds.' {0,1}
+@attribute 'heuristic-Expand-[something] calculates [something].' {0,1}
+@attribute 'heuristic-Expand-[something] calculates.' {0,1}
+@attribute 'heuristic-Expand-[something] calls [something].' {0,1}
+@attribute 'heuristic-Expand-[something] calls.' {0,1}
+@attribute 'heuristic-Expand-[something] can be.' {0,1}
+@attribute 'heuristic-Expand-[something] can make [something].' {0,1}
+@attribute 'heuristic-Expand-[something] changes [something].' {0,1}
+@attribute 'heuristic-Expand-[something] checks.' {0,1}
+@attribute 'heuristic-Expand-[something] classes.' {0,1}
+@attribute 'heuristic-Expand-[something] combines.' {0,1}
+@attribute 'heuristic-Expand-[something] computes sum.' {0,1}
+@attribute 'heuristic-Expand-[something] computes value.' {0,1}
+@attribute 'heuristic-Expand-[something] connections.' {0,1}
+@attribute 'heuristic-Expand-[something] connects.' {0,1}
+@attribute 'heuristic-Expand-[something] considers [something].' {0,1}
+@attribute 'heuristic-Expand-[something] contains [something].' {0,1}
+@attribute 'heuristic-Expand-[something] creates [something].' {0,1}
+@attribute 'heuristic-Expand-[something] creates.' {0,1}
+@attribute 'heuristic-Expand-[something] depends.' {0,1}
+@attribute 'heuristic-Expand-[something] describes.' {0,1}
+@attribute 'heuristic-Expand-[something] do not exist.' {0,1}
+@attribute 'heuristic-Expand-[something] does [something].' {0,1}
+@attribute 'heuristic-Expand-[something] does not match.' {0,1}
+@attribute 'heuristic-Expand-[something] dons t.' {0,1}
+@attribute 'heuristic-Expand-[something] dtypes array.' {0,1}
+@attribute 'heuristic-Expand-[something] encounters.' {0,1}
+@attribute 'heuristic-Expand-[something] ensures [something].' {0,1}
+@attribute 'heuristic-Expand-[something] executes.' {0,1}
+@attribute 'heuristic-Expand-[something] expects [something].' {0,1}
+@attribute 'heuristic-Expand-[something] fails.' {0,1}
+@attribute 'heuristic-Expand-[something] files [something].' {0,1}
+@attribute 'heuristic-Expand-[something] files database.' {0,1}
+@attribute 'heuristic-Expand-[something] finds [something].' {0,1}
+@attribute 'heuristic-Expand-[something] floats.' {0,1}
+@attribute 'heuristic-Expand-[something] fluids.' {0,1}
+@attribute 'heuristic-Expand-[something] forces.' {0,1}
+@attribute 'heuristic-Expand-[something] functions [something].' {0,1}
+@attribute 'heuristic-Expand-[something] functions set and self.' {0,1}
+@attribute 'heuristic-Expand-[something] functions.' {0,1}
+@attribute 'heuristic-Expand-[something] gets [something].' {0,1}
+@attribute 'heuristic-Expand-[something] gets to get and org.' {0,1}
+@attribute 'heuristic-Expand-[something] has.' {0,1}
+@attribute 'heuristic-Expand-[something] headers.' {0,1}
+@attribute 'heuristic-Expand-[something] hes.' {0,1}
+@attribute 'heuristic-Expand-[something] holds.' {0,1}
+@attribute 'heuristic-Expand-[something] hooks.' {0,1}
+@attribute 'heuristic-Expand-[something] ignores [something].' {0,1}
+@attribute 'heuristic-Expand-[something] implements [something].' {0,1}
+@attribute 'heuristic-Expand-[something] implements.' {0,1}
+@attribute 'heuristic-Expand-[something] includes.' {0,1}
+@attribute 'heuristic-Expand-[something] indexes.' {0,1}
+@attribute 'heuristic-Expand-[something] interfaces.' {0,1}
+@attribute 'heuristic-Expand-[something] ints.' {0,1}
+@attribute 'heuristic-Expand-[something] is dictionary.' {0,1}
+@attribute 'heuristic-Expand-[something] is error.' {0,1}
+@attribute 'heuristic-Expand-[something] is instance.' {0,1}
+@attribute 'heuristic-Expand-[something] is int.' {0,1}
+@attribute 'heuristic-Expand-[something] is integer.' {0,1}
+@attribute 'heuristic-Expand-[something] is list.' {0,1}
+@attribute 'heuristic-Expand-[something] is miss.' {0,1}
+@attribute 'heuristic-Expand-[something] is n.' {0,1}
+@attribute 'heuristic-Expand-[something] is none not.' {0,1}
+@attribute 'heuristic-Expand-[something] is not.' {0,1}
+@attribute 'heuristic-Expand-[something] is object.' {0,1}
+@attribute 'heuristic-Expand-[something] is passed.' {0,1}
+@attribute 'heuristic-Expand-[something] is size.' {0,1}
+@attribute 'heuristic-Expand-[something] is string.' {0,1}
+@attribute 'heuristic-Expand-[something] is subclass.' {0,1}
+@attribute 'heuristic-Expand-[something] is tensor.' {0,1}
+@attribute 'heuristic-Expand-[something] is what.' {0,1}
+@attribute 'heuristic-Expand-[something] is.' {0,1}
+@attribute 'heuristic-Expand-[something] leaves [something].' {0,1}
+@attribute 'heuristic-Expand-[something] likes.' {0,1}
+@attribute 'heuristic-Expand-[something] liquids.' {0,1}
+@attribute 'heuristic-Expand-[something] logits.' {0,1}
+@attribute 'heuristic-Expand-[something] logs [something].' {0,1}
+@attribute 'heuristic-Expand-[something] lrs.' {0,1}
+@attribute 'heuristic-Expand-[something] makes [something].' {0,1}
+@attribute 'heuristic-Expand-[something] manages.' {0,1}
+@attribute 'heuristic-Expand-[something] mathes.' {0,1}
+@attribute 'heuristic-Expand-[something] maxes.' {0,1}
+@attribute 'heuristic-Expand-[something] may change.' {0,1}
+@attribute 'heuristic-Expand-[something] means.' {0,1}
+@attribute 'heuristic-Expand-[something] meets [something].' {0,1}
+@attribute 'heuristic-Expand-[something] models.' {0,1}
+@attribute 'heuristic-Expand-[something] must be.' {0,1}
+@attribute 'heuristic-Expand-[something] names.' {0,1}
+@attribute 'heuristic-Expand-[something] needs.' {0,1}
+@attribute 'heuristic-Expand-[something] ns [something].' {0,1}
+@attribute 'heuristic-Expand-[something] ns.' {0,1}
+@attribute 'heuristic-Expand-[something] objects.' {0,1}
+@attribute 'heuristic-Expand-[something] observes [something].' {0,1}
+@attribute 'heuristic-Expand-[something] occurs.' {0,1}
+@attribute 'heuristic-Expand-[something] opens [something].' {0,1}
+@attribute 'heuristic-Expand-[something] pandas.' {0,1}
+@attribute 'heuristic-Expand-[something] params.' {0,1}
+@attribute 'heuristic-Expand-[something] parses.' {0,1}
+@attribute 'heuristic-Expand-[something] passes.' {0,1}
+@attribute 'heuristic-Expand-[something] pds [something].' {0,1}
+@attribute 'heuristic-Expand-[something] pds.' {0,1}
+@attribute 'heuristic-Expand-[something] potatos.' {0,1}
+@attribute 'heuristic-Expand-[something] prints.' {0,1}
+@attribute 'heuristic-Expand-[something] provides [something].' {0,1}
+@attribute 'heuristic-Expand-[something] provides.' {0,1}
+@attribute 'heuristic-Expand-[something] raises.' {0,1}
+@attribute 'heuristic-Expand-[something] reads.' {0,1}
+@attribute 'heuristic-Expand-[something] recommends.' {0,1}
+@attribute 'heuristic-Expand-[something] records [something].' {0,1}
+@attribute 'heuristic-Expand-[something] records.' {0,1}
+@attribute 'heuristic-Expand-[something] reduces.' {0,1}
+@attribute 'heuristic-Expand-[something] renders.' {0,1}
+@attribute 'heuristic-Expand-[something] replaces.' {0,1}
+@attribute 'heuristic-Expand-[something] represents [something].' {0,1}
+@attribute 'heuristic-Expand-[something] requests.' {0,1}
+@attribute 'heuristic-Expand-[something] requires [something].' {0,1}
+@attribute 'heuristic-Expand-[something] requires.' {0,1}
+@attribute 'heuristic-Expand-[something] restricts.' {0,1}
+@attribute 'heuristic-Expand-[something] results.' {0,1}
+@attribute 'heuristic-Expand-[something] returns [something].' {0,1}
+@attribute 'heuristic-Expand-[something] returns.' {0,1}
+@attribute 'heuristic-Expand-[something] runs.' {0,1}
+@attribute 'heuristic-Expand-[something] scans.' {0,1}
+@attribute 'heuristic-Expand-[something] sections.' {0,1}
+@attribute 'heuristic-Expand-[something] sees.' {0,1}
+@attribute 'heuristic-Expand-[something] sequences.' {0,1}
+@attribute 'heuristic-Expand-[something] ses.' {0,1}
+@attribute 'heuristic-Expand-[something] sets [something].' {0,1}
+@attribute 'heuristic-Expand-[something] sets.' {0,1}
+@attribute 'heuristic-Expand-[something] shows [something].' {0,1}
+@attribute 'heuristic-Expand-[something] skips.' {0,1}
+@attribute 'heuristic-Expand-[something] specifies.' {0,1}
+@attribute 'heuristic-Expand-[something] starts [something].' {0,1}
+@attribute 'heuristic-Expand-[something] stores.' {0,1}
+@attribute 'heuristic-Expand-[something] supports.' {0,1}
+@attribute 'heuristic-Expand-[something] takes advantage.' {0,1}
+@attribute 'heuristic-Expand-[something] tensors [something].' {0,1}
+@attribute 'heuristic-Expand-[something] tests.' {0,1}
+@attribute 'heuristic-Expand-[something] tracks.' {0,1}
+@attribute 'heuristic-Expand-[something] ts.' {0,1}
+@attribute 'heuristic-Expand-[something] tuples [something].' {0,1}
+@attribute 'heuristic-Expand-[something] unfolds to unfold and ^.' {0,1}
+@attribute 'heuristic-Expand-[something] urls.' {0,1}
+@attribute 'heuristic-Expand-[something] uses [something].' {0,1}
+@attribute 'heuristic-Expand-[something] uses.' {0,1}
+@attribute 'heuristic-Expand-[something] utils [something].' {0,1}
+@attribute 'heuristic-Expand-[something] validates.' {0,1}
+@attribute 'heuristic-Expand-[something] values.' {0,1}
+@attribute 'heuristic-Expand-[something] vectors.' {0,1}
+@attribute 'heuristic-Expand-[something] verifies.' {0,1}
+@attribute 'heuristic-Expand-[something] views.' {0,1}
+@attribute 'heuristic-Expand-[something] will be observer.' {0,1}
+@attribute 'heuristic-Expand-[something] will be.' {0,1}
+@attribute 'heuristic-Expand-[something] will create [something].' {0,1}
+@attribute 'heuristic-Expand-[something] will have [something].' {0,1}
+@attribute 'heuristic-Expand-[something] will sleep.' {0,1}
+@attribute 'heuristic-Expand-[something] wins.' {0,1}
+@attribute 'heuristic-Expand-[something] wraps [something].' {0,1}
+@attribute 'heuristic-Expand-[verb]s [something] ^.' {0,1}
+@attribute 'heuristic-Expand-[verb]s [something] hash use.' {0,1}
+@attribute 'heuristic-Expand-[verb]s [something] mark.' {0,1}
+@attribute 'heuristic-Expand-[verb]s algorithm use.' {0,1}
+@attribute 'heuristic-Expand-[verb]s specify.' {0,1}
+@attribute 'heuristic-Expand-[verb]s use.' {0,1}
+@attribute heuristic-Expand-[verb]s. {0,1}
+@attribute 'heuristic-Expand-^ adds.' {0,1}
+@attribute 'heuristic-Expand-^ folds.' {0,1}
+@attribute 'heuristic-Expand-^ gets to evil.' {0,1}
+@attribute 'heuristic-Expand-^ gets to get.' {0,1}
+@attribute 'heuristic-Expand-^ is get to none.' {0,1}
+@attribute 'heuristic-Expand-^ walks.' {0,1}
+@attribute 'heuristic-Expand-^s [something].' {0,1}
+@attribute heuristic-Parameters- {0,1}
+@attribute 'heuristic-Parameters-#s [something].' {0,1}
+@attribute 'heuristic-Parameters-Accepts [something].' {0,1}
+@attribute 'heuristic-Parameters-Adds [something].' {0,1}
+@attribute 'heuristic-Parameters-Adds message.' {0,1}
+@attribute heuristic-Parameters-Adds. {0,1}
+@attribute 'heuristic-Parameters-Aids [something].' {0,1}
+@attribute 'heuristic-Parameters-Allows [something].' {0,1}
+@attribute heuristic-Parameters-Allows. {0,1}
+@attribute 'heuristic-Parameters-Appends [something].' {0,1}
+@attribute 'heuristic-Parameters-Assigns [something].' {0,1}
+@attribute 'heuristic-Parameters-Attributes [something].' {0,1}
+@attribute 'heuristic-Parameters-Attrs [something].' {0,1}
+@attribute 'heuristic-Parameters-Audio is normalized.' {0,1}
+@attribute 'heuristic-Parameters-Avoids [something].' {0,1}
+@attribute 'heuristic-Parameters-Bool orders.' {0,1}
+@attribute heuristic-Parameters-Brews. {0,1}
+@attribute 'heuristic-Parameters-Calls op.' {0,1}
+@attribute heuristic-Parameters-Calls. {0,1}
+@attribute 'heuristic-Parameters-Can [verb].' {0,1}
+@attribute 'heuristic-Parameters-Can be described.' {0,1}
+@attribute 'heuristic-Parameters-Can be read.' {0,1}
+@attribute 'heuristic-Parameters-Can be scaled.' {0,1}
+@attribute 'heuristic-Parameters-Can be set.' {0,1}
+@attribute 'heuristic-Parameters-Can be used.' {0,1}
+@attribute 'heuristic-Parameters-Can find.' {0,1}
+@attribute 'heuristic-Parameters-Can not be read.' {0,1}
+@attribute 'heuristic-Parameters-Categoricalindexes a.' {0,1}
+@attribute 'heuristic-Parameters-Category is given.' {0,1}
+@attribute 'heuristic-Parameters-Changes [something].' {0,1}
+@attribute 'heuristic-Parameters-Cmake builds.' {0,1}
+@attribute 'heuristic-Parameters-Color ^s.' {0,1}
+@attribute 'heuristic-Parameters-Combines [something].' {0,1}
+@attribute 'heuristic-Parameters-Computes [something].' {0,1}
+@attribute 'heuristic-Parameters-Configs [something].' {0,1}
+@attribute 'heuristic-Parameters-Considers [something].' {0,1}
+@attribute heuristic-Parameters-Considers. {0,1}
+@attribute 'heuristic-Parameters-Constructs [something].' {0,1}
+@attribute 'heuristic-Parameters-Contains [something].' {0,1}
+@attribute 'heuristic-Parameters-Controls [something].' {0,1}
+@attribute 'heuristic-Parameters-Converts [something].' {0,1}
+@attribute 'heuristic-Parameters-Could use.' {0,1}
+@attribute 'heuristic-Parameters-Creates array.' {0,1}
+@attribute 'heuristic-Parameters-Creates object.' {0,1}
+@attribute heuristic-Parameters-Creates. {0,1}
+@attribute 'heuristic-Parameters-Dataset contains.' {0,1}
+@attribute 'heuristic-Parameters-Datum is.' {0,1}
+@attribute 'heuristic-Parameters-Default is.' {0,1}
+@attribute 'heuristic-Parameters-Defaults [something].' {0,1}
+@attribute heuristic-Parameters-Defaults. {0,1}
+@attribute 'heuristic-Parameters-Defines [something].' {0,1}
+@attribute 'heuristic-Parameters-Del vcards.' {0,1}
+@attribute 'heuristic-Parameters-Displays [something].' {0,1}
+@attribute 'heuristic-Parameters-Do not exist.' {0,1}
+@attribute 'heuristic-Parameters-Documents [something].' {0,1}
+@attribute 'heuristic-Parameters-Does [something].' {0,1}
+@attribute 'heuristic-Parameters-Does not [verb] [something].' {0,1}
+@attribute 'heuristic-Parameters-Dons [something].' {0,1}
+@attribute 'heuristic-Parameters-Embeds video.' {0,1}
+@attribute 'heuristic-Parameters-Empties [something].' {0,1}
+@attribute 'heuristic-Parameters-Encapsulates [something].' {0,1}
+@attribute 'heuristic-Parameters-Ensures [something].' {0,1}
+@attribute heuristic-Parameters-Ensures. {0,1}
+@attribute 'heuristic-Parameters-Error is raised.' {0,1}
+@attribute 'heuristic-Parameters-Error is.' {0,1}
+@attribute 'heuristic-Parameters-Error occurs.' {0,1}
+@attribute 'heuristic-Parameters-Executes [something].' {0,1}
+@attribute 'heuristic-Parameters-Expression is found.' {0,1}
+@attribute 'heuristic-Parameters-Files [something].' {0,1}
+@attribute heuristic-Parameters-Files. {0,1}
+@attribute 'heuristic-Parameters-Finds [something].' {0,1}
+@attribute 'heuristic-Parameters-Folds size.' {0,1}
+@attribute 'heuristic-Parameters-Generates [something].' {0,1}
+@attribute 'heuristic-Parameters-Gets com.' {0,1}
+@attribute 'heuristic-Parameters-Gets internal.' {0,1}
+@attribute 'heuristic-Parameters-Gives [something].' {0,1}
+@attribute 'heuristic-Parameters-Gives to [something] [something].' {0,1}
+@attribute 'heuristic-Parameters-Has [something].' {0,1}
+@attribute 'heuristic-Parameters-Has feature.' {0,1}
+@attribute heuristic-Parameters-Has. {0,1}
+@attribute 'heuristic-Parameters-Have create.' {0,1}
+@attribute 'heuristic-Parameters-Hides [something].' {0,1}
+@attribute 'heuristic-Parameters-I ns.' {0,1}
+@attribute 'heuristic-Parameters-Implements [something].' {0,1}
+@attribute 'heuristic-Parameters-Includes [something].' {0,1}
+@attribute 'heuristic-Parameters-Indicates [something].' {0,1}
+@attribute heuristic-Parameters-Indicates. {0,1}
+@attribute 'heuristic-Parameters-Instantiates [something].' {0,1}
+@attribute heuristic-Parameters-Intends. {0,1}
+@attribute 'heuristic-Parameters-Is added.' {0,1}
+@attribute 'heuristic-Parameters-Is allowed.' {0,1}
+@attribute 'heuristic-Parameters-Is based.' {0,1}
+@attribute 'heuristic-Parameters-Is bound.' {0,1}
+@attribute 'heuristic-Parameters-Is called.' {0,1}
+@attribute 'heuristic-Parameters-Is cleaned.' {0,1}
+@attribute 'heuristic-Parameters-Is considered.' {0,1}
+@attribute 'heuristic-Parameters-Is converted.' {0,1}
+@attribute 'heuristic-Parameters-Is created.' {0,1}
+@attribute 'heuristic-Parameters-Is delimited.' {0,1}
+@attribute 'heuristic-Parameters-Is disabled.' {0,1}
+@attribute 'heuristic-Parameters-Is displayed.' {0,1}
+@attribute 'heuristic-Parameters-Is done.' {0,1}
+@attribute 'heuristic-Parameters-Is enabled.' {0,1}
+@attribute 'heuristic-Parameters-Is executed.' {0,1}
+@attribute 'heuristic-Parameters-Is found.' {0,1}
+@attribute 'heuristic-Parameters-Is kept.' {0,1}
+@attribute 'heuristic-Parameters-Is loaded.' {0,1}
+@attribute 'heuristic-Parameters-Is looked.' {0,1}
+@attribute 'heuristic-Parameters-Is needed.' {0,1}
+@attribute 'heuristic-Parameters-Is not allowed.' {0,1}
+@attribute 'heuristic-Parameters-Is not shown.' {0,1}
+@attribute 'heuristic-Parameters-Is passed.' {0,1}
+@attribute 'heuristic-Parameters-Is provided.' {0,1}
+@attribute 'heuristic-Parameters-Is rendered.' {0,1}
+@attribute 'heuristic-Parameters-Is required.' {0,1}
+@attribute 'heuristic-Parameters-Is resolved.' {0,1}
+@attribute 'heuristic-Parameters-Is returned.' {0,1}
+@attribute 'heuristic-Parameters-Is sent.' {0,1}
+@attribute 'heuristic-Parameters-Is set.' {0,1}
+@attribute 'heuristic-Parameters-Is shown.' {0,1}
+@attribute 'heuristic-Parameters-Is specified.' {0,1}
+@attribute 'heuristic-Parameters-Is stored.' {0,1}
+@attribute 'heuristic-Parameters-Is supported.' {0,1}
+@attribute 'heuristic-Parameters-Is treated.' {0,1}
+@attribute 'heuristic-Parameters-Is used.' {0,1}
+@attribute heuristic-Parameters-Is. {0,1}
+@attribute 'heuristic-Parameters-It [auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Parameters-It has [something].' {0,1}
+@attribute 'heuristic-Parameters-It shows [something].' {0,1}
+@attribute 'heuristic-Parameters-It will be treated.' {0,1}
+@attribute 'heuristic-Parameters-Item is.' {0,1}
+@attribute 'heuristic-Parameters-Iterates [something].' {0,1}
+@attribute 'heuristic-Parameters-Keeps [something].' {0,1}
+@attribute 'heuristic-Parameters-Limits [something].' {0,1}
+@attribute 'heuristic-Parameters-Load templates.' {0,1}
+@attribute 'heuristic-Parameters-Loss is averaged.' {0,1}
+@attribute 'heuristic-Parameters-Loss is summed.' {0,1}
+@attribute 'heuristic-Parameters-Maintains value.' {0,1}
+@attribute 'heuristic-Parameters-Makes [something].' {0,1}
+@attribute heuristic-Parameters-Makes. {0,1}
+@attribute 'heuristic-Parameters-Manages [something].' {0,1}
+@attribute 'heuristic-Parameters-Marks end.' {0,1}
+@attribute 'heuristic-Parameters-Matches [something].' {0,1}
+@attribute 'heuristic-Parameters-Math ns.' {0,1}
+@attribute 'heuristic-Parameters-May modify.' {0,1}
+@attribute 'heuristic-Parameters-Means [something].' {0,1}
+@attribute 'heuristic-Parameters-Methes [something].' {0,1}
+@attribute 'heuristic-Parameters-Method is called.' {0,1}
+@attribute 'heuristic-Parameters-Method will be executed.' {0,1}
+@attribute 'heuristic-Parameters-Module modules.' {0,1}
+@attribute 'heuristic-Parameters-Module tracks.' {0,1}
+@attribute 'heuristic-Parameters-Must have [something].' {0,1}
+@attribute 'heuristic-Parameters-N ls.' {0,1}
+@attribute heuristic-Parameters-Names. {0,1}
+@attribute 'heuristic-Parameters-Needs to subclass.' {0,1}
+@attribute heuristic-Parameters-Needs. {0,1}
+@attribute 'heuristic-Parameters-Nns [something].' {0,1}
+@attribute heuristic-Parameters-Normalizes. {0,1}
+@attribute 'heuristic-Parameters-Ns [something].' {0,1}
+@attribute 'heuristic-Parameters-Number is.' {0,1}
+@attribute 'heuristic-Parameters-Object sets [something].' {0,1}
+@attribute heuristic-Parameters-Objects. {0,1}
+@attribute 'heuristic-Parameters-Offset is required.' {0,1}
+@attribute 'heuristic-Parameters-Ops [something].' {0,1}
+@attribute 'heuristic-Parameters-Optionals [something].' {0,1}
+@attribute heuristic-Parameters-Orders. {0,1}
+@attribute 'heuristic-Parameters-Output is.' {0,1}
+@attribute 'heuristic-Parameters-Overloads [something].' {0,1}
+@attribute 'heuristic-Parameters-Overrides default.' {0,1}
+@attribute 'heuristic-Parameters-Params [something].' {0,1}
+@attribute 'heuristic-Parameters-Params to allow.' {0,1}
+@attribute 'heuristic-Parameters-Parses [something].' {0,1}
+@attribute 'heuristic-Parameters-Passes [something].' {0,1}
+@attribute heuristic-Parameters-Passes. {0,1}
+@attribute 'heuristic-Parameters-Performs [something].' {0,1}
+@attribute 'heuristic-Parameters-Permission limits.' {0,1}
+@attribute 'heuristic-Parameters-Pms [something].' {0,1}
+@attribute 'heuristic-Parameters-Prefix is defined.' {0,1}
+@attribute 'heuristic-Parameters-Prevents [something].' {0,1}
+@attribute 'heuristic-Parameters-Prints [something].' {0,1}
+@attribute 'heuristic-Parameters-Produces [something].' {0,1}
+@attribute 'heuristic-Parameters-Provides [something].' {0,1}
+@attribute 'heuristic-Parameters-Raises [something].' {0,1}
+@attribute 'heuristic-Parameters-Reads [something].' {0,1}
+@attribute heuristic-Parameters-Reads. {0,1}
+@attribute 'heuristic-Parameters-Reduces [something].' {0,1}
+@attribute heuristic-Parameters-Reduces. {0,1}
+@attribute 'heuristic-Parameters-Reduction is none.' {0,1}
+@attribute 'heuristic-Parameters-Rejects [something].' {0,1}
+@attribute 'heuristic-Parameters-Removes [something].' {0,1}
+@attribute 'heuristic-Parameters-Replaces [something].' {0,1}
+@attribute 'heuristic-Parameters-Requires [something].' {0,1}
+@attribute heuristic-Parameters-Respects. {0,1}
+@attribute 'heuristic-Parameters-Results [something].' {0,1}
+@attribute 'heuristic-Parameters-Retries [something].' {0,1}
+@attribute 'heuristic-Parameters-Returns [something].' {0,1}
+@attribute 'heuristic-Parameters-Runs [something].' {0,1}
+@attribute 'heuristic-Parameters-S ^s.' {0,1}
+@attribute 'heuristic-Parameters-S false.' {0,1}
+@attribute 'heuristic-Parameters-S true.' {0,1}
+@attribute heuristic-Parameters-Sees. {0,1}
+@attribute 'heuristic-Parameters-Self functions.' {0,1}
+@attribute 'heuristic-Parameters-Sets [something].' {0,1}
+@attribute 'heuristic-Parameters-Sets header.' {0,1}
+@attribute 'heuristic-Parameters-Sets this.' {0,1}
+@attribute heuristic-Parameters-Sets. {0,1}
+@attribute heuristic-Parameters-Sevs. {0,1}
+@attribute 'heuristic-Parameters-Should be used.' {0,1}
+@attribute 'heuristic-Parameters-Skips [something].' {0,1}
+@attribute 'heuristic-Parameters-Specifies [something].' {0,1}
+@attribute 'heuristic-Parameters-Stores [something].' {0,1}
+@attribute 'heuristic-Parameters-Subclass ns.' {0,1}
+@attribute 'heuristic-Parameters-Sum computes.' {0,1}
+@attribute 'heuristic-Parameters-Sums [something].' {0,1}
+@attribute 'heuristic-Parameters-Takes [something].' {0,1}
+@attribute 'heuristic-Parameters-Tensors [something].' {0,1}
+@attribute 'heuristic-Parameters-Tests [something].' {0,1}
+@attribute 'heuristic-Parameters-That can be used.' {0,1}
+@attribute 'heuristic-Parameters-That creates.' {0,1}
+@attribute 'heuristic-Parameters-That has.' {0,1}
+@attribute 'heuristic-Parameters-That is passed.' {0,1}
+@attribute 'heuristic-Parameters-The builds.' {0,1}
+@attribute 'heuristic-Parameters-They are.' {0,1}
+@attribute 'heuristic-Parameters-This can make [something].' {0,1}
+@attribute 'heuristic-Parameters-This is intended.' {0,1}
+@attribute 'heuristic-Parameters-This is set.' {0,1}
+@attribute 'heuristic-Parameters-This is used.' {0,1}
+@attribute 'heuristic-Parameters-This is.' {0,1}
+@attribute 'heuristic-Parameters-This means.' {0,1}
+@attribute 'heuristic-Parameters-This returns.' {0,1}
+@attribute 'heuristic-Parameters-This scales [something].' {0,1}
+@attribute 'heuristic-Parameters-To allow.' {0,1}
+@attribute 'heuristic-Parameters-To apply.' {0,1}
+@attribute 'heuristic-Parameters-To attach.' {0,1}
+@attribute 'heuristic-Parameters-To be added.' {0,1}
+@attribute 'heuristic-Parameters-To be tensor.' {0,1}
+@attribute 'heuristic-Parameters-To be.' {0,1}
+@attribute 'heuristic-Parameters-To chunk.' {0,1}
+@attribute 'heuristic-Parameters-To compute.' {0,1}
+@attribute 'heuristic-Parameters-To construct [something].' {0,1}
+@attribute 'heuristic-Parameters-To control [something].' {0,1}
+@attribute 'heuristic-Parameters-To decorate.' {0,1}
+@attribute 'heuristic-Parameters-To do.' {0,1}
+@attribute 'heuristic-Parameters-To find.' {0,1}
+@attribute 'heuristic-Parameters-To get.' {0,1}
+@attribute 'heuristic-Parameters-To globl.' {0,1}
+@attribute 'heuristic-Parameters-To have [something].' {0,1}
+@attribute 'heuristic-Parameters-To hold.' {0,1}
+@attribute 'heuristic-Parameters-To indicate.' {0,1}
+@attribute 'heuristic-Parameters-To insert.' {0,1}
+@attribute 'heuristic-Parameters-To intervalindex.' {0,1}
+@attribute 'heuristic-Parameters-To load [something].' {0,1}
+@attribute 'heuristic-Parameters-To maintain [something].' {0,1}
+@attribute 'heuristic-Parameters-To match [something].' {0,1}
+@attribute 'heuristic-Parameters-To pack.' {0,1}
+@attribute 'heuristic-Parameters-To pass.' {0,1}
+@attribute 'heuristic-Parameters-To produce [something].' {0,1}
+@attribute 'heuristic-Parameters-To provide [something].' {0,1}
+@attribute 'heuristic-Parameters-To raise.' {0,1}
+@attribute 'heuristic-Parameters-To read.' {0,1}
+@attribute 'heuristic-Parameters-To reduce [something].' {0,1}
+@attribute 'heuristic-Parameters-To remove [something].' {0,1}
+@attribute 'heuristic-Parameters-To respect.' {0,1}
+@attribute 'heuristic-Parameters-To retry.' {0,1}
+@attribute 'heuristic-Parameters-To select.' {0,1}
+@attribute 'heuristic-Parameters-To send.' {0,1}
+@attribute 'heuristic-Parameters-To set.' {0,1}
+@attribute 'heuristic-Parameters-To sound [something].' {0,1}
+@attribute 'heuristic-Parameters-To store [something].' {0,1}
+@attribute 'heuristic-Parameters-To store.' {0,1}
+@attribute 'heuristic-Parameters-To supply.' {0,1}
+@attribute 'heuristic-Parameters-To support [something].' {0,1}
+@attribute 'heuristic-Parameters-To use.' {0,1}
+@attribute 'heuristic-Parameters-Tracks [something].' {0,1}
+@attribute 'heuristic-Parameters-Transaction is.' {0,1}
+@attribute 'heuristic-Parameters-Tries [something].' {0,1}
+@attribute heuristic-Parameters-Tries. {0,1}
+@attribute 'heuristic-Parameters-Unfolds [something].' {0,1}
+@attribute 'heuristic-Parameters-Updates [something].' {0,1}
+@attribute 'heuristic-Parameters-User creates.' {0,1}
+@attribute 'heuristic-Parameters-Uses [something].' {0,1}
+@attribute 'heuristic-Parameters-Uses class.' {0,1}
+@attribute heuristic-Parameters-Uses. {0,1}
+@attribute 'heuristic-Parameters-Value is string.' {0,1}
+@attribute 'heuristic-Parameters-Value is.' {0,1}
+@attribute heuristic-Parameters-Values. {0,1}
+@attribute 'heuristic-Parameters-Views form.' {0,1}
+@attribute 'heuristic-Parameters-We retry.' {0,1}
+@attribute 'heuristic-Parameters-Which can be changed.' {0,1}
+@attribute 'heuristic-Parameters-Which means.' {0,1}
+@attribute 'heuristic-Parameters-Will [verb].' {0,1}
+@attribute 'heuristic-Parameters-Will be applied.' {0,1}
+@attribute 'heuristic-Parameters-Will be infered.' {0,1}
+@attribute 'heuristic-Parameters-Will be normalized.' {0,1}
+@attribute 'heuristic-Parameters-Will be printed.' {0,1}
+@attribute 'heuristic-Parameters-Will be returned.' {0,1}
+@attribute 'heuristic-Parameters-Will be used.' {0,1}
+@attribute 'heuristic-Parameters-Will call.' {0,1}
+@attribute 'heuristic-Parameters-Will execute.' {0,1}
+@attribute 'heuristic-Parameters-Will insert.' {0,1}
+@attribute 'heuristic-Parameters-Will return [something].' {0,1}
+@attribute 'heuristic-Parameters-Will use.' {0,1}
+@attribute 'heuristic-Parameters-Wrapper is used.' {0,1}
+@attribute 'heuristic-Parameters-You want.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] [verb].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] access.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be being used.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be called.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be found.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be inserted.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be normalized.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be provided.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be set.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] be using.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] change.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] check.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] contain.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] contents.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] copy.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] define.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] describe.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] disable.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] embed.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] find [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] get [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] index.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] insert.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] instantiate.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] is tensor.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] make.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] mark.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] not use.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] pull.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] raise [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] set [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] set.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] specify.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] start.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] take.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] validate.' {0,1}
+@attribute 'heuristic-Parameters-[auxiliary] view.' {0,1}
+@attribute 'heuristic-Parameters-[something] #s.' {0,1}
+@attribute 'heuristic-Parameters-[something] [auxiliary] act.' {0,1}
+@attribute 'heuristic-Parameters-[something] [auxiliary] be.' {0,1}
+@attribute 'heuristic-Parameters-[something] [auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] [auxiliary] result.' {0,1}
+@attribute 'heuristic-Parameters-[something] [auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] ^s [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] ^s.' {0,1}
+@attribute 'heuristic-Parameters-[something] accepts [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] acts.' {0,1}
+@attribute 'heuristic-Parameters-[something] adds [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] adds.' {0,1}
+@attribute 'heuristic-Parameters-[something] advances.' {0,1}
+@attribute 'heuristic-Parameters-[something] allows [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] allows.' {0,1}
+@attribute 'heuristic-Parameters-[something] applies [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] applies.' {0,1}
+@attribute 'heuristic-Parameters-[something] attributes.' {0,1}
+@attribute 'heuristic-Parameters-[something] attrs [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] backends.' {0,1}
+@attribute 'heuristic-Parameters-[something] bars.' {0,1}
+@attribute 'heuristic-Parameters-[something] begins [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] builds [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] builds.' {0,1}
+@attribute 'heuristic-Parameters-[something] calculates [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] calls [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] calls.' {0,1}
+@attribute 'heuristic-Parameters-[something] can do [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] changes [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] changes.' {0,1}
+@attribute 'heuristic-Parameters-[something] checks.' {0,1}
+@attribute 'heuristic-Parameters-[something] classes.' {0,1}
+@attribute 'heuristic-Parameters-[something] codes.' {0,1}
+@attribute 'heuristic-Parameters-[something] computes sum.' {0,1}
+@attribute 'heuristic-Parameters-[something] computes value.' {0,1}
+@attribute 'heuristic-Parameters-[something] computes.' {0,1}
+@attribute 'heuristic-Parameters-[something] connections.' {0,1}
+@attribute 'heuristic-Parameters-[something] connects.' {0,1}
+@attribute 'heuristic-Parameters-[something] considers [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] contains [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] controls.' {0,1}
+@attribute 'heuristic-Parameters-[something] copies.' {0,1}
+@attribute 'heuristic-Parameters-[something] creates [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] creates.' {0,1}
+@attribute 'heuristic-Parameters-[something] defaults [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] defaults.' {0,1}
+@attribute 'heuristic-Parameters-[something] defines [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] depends.' {0,1}
+@attribute 'heuristic-Parameters-[something] describes.' {0,1}
+@attribute 'heuristic-Parameters-[something] do not exist.' {0,1}
+@attribute 'heuristic-Parameters-[something] does [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] does not do.' {0,1}
+@attribute 'heuristic-Parameters-[something] does not match.' {0,1}
+@attribute 'heuristic-Parameters-[something] dons t.' {0,1}
+@attribute 'heuristic-Parameters-[something] dtypes array.' {0,1}
+@attribute 'heuristic-Parameters-[something] elements.' {0,1}
+@attribute 'heuristic-Parameters-[something] encounters.' {0,1}
+@attribute 'heuristic-Parameters-[something] ensures [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] executes.' {0,1}
+@attribute 'heuristic-Parameters-[something] expects [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] fails.' {0,1}
+@attribute 'heuristic-Parameters-[something] features.' {0,1}
+@attribute 'heuristic-Parameters-[something] files [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] files database.' {0,1}
+@attribute 'heuristic-Parameters-[something] finds [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] floats.' {0,1}
+@attribute 'heuristic-Parameters-[something] fluids [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] fluids.' {0,1}
+@attribute 'heuristic-Parameters-[something] forces.' {0,1}
+@attribute 'heuristic-Parameters-[something] functions set and self.' {0,1}
+@attribute 'heuristic-Parameters-[something] functions.' {0,1}
+@attribute 'heuristic-Parameters-[something] gets [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] gets to get and org.' {0,1}
+@attribute 'heuristic-Parameters-[something] handles.' {0,1}
+@attribute 'heuristic-Parameters-[something] has.' {0,1}
+@attribute 'heuristic-Parameters-[something] headers.' {0,1}
+@attribute 'heuristic-Parameters-[something] holds.' {0,1}
+@attribute 'heuristic-Parameters-[something] hooks.' {0,1}
+@attribute 'heuristic-Parameters-[something] ignores [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] implements [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] includes [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] indexes.' {0,1}
+@attribute 'heuristic-Parameters-[something] integers.' {0,1}
+@attribute 'heuristic-Parameters-[something] interfaces.' {0,1}
+@attribute 'heuristic-Parameters-[something] ints.' {0,1}
+@attribute 'heuristic-Parameters-[something] is dictionary.' {0,1}
+@attribute 'heuristic-Parameters-[something] is error.' {0,1}
+@attribute 'heuristic-Parameters-[something] is given.' {0,1}
+@attribute 'heuristic-Parameters-[something] is instance.' {0,1}
+@attribute 'heuristic-Parameters-[something] is int.' {0,1}
+@attribute 'heuristic-Parameters-[something] is none not.' {0,1}
+@attribute 'heuristic-Parameters-[something] is not.' {0,1}
+@attribute 'heuristic-Parameters-[something] is object.' {0,1}
+@attribute 'heuristic-Parameters-[something] is passed.' {0,1}
+@attribute 'heuristic-Parameters-[something] is subclass.' {0,1}
+@attribute 'heuristic-Parameters-[something] is tensor.' {0,1}
+@attribute 'heuristic-Parameters-[something] is vector.' {0,1}
+@attribute 'heuristic-Parameters-[something] is what.' {0,1}
+@attribute 'heuristic-Parameters-[something] is.' {0,1}
+@attribute 'heuristic-Parameters-[something] leaves [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] likes [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] liquids.' {0,1}
+@attribute 'heuristic-Parameters-[something] logs.' {0,1}
+@attribute 'heuristic-Parameters-[something] lrs.' {0,1}
+@attribute 'heuristic-Parameters-[something] makes.' {0,1}
+@attribute 'heuristic-Parameters-[something] manages.' {0,1}
+@attribute 'heuristic-Parameters-[something] maxes.' {0,1}
+@attribute 'heuristic-Parameters-[something] may change.' {0,1}
+@attribute 'heuristic-Parameters-[something] means [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] means.' {0,1}
+@attribute 'heuristic-Parameters-[something] meets [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] models.' {0,1}
+@attribute 'heuristic-Parameters-[something] names.' {0,1}
+@attribute 'heuristic-Parameters-[something] needs.' {0,1}
+@attribute 'heuristic-Parameters-[something] nps [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] ns [something] and error ns.' {0,1}
+@attribute 'heuristic-Parameters-[something] ns.' {0,1}
+@attribute 'heuristic-Parameters-[something] objects.' {0,1}
+@attribute 'heuristic-Parameters-[something] occurs.' {0,1}
+@attribute 'heuristic-Parameters-[something] opens [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] outputs.' {0,1}
+@attribute 'heuristic-Parameters-[something] pandas.' {0,1}
+@attribute 'heuristic-Parameters-[something] params.' {0,1}
+@attribute 'heuristic-Parameters-[something] parses.' {0,1}
+@attribute 'heuristic-Parameters-[something] passes.' {0,1}
+@attribute 'heuristic-Parameters-[something] pds [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] pds.' {0,1}
+@attribute 'heuristic-Parameters-[something] performs.' {0,1}
+@attribute 'heuristic-Parameters-[something] pms.' {0,1}
+@attribute 'heuristic-Parameters-[something] potatos.' {0,1}
+@attribute 'heuristic-Parameters-[something] prints.' {0,1}
+@attribute 'heuristic-Parameters-[something] prods.' {0,1}
+@attribute 'heuristic-Parameters-[something] provides [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] raises.' {0,1}
+@attribute 'heuristic-Parameters-[something] reads.' {0,1}
+@attribute 'heuristic-Parameters-[something] records [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] records.' {0,1}
+@attribute 'heuristic-Parameters-[something] reduces.' {0,1}
+@attribute 'heuristic-Parameters-[something] removes.' {0,1}
+@attribute 'heuristic-Parameters-[something] renders.' {0,1}
+@attribute 'heuristic-Parameters-[something] replaces.' {0,1}
+@attribute 'heuristic-Parameters-[something] represents [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] requires [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] requires.' {0,1}
+@attribute 'heuristic-Parameters-[something] restricts.' {0,1}
+@attribute 'heuristic-Parameters-[something] results.' {0,1}
+@attribute 'heuristic-Parameters-[something] retains [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] returns [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] returns.' {0,1}
+@attribute 'heuristic-Parameters-[something] runs.' {0,1}
+@attribute 'heuristic-Parameters-[something] scalars.' {0,1}
+@attribute 'heuristic-Parameters-[something] scales [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] sees [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] sequences.' {0,1}
+@attribute 'heuristic-Parameters-[something] ses.' {0,1}
+@attribute 'heuristic-Parameters-[something] sets [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] sets.' {0,1}
+@attribute 'heuristic-Parameters-[something] sizes.' {0,1}
+@attribute 'heuristic-Parameters-[something] skips.' {0,1}
+@attribute 'heuristic-Parameters-[something] specifies [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] starts [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] starts.' {0,1}
+@attribute 'heuristic-Parameters-[something] stores.' {0,1}
+@attribute 'heuristic-Parameters-[something] takes advantage.' {0,1}
+@attribute 'heuristic-Parameters-[something] tensors [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] tests.' {0,1}
+@attribute 'heuristic-Parameters-[something] tries.' {0,1}
+@attribute 'heuristic-Parameters-[something] tuples [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] unfolds to unfold and ^.' {0,1}
+@attribute 'heuristic-Parameters-[something] urls.' {0,1}
+@attribute 'heuristic-Parameters-[something] uses [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] uses.' {0,1}
+@attribute 'heuristic-Parameters-[something] utils [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] validates.' {0,1}
+@attribute 'heuristic-Parameters-[something] values.' {0,1}
+@attribute 'heuristic-Parameters-[something] verifies.' {0,1}
+@attribute 'heuristic-Parameters-[something] views.' {0,1}
+@attribute 'heuristic-Parameters-[something] will be.' {0,1}
+@attribute 'heuristic-Parameters-[something] will create [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] will have.' {0,1}
+@attribute 'heuristic-Parameters-[something] will result.' {0,1}
+@attribute 'heuristic-Parameters-[something] will return [something].' {0,1}
+@attribute 'heuristic-Parameters-[something] will sleep.' {0,1}
+@attribute 'heuristic-Parameters-[something] wins.' {0,1}
+@attribute 'heuristic-Parameters-[something] works.' {0,1}
+@attribute 'heuristic-Parameters-[something] wraps.' {0,1}
+@attribute 'heuristic-Parameters-[something] zeros.' {0,1}
+@attribute 'heuristic-Parameters-[verb]s [something] ^.' {0,1}
+@attribute 'heuristic-Parameters-[verb]s [something] hash use.' {0,1}
+@attribute 'heuristic-Parameters-[verb]s [something] mark.' {0,1}
+@attribute 'heuristic-Parameters-[verb]s algorithm use.' {0,1}
+@attribute 'heuristic-Parameters-[verb]s use.' {0,1}
+@attribute heuristic-Parameters-[verb]s. {0,1}
+@attribute 'heuristic-Parameters-^ adds.' {0,1}
+@attribute 'heuristic-Parameters-^ folds.' {0,1}
+@attribute 'heuristic-Parameters-^ gets to evil.' {0,1}
+@attribute 'heuristic-Parameters-^ gets to get.' {0,1}
+@attribute 'heuristic-Parameters-^ is get to none.' {0,1}
+@attribute 'heuristic-Parameters-^ walks.' {0,1}
+@attribute 'heuristic-Parameters-^s [something].' {0,1}
+@attribute 'heuristic-Parameters-^s array.' {0,1}
+@attribute heuristic-Summary- {0,1}
+@attribute 'heuristic-Summary-#s [something].' {0,1}
+@attribute 'heuristic-Summary-Accesses [something].' {0,1}
+@attribute 'heuristic-Summary-Adds [something].' {0,1}
+@attribute heuristic-Summary-Adds. {0,1}
+@attribute 'heuristic-Summary-Aids [something].' {0,1}
+@attribute 'heuristic-Summary-Allows [something].' {0,1}
+@attribute heuristic-Summary-Allows. {0,1}
+@attribute 'heuristic-Summary-Appends [something].' {0,1}
+@attribute 'heuristic-Summary-Applies [something].' {0,1}
+@attribute 'heuristic-Summary-Applies normalization.' {0,1}
+@attribute 'heuristic-Summary-Assigns [something].' {0,1}
+@attribute 'heuristic-Summary-Attr logits.' {0,1}
+@attribute 'heuristic-Summary-Attrs [something].' {0,1}
+@attribute 'heuristic-Summary-Audio is normalized.' {0,1}
+@attribute 'heuristic-Summary-Avoids [something].' {0,1}
+@attribute 'heuristic-Summary-Blocks string.' {0,1}
+@attribute 'heuristic-Summary-Bool orders.' {0,1}
+@attribute 'heuristic-Summary-Builds [something].' {0,1}
+@attribute heuristic-Summary-Calls. {0,1}
+@attribute 'heuristic-Summary-Can [verb].' {0,1}
+@attribute 'heuristic-Summary-Can be described.' {0,1}
+@attribute 'heuristic-Summary-Can be read.' {0,1}
+@attribute 'heuristic-Summary-Can be set.' {0,1}
+@attribute 'heuristic-Summary-Can be used.' {0,1}
+@attribute 'heuristic-Summary-Can find.' {0,1}
+@attribute 'heuristic-Summary-Can not be read.' {0,1}
+@attribute 'heuristic-Summary-Categoricalindexes a.' {0,1}
+@attribute 'heuristic-Summary-Changes [something].' {0,1}
+@attribute 'heuristic-Summary-Check requires.' {0,1}
+@attribute 'heuristic-Summary-Class implements [something].' {0,1}
+@attribute 'heuristic-Summary-Class uses.' {0,1}
+@attribute 'heuristic-Summary-Cmake builds [something].' {0,1}
+@attribute 'heuristic-Summary-Cmake builds.' {0,1}
+@attribute 'heuristic-Summary-Combines [something].' {0,1}
+@attribute 'heuristic-Summary-Commands [something].' {0,1}
+@attribute 'heuristic-Summary-Computes [something].' {0,1}
+@attribute 'heuristic-Summary-Computes average.' {0,1}
+@attribute 'heuristic-Summary-Considers [something].' {0,1}
+@attribute 'heuristic-Summary-Contains [something].' {0,1}
+@attribute 'heuristic-Summary-Controls [something].' {0,1}
+@attribute 'heuristic-Summary-Converts [something].' {0,1}
+@attribute 'heuristic-Summary-Creates [something].' {0,1}
+@attribute 'heuristic-Summary-Creates distribution parameterize.' {0,1}
+@attribute 'heuristic-Summary-Creates table.' {0,1}
+@attribute heuristic-Summary-Creates. {0,1}
+@attribute 'heuristic-Summary-Dataset contains.' {0,1}
+@attribute 'heuristic-Summary-Datum is.' {0,1}
+@attribute 'heuristic-Summary-Default is.' {0,1}
+@attribute 'heuristic-Summary-Defaults [something].' {0,1}
+@attribute heuristic-Summary-Defaults. {0,1}
+@attribute 'heuristic-Summary-Defines [something].' {0,1}
+@attribute 'heuristic-Summary-Del vcards.' {0,1}
+@attribute 'heuristic-Summary-Disables [something].' {0,1}
+@attribute heuristic-Summary-Disallows. {0,1}
+@attribute 'heuristic-Summary-Displays [something].' {0,1}
+@attribute 'heuristic-Summary-Do not exist.' {0,1}
+@attribute 'heuristic-Summary-Documents [something].' {0,1}
+@attribute 'heuristic-Summary-Does [something].' {0,1}
+@attribute 'heuristic-Summary-Does not [verb] [something].' {0,1}
+@attribute 'heuristic-Summary-Dons [something].' {0,1}
+@attribute 'heuristic-Summary-Embeds video.' {0,1}
+@attribute 'heuristic-Summary-Encounters [something].' {0,1}
+@attribute 'heuristic-Summary-Error is raised.' {0,1}
+@attribute 'heuristic-Summary-Error is.' {0,1}
+@attribute 'heuristic-Summary-Error occurs.' {0,1}
+@attribute 'heuristic-Summary-Escapes [something].' {0,1}
+@attribute 'heuristic-Summary-Expression is found.' {0,1}
+@attribute 'heuristic-Summary-Files [something].' {0,1}
+@attribute 'heuristic-Summary-Finds [something].' {0,1}
+@attribute 'heuristic-Summary-Folds size.' {0,1}
+@attribute 'heuristic-Summary-Form labels.' {0,1}
+@attribute 'heuristic-Summary-Generates [something].' {0,1}
+@attribute 'heuristic-Summary-Gets [something].' {0,1}
+@attribute 'heuristic-Summary-Gets com.' {0,1}
+@attribute 'heuristic-Summary-Gets internal.' {0,1}
+@attribute 'heuristic-Summary-Gives the.' {0,1}
+@attribute 'heuristic-Summary-Gives to [something] [something].' {0,1}
+@attribute 'heuristic-Summary-Has [something].' {0,1}
+@attribute 'heuristic-Summary-Has feature.' {0,1}
+@attribute 'heuristic-Summary-Has sum.' {0,1}
+@attribute heuristic-Summary-Has. {0,1}
+@attribute 'heuristic-Summary-I ws.' {0,1}
+@attribute heuristic-Summary-Implementations. {0,1}
+@attribute 'heuristic-Summary-Includes [something].' {0,1}
+@attribute 'heuristic-Summary-Indicates [something].' {0,1}
+@attribute heuristic-Summary-Indicates. {0,1}
+@attribute 'heuristic-Summary-Instantiates [something].' {0,1}
+@attribute 'heuristic-Summary-Is added.' {0,1}
+@attribute 'heuristic-Summary-Is allowed.' {0,1}
+@attribute 'heuristic-Summary-Is applied.' {0,1}
+@attribute 'heuristic-Summary-Is assigned.' {0,1}
+@attribute 'heuristic-Summary-Is assumed.' {0,1}
+@attribute 'heuristic-Summary-Is based.' {0,1}
+@attribute 'heuristic-Summary-Is called.' {0,1}
+@attribute 'heuristic-Summary-Is cleaned.' {0,1}
+@attribute 'heuristic-Summary-Is composed.' {0,1}
+@attribute 'heuristic-Summary-Is considered.' {0,1}
+@attribute 'heuristic-Summary-Is created.' {0,1}
+@attribute 'heuristic-Summary-Is defined.' {0,1}
+@attribute 'heuristic-Summary-Is disabled.' {0,1}
+@attribute 'heuristic-Summary-Is done.' {0,1}
+@attribute 'heuristic-Summary-Is enabled.' {0,1}
+@attribute 'heuristic-Summary-Is executed.' {0,1}
+@attribute 'heuristic-Summary-Is given.' {0,1}
+@attribute 'heuristic-Summary-Is kept.' {0,1}
+@attribute 'heuristic-Summary-Is loaded.' {0,1}
+@attribute 'heuristic-Summary-Is looked.' {0,1}
+@attribute 'heuristic-Summary-Is maintained.' {0,1}
+@attribute 'heuristic-Summary-Is marked.' {0,1}
+@attribute 'heuristic-Summary-Is passed.' {0,1}
+@attribute 'heuristic-Summary-Is provided.' {0,1}
+@attribute 'heuristic-Summary-Is reached.' {0,1}
+@attribute 'heuristic-Summary-Is registered.' {0,1}
+@attribute 'heuristic-Summary-Is rendered.' {0,1}
+@attribute 'heuristic-Summary-Is required.' {0,1}
+@attribute 'heuristic-Summary-Is resolved.' {0,1}
+@attribute 'heuristic-Summary-Is returned.' {0,1}
+@attribute 'heuristic-Summary-Is sent.' {0,1}
+@attribute 'heuristic-Summary-Is set.' {0,1}
+@attribute 'heuristic-Summary-Is shown.' {0,1}
+@attribute 'heuristic-Summary-Is specified.' {0,1}
+@attribute 'heuristic-Summary-Is stored.' {0,1}
+@attribute 'heuristic-Summary-Is stripped.' {0,1}
+@attribute 'heuristic-Summary-Is supported.' {0,1}
+@attribute 'heuristic-Summary-Is treated.' {0,1}
+@attribute 'heuristic-Summary-Is used.' {0,1}
+@attribute 'heuristic-Summary-Is viewed.' {0,1}
+@attribute heuristic-Summary-Is. {0,1}
+@attribute 'heuristic-Summary-It [auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Summary-It has [something].' {0,1}
+@attribute 'heuristic-Summary-It have be proposed.' {0,1}
+@attribute 'heuristic-Summary-It is applied.' {0,1}
+@attribute 'heuristic-Summary-It is used.' {0,1}
+@attribute 'heuristic-Summary-It ses.' {0,1}
+@attribute 'heuristic-Summary-It will be treated.' {0,1}
+@attribute 'heuristic-Summary-Item is.' {0,1}
+@attribute 'heuristic-Summary-Iterates [something].' {0,1}
+@attribute 'heuristic-Summary-Keeps [something].' {0,1}
+@attribute 'heuristic-Summary-Learns [something].' {0,1}
+@attribute 'heuristic-Summary-Limits [something].' {0,1}
+@attribute 'heuristic-Summary-List is.' {0,1}
+@attribute 'heuristic-Summary-Load templates.' {0,1}
+@attribute 'heuristic-Summary-Loss is averaged.' {0,1}
+@attribute 'heuristic-Summary-Loss is summed.' {0,1}
+@attribute 'heuristic-Summary-Makes [something].' {0,1}
+@attribute heuristic-Summary-Makes. {0,1}
+@attribute 'heuristic-Summary-Manages [something].' {0,1}
+@attribute 'heuristic-Summary-Marks end.' {0,1}
+@attribute 'heuristic-Summary-Matches [something].' {0,1}
+@attribute 'heuristic-Summary-Means [something].' {0,1}
+@attribute 'heuristic-Summary-Methes [something].' {0,1}
+@attribute 'heuristic-Summary-Method will be executed.' {0,1}
+@attribute 'heuristic-Summary-Models [something].' {0,1}
+@attribute 'heuristic-Summary-Module modules.' {0,1}
+@attribute 'heuristic-Summary-Moves [something].' {0,1}
+@attribute 'heuristic-Summary-Must have [something].' {0,1}
+@attribute heuristic-Summary-Namespaces. {0,1}
+@attribute heuristic-Summary-Needs. {0,1}
+@attribute heuristic-Summary-Normalizes. {0,1}
+@attribute heuristic-Summary-Notes. {0,1}
+@attribute 'heuristic-Summary-Ns [something].' {0,1}
+@attribute heuristic-Summary-Ns. {0,1}
+@attribute 'heuristic-Summary-Number is.' {0,1}
+@attribute heuristic-Summary-Objects. {0,1}
+@attribute 'heuristic-Summary-Offset is required.' {0,1}
+@attribute 'heuristic-Summary-Ops [something].' {0,1}
+@attribute 'heuristic-Summary-Optionals [something].' {0,1}
+@attribute heuristic-Summary-Orders. {0,1}
+@attribute 'heuristic-Summary-Output is.' {0,1}
+@attribute 'heuristic-Summary-Overloads [something].' {0,1}
+@attribute 'heuristic-Summary-Overrides default.' {0,1}
+@attribute 'heuristic-Summary-Panda ^s.' {0,1}
+@attribute 'heuristic-Summary-Parameter is used.' {0,1}
+@attribute 'heuristic-Summary-Params [something].' {0,1}
+@attribute 'heuristic-Summary-Params to allow.' {0,1}
+@attribute 'heuristic-Summary-Parses [something].' {0,1}
+@attribute 'heuristic-Summary-Passes [something].' {0,1}
+@attribute 'heuristic-Summary-Permission limits.' {0,1}
+@attribute 'heuristic-Summary-Pms [something].' {0,1}
+@attribute 'heuristic-Summary-Prefix is delimited.' {0,1}
+@attribute 'heuristic-Summary-Prevents [something].' {0,1}
+@attribute 'heuristic-Summary-Prints [something].' {0,1}
+@attribute heuristic-Summary-Prints. {0,1}
+@attribute 'heuristic-Summary-Produces [something].' {0,1}
+@attribute 'heuristic-Summary-Proposes [something].' {0,1}
+@attribute 'heuristic-Summary-Provides [something].' {0,1}
+@attribute 'heuristic-Summary-Raises [something].' {0,1}
+@attribute heuristic-Summary-Raises. {0,1}
+@attribute 'heuristic-Summary-Reads [something].' {0,1}
+@attribute heuristic-Summary-Records. {0,1}
+@attribute 'heuristic-Summary-Reduces [something].' {0,1}
+@attribute heuristic-Summary-Reduces. {0,1}
+@attribute 'heuristic-Summary-Reduction is none.' {0,1}
+@attribute 'heuristic-Summary-Releases [something].' {0,1}
+@attribute 'heuristic-Summary-Removes [something].' {0,1}
+@attribute 'heuristic-Summary-Replaces migration.' {0,1}
+@attribute 'heuristic-Summary-Represents [something].' {0,1}
+@attribute heuristic-Summary-Requires. {0,1}
+@attribute heuristic-Summary-Respects. {0,1}
+@attribute 'heuristic-Summary-Results [something].' {0,1}
+@attribute 'heuristic-Summary-Retains [something].' {0,1}
+@attribute 'heuristic-Summary-Retries [something].' {0,1}
+@attribute 'heuristic-Summary-Returns [something].' {0,1}
+@attribute heuristic-Summary-Returns. {0,1}
+@attribute 'heuristic-Summary-Runs [something].' {0,1}
+@attribute 'heuristic-Summary-S ^s.' {0,1}
+@attribute 'heuristic-Summary-S false.' {0,1}
+@attribute 'heuristic-Summary-S miss.' {0,1}
+@attribute 'heuristic-Summary-S true.' {0,1}
+@attribute 'heuristic-Summary-Sees [something].' {0,1}
+@attribute heuristic-Summary-Sees. {0,1}
+@attribute 'heuristic-Summary-Self functions.' {0,1}
+@attribute 'heuristic-Summary-Sets [something].' {0,1}
+@attribute 'heuristic-Summary-Sets header.' {0,1}
+@attribute 'heuristic-Summary-Sets this.' {0,1}
+@attribute heuristic-Summary-Sets. {0,1}
+@attribute heuristic-Summary-Sevs. {0,1}
+@attribute 'heuristic-Summary-Specifies [something].' {0,1}
+@attribute 'heuristic-Summary-Stores [something].' {0,1}
+@attribute 'heuristic-Summary-Stride controls stride.' {0,1}
+@attribute 'heuristic-Summary-Sum computes.' {0,1}
+@attribute 'heuristic-Summary-Sums [something].' {0,1}
+@attribute 'heuristic-Summary-Takes [something].' {0,1}
+@attribute 'heuristic-Summary-Tensors [something].' {0,1}
+@attribute 'heuristic-Summary-Tests [something].' {0,1}
+@attribute 'heuristic-Summary-That [auxiliary] be used.' {0,1}
+@attribute 'heuristic-Summary-That applies [something].' {0,1}
+@attribute 'heuristic-Summary-That can be used.' {0,1}
+@attribute 'heuristic-Summary-That creates.' {0,1}
+@attribute 'heuristic-Summary-That has.' {0,1}
+@attribute 'heuristic-Summary-That is passed.' {0,1}
+@attribute 'heuristic-Summary-The builds.' {0,1}
+@attribute 'heuristic-Summary-They are.' {0,1}
+@attribute 'heuristic-Summary-This is intended.' {0,1}
+@attribute 'heuristic-Summary-This is set.' {0,1}
+@attribute 'heuristic-Summary-This is used.' {0,1}
+@attribute 'heuristic-Summary-This is.' {0,1}
+@attribute 'heuristic-Summary-This means.' {0,1}
+@attribute 'heuristic-Summary-This returns.' {0,1}
+@attribute 'heuristic-Summary-This scales [something].' {0,1}
+@attribute 'heuristic-Summary-To act.' {0,1}
+@attribute 'heuristic-Summary-To allow.' {0,1}
+@attribute 'heuristic-Summary-To apply.' {0,1}
+@attribute 'heuristic-Summary-To attach.' {0,1}
+@attribute 'heuristic-Summary-To avoid.' {0,1}
+@attribute 'heuristic-Summary-To be added.' {0,1}
+@attribute 'heuristic-Summary-To be implemented.' {0,1}
+@attribute 'heuristic-Summary-To be tensor.' {0,1}
+@attribute 'heuristic-Summary-To be.' {0,1}
+@attribute 'heuristic-Summary-To call [something].' {0,1}
+@attribute 'heuristic-Summary-To compile.' {0,1}
+@attribute 'heuristic-Summary-To compute.' {0,1}
+@attribute 'heuristic-Summary-To control [something].' {0,1}
+@attribute 'heuristic-Summary-To disable.' {0,1}
+@attribute 'heuristic-Summary-To globl.' {0,1}
+@attribute 'heuristic-Summary-To have [something].' {0,1}
+@attribute 'heuristic-Summary-To hold [something].' {0,1}
+@attribute 'heuristic-Summary-To indicate.' {0,1}
+@attribute 'heuristic-Summary-To intervalindex.' {0,1}
+@attribute 'heuristic-Summary-To maintain.' {0,1}
+@attribute 'heuristic-Summary-To make.' {0,1}
+@attribute 'heuristic-Summary-To perform.' {0,1}
+@attribute 'heuristic-Summary-To produce [something].' {0,1}
+@attribute 'heuristic-Summary-To provide [something].' {0,1}
+@attribute 'heuristic-Summary-To raise.' {0,1}
+@attribute 'heuristic-Summary-To read.' {0,1}
+@attribute 'heuristic-Summary-To reduce [something].' {0,1}
+@attribute 'heuristic-Summary-To remove [something].' {0,1}
+@attribute 'heuristic-Summary-To respect.' {0,1}
+@attribute 'heuristic-Summary-To retry.' {0,1}
+@attribute 'heuristic-Summary-To select.' {0,1}
+@attribute 'heuristic-Summary-To send.' {0,1}
+@attribute 'heuristic-Summary-To sound [something].' {0,1}
+@attribute 'heuristic-Summary-To store [something].' {0,1}
+@attribute 'heuristic-Summary-To store.' {0,1}
+@attribute 'heuristic-Summary-To use [something].' {0,1}
+@attribute 'heuristic-Summary-To use.' {0,1}
+@attribute 'heuristic-Summary-Tracks [something].' {0,1}
+@attribute 'heuristic-Summary-Tries [something].' {0,1}
+@attribute heuristic-Summary-Tries. {0,1}
+@attribute 'heuristic-Summary-Unfolds [something].' {0,1}
+@attribute 'heuristic-Summary-Updates [something].' {0,1}
+@attribute 'heuristic-Summary-Uses [something].' {0,1}
+@attribute 'heuristic-Summary-Uses class.' {0,1}
+@attribute 'heuristic-Summary-Uses search.' {0,1}
+@attribute heuristic-Summary-Uses. {0,1}
+@attribute 'heuristic-Summary-Value is none.' {0,1}
+@attribute 'heuristic-Summary-Value is used.' {0,1}
+@attribute 'heuristic-Summary-Value is.' {0,1}
+@attribute 'heuristic-Summary-Value sets.' {0,1}
+@attribute heuristic-Summary-Values. {0,1}
+@attribute 'heuristic-Summary-Views form.' {0,1}
+@attribute 'heuristic-Summary-Wants [something].' {0,1}
+@attribute 'heuristic-Summary-We retry.' {0,1}
+@attribute 'heuristic-Summary-Which can be changed.' {0,1}
+@attribute 'heuristic-Summary-Which means.' {0,1}
+@attribute 'heuristic-Summary-Will [verb].' {0,1}
+@attribute 'heuristic-Summary-Will be infered.' {0,1}
+@attribute 'heuristic-Summary-Will be inserted.' {0,1}
+@attribute 'heuristic-Summary-Will be returned.' {0,1}
+@attribute 'heuristic-Summary-Will be used.' {0,1}
+@attribute 'heuristic-Summary-Will call.' {0,1}
+@attribute 'heuristic-Summary-Will execute.' {0,1}
+@attribute 'heuristic-Summary-Will insert.' {0,1}
+@attribute 'heuristic-Summary-Will return [something].' {0,1}
+@attribute 'heuristic-Summary-Wrapper is used.' {0,1}
+@attribute 'heuristic-Summary-Wraps [something].' {0,1}
+@attribute 'heuristic-Summary-You want.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] [verb].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] access.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] assign.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be assigned.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be being used.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be inserted.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be normalized.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be printed.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] be using.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] change.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] construct.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] copy.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] create.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] define.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] describe.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] do.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] embed.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] find [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] handle.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] index.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] insert.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] instantiate.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] is none.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] is path.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] is tensor.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] load.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] mark.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] match.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] not use.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] perform [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] raise [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] s contents.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] set [something].' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] set.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] start.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] take.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] update.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] use.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] validate.' {0,1}
+@attribute 'heuristic-Summary-[auxiliary] view.' {0,1}
+@attribute 'heuristic-Summary-[something] #s.' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] act.' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] be.' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] do [something].' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] not match.' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] result.' {0,1}
+@attribute 'heuristic-Summary-[something] [auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Summary-[something] ^s [something].' {0,1}
+@attribute 'heuristic-Summary-[something] ^s.' {0,1}
+@attribute 'heuristic-Summary-[something] adds [something].' {0,1}
+@attribute 'heuristic-Summary-[something] adds.' {0,1}
+@attribute 'heuristic-Summary-[something] advances.' {0,1}
+@attribute 'heuristic-Summary-[something] allows.' {0,1}
+@attribute 'heuristic-Summary-[something] associates.' {0,1}
+@attribute 'heuristic-Summary-[something] attempts.' {0,1}
+@attribute 'heuristic-Summary-[something] attributes.' {0,1}
+@attribute 'heuristic-Summary-[something] attrs [something].' {0,1}
+@attribute 'heuristic-Summary-[something] becomes.' {0,1}
+@attribute 'heuristic-Summary-[something] begins [something].' {0,1}
+@attribute 'heuristic-Summary-[something] builds [something].' {0,1}
+@attribute 'heuristic-Summary-[something] builds.' {0,1}
+@attribute 'heuristic-Summary-[something] calculates [something].' {0,1}
+@attribute 'heuristic-Summary-[something] calls.' {0,1}
+@attribute 'heuristic-Summary-[something] can do [something].' {0,1}
+@attribute 'heuristic-Summary-[something] changes [something].' {0,1}
+@attribute 'heuristic-Summary-[something] changes.' {0,1}
+@attribute 'heuristic-Summary-[something] channels [something].' {0,1}
+@attribute 'heuristic-Summary-[something] checks.' {0,1}
+@attribute 'heuristic-Summary-[something] combines.' {0,1}
+@attribute 'heuristic-Summary-[something] commands [something].' {0,1}
+@attribute 'heuristic-Summary-[something] computes sum.' {0,1}
+@attribute 'heuristic-Summary-[something] computes value.' {0,1}
+@attribute 'heuristic-Summary-[something] computes.' {0,1}
+@attribute 'heuristic-Summary-[something] connections.' {0,1}
+@attribute 'heuristic-Summary-[something] connects.' {0,1}
+@attribute 'heuristic-Summary-[something] considers [something].' {0,1}
+@attribute 'heuristic-Summary-[something] contains [something].' {0,1}
+@attribute 'heuristic-Summary-[something] copies.' {0,1}
+@attribute 'heuristic-Summary-[something] creates [something].' {0,1}
+@attribute 'heuristic-Summary-[something] creates.' {0,1}
+@attribute 'heuristic-Summary-[something] deals.' {0,1}
+@attribute 'heuristic-Summary-[something] defaults [something].' {0,1}
+@attribute 'heuristic-Summary-[something] defaults.' {0,1}
+@attribute 'heuristic-Summary-[something] defines [something].' {0,1}
+@attribute 'heuristic-Summary-[something] depends.' {0,1}
+@attribute 'heuristic-Summary-[something] describes.' {0,1}
+@attribute 'heuristic-Summary-[something] do not exist.' {0,1}
+@attribute 'heuristic-Summary-[something] does [something].' {0,1}
+@attribute 'heuristic-Summary-[something] does not do.' {0,1}
+@attribute 'heuristic-Summary-[something] does not match.' {0,1}
+@attribute 'heuristic-Summary-[something] dons t.' {0,1}
+@attribute 'heuristic-Summary-[something] dtypes array.' {0,1}
+@attribute 'heuristic-Summary-[something] elements.' {0,1}
+@attribute 'heuristic-Summary-[something] encounters [something].' {0,1}
+@attribute 'heuristic-Summary-[something] ensures [something].' {0,1}
+@attribute 'heuristic-Summary-[something] events.' {0,1}
+@attribute 'heuristic-Summary-[something] executes.' {0,1}
+@attribute 'heuristic-Summary-[something] expects [something].' {0,1}
+@attribute 'heuristic-Summary-[something] fails.' {0,1}
+@attribute 'heuristic-Summary-[something] fetches.' {0,1}
+@attribute 'heuristic-Summary-[something] files [something].' {0,1}
+@attribute 'heuristic-Summary-[something] finds [something].' {0,1}
+@attribute 'heuristic-Summary-[something] floats [something].' {0,1}
+@attribute 'heuristic-Summary-[something] forces.' {0,1}
+@attribute 'heuristic-Summary-[something] functions set and self.' {0,1}
+@attribute 'heuristic-Summary-[something] functions.' {0,1}
+@attribute 'heuristic-Summary-[something] generates.' {0,1}
+@attribute 'heuristic-Summary-[something] gets to get and org.' {0,1}
+@attribute 'heuristic-Summary-[something] handles.' {0,1}
+@attribute 'heuristic-Summary-[something] has.' {0,1}
+@attribute 'heuristic-Summary-[something] headers.' {0,1}
+@attribute 'heuristic-Summary-[something] hes.' {0,1}
+@attribute 'heuristic-Summary-[something] holds.' {0,1}
+@attribute 'heuristic-Summary-[something] hooks.' {0,1}
+@attribute 'heuristic-Summary-[something] https.' {0,1}
+@attribute 'heuristic-Summary-[something] ignores [something].' {0,1}
+@attribute 'heuristic-Summary-[something] implementations.' {0,1}
+@attribute 'heuristic-Summary-[something] implements [something].' {0,1}
+@attribute 'heuristic-Summary-[something] implements interface.' {0,1}
+@attribute 'heuristic-Summary-[something] implements.' {0,1}
+@attribute 'heuristic-Summary-[something] includes [something].' {0,1}
+@attribute 'heuristic-Summary-[something] indexes.' {0,1}
+@attribute 'heuristic-Summary-[something] interfaces.' {0,1}
+@attribute 'heuristic-Summary-[something] ints.' {0,1}
+@attribute 'heuristic-Summary-[something] is connection.' {0,1}
+@attribute 'heuristic-Summary-[something] is dictionary.' {0,1}
+@attribute 'heuristic-Summary-[something] is error.' {0,1}
+@attribute 'heuristic-Summary-[something] is instance.' {0,1}
+@attribute 'heuristic-Summary-[something] is int.' {0,1}
+@attribute 'heuristic-Summary-[something] is list.' {0,1}
+@attribute 'heuristic-Summary-[something] is miss.' {0,1}
+@attribute 'heuristic-Summary-[something] is n.' {0,1}
+@attribute 'heuristic-Summary-[something] is none not.' {0,1}
+@attribute 'heuristic-Summary-[something] is not.' {0,1}
+@attribute 'heuristic-Summary-[something] is number.' {0,1}
+@attribute 'heuristic-Summary-[something] is object.' {0,1}
+@attribute 'heuristic-Summary-[something] is passed.' {0,1}
+@attribute 'heuristic-Summary-[something] is subclass.' {0,1}
+@attribute 'heuristic-Summary-[something] is tensor.' {0,1}
+@attribute 'heuristic-Summary-[something] is what.' {0,1}
+@attribute 'heuristic-Summary-[something] is.' {0,1}
+@attribute 'heuristic-Summary-[something] labels.' {0,1}
+@attribute 'heuristic-Summary-[something] leaves [something].' {0,1}
+@attribute 'heuristic-Summary-[something] logs [something].' {0,1}
+@attribute 'heuristic-Summary-[something] makes [something].' {0,1}
+@attribute 'heuristic-Summary-[something] makes.' {0,1}
+@attribute 'heuristic-Summary-[something] mathes.' {0,1}
+@attribute 'heuristic-Summary-[something] maxes.' {0,1}
+@attribute 'heuristic-Summary-[something] may change.' {0,1}
+@attribute 'heuristic-Summary-[something] means [something].' {0,1}
+@attribute 'heuristic-Summary-[something] means.' {0,1}
+@attribute 'heuristic-Summary-[something] meets [something].' {0,1}
+@attribute 'heuristic-Summary-[something] models.' {0,1}
+@attribute 'heuristic-Summary-[something] must be.' {0,1}
+@attribute 'heuristic-Summary-[something] names.' {0,1}
+@attribute 'heuristic-Summary-[something] needs.' {0,1}
+@attribute 'heuristic-Summary-[something] nps [something].' {0,1}
+@attribute 'heuristic-Summary-[something] ns [something] and error ns.' {0,1}
+@attribute 'heuristic-Summary-[something] objects.' {0,1}
+@attribute 'heuristic-Summary-[something] occurs.' {0,1}
+@attribute 'heuristic-Summary-[something] opens [something].' {0,1}
+@attribute 'heuristic-Summary-[something] orders.' {0,1}
+@attribute 'heuristic-Summary-[something] outputs.' {0,1}
+@attribute 'heuristic-Summary-[something] pairs.' {0,1}
+@attribute 'heuristic-Summary-[something] pandas.' {0,1}
+@attribute 'heuristic-Summary-[something] parameters.' {0,1}
+@attribute 'heuristic-Summary-[something] params.' {0,1}
+@attribute 'heuristic-Summary-[something] parses.' {0,1}
+@attribute 'heuristic-Summary-[something] passes [something].' {0,1}
+@attribute 'heuristic-Summary-[something] pds [something].' {0,1}
+@attribute 'heuristic-Summary-[something] performs [something] and it.' {0,1}
+@attribute 'heuristic-Summary-[something] pms.' {0,1}
+@attribute 'heuristic-Summary-[something] potatos.' {0,1}
+@attribute 'heuristic-Summary-[something] prints.' {0,1}
+@attribute 'heuristic-Summary-[something] prods.' {0,1}
+@attribute 'heuristic-Summary-[something] provides [something].' {0,1}
+@attribute 'heuristic-Summary-[something] provides.' {0,1}
+@attribute 'heuristic-Summary-[something] raises.' {0,1}
+@attribute 'heuristic-Summary-[something] reads [something].' {0,1}
+@attribute 'heuristic-Summary-[something] recommends.' {0,1}
+@attribute 'heuristic-Summary-[something] records info.' {0,1}
+@attribute 'heuristic-Summary-[something] records.' {0,1}
+@attribute 'heuristic-Summary-[something] reduces.' {0,1}
+@attribute 'heuristic-Summary-[something] removes.' {0,1}
+@attribute 'heuristic-Summary-[something] renders.' {0,1}
+@attribute 'heuristic-Summary-[something] replaces.' {0,1}
+@attribute 'heuristic-Summary-[something] represents [something].' {0,1}
+@attribute 'heuristic-Summary-[something] requests.' {0,1}
+@attribute 'heuristic-Summary-[something] requires [something].' {0,1}
+@attribute 'heuristic-Summary-[something] requires.' {0,1}
+@attribute 'heuristic-Summary-[something] restricts.' {0,1}
+@attribute 'heuristic-Summary-[something] results.' {0,1}
+@attribute 'heuristic-Summary-[something] retains [something].' {0,1}
+@attribute 'heuristic-Summary-[something] returns [something].' {0,1}
+@attribute 'heuristic-Summary-[something] returns.' {0,1}
+@attribute 'heuristic-Summary-[something] rhos.' {0,1}
+@attribute 'heuristic-Summary-[something] runs.' {0,1}
+@attribute 'heuristic-Summary-[something] scalars.' {0,1}
+@attribute 'heuristic-Summary-[something] scales [something].' {0,1}
+@attribute 'heuristic-Summary-[something] sections.' {0,1}
+@attribute 'heuristic-Summary-[something] sees example.' {0,1}
+@attribute 'heuristic-Summary-[something] sequences.' {0,1}
+@attribute 'heuristic-Summary-[something] ses.' {0,1}
+@attribute 'heuristic-Summary-[something] sets [something].' {0,1}
+@attribute 'heuristic-Summary-[something] sets.' {0,1}
+@attribute 'heuristic-Summary-[something] shows [something].' {0,1}
+@attribute 'heuristic-Summary-[something] sizes.' {0,1}
+@attribute 'heuristic-Summary-[something] specifies.' {0,1}
+@attribute 'heuristic-Summary-[something] starts [something].' {0,1}
+@attribute 'heuristic-Summary-[something] starts.' {0,1}
+@attribute 'heuristic-Summary-[something] stores.' {0,1}
+@attribute 'heuristic-Summary-[something] strings.' {0,1}
+@attribute 'heuristic-Summary-[something] strs.' {0,1}
+@attribute 'heuristic-Summary-[something] subclasses.' {0,1}
+@attribute 'heuristic-Summary-[something] takes advantage.' {0,1}
+@attribute 'heuristic-Summary-[something] tensors [something].' {0,1}
+@attribute 'heuristic-Summary-[something] tests.' {0,1}
+@attribute 'heuristic-Summary-[something] tracks.' {0,1}
+@attribute 'heuristic-Summary-[something] tries.' {0,1}
+@attribute 'heuristic-Summary-[something] ts.' {0,1}
+@attribute 'heuristic-Summary-[something] tuples [something].' {0,1}
+@attribute 'heuristic-Summary-[something] unfolds to unfold and ^.' {0,1}
+@attribute 'heuristic-Summary-[something] urls.' {0,1}
+@attribute 'heuristic-Summary-[something] uses [something].' {0,1}
+@attribute 'heuristic-Summary-[something] uses.' {0,1}
+@attribute 'heuristic-Summary-[something] utils [something].' {0,1}
+@attribute 'heuristic-Summary-[something] validates.' {0,1}
+@attribute 'heuristic-Summary-[something] values.' {0,1}
+@attribute 'heuristic-Summary-[something] verifies.' {0,1}
+@attribute 'heuristic-Summary-[something] views.' {0,1}
+@attribute 'heuristic-Summary-[something] will be.' {0,1}
+@attribute 'heuristic-Summary-[something] will create [something].' {0,1}
+@attribute 'heuristic-Summary-[something] will have [something].' {0,1}
+@attribute 'heuristic-Summary-[something] will return [something].' {0,1}
+@attribute 'heuristic-Summary-[something] will sleep.' {0,1}
+@attribute 'heuristic-Summary-[something] wins.' {0,1}
+@attribute 'heuristic-Summary-[something] works.' {0,1}
+@attribute 'heuristic-Summary-[something] wraps [something].' {0,1}
+@attribute 'heuristic-Summary-[something] xes.' {0,1}
+@attribute 'heuristic-Summary-[verb]s [something] ^.' {0,1}
+@attribute 'heuristic-Summary-[verb]s [something] mark.' {0,1}
+@attribute 'heuristic-Summary-[verb]s [something].' {0,1}
+@attribute 'heuristic-Summary-[verb]s algorithm use.' {0,1}
+@attribute 'heuristic-Summary-[verb]s specify.' {0,1}
+@attribute 'heuristic-Summary-[verb]s use.' {0,1}
+@attribute heuristic-Summary-[verb]s. {0,1}
+@attribute 'heuristic-Summary-^ adds.' {0,1}
+@attribute 'heuristic-Summary-^ folds.' {0,1}
+@attribute 'heuristic-Summary-^ gets [something].' {0,1}
+@attribute 'heuristic-Summary-^ gets to evil.' {0,1}
+@attribute 'heuristic-Summary-^ gets to get.' {0,1}
+@attribute 'heuristic-Summary-^ is get to none.' {0,1}
+@attribute 'heuristic-Summary-^s [something].' {0,1}
+@attribute 'heuristic-Summary-^s array.' {0,1}
+@attribute heuristic-Usage- {0,1}
+@attribute 'heuristic-Usage-#s [something].' {0,1}
+@attribute 'heuristic-Usage-Accepts [something].' {0,1}
+@attribute 'heuristic-Usage-Adds [something].' {0,1}
+@attribute 'heuristic-Usage-Adds message.' {0,1}
+@attribute heuristic-Usage-Adds. {0,1}
+@attribute 'heuristic-Usage-Allows [something].' {0,1}
+@attribute heuristic-Usage-Allows. {0,1}
+@attribute 'heuristic-Usage-Attr logits.' {0,1}
+@attribute 'heuristic-Usage-Attributes [something].' {0,1}
+@attribute 'heuristic-Usage-Attrs [something].' {0,1}
+@attribute 'heuristic-Usage-Audio is normalized.' {0,1}
+@attribute 'heuristic-Usage-Avoids [something].' {0,1}
+@attribute 'heuristic-Usage-Bases [something].' {0,1}
+@attribute 'heuristic-Usage-Calls [something].' {0,1}
+@attribute heuristic-Usage-Calls. {0,1}
+@attribute 'heuristic-Usage-Can be described.' {0,1}
+@attribute 'heuristic-Usage-Can be read.' {0,1}
+@attribute 'heuristic-Usage-Can be scaled.' {0,1}
+@attribute 'heuristic-Usage-Can be set.' {0,1}
+@attribute 'heuristic-Usage-Can be used.' {0,1}
+@attribute 'heuristic-Usage-Can find.' {0,1}
+@attribute 'heuristic-Usage-Can not be read.' {0,1}
+@attribute 'heuristic-Usage-Categoricalindexes a.' {0,1}
+@attribute 'heuristic-Usage-Changes [something].' {0,1}
+@attribute 'heuristic-Usage-Cmake builds [something].' {0,1}
+@attribute 'heuristic-Usage-Combines [something].' {0,1}
+@attribute 'heuristic-Usage-Computes [something].' {0,1}
+@attribute 'heuristic-Usage-Considers [something].' {0,1}
+@attribute heuristic-Usage-Considers. {0,1}
+@attribute 'heuristic-Usage-Constructs [something].' {0,1}
+@attribute 'heuristic-Usage-Contains [something].' {0,1}
+@attribute 'heuristic-Usage-Controls [something].' {0,1}
+@attribute 'heuristic-Usage-Could use.' {0,1}
+@attribute 'heuristic-Usage-Creates array.' {0,1}
+@attribute 'heuristic-Usage-Creates distribution parameterize.' {0,1}
+@attribute 'heuristic-Usage-Creates object.' {0,1}
+@attribute heuristic-Usage-Creates. {0,1}
+@attribute 'heuristic-Usage-Dataset contains.' {0,1}
+@attribute 'heuristic-Usage-Datum is.' {0,1}
+@attribute 'heuristic-Usage-Default is.' {0,1}
+@attribute 'heuristic-Usage-Default ns.' {0,1}
+@attribute 'heuristic-Usage-Defaults [something].' {0,1}
+@attribute heuristic-Usage-Defaults. {0,1}
+@attribute 'heuristic-Usage-Defines [something].' {0,1}
+@attribute 'heuristic-Usage-Del vcards.' {0,1}
+@attribute 'heuristic-Usage-Dilation controls.' {0,1}
+@attribute 'heuristic-Usage-Disables [something].' {0,1}
+@attribute 'heuristic-Usage-Displays [something].' {0,1}
+@attribute 'heuristic-Usage-Do not exist.' {0,1}
+@attribute 'heuristic-Usage-Documents [something].' {0,1}
+@attribute 'heuristic-Usage-Does [something].' {0,1}
+@attribute 'heuristic-Usage-Does not [verb] [something].' {0,1}
+@attribute 'heuristic-Usage-Dons [something].' {0,1}
+@attribute 'heuristic-Usage-Embeds video.' {0,1}
+@attribute 'heuristic-Usage-Empties [something].' {0,1}
+@attribute 'heuristic-Usage-Encapsulates [something].' {0,1}
+@attribute 'heuristic-Usage-Ensures [something].' {0,1}
+@attribute 'heuristic-Usage-Error is raised.' {0,1}
+@attribute 'heuristic-Usage-Error occurs.' {0,1}
+@attribute heuristic-Usage-Expects. {0,1}
+@attribute 'heuristic-Usage-Expression is found.' {0,1}
+@attribute 'heuristic-Usage-Files [something].' {0,1}
+@attribute heuristic-Usage-Files. {0,1}
+@attribute 'heuristic-Usage-Finds [something].' {0,1}
+@attribute 'heuristic-Usage-Folds size.' {0,1}
+@attribute 'heuristic-Usage-Generates field.' {0,1}
+@attribute 'heuristic-Usage-Gets [something].' {0,1}
+@attribute 'heuristic-Usage-Gets com.' {0,1}
+@attribute 'heuristic-Usage-Gets internal.' {0,1}
+@attribute 'heuristic-Usage-Gives the.' {0,1}
+@attribute 'heuristic-Usage-Gives to [something] [something].' {0,1}
+@attribute 'heuristic-Usage-Has [something].' {0,1}
+@attribute heuristic-Usage-Has. {0,1}
+@attribute 'heuristic-Usage-Have be added.' {0,1}
+@attribute 'heuristic-Usage-Hides [something].' {0,1}
+@attribute 'heuristic-Usage-Holds [something].' {0,1}
+@attribute 'heuristic-Usage-I ws.' {0,1}
+@attribute heuristic-Usage-Implementations. {0,1}
+@attribute 'heuristic-Usage-Includes [something].' {0,1}
+@attribute 'heuristic-Usage-Indicates [something].' {0,1}
+@attribute heuristic-Usage-Indicates. {0,1}
+@attribute 'heuristic-Usage-Instantiates [something].' {0,1}
+@attribute heuristic-Usage-Intends. {0,1}
+@attribute 'heuristic-Usage-Is added.' {0,1}
+@attribute 'heuristic-Usage-Is allowed.' {0,1}
+@attribute 'heuristic-Usage-Is applied.' {0,1}
+@attribute 'heuristic-Usage-Is based.' {0,1}
+@attribute 'heuristic-Usage-Is called.' {0,1}
+@attribute 'heuristic-Usage-Is considered.' {0,1}
+@attribute 'heuristic-Usage-Is converted.' {0,1}
+@attribute 'heuristic-Usage-Is created.' {0,1}
+@attribute 'heuristic-Usage-Is delimited.' {0,1}
+@attribute 'heuristic-Usage-Is displayed.' {0,1}
+@attribute 'heuristic-Usage-Is done.' {0,1}
+@attribute 'heuristic-Usage-Is enabled.' {0,1}
+@attribute 'heuristic-Usage-Is executed.' {0,1}
+@attribute 'heuristic-Usage-Is expected.' {0,1}
+@attribute 'heuristic-Usage-Is followed.' {0,1}
+@attribute 'heuristic-Usage-Is found.' {0,1}
+@attribute 'heuristic-Usage-Is loaded.' {0,1}
+@attribute 'heuristic-Usage-Is looked.' {0,1}
+@attribute 'heuristic-Usage-Is maintained.' {0,1}
+@attribute 'heuristic-Usage-Is needed.' {0,1}
+@attribute 'heuristic-Usage-Is not allowed.' {0,1}
+@attribute 'heuristic-Usage-Is not shown.' {0,1}
+@attribute 'heuristic-Usage-Is passed.' {0,1}
+@attribute 'heuristic-Usage-Is provided.' {0,1}
+@attribute 'heuristic-Usage-Is registered.' {0,1}
+@attribute 'heuristic-Usage-Is rendered.' {0,1}
+@attribute 'heuristic-Usage-Is required.' {0,1}
+@attribute 'heuristic-Usage-Is resolved.' {0,1}
+@attribute 'heuristic-Usage-Is returned.' {0,1}
+@attribute 'heuristic-Usage-Is sent.' {0,1}
+@attribute 'heuristic-Usage-Is set.' {0,1}
+@attribute 'heuristic-Usage-Is shown.' {0,1}
+@attribute 'heuristic-Usage-Is specified.' {0,1}
+@attribute 'heuristic-Usage-Is stored.' {0,1}
+@attribute 'heuristic-Usage-Is stripped.' {0,1}
+@attribute 'heuristic-Usage-Is supported.' {0,1}
+@attribute 'heuristic-Usage-Is treated.' {0,1}
+@attribute 'heuristic-Usage-Is used.' {0,1}
+@attribute heuristic-Usage-Is. {0,1}
+@attribute 'heuristic-Usage-It [auxiliary] have [something].' {0,1}
+@attribute 'heuristic-Usage-It is created.' {0,1}
+@attribute 'heuristic-Usage-It is used.' {0,1}
+@attribute 'heuristic-Usage-It might have.' {0,1}
+@attribute 'heuristic-Usage-It shows [something].' {0,1}
+@attribute 'heuristic-Usage-It will be treated.' {0,1}
+@attribute 'heuristic-Usage-Item is.' {0,1}
+@attribute 'heuristic-Usage-Iterates [something].' {0,1}
+@attribute 'heuristic-Usage-Likes [something].' {0,1}
+@attribute 'heuristic-Usage-Limits [something].' {0,1}
+@attribute 'heuristic-Usage-Load templates.' {0,1}
+@attribute 'heuristic-Usage-Loads [something].' {0,1}
+@attribute 'heuristic-Usage-Loss is averaged.' {0,1}
+@attribute 'heuristic-Usage-Loss is summed.' {0,1}
+@attribute 'heuristic-Usage-Makes [something].' {0,1}
+@attribute heuristic-Usage-Makes. {0,1}
+@attribute 'heuristic-Usage-Manages [something].' {0,1}
+@attribute 'heuristic-Usage-Marks end.' {0,1}
+@attribute 'heuristic-Usage-Matches [something].' {0,1}
+@attribute 'heuristic-Usage-Math ns.' {0,1}
+@attribute 'heuristic-Usage-May modify.' {0,1}
+@attribute 'heuristic-Usage-Means [something].' {0,1}
+@attribute 'heuristic-Usage-Measures [something].' {0,1}
+@attribute 'heuristic-Usage-Methes [something].' {0,1}
+@attribute 'heuristic-Usage-Method will be executed.' {0,1}
+@attribute 'heuristic-Usage-Migration matches [something].' {0,1}
+@attribute 'heuristic-Usage-Models [something].' {0,1}
+@attribute 'heuristic-Usage-Module modules.' {0,1}
+@attribute 'heuristic-Usage-Must have [something].' {0,1}
+@attribute heuristic-Usage-Namespaces. {0,1}
+@attribute heuristic-Usage-Needs. {0,1}
+@attribute heuristic-Usage-Normalizes. {0,1}
+@attribute heuristic-Usage-Notes. {0,1}
+@attribute 'heuristic-Usage-Ns [something].' {0,1}
+@attribute heuristic-Usage-Ns. {0,1}
+@attribute 'heuristic-Usage-Number is.' {0,1}
+@attribute 'heuristic-Usage-Object sets [something].' {0,1}
+@attribute heuristic-Usage-Objects. {0,1}
+@attribute 'heuristic-Usage-Offset is required.' {0,1}
+@attribute 'heuristic-Usage-Ops [something].' {0,1}
+@attribute heuristic-Usage-Orders. {0,1}
+@attribute 'heuristic-Usage-Output is.' {0,1}
+@attribute 'heuristic-Usage-Panda ^s.' {0,1}
+@attribute 'heuristic-Usage-Parameter is used.' {0,1}
+@attribute 'heuristic-Usage-Params [something].' {0,1}
+@attribute heuristic-Usage-Params. {0,1}
+@attribute 'heuristic-Usage-Parses [something].' {0,1}
+@attribute 'heuristic-Usage-Passes [something].' {0,1}
+@attribute 'heuristic-Usage-Performs [something].' {0,1}
+@attribute 'heuristic-Usage-Permission limits.' {0,1}
+@attribute 'heuristic-Usage-Pms [something].' {0,1}
+@attribute 'heuristic-Usage-Prevents [something].' {0,1}
+@attribute 'heuristic-Usage-Prints [something].' {0,1}
+@attribute 'heuristic-Usage-Produces [something].' {0,1}
+@attribute 'heuristic-Usage-Provides [something].' {0,1}
+@attribute 'heuristic-Usage-Raises [something].' {0,1}
+@attribute heuristic-Usage-Raises. {0,1}
+@attribute 'heuristic-Usage-Reads [something].' {0,1}
+@attribute heuristic-Usage-Reads. {0,1}
+@attribute 'heuristic-Usage-Reduces [something].' {0,1}
+@attribute heuristic-Usage-Reduces. {0,1}
+@attribute 'heuristic-Usage-Reduction is none.' {0,1}
+@attribute 'heuristic-Usage-Releases [something].' {0,1}
+@attribute 'heuristic-Usage-Removes [something].' {0,1}
+@attribute 'heuristic-Usage-Renders [something].' {0,1}
+@attribute 'heuristic-Usage-Replaces migration.' {0,1}
+@attribute 'heuristic-Usage-Represents [something].' {0,1}
+@attribute 'heuristic-Usage-Requires [something].' {0,1}
+@attribute heuristic-Usage-Respects. {0,1}
+@attribute 'heuristic-Usage-Results [something].' {0,1}
+@attribute 'heuristic-Usage-Retries [something].' {0,1}
+@attribute 'heuristic-Usage-Returns [something].' {0,1}
+@attribute 'heuristic-Usage-Runs [something].' {0,1}
+@attribute 'heuristic-Usage-S false.' {0,1}
+@attribute 'heuristic-Usage-S miss.' {0,1}
+@attribute 'heuristic-Usage-S true.' {0,1}
+@attribute 'heuristic-Usage-Sees [something].' {0,1}
+@attribute heuristic-Usage-Sees. {0,1}
+@attribute 'heuristic-Usage-Self functions.' {0,1}
+@attribute 'heuristic-Usage-Sets [something].' {0,1}
+@attribute 'heuristic-Usage-Sets header.' {0,1}
+@attribute 'heuristic-Usage-Sets this.' {0,1}
+@attribute heuristic-Usage-Sets. {0,1}
+@attribute heuristic-Usage-Sevs. {0,1}
+@attribute 'heuristic-Usage-Specifies [something].' {0,1}
+@attribute 'heuristic-Usage-Starts [something].' {0,1}
+@attribute 'heuristic-Usage-Stores [something].' {0,1}
+@attribute 'heuristic-Usage-Stride controls stride.' {0,1}
+@attribute 'heuristic-Usage-Subclass is.' {0,1}
+@attribute 'heuristic-Usage-Sum computes.' {0,1}
+@attribute 'heuristic-Usage-Sums [something].' {0,1}
+@attribute 'heuristic-Usage-Takes [something].' {0,1}
+@attribute 'heuristic-Usage-Tensors [something].' {0,1}
+@attribute 'heuristic-Usage-Tests [something].' {0,1}
+@attribute 'heuristic-Usage-That [auxiliary] be used.' {0,1}
+@attribute 'heuristic-Usage-That applies [something].' {0,1}
+@attribute 'heuristic-Usage-That can be used.' {0,1}
+@attribute 'heuristic-Usage-That creates.' {0,1}
+@attribute 'heuristic-Usage-That has.' {0,1}
+@attribute 'heuristic-Usage-That implements.' {0,1}
+@attribute 'heuristic-Usage-That is passed.' {0,1}
+@attribute 'heuristic-Usage-They are.' {0,1}
+@attribute 'heuristic-Usage-This is intended.' {0,1}
+@attribute 'heuristic-Usage-This is set.' {0,1}
+@attribute 'heuristic-Usage-This is used.' {0,1}
+@attribute 'heuristic-Usage-This is.' {0,1}
+@attribute 'heuristic-Usage-This means.' {0,1}
+@attribute 'heuristic-Usage-This returns.' {0,1}
+@attribute 'heuristic-Usage-This scales [something].' {0,1}
+@attribute 'heuristic-Usage-To [verb] use.' {0,1}
+@attribute 'heuristic-Usage-To allow.' {0,1}
+@attribute 'heuristic-Usage-To apply.' {0,1}
+@attribute 'heuristic-Usage-To attach.' {0,1}
+@attribute 'heuristic-Usage-To attempt to use.' {0,1}
+@attribute 'heuristic-Usage-To avoid.' {0,1}
+@attribute 'heuristic-Usage-To be added.' {0,1}
+@attribute 'heuristic-Usage-To be implemented.' {0,1}
+@attribute 'heuristic-Usage-To be tensor.' {0,1}
+@attribute 'heuristic-Usage-To be used.' {0,1}
+@attribute 'heuristic-Usage-To be.' {0,1}
+@attribute 'heuristic-Usage-To calculate.' {0,1}
+@attribute 'heuristic-Usage-To call [something].' {0,1}
+@attribute 'heuristic-Usage-To chunk.' {0,1}
+@attribute 'heuristic-Usage-To construct [something].' {0,1}
+@attribute 'heuristic-Usage-To control [something].' {0,1}
+@attribute 'heuristic-Usage-To decorate.' {0,1}
+@attribute 'heuristic-Usage-To disable.' {0,1}
+@attribute 'heuristic-Usage-To find.' {0,1}
+@attribute 'heuristic-Usage-To get.' {0,1}
+@attribute 'heuristic-Usage-To globl.' {0,1}
+@attribute 'heuristic-Usage-To have [something].' {0,1}
+@attribute 'heuristic-Usage-To indicate.' {0,1}
+@attribute 'heuristic-Usage-To intervalindex.' {0,1}
+@attribute 'heuristic-Usage-To load [something].' {0,1}
+@attribute 'heuristic-Usage-To make.' {0,1}
+@attribute 'heuristic-Usage-To mark.' {0,1}
+@attribute 'heuristic-Usage-To match [something].' {0,1}
+@attribute 'heuristic-Usage-To pack.' {0,1}
+@attribute 'heuristic-Usage-To perform.' {0,1}
+@attribute 'heuristic-Usage-To produce [something].' {0,1}
+@attribute 'heuristic-Usage-To provide [something].' {0,1}
+@attribute 'heuristic-Usage-To raise.' {0,1}
+@attribute 'heuristic-Usage-To read.' {0,1}
+@attribute 'heuristic-Usage-To reduce [something].' {0,1}
+@attribute 'heuristic-Usage-To remove [something].' {0,1}
+@attribute 'heuristic-Usage-To retry.' {0,1}
+@attribute 'heuristic-Usage-To return.' {0,1}
+@attribute 'heuristic-Usage-To select.' {0,1}
+@attribute 'heuristic-Usage-To send.' {0,1}
+@attribute 'heuristic-Usage-To set.' {0,1}
+@attribute 'heuristic-Usage-To store.' {0,1}
+@attribute 'heuristic-Usage-To supply.' {0,1}
+@attribute 'heuristic-Usage-To use.' {0,1}
+@attribute 'heuristic-Usage-To view.' {0,1}
+@attribute 'heuristic-Usage-Tracks [something].' {0,1}
+@attribute 'heuristic-Usage-Trades [something].' {0,1}
+@attribute 'heuristic-Usage-Tries [something].' {0,1}
+@attribute heuristic-Usage-Tries. {0,1}
+@attribute 'heuristic-Usage-Unfolds [something].' {0,1}
+@attribute 'heuristic-Usage-Updates [something].' {0,1}
+@attribute 'heuristic-Usage-Uses [something].' {0,1}
+@attribute 'heuristic-Usage-Uses class.' {0,1}
+@attribute 'heuristic-Usage-Uses search.' {0,1}
+@attribute heuristic-Usage-Uses. {0,1}
+@attribute 'heuristic-Usage-Value is string.' {0,1}
+@attribute 'heuristic-Usage-Value is.' {0,1}
+@attribute heuristic-Usage-Values. {0,1}
+@attribute 'heuristic-Usage-Views form.' {0,1}
+@attribute 'heuristic-Usage-We retry.' {0,1}
+@attribute 'heuristic-Usage-Which can be changed.' {0,1}
+@attribute 'heuristic-Usage-Will be applied.' {0,1}
+@attribute 'heuristic-Usage-Will be inserted.' {0,1}
+@attribute 'heuristic-Usage-Will be returned.' {0,1}
+@attribute 'heuristic-Usage-Will call.' {0,1}
+@attribute 'heuristic-Usage-Will execute.' {0,1}
+@attribute 'heuristic-Usage-Will print.' {0,1}
+@attribute 'heuristic-Usage-Will return [something].' {0,1}
+@attribute 'heuristic-Usage-Will return.' {0,1}
+@attribute 'heuristic-Usage-Will use.' {0,1}
+@attribute 'heuristic-Usage-Will wrap.' {0,1}
+@attribute 'heuristic-Usage-Wraps [something].' {0,1}
+@attribute 'heuristic-Usage-You want.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] access.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] act.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be being used.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be found.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be normalized.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be provided.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be set.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be used.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] be using.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] change.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] contain [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] contents.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] copy.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] create.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] define.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] describe.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] do.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] embed.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] find [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] get [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] index.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] instantiate.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] is path.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] is tensor.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] not use.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] raise [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] resolve.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] respect.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] s contents.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] set [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] set.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] start.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] store [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] take.' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Usage-[auxiliary] validate.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] act.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] be and one.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] be.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] call [something].' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] result.' {0,1}
+@attribute 'heuristic-Usage-[something] [auxiliary] use [something].' {0,1}
+@attribute 'heuristic-Usage-[something] ^s [something].' {0,1}
+@attribute 'heuristic-Usage-[something] ^s.' {0,1}
+@attribute 'heuristic-Usage-[something] accepts.' {0,1}
+@attribute 'heuristic-Usage-[something] adds [something].' {0,1}
+@attribute 'heuristic-Usage-[something] adds.' {0,1}
+@attribute 'heuristic-Usage-[something] advances.' {0,1}
+@attribute 'heuristic-Usage-[something] algorithms.' {0,1}
+@attribute 'heuristic-Usage-[something] allows [something].' {0,1}
+@attribute 'heuristic-Usage-[something] allows.' {0,1}
+@attribute 'heuristic-Usage-[something] attempts.' {0,1}
+@attribute 'heuristic-Usage-[something] attributes.' {0,1}
+@attribute 'heuristic-Usage-[something] attrs [something].' {0,1}
+@attribute 'heuristic-Usage-[something] backends.' {0,1}
+@attribute 'heuristic-Usage-[something] begins [something].' {0,1}
+@attribute 'heuristic-Usage-[something] builds type.' {0,1}
+@attribute 'heuristic-Usage-[something] calculates [something].' {0,1}
+@attribute 'heuristic-Usage-[something] calls [something].' {0,1}
+@attribute 'heuristic-Usage-[something] calls.' {0,1}
+@attribute 'heuristic-Usage-[something] can be.' {0,1}
+@attribute 'heuristic-Usage-[something] can have [something].' {0,1}
+@attribute 'heuristic-Usage-[something] changes [something].' {0,1}
+@attribute 'heuristic-Usage-[something] classes.' {0,1}
+@attribute 'heuristic-Usage-[something] combines [something].' {0,1}
+@attribute 'heuristic-Usage-[something] computes sum.' {0,1}
+@attribute 'heuristic-Usage-[something] computes value.' {0,1}
+@attribute 'heuristic-Usage-[something] computes.' {0,1}
+@attribute 'heuristic-Usage-[something] connections.' {0,1}
+@attribute 'heuristic-Usage-[something] considers.' {0,1}
+@attribute 'heuristic-Usage-[something] contains [something].' {0,1}
+@attribute 'heuristic-Usage-[something] creates [something].' {0,1}
+@attribute 'heuristic-Usage-[something] creates.' {0,1}
+@attribute 'heuristic-Usage-[something] defines [something].' {0,1}
+@attribute 'heuristic-Usage-[something] describes.' {0,1}
+@attribute 'heuristic-Usage-[something] do not exist.' {0,1}
+@attribute 'heuristic-Usage-[something] does [something].' {0,1}
+@attribute 'heuristic-Usage-[something] does not do.' {0,1}
+@attribute 'heuristic-Usage-[something] does not match.' {0,1}
+@attribute 'heuristic-Usage-[something] dtypes array.' {0,1}
+@attribute 'heuristic-Usage-[something] encounters.' {0,1}
+@attribute 'heuristic-Usage-[something] ensures [something].' {0,1}
+@attribute 'heuristic-Usage-[something] executes.' {0,1}
+@attribute 'heuristic-Usage-[something] expects [something].' {0,1}
+@attribute 'heuristic-Usage-[something] fails.' {0,1}
+@attribute 'heuristic-Usage-[something] features.' {0,1}
+@attribute 'heuristic-Usage-[something] files [something].' {0,1}
+@attribute 'heuristic-Usage-[something] files database.' {0,1}
+@attribute 'heuristic-Usage-[something] finds [something].' {0,1}
+@attribute 'heuristic-Usage-[something] floats.' {0,1}
+@attribute 'heuristic-Usage-[something] foos.' {0,1}
+@attribute 'heuristic-Usage-[something] frameworks.' {0,1}
+@attribute 'heuristic-Usage-[something] functions set and self.' {0,1}
+@attribute 'heuristic-Usage-[something] functions.' {0,1}
+@attribute 'heuristic-Usage-[something] generates.' {0,1}
+@attribute 'heuristic-Usage-[something] gets [something].' {0,1}
+@attribute 'heuristic-Usage-[something] gets to get and org.' {0,1}
+@attribute 'heuristic-Usage-[something] gives.' {0,1}
+@attribute 'heuristic-Usage-[something] handles.' {0,1}
+@attribute 'heuristic-Usage-[something] has [something].' {0,1}
+@attribute 'heuristic-Usage-[something] has.' {0,1}
+@attribute 'heuristic-Usage-[something] headers.' {0,1}
+@attribute 'heuristic-Usage-[something] holds.' {0,1}
+@attribute 'heuristic-Usage-[something] ignores [something].' {0,1}
+@attribute 'heuristic-Usage-[something] implements [something].' {0,1}
+@attribute 'heuristic-Usage-[something] implements interface.' {0,1}
+@attribute 'heuristic-Usage-[something] implements.' {0,1}
+@attribute 'heuristic-Usage-[something] includes [something].' {0,1}
+@attribute 'heuristic-Usage-[something] indexes.' {0,1}
+@attribute 'heuristic-Usage-[something] integers.' {0,1}
+@attribute 'heuristic-Usage-[something] interfaces.' {0,1}
+@attribute 'heuristic-Usage-[something] ints.' {0,1}
+@attribute 'heuristic-Usage-[something] is dictionary.' {0,1}
+@attribute 'heuristic-Usage-[something] is given.' {0,1}
+@attribute 'heuristic-Usage-[something] is instance.' {0,1}
+@attribute 'heuristic-Usage-[something] is integer.' {0,1}
+@attribute 'heuristic-Usage-[something] is list.' {0,1}
+@attribute 'heuristic-Usage-[something] is miss.' {0,1}
+@attribute 'heuristic-Usage-[something] is n.' {0,1}
+@attribute 'heuristic-Usage-[something] is none not.' {0,1}
+@attribute 'heuristic-Usage-[something] is not.' {0,1}
+@attribute 'heuristic-Usage-[something] is number.' {0,1}
+@attribute 'heuristic-Usage-[something] is object.' {0,1}
+@attribute 'heuristic-Usage-[something] is tensor.' {0,1}
+@attribute 'heuristic-Usage-[something] is what.' {0,1}
+@attribute 'heuristic-Usage-[something] is.' {0,1}
+@attribute 'heuristic-Usage-[something] leaves [something].' {0,1}
+@attribute 'heuristic-Usage-[something] likes.' {0,1}
+@attribute 'heuristic-Usage-[something] logs.' {0,1}
+@attribute 'heuristic-Usage-[something] lrs.' {0,1}
+@attribute 'heuristic-Usage-[something] makes [something].' {0,1}
+@attribute 'heuristic-Usage-[something] manages.' {0,1}
+@attribute 'heuristic-Usage-[something] marks.' {0,1}
+@attribute 'heuristic-Usage-[something] mathes.' {0,1}
+@attribute 'heuristic-Usage-[something] maxes.' {0,1}
+@attribute 'heuristic-Usage-[something] may change.' {0,1}
+@attribute 'heuristic-Usage-[something] means.' {0,1}
+@attribute 'heuristic-Usage-[something] models.' {0,1}
+@attribute 'heuristic-Usage-[something] must be.' {0,1}
+@attribute 'heuristic-Usage-[something] needs.' {0,1}
+@attribute 'heuristic-Usage-[something] ns [something] and error ns.' {0,1}
+@attribute 'heuristic-Usage-[something] ns [something].' {0,1}
+@attribute 'heuristic-Usage-[something] ns.' {0,1}
+@attribute 'heuristic-Usage-[something] objects [something].' {0,1}
+@attribute 'heuristic-Usage-[something] objects.' {0,1}
+@attribute 'heuristic-Usage-[something] occurs.' {0,1}
+@attribute 'heuristic-Usage-[something] opens [something].' {0,1}
+@attribute 'heuristic-Usage-[something] outputs.' {0,1}
+@attribute 'heuristic-Usage-[something] pandas.' {0,1}
+@attribute 'heuristic-Usage-[something] params.' {0,1}
+@attribute 'heuristic-Usage-[something] parses.' {0,1}
+@attribute 'heuristic-Usage-[something] pds [something].' {0,1}
+@attribute 'heuristic-Usage-[something] pds.' {0,1}
+@attribute 'heuristic-Usage-[something] pms.' {0,1}
+@attribute 'heuristic-Usage-[something] points.' {0,1}
+@attribute 'heuristic-Usage-[something] potatos.' {0,1}
+@attribute 'heuristic-Usage-[something] prints.' {0,1}
+@attribute 'heuristic-Usage-[something] provides [something].' {0,1}
+@attribute 'heuristic-Usage-[something] provides.' {0,1}
+@attribute 'heuristic-Usage-[something] publishes.' {0,1}
+@attribute 'heuristic-Usage-[something] raises.' {0,1}
+@attribute 'heuristic-Usage-[something] reads.' {0,1}
+@attribute 'heuristic-Usage-[something] records [something].' {0,1}
+@attribute 'heuristic-Usage-[something] records.' {0,1}
+@attribute 'heuristic-Usage-[something] reduces.' {0,1}
+@attribute 'heuristic-Usage-[something] removes.' {0,1}
+@attribute 'heuristic-Usage-[something] renders.' {0,1}
+@attribute 'heuristic-Usage-[something] replaces.' {0,1}
+@attribute 'heuristic-Usage-[something] represents [something].' {0,1}
+@attribute 'heuristic-Usage-[something] requests.' {0,1}
+@attribute 'heuristic-Usage-[something] requires [something].' {0,1}
+@attribute 'heuristic-Usage-[something] results.' {0,1}
+@attribute 'heuristic-Usage-[something] retains [something].' {0,1}
+@attribute 'heuristic-Usage-[something] returns [something].' {0,1}
+@attribute 'heuristic-Usage-[something] returns.' {0,1}
+@attribute 'heuristic-Usage-[something] runs.' {0,1}
+@attribute 'heuristic-Usage-[something] scales [something].' {0,1}
+@attribute 'heuristic-Usage-[something] sections.' {0,1}
+@attribute 'heuristic-Usage-[something] sees example.' {0,1}
+@attribute 'heuristic-Usage-[something] sequences.' {0,1}
+@attribute 'heuristic-Usage-[something] ses.' {0,1}
+@attribute 'heuristic-Usage-[something] sets [something].' {0,1}
+@attribute 'heuristic-Usage-[something] sets.' {0,1}
+@attribute 'heuristic-Usage-[something] specifies.' {0,1}
+@attribute 'heuristic-Usage-[something] starts.' {0,1}
+@attribute 'heuristic-Usage-[something] stores.' {0,1}
+@attribute 'heuristic-Usage-[something] subclasses.' {0,1}
+@attribute 'heuristic-Usage-[something] supports.' {0,1}
+@attribute 'heuristic-Usage-[something] takes advantage.' {0,1}
+@attribute 'heuristic-Usage-[something] tensors [something].' {0,1}
+@attribute 'heuristic-Usage-[something] tensors.' {0,1}
+@attribute 'heuristic-Usage-[something] tests.' {0,1}
+@attribute 'heuristic-Usage-[something] tracks.' {0,1}
+@attribute 'heuristic-Usage-[something] ts.' {0,1}
+@attribute 'heuristic-Usage-[something] tuples [something].' {0,1}
+@attribute 'heuristic-Usage-[something] unfolds to unfold and ^.' {0,1}
+@attribute 'heuristic-Usage-[something] urls.' {0,1}
+@attribute 'heuristic-Usage-[something] uses [something].' {0,1}
+@attribute 'heuristic-Usage-[something] uses.' {0,1}
+@attribute 'heuristic-Usage-[something] utils [something].' {0,1}
+@attribute 'heuristic-Usage-[something] validates.' {0,1}
+@attribute 'heuristic-Usage-[something] values.' {0,1}
+@attribute 'heuristic-Usage-[something] verifies.' {0,1}
+@attribute 'heuristic-Usage-[something] views [something].' {0,1}
+@attribute 'heuristic-Usage-[something] will be.' {0,1}
+@attribute 'heuristic-Usage-[something] will create [something].' {0,1}
+@attribute 'heuristic-Usage-[something] will have.' {0,1}
+@attribute 'heuristic-Usage-[something] will result.' {0,1}
+@attribute 'heuristic-Usage-[something] will return [something].' {0,1}
+@attribute 'heuristic-Usage-[something] will sleep.' {0,1}
+@attribute 'heuristic-Usage-[something] wins.' {0,1}
+@attribute 'heuristic-Usage-[something] works.' {0,1}
+@attribute 'heuristic-Usage-[something] wraps [something].' {0,1}
+@attribute 'heuristic-Usage-[something] zeros.' {0,1}
+@attribute 'heuristic-Usage-[verb]s [something] ^.' {0,1}
+@attribute 'heuristic-Usage-[verb]s [something] hash use.' {0,1}
+@attribute 'heuristic-Usage-[verb]s [something] mark.' {0,1}
+@attribute 'heuristic-Usage-[verb]s [something].' {0,1}
+@attribute 'heuristic-Usage-[verb]s algorithm use.' {0,1}
+@attribute 'heuristic-Usage-[verb]s use.' {0,1}
+@attribute heuristic-Usage-[verb]s. {0,1}
+@attribute 'heuristic-Usage-^ adds.' {0,1}
+@attribute 'heuristic-Usage-^ folds.' {0,1}
+@attribute 'heuristic-Usage-^ gets to evil.' {0,1}
+@attribute 'heuristic-Usage-^ gets to get.' {0,1}
+@attribute 'heuristic-Usage-^ is get to none.' {0,1}
+@attribute 'heuristic-Usage-^s array.' {0,1}
+@attribute 'heuristic-Usage-^s op ^.' {0,1}
