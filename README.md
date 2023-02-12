@@ -11,7 +11,7 @@
     - `train_java_of_<category>.csv` is the file which contains the training data of `<category>` in java.
     - `val_java_of_<category>.csv` is the file which contains the validation  data of `<category>` in java.
     - `test_java_of_<category>.csv` is the file which contains the testing data of `<category>` in java.
-    - The jsonl file such as`<type>_java_of_<category>.jsonl` is the file which was used to fine-tune CodeT5.
+    - The jsonl file such as`<type>_java_of_<category>.jsonl` is the data file which was used to fine-tune CodeT5.
   - #### pharo: Same structure as Java.
   - #### python: Same structure as Java.
 - ### preprocess.py: the python file to preprocess the dataset.
