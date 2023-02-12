@@ -1,0 +1,99 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+607,BlMouseMoveEvent,the mouse move event is fired when a pointing device usually a mouse is moved while over an element.,0,1,Collaborators,the mouse move event is fired when a pointing device usually a mouse is moved while over an element
+3158,RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,0,1,Collaborators,a rtdecoratedtest is a test class for testing the behavior of rtdecorated
+2174,ManifestFamixPharoSmalltalkEntities,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,0,1,Collaborators,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser
+4211,WAPath,"wapath maintains a stack of associations, one for each location or page in the path.",0,1,Collaborators,wapath maintains a stack of associations one for each location or page in the path
+4013,WAFormDecoration,a waformdecoration places its component inside an html form tag.,0,1,Collaborators,a waformdecoration places its component inside an html form tag
+1291,GtGraphTreemapSquarify,i use method gtgraphtreemapnode #weight node values to split an area into.,0,1,Collaborators,i use method gtgraphtreemapnode weight node values to split an area into
+1322,GtGraphTreemapSquarify,the final result is the following,0,0,Collaborators,the final result is the following
+1587,SpartaCanvas,close,0,0,Collaborators,close
+3348,RTHighlightableWithCursor,b build.,0,0,Collaborators,b build
+3453,RTLineDecorationExample,code,0,0,Collaborators,code
+1581,SpartaCanvas,create a triangle vector path,0,0,Collaborators,create a triangle vector path
+1083,GtExampleFactory,"to create an example, a method defining an example is executed having a provider as a receiver.",0,0,Collaborators,to create an example a method defining an example is executed having a provider as a receiver
+3889,WACookie,i model only a part of the full cookie specification.,0,0,Collaborators,i model only a part of the full cookie specification
+1816,TSpTextRun,i define an api of a text run an object that holds an array of glyphs that represent a piece of text.,0,0,Collaborators,i define an api of a text run an object that holds an array of glyphs that represent a piece of text
+3971,WAExpiringCache,number of sessions supported.,0,0,Collaborators,number of sessions supported
+305,BlGridLayoutUsageExamples,i contain examples of a grid layout,0,0,Collaborators,i contain examples of a grid layout
+1586,SpartaCanvas,lineto 0@200,0,0,Collaborators,lineto 0@200
+420,BlLayout,"when needing to test layouts, however, it is necessary to apply a layout immediately, instead of waiting for a frame to end.",0,0,Collaborators,when needing to test layouts however it is necessary to apply a layout immediately instead of waiting for a frame to end
+3612,RTSmoothLayoutTranslator,move,0,0,Collaborators,move
+3973,WAExpiringCache,0 for no maximum size.,0,0,Collaborators,0 for no maximum size
+3574,RTRotatedLabel,v rtview new.,0,0,Collaborators,v rtview new
+2696,PRScreenshotAnnotation,package the targetted package,0,0,Collaborators,package the targetted package
+563,BlMatrixDecomposition,translation,0,0,Collaborators,translation
+4112,WALabelledFormDialog,asymbol #name iftrue ^ your name .,0,0,Collaborators,asymbol name iftrue your name
+2514,PRBookTesterVisitor,"therefore, i only redefine visitcodeblock and specify it with the different parameters the codelock may have.",0,0,Collaborators,therefore i only redefine visitcodeblock and specify it with the different parameters the codelock may have
+2410,PPSea,"p x, a island, y accepts following inputs",0,0,Collaborators,p x a island y accepts following inputs
+3198,RTFilterInView,b rtmondrian new.,0,0,Collaborators,b rtmondrian new
+1740,TBlEventTarget,i implement a basic infrastructure of event management.,0,0,Collaborators,i implement a basic infrastructure of event management
+2775,PMGradient,g value # 3 2 .,0,0,Collaborators,g value 3 2
+1589,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 02 triangle path^png label trianglepath,0,0,Collaborators,https github com syrel sparta raw master images spartacanvas 02 triangle path png label trianglepath
+426,BlLayout,an edge can be layouted only after the position of the elements that it connects is known.,0,0,Collaborators,an edge can be layouted only after the position of the elements that it connects is known
+461,BlLayout,without event handlers the layout process is going to happen only once.,0,0,Collaborators,without event handlers the layout process is going to happen only once
+3970,WAExpiringCache,maximumsize,0,0,Collaborators,maximumsize
+830,BrExamplesShowroom,example brexamplesshowroom #glamorousdisabledbutton,0,0,Collaborators,example brexamplesshowroom glamorousdisabledbutton
+909,BrGlamorousIcons,class brglamorousicons show gticonsfor expanded,0,0,Collaborators,class brglamorousicons show gticonsfor expanded
+3071,RTCalendarExample,dictionary at ar first asdate put value .,0,0,Collaborators,dictionary at ar first asdate put value
+631,BlPolygon,80@140,0,0,Collaborators,80@140
+2862,PMMatrix,pmmatrix rows # 1 2 3 4 5 6 .,0,0,Collaborators,pmmatrix rows 1 2 3 4 5 6
+2594,PRInputFileAnnotation,"a path to a file with the key value required, you can write it without the key",0,0,Collaborators,a path to a file with the key value required you can write it without the key
+2283,TDependencyQueries,description,0,0,Collaborators,description
+907,BrGlamorousIcons,gt icons asfilereference,0,0,Collaborators,gt icons asfilereference
+1181,GtGraphCircleEnclosure,i compute the smallest circle that encloses the specified array of circles.,0,0,Collaborators,i compute the smallest circle that encloses the specified array of circles
+1622,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+1074,GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,0,0,Collaborators,the dependencies of a given example consists in message sends to other method constructing an example
+2944,RTAbstractExample,on error do errors add met,0,0,Collaborators,on error do errors add met
+3031,RTBorderAttachPoint,i am an attach point that will end the line on the border of the end shapes.,0,0,Collaborators,i am an attach point that will end the line on the border of the end shapes
+660,BlRectangleShapeWithArrowExplanation,we are almost ready to create a rectangular arrow.,0,0,Collaborators,we are almost ready to create a rectangular arrow
+2392,PPPluggableParser,a pluggable parser that passes the parser stream into a block.,0,0,Collaborators,a pluggable parser that passes the parser stream into a block
+2931,RTAbstractExample,examples errors,0,0,Collaborators,examples errors
+2965,RTAbstractStackedDataSet,a data set is a set of points intended to be charted.,0,0,Collaborators,a data set is a set of points intended to be charted
+3977,WAExpiringCache,0 for no limit.,0,0,Collaborators,0 for no limit
+3350,RTHighlightableWithCursor,^b view,0,0,Collaborators,b view
+2943,RTAbstractExample,iftrue examples add met time,0,0,Collaborators,iftrue examples add met time
+942,BrTextEditor,the moldable editor,0,0,Collaborators,the moldable editor
+4021,WAFormDecoration,"list of strings or symbols, each string symbol is the label first letter capitalized for a button and the name of the callback method on component when button is pressed,",0,0,Collaborators,list of strings or symbols each string symbol is the label first letter capitalized for a button and the name of the callback method on component when button is pressed
+3070,RTCalendarExample,value ar fifth asnumber ar second asnumber ar second asnumber.,0,0,Collaborators,value ar fifth asnumber ar second asnumber ar second asnumber
+1825,XdDocumentsExamples,anxdfile adocument savetoxdoc.,0,0,Collaborators,anxdfile adocument savetoxdoc
+1734,SpUserFontSource,i represent a font face source and know how to retrieve font contents from it,0,0,Collaborators,i represent a font face source and know how to retrieve font contents from it
+3572,RTRotatedLabel,a rtrotatedlabel describes rotated labels.,0,0,Collaborators,a rtrotatedlabel describes rotated labels
+652,BlRectangleShapeWithArrowExplanation,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape #moveby to the topedge,0,0,Collaborators,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape moveby to the topedge
+2774,PMGradient,g pmgradient of x x first squared x second .,0,0,Collaborators,g pmgradient of x x first squared x second
+2286,TDependencyQueries,the api offer the possibility to query an entity with three parameters,0,0,Collaborators,the api offer the possibility to query an entity with three parameters
+1937,FMModel,i include a system of caches in case my users want to store informations to speed up an application.,0,0,Collaborators,i include a system of caches in case my users want to store informations to speed up an application
+121,BlClickEvent,click,0,0,Collaborators,click
+543,BlLocalImageCacheTest,this class contains tests,0,0,Collaborators,this class contains tests
+2225,MooseEntity,it is generated automatically during the creation of the mooseentity.,0,0,Collaborators,it is generated automatically during the creation of the mooseentity
+1588,SpartaCanvas,finish.,0,0,Collaborators,finish
+102,BlChildrenSubset,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration.,0,0,Collaborators,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration
+750,BlTextElementMeasurementStrategyExamples,"please note, that since the width is precise and depends on the content, whitespace is not taken into account when computing the width of the text element.",0,0,Collaborators,please note that since the width is precise and depends on the content whitespace is not taken into account when computing the width of the text element
+8,BlArrowheadSimpleArrow,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,0,0,Collaborators,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle
+2570,PRFootnote,it create a footnote with note specified in parameter.,0,0,Collaborators,it create a footnote with note specified in parameter
+1566,SpartaCanvas,filter create a builder of filter drawing operation,0,0,Collaborators,filter create a builder of filter drawing operation
+3006,RTBezier3Line,v add e1 add e2 add e3 add edge.,0,0,Collaborators,v add e1 add e2 add e3 add edge
+3001,RTBezier3Line,e3 s elementon middle .,0,0,Collaborators,e3 s elementon middle
+2909,PMStepper,"solving ordinary differential equation numerically is usually done iteratively, that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt .",0,0,Collaborators,solving ordinary differential equation numerically is usually done iteratively that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt
+448,BlLayout,the measured bounds act like a temporary cache for the new bounds of an element.,0,0,Collaborators,the measured bounds act like a temporary cache for the new bounds of an element
+711,BlSelection,i represent a text selection defined as interval from^^^to,0,0,Collaborators,i represent a text selection defined as interval from to
+1989,FMOne,examples,0,0,Collaborators,examples
+2724,PRShowClassTransformer,i am a transformer for the showclass annotation.,0,0,Collaborators,i am a transformer for the showclass annotation
+2114,MalLatticePatterns,model moosemodel root allmodels second.,0,0,Collaborators,model moosemodel root allmodels second
+2213,MooseEntity,mseclass #yourentity super #mooseentity,0,0,Collaborators,mseclass yourentity super mooseentity
+1569,SpartaCanvas,"shape create a common shapes factory ellipse, rounded rectangle, etc",0,0,Collaborators,shape create a common shapes factory ellipse rounded rectangle etc
+4093,WALabelledFormDialog,"for each button in the form the subclass needs a method with the same name as the button, which is called when the user clicks that button.",0,0,Collaborators,for each button in the form the subclass needs a method with the same name as the button which is called when the user clicks that button
+2803,PMKolmogorovSmirnov1Sample,nd dhbnormaldistribution new.,0,0,Collaborators,nd dhbnormaldistribution new
+2927,RTAbout,i am a class that display general information about roassal,0,0,Collaborators,i am a class that display general information about roassal
+3926,WADatalistTag,option value firefox,0,0,Collaborators,option value firefox
+855,BrExamplesShowroom,toolbar,0,0,Collaborators,toolbar
+225,BlFocusExamples,how to,0,0,Collaborators,how to
+2481,PRAbstractCommand,i m an object managing configuration.,0,0,Collaborators,i m an object managing configuration
+1718,SpartaLine,"i am meant to be polymorphic with rectangle and path and can be used as path in various operations, except clipping.",0,0,Collaborators,i am meant to be polymorphic with rectangle and path and can be used as path in various operations except clipping
+2933,RTAbstractExample,errors orderedcollection new.,0,0,Collaborators,errors orderedcollection new
+1827,XdDocumentsExamples,breaklines,0,0,Collaborators,breaklines
+2198,MooseEntity,"using this mechanism, a package can extend an entity to add more state.",0,0,Collaborators,using this mechanism a package can extend an entity to add more state
+3072,RTCalendarExample,colors # # 165 0 38 # 215 48 38 # 244 109 67,0,0,Collaborators,colors 165 0 38 215 48 38 244 109 67
+2111,MalLatticePatterns,mallatticepatterns on mallattice on context reportpatterns,0,0,Collaborators,mallatticepatterns on mallattice on context reportpatterns
+2357,PPDebugParser,xxxxx,0,0,Collaborators,xxxxx
+1450,GtRemoteInspector,public api and key messages,0,0,Collaborators,public api and key messages
+2356,PPDebugParser,root,0,0,Collaborators,root

@@ -1,0 +1,184 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3792,TROSMShape,make remainder zoom a transform inside the trosmshape.,0,1,Keyimplementationpoints,make remainder zoom a transform inside the trosmshape
+1483,GtRlCommitAndTagReleaseAction,i only work with strategies of type class gtrlsemantictagreleasestrategy .,0,1,Keyimplementationpoints,i only work with strategies of type class gtrlsemantictagreleasestrategy
+3786,TROSMShape,remember working limit for lat lon is 8505113,0,1,Keyimplementationpoints,remember working limit for lat lon is 8505113
+1089,GtExampleFactory,to initialize the subjects of an example i call #gtexamplesubjects on the provider object.,0,1,Keyimplementationpoints,to initialize the subjects of an example i call gtexamplesubjects on the provider object
+445,BlLayout,the measured bounds are used during layouting to hold the new extent of an element.,0,1,Keyimplementationpoints,the measured bounds are used during layouting to hold the new extent of an element
+3796,TROSMShape,cache each tile.,0,1,Keyimplementationpoints,cache each tile
+566,BlMatrixDecomposition,perspective,0,1,Keyimplementationpoints,perspective
+1137,GtGradAbstractTreeLayout,"reignold tilfold s algorithm was originally designed only for binary trees, but later extended to work for non binary ones as well.",0,1,Keyimplementationpoints,reignold tilfold s algorithm was originally designed only for binary trees but later extended to work for non binary ones as well
+2826,PMLineSearch,"in this case, this method finds such an x that this function is minimized in the sense",0,1,Keyimplementationpoints,in this case this method finds such an x that this function is minimized in the sense
+2828,PMLineSearch,for some small alpha defaults to 1e 4 .,0,1,Keyimplementationpoints,for some small alpha defaults to 1e 4
+2840,PMLineSearch,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations.,0,1,Keyimplementationpoints,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations
+2910,PMStepper,steppers perform one single step.,0,1,Keyimplementationpoints,steppers perform one single step
+99,BlChildrenSubset,implementation details,0,1,Keyimplementationpoints,implementation details
+432,BlLayout,performing the layout on an element consists in executing three main steps,0,1,Keyimplementationpoints,performing the layout on an element consists in executing three main steps
+3955,WAErrorHandler,"if either method is not implemented, the default implementation will call #handledefault , which can be used to provide common behaviour for both exception types.",0,1,Keyimplementationpoints,if either method is not implemented the default implementation will call handledefault which can be used to provide common behaviour for both exception types
+456,BlLayout,this step find the size of an element and sets measuredextent or position sometimes,0,1,Keyimplementationpoints,this step find the size of an element and sets measuredextent or position sometimes
+3788,TROSMShape,"depending on the rtview size and the canvas parameters, get the right tiles from osm and display them.",0,1,Keyimplementationpoints,depending on the rtview size and the canvas parameters get the right tiles from osm and display them
+403,BlLayout,"a small set of constraints, like padding, margin or minimal and maximum dimensions, are common among all the layouts.",0,1,Keyimplementationpoints,a small set of constraints like padding margin or minimal and maximum dimensions are common among all the layouts
+4274,WASelection,"returns the item selected by user, not the index nor the text shown the user .",0,1,Keyimplementationpoints,returns the item selected by user not the index nor the text shown the user
+2839,PMLineSearch,it is guaranteed that g x will be called on the resulting x.,0,1,Keyimplementationpoints,it is guaranteed that g x will be called on the resulting x
+410,BlLayout,phases are modeled as subclasses of class blspaceframephase and are executed once per frame.,0,1,Keyimplementationpoints,phases are modeled as subclasses of class blspaceframephase and are executed once per frame
+4261,WARequestContext,the request context is valid only during the request that caused it.,0,1,Keyimplementationpoints,the request context is valid only during the request that caused it
+404,BlLayout,"each layout has a dedicated constraint objects, instance of class bllayoutcommonconstraints , that contain these common constraints.",0,1,Keyimplementationpoints,each layout has a dedicated constraint objects instance of class bllayoutcommonconstraints that contain these common constraints
+250,BlGridLayout,"grid layout supports fitcontent, matchparent and exact resizing mode of the owner.",0,1,Keyimplementationpoints,grid layout supports fitcontent matchparent and exact resizing mode of the owner
+2424,PPSea,"i am still an experiment, but if you know how to improve me, please contact jan kurs at kurs@iam^unibe.ch",0,0,Keyimplementationpoints,i am still an experiment but if you know how to improve me please contact jan kurs at kurs@iam unibe ch
+3540,RTRectangleAttachPoint,continuous attach point which presumes both shapes are not rotated rectangles,0,0,Keyimplementationpoints,continuous attach point which presumes both shapes are not rotated rectangles
+3419,RTLabeled,highlightable,0,0,Keyimplementationpoints,highlightable
+2426,PPSea,afterwaterparser object,0,0,Keyimplementationpoints,afterwaterparser object
+2227,MooseEntity,it may be nil if the entity is not part of a model.,0,0,Keyimplementationpoints,it may be nil if the entity is not part of a model
+953,BrTextEditorExamples,today we will learn how to compose an editor,0,0,Keyimplementationpoints,today we will learn how to compose an editor
+1999,FMRelationSlot,description,0,0,Keyimplementationpoints,description
+1745,TSpartaCompositeFilter,example,0,0,Keyimplementationpoints,example
+1465,GtRlBaselineTagReleaseStrategy,i indicate a passive release as no actions need to be executed.,0,0,Keyimplementationpoints,i indicate a passive release as no actions need to be executed
+3410,RTLabeled,highlightable object,0,0,Keyimplementationpoints,highlightable object
+3773,TROSMShape,the scale of the shape,0,0,Keyimplementationpoints,the scale of the shape
+2989,RTAxisRenderer,a rtaxisrenderer is a renderer for axis.,0,0,Keyimplementationpoints,a rtaxisrenderer is a renderer for axis
+3402,RTLabeled,v rtview new.,0,0,Keyimplementationpoints,v rtview new
+2484,PRAbstractCommand,createconfiguration conffilename basedirectory basedirectory argdictionary arguments,0,0,Keyimplementationpoints,createconfiguration conffilename basedirectory basedirectory argdictionary arguments
+3970,WAExpiringCache,maximumsize,0,0,Keyimplementationpoints,maximumsize
+1409,GtPhlowForwarderView,i am useful in situations when the object that has the view definition is expensive to create.,0,0,Keyimplementationpoints,i am useful in situations when the object that has the view definition is expensive to create
+3092,RTCalendarExample,index 11 iftrue index 11 .,0,0,Keyimplementationpoints,index 11 iftrue index 11
+982,BrTextEditorLetterInputFilter,i only allow letters,0,0,Keyimplementationpoints,i only allow letters
+2155,MalTerms,terms subclasses bag with support for handling stopwords etc,0,0,Keyimplementationpoints,terms subclasses bag with support for handling stopwords etc
+3866,WAComboResponse,"server adaptors need to be aware that a committed response must be closed, when complete.",0,0,Keyimplementationpoints,server adaptors need to be aware that a committed response must be closed when complete
+3980,WAExpiringCache,after so many seconds after its creation a session is considered expired no matter when it was last accessed.,0,0,Keyimplementationpoints,after so many seconds after its creation a session is considered expired no matter when it was last accessed
+2098,MalKruskal,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph.,0,0,Keyimplementationpoints,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph
+919,BrInteractiveModel,"i am a composite interaction model responsible for managing widget state such as pressed, hovered, focused.",0,0,Keyimplementationpoints,i am a composite interaction model responsible for managing widget state such as pressed hovered focused
+591,BlMorphicSpaceHostMorph,i act as a space host for a bloc space,0,0,Keyimplementationpoints,i act as a space host for a bloc space
+1022,GtDiagrammerEditorList,i fetch data from the diagrammer editor data source,0,0,Keyimplementationpoints,i fetch data from the diagrammer editor data source
+1908,FamixTTrait,famixtrait models a trait as it can be found in pharo or php.,0,0,Keyimplementationpoints,famixtrait models a trait as it can be found in pharo or php
+1859,FamixJavaEntity,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,0,0,Keyimplementationpoints,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary
+3764,TROSMShape,tiles dictionary of point form,0,0,Keyimplementationpoints,tiles dictionary of point form
+3610,RTSmoothLayoutTranslator,move object,0,0,Keyimplementationpoints,move object
+1604,SpartaCanvas,language smalltalk,0,0,Keyimplementationpoints,language smalltalk
+2120,MalLatticePatterns,mallattice new viewlattice treillis .,0,0,Keyimplementationpoints,mallattice new viewlattice treillis
+3694,RTVerticalMultipleData,here is an example,0,0,Keyimplementationpoints,here is an example
+587,BlMorphicHostSpace,i make it possible to embed bloc space within arbitrary morphs.,0,0,Keyimplementationpoints,i make it possible to embed bloc space within arbitrary morphs
+2490,PRAbstractCommand,basedirectory filesystem workingdirectory,0,0,Keyimplementationpoints,basedirectory filesystem workingdirectory
+4011,WAFormCharEncodingFromHandlerTest,i test that the encoding from the handler is taken if a handler is present but a codec is missing.,0,0,Keyimplementationpoints,i test that the encoding from the handler is taken if a handler is present but a codec is missing
+4240,WAPharoUrlEncoder,i am a pharo specific url encoder.,0,0,Keyimplementationpoints,i am a pharo specific url encoder
+3544,RTRectangleAttachPoint,v add e1 add e2.,0,0,Keyimplementationpoints,v add e1 add e2
+3579,RTRotatedLabel,v open,0,0,Keyimplementationpoints,v open
+1423,GtPlotterAxisProjection,i represent a projection value of a domain object on the axis.,0,0,Keyimplementationpoints,i represent a projection value of a domain object on the axis
+2116,MalLatticePatterns,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,0,0,Keyimplementationpoints,context fca with model allmodelclasses using yourself using cl cl methods collect m m name
+958,BrTextEditorExamples,example brtexteditorexamples #newtext,0,0,Keyimplementationpoints,example brtexteditorexamples newtext
+3705,RTVerticalMultipleData,here another example,0,0,Keyimplementationpoints,here another example
+3887,WACookie,i am basically a key value pair of strings.,0,0,Keyimplementationpoints,i am basically a key value pair of strings
+2060,MalHgNode,level number,0,0,Keyimplementationpoints,level number
+2194,MooseEntity,"any moose entity should answer its mooseid, its moosename and its moosemodel.",0,0,Keyimplementationpoints,any moose entity should answer its mooseid its moosename and its moosemodel
+2174,ManifestFamixPharoSmalltalkEntities,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,0,0,Keyimplementationpoints,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser
+1780,TSpartaPaint,rotatebyradians rotate me by amount of radians clockwise,0,0,Keyimplementationpoints,rotatebyradians rotate me by amount of radians clockwise
+3065,RTCalendarExample,b tab colors dictionary,0,0,Keyimplementationpoints,b tab colors dictionary
+2835,PMLineSearch,storedmethod setfunction funblock.,0,0,Keyimplementationpoints,storedmethod setfunction funblock
+3076,RTCalendarExample,b rtcalendarbuilder new.,0,0,Keyimplementationpoints,b rtcalendarbuilder new
+89,BlChildrenSubset,the example below shows a scenario of combining multiple ways to iterate over children.,0,0,Keyimplementationpoints,the example below shows a scenario of combining multiple ways to iterate over children
+1577,SpartaCanvas,create an empty canvas of size 400@250,0,0,Keyimplementationpoints,create an empty canvas of size 400@250
+3179,RTExperimentalExample,^ b,0,0,Keyimplementationpoints,b
+3357,RTHighlightableWithCursor,nodes b nodes collection withallsubclasses .,0,0,Keyimplementationpoints,nodes b nodes collection withallsubclasses
+199,BlElementRemovedEvent,child when blelementremovedevent do self inform removed from parent .,0,0,Keyimplementationpoints,child when blelementremovedevent do self inform removed from parent
+1882,FamixTDereferencedInvocation,represents an invocation which function is contained in a pointer.,0,0,Keyimplementationpoints,represents an invocation which function is contained in a pointer
+1294,GtGraphTreemapSquarify,algorithm explanation,0,0,Keyimplementationpoints,algorithm explanation
+3420,RTLabeled,xxxxx,0,0,Keyimplementationpoints,xxxxx
+3310,RTGrapherSelectRangeViewContext,define a range for gt,0,0,Keyimplementationpoints,define a range for gt
+3597,RTScrollBarBuilder,size or fixedposition can be defined as blocks.,0,0,Keyimplementationpoints,size or fixedposition can be defined as blocks
+648,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectangleshape previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Keyimplementationpoints,example blrectangleshapewitharrowexplanation rectangleshape previewshow gtlivefor previewexpanded true previewheight 250
+2553,PRDocumentListAnnotation,doclist path blogs limit 3 sort date templates # templates docarticle^mustache templates template^mustache,0,0,Keyimplementationpoints,doclist path blogs limit 3 sort date templates templates docarticle mustache templates template mustache
+2699,PRScreenshotAnnotation,caption the caption that will appear under my figure in the final book,0,0,Keyimplementationpoints,caption the caption that will appear under my figure in the final book
+1318,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep previewexpanded true nocode,0,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep previewexpanded true nocode
+3352,RTHighlightableWithCursor,b shape circle size 10.,0,0,Keyimplementationpoints,b shape circle size 10
+2295,TDependencyQueries,#query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children.,0,0,Keyimplementationpoints,query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children
+1191,GtGraphCircleEnclosure,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,0,0,Keyimplementationpoints,adding a second circle expands the enclosure circle to fit both circles c1 and c2
+1766,TSpartaPaint,"a paint is transformable and can be used with one of extend modes, for example repeat, reflect or clamp.",0,0,Keyimplementationpoints,a paint is transformable and can be used with one of extend modes for example repeat reflect or clamp
+4216,WAPath,the method wapath currentsegment returns object associated with the current page .,0,0,Keyimplementationpoints,the method wapath currentsegment returns object associated with the current page
+1852,FamixJavaEntity,dictionary dictionary newfrom,0,0,Keyimplementationpoints,dictionary dictionary newfrom
+3852,WAComboResponse,"if streaming is desired, the response can be flushed by sending it the #flush message.",0,0,Keyimplementationpoints,if streaming is desired the response can be flushed by sending it the flush message
+1823,XdDocumentsExamples,adocument anxdfile,0,0,Keyimplementationpoints,adocument anxdfile
+1570,SpartaCanvas,filters create a common filters factory,0,0,Keyimplementationpoints,filters create a common filters factory
+4101,WALabelledFormDialog,model,0,0,Keyimplementationpoints,model
+2696,PRScreenshotAnnotation,package the targetted package,0,0,Keyimplementationpoints,package the targetted package
+2738,PRWatcher,"each 5 seconds, the website is regenerated",0,0,Keyimplementationpoints,each 5 seconds the website is regenerated
+3158,RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,0,0,Keyimplementationpoints,a rtdecoratedtest is a test class for testing the behavior of rtdecorated
+3059,RTBucketColor,a scale of elements is discretized into buckets where elements of each bucket is associated to an element.,0,0,Keyimplementationpoints,a scale of elements is discretized into buckets where elements of each bucket is associated to an element
+245,BlGridLayout,i layout elements in a rectangular grid.,0,0,Keyimplementationpoints,i layout elements in a rectangular grid
+1509,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #forcenewrelease force a new release in a repository even if there no new changes in that repository and all dependencies did not change.,0,0,Keyimplementationpoints,method gtrlreleaseconfiguration forcenewrelease force a new release in a repository even if there no new changes in that repository and all dependencies did not change
+2419,PPSea,xac,0,0,Keyimplementationpoints,xac
+2933,RTAbstractExample,errors orderedcollection new.,0,0,Keyimplementationpoints,errors orderedcollection new
+361,BlInfiniteDataSourceItemRangeMoved,example,0,0,Keyimplementationpoints,example
+2997,RTBezier3Line,v rtview new.,0,0,Keyimplementationpoints,v rtview new
+1304,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep previewexpanded true nocode,0,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep previewexpanded true nocode
+3456,RTLineDecorationExample,size 100,0,0,Keyimplementationpoints,size 100
+1621,SpartaCanvas,create a gaussian blur filter,0,0,Keyimplementationpoints,create a gaussian blur filter
+2513,PRBookTesterVisitor,i am a visitor specialized in visiting books and testing their code.,0,0,Keyimplementationpoints,i am a visitor specialized in visiting books and testing their code
+3403,RTLabeled,e rtellipse new size 30 elementon 42.,0,0,Keyimplementationpoints,e rtellipse new size 30 elementon 42
+3977,WAExpiringCache,0 for no limit.,0,0,Keyimplementationpoints,0 for no limit
+1825,XdDocumentsExamples,anxdfile adocument savetoxdoc.,0,0,Keyimplementationpoints,anxdfile adocument savetoxdoc
+1622,SpartaCanvas,language smalltalk,0,0,Keyimplementationpoints,language smalltalk
+711,BlSelection,i represent a text selection defined as interval from^^^to,0,0,Keyimplementationpoints,i represent a text selection defined as interval from to
+942,BrTextEditor,the moldable editor,0,0,Keyimplementationpoints,the moldable editor
+750,BlTextElementMeasurementStrategyExamples,"please note, that since the width is precise and depends on the content, whitespace is not taken into account when computing the width of the text element.",0,0,Keyimplementationpoints,please note that since the width is precise and depends on the content whitespace is not taken into account when computing the width of the text element
+3975,WAExpiringCache,maximumrelativeage,0,0,Keyimplementationpoints,maximumrelativeage
+1504,GtRlReleaseConfiguration,my main api methods for setting other default options are,0,0,Keyimplementationpoints,my main api methods for setting other default options are
+1569,SpartaCanvas,"shape create a common shapes factory ellipse, rounded rectangle, etc",0,0,Keyimplementationpoints,shape create a common shapes factory ellipse rounded rectangle etc
+3335,RTHighlightableWithCursor,b,0,0,Keyimplementationpoints,b
+2058,MalHgNode,higraph malhierarchicalgraph,0,0,Keyimplementationpoints,higraph malhierarchicalgraph
+2196,MooseEntity,the state instance variable provides a mechanism for extending the state of entities.,0,0,Keyimplementationpoints,the state instance variable provides a mechanism for extending the state of entities
+2053,MalHgNode,"it knows the graph it belongs to, its children and its parent, on which level in the graph it resides and its outgoing ind incoming edges.",0,0,Keyimplementationpoints,it knows the graph it belongs to its children and its parent on which level in the graph it resides and its outgoing ind incoming edges
+1606,SpartaCanvas,paint lineargradient,0,0,Keyimplementationpoints,paint lineargradient
+3549,RTRectangleAttachPoint,s attachpoint rtrectangleattachpoint new.,0,0,Keyimplementationpoints,s attachpoint rtrectangleattachpoint new
+2550,PRDocumentListAnnotation,"for templates values, you can not specify directories, only ^mustache files.",0,0,Keyimplementationpoints,for templates values you can not specify directories only mustache files
+4219,WAPath,see wainspector for example use.,0,0,Keyimplementationpoints,see wainspector for example use
+936,BrSelectionRequest,i am sent by a look to request selection update from the view model,0,0,Keyimplementationpoints,i am sent by a look to request selection update from the view model
+1748,TSpartaCompositeFilter,over,0,0,Keyimplementationpoints,over
+2670,PRPillarParser,i use the prpillargrammar and i build a prdocument.,0,0,Keyimplementationpoints,i use the prpillargrammar and i build a prdocument
+1862,FamixJavaEntity,model entitystorage forruntime.,0,0,Keyimplementationpoints,model entitystorage forruntime
+397,BlLayout,bloc layout,0,0,Keyimplementationpoints,bloc layout
+2920,GLMRoassal2MorphicTest,a glmroassalmorphictest is xxxxxxxxx.,0,0,Keyimplementationpoints,a glmroassalmorphictest is xxxxxxxxx
+1854,FamixJavaEntity,cn c name withoutprefix #famixjava.,0,0,Keyimplementationpoints,cn c name withoutprefix famixjava
+846,BrExamplesShowroom,accordion,0,0,Keyimplementationpoints,accordion
+2186,MooseCustomTask,moosecustomtask is a task perform some computation specified as a block.,0,0,Keyimplementationpoints,moosecustomtask is a task perform some computation specified as a block
+3473,RTLineDecorationExample,addall edges.,0,0,Keyimplementationpoints,addall edges
+1074,GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,0,0,Keyimplementationpoints,the dependencies of a given example consists in message sends to other method constructing an example
+3744,RTWeightedCircleLayout,v rtview new.,0,0,Keyimplementationpoints,v rtview new
+641,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250,0,0,Keyimplementationpoints,example blrectangleshapewitharrowexplanation elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250
+3002,RTBezier3Line,lineshape rtbezier3line new.,0,0,Keyimplementationpoints,lineshape rtbezier3line new
+3576,RTRotatedLabel,es shape elementson collection withallsubclasses.,0,0,Keyimplementationpoints,es shape elementson collection withallsubclasses
+2579,PRHTMLCanvas,the main method is #tag that allow you to write something like this,0,0,Keyimplementationpoints,the main method is tag that allow you to write something like this
+2044,MalDendrogramNode,this class is part of hapax.,0,0,Keyimplementationpoints,this class is part of hapax
+3031,RTBorderAttachPoint,i am an attach point that will end the line on the border of the end shapes.,0,0,Keyimplementationpoints,i am an attach point that will end the line on the border of the end shapes
+1449,GtRemoteInspector,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api.,0,0,Keyimplementationpoints,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api
+4064,WAImageStatus,a waimagestatus displays information about the current smalltalk image.,0,0,Keyimplementationpoints,a waimagestatus displays information about the current smalltalk image
+2592,PRInputFileAnnotation,my tag is inputfile .,0,0,Keyimplementationpoints,my tag is inputfile
+2303,TDependencyQueries,afamixmethod query #out with famixaccess.,0,0,Keyimplementationpoints,afamixmethod query out with famixaccess
+3577,RTRotatedLabel,rtgridlayout on es.,0,0,Keyimplementationpoints,rtgridlayout on es
+2943,RTAbstractExample,iftrue examples add met time,0,0,Keyimplementationpoints,iftrue examples add met time
+3355,RTHighlightableWithCursor,b interaction showlabel,0,0,Keyimplementationpoints,b interaction showlabel
+3417,RTLabeled,color,0,0,Keyimplementationpoints,color
+1623,SpartaCanvas,blur canvas gaussianblurfilter,0,0,Keyimplementationpoints,blur canvas gaussianblurfilter
+3359,RTHighlightableWithCursor,b edges movebehind connectfrom #superclass.,0,0,Keyimplementationpoints,b edges movebehind connectfrom superclass
+1568,SpartaCanvas,bitmap create a bitmap factory,0,0,Keyimplementationpoints,bitmap create a bitmap factory
+1898,FamixTParameterType,example,0,0,Keyimplementationpoints,example
+2690,PRPreformatted,i am preformatted text or source code.,0,0,Keyimplementationpoints,i am preformatted text or source code
+2938,RTAbstractExample,builder example perform met selector.,0,0,Keyimplementationpoints,builder example perform met selector
+2225,MooseEntity,it is generated automatically during the creation of the mooseentity.,0,0,Keyimplementationpoints,it is generated automatically during the creation of the mooseentity
+842,BrExamplesShowroom,note that the order of looks defines the visual order of the label and icon,0,0,Keyimplementationpoints,note that the order of looks defines the visual order of the label and icon
+1769,TSpartaPaint,public api and key messages,0,0,Keyimplementationpoints,public api and key messages
+1618,SpartaCanvas,restore transformation matrix,0,0,Keyimplementationpoints,restore transformation matrix
+1306,GtGraphTreemapSquarify,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep label #worstvaluerounded .,0,0,Keyimplementationpoints,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep label worstvaluerounded
+2017,FmxMBPrintVisitor,see fmxmbvisitor to see how to use me.,0,0,Keyimplementationpoints,see fmxmbvisitor to see how to use me
+4244,WAPlugin,i am an abstract root class for all plugins.,0,0,Keyimplementationpoints,i am an abstract root class for all plugins
+3527,RTPopupTest,a roabstractpopuptest is xxxxxxxxx.,0,0,Keyimplementationpoints,a roabstractpopuptest is xxxxxxxxx
+800,BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,0,0,Keyimplementationpoints,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action
+3596,RTScrollBarBuilder,"the bar can have a specificity like #scalable, so it give an idea of the size of the view.",0,0,Keyimplementationpoints,the bar can have a specificity like scalable so it give an idea of the size of the view
+2352,PPDebugParser,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time.,0,0,Keyimplementationpoints,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time
+1128,GtGradAbstractTreeLayout,this an implementation of a moen s tree layout algorithm.,0,0,Keyimplementationpoints,this an implementation of a moen s tree layout algorithm
+3533,RTPopupTest,view,0,0,Keyimplementationpoints,view
+2283,TDependencyQueries,description,0,0,Keyimplementationpoints,description
+2546,PRDocumentListAnnotation,we ahave the possibility of giving multiple templates.,0,0,Keyimplementationpoints,we ahave the possibility of giving multiple templates
+3162,RTDualAttachPoint,i am a new class to combine attach points,0,0,Keyimplementationpoints,i am a new class to combine attach points
+1581,SpartaCanvas,create a triangle vector path,0,0,Keyimplementationpoints,create a triangle vector path
+1406,GtLibraryInstallerMorph,top most container of the whole installer,0,0,Keyimplementationpoints,top most container of the whole installer
+173,BlElementCenterLeftAnchor,my position is equal to the left center of a reference element,0,0,Keyimplementationpoints,my position is equal to the left center of a reference element
+4278,WASelection,selection,0,0,Keyimplementationpoints,selection
+4014,WAFormDecoration,the buttons inst var must be set.,0,0,Keyimplementationpoints,the buttons inst var must be set

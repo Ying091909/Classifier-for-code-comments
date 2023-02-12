@@ -1,0 +1,358 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+4321,WAUpTimeTracker,wauptimetracker imageboottime.,1,0,Classreferences,wauptimetracker imageboottime
+2574,PRHeadingLevelOffsetTransformer,convert from the level of a pillar heading to the level of heading in the exported document.,1,0,Classreferences,convert from the level of a pillar heading to the level of heading in the exported document
+3223,RTFilterInView,filter spawnblock el rtview new addall el copy yourself .,1,0,Classreferences,filter spawnblock el rtview new addall el copy yourself
+2065,MalHgNode,children,1,0,Classreferences,children
+3209,RTFilterInView,b nodes collection withallsubclasses .,1,0,Classreferences,b nodes collection withallsubclasses
+121,BlClickEvent,click,1,0,Classreferences,click
+3701,RTVerticalMultipleData,d addmetric #fourth.,1,0,Classreferences,d addmetric fourth
+253,BlGridLayout,"by default grid layout does not specify how many columns and rows exist, instead it tries to compute necessary amount of columns or rows depending on amount of children.",1,0,Classreferences,by default grid layout does not specify how many columns and rows exist instead it tries to compute necessary amount of columns or rows depending on amount of children
+3838,WABulkReapingCache,a background process should send #reap to me.,1,0,Classreferences,a background process should send reap to me
+3073,RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,1,0,Classreferences,253 174 97 254 224 139 255 255 191 217 239 139
+1137,GtGradAbstractTreeLayout,"reignold tilfold s algorithm was originally designed only for binary trees, but later extended to work for non binary ones as well.",1,0,Classreferences,reignold tilfold s algorithm was originally designed only for binary trees but later extended to work for non binary ones as well
+1088,GtExampleFactory,"if this is done, this provider will be used for all examples created by the factory.",1,0,Classreferences,if this is done this provider will be used for all examples created by the factory
+4111,WALabelledFormDialog,labelforselector asymbol,1,0,Classreferences,labelforselector asymbol
+1369,GtGraphTreemapSquarifyLandscapeRectangle,example gtgraphtreemaplayoutexamples #squarifywithfournodesfirstarea nocode,1,0,Classreferences,example gtgraphtreemaplayoutexamples squarifywithfournodesfirstarea nocode
+1045,GtDiagrammerPicker,margin blinsets all 3,1,0,Classreferences,margin blinsets all 3
+202,BlElementRemovedEvent,parent removechild child,1,0,Classreferences,parent removechild child
+2830,PMLineSearch,for once off use,1,0,Classreferences,for once off use
+388,BlKeyCombination,see blkeycombinationexamples for related examples.,1,1,Classreferences,see blkeycombinationexamples for related examples
+3834,JQLoad,load html from a remote file and inject it into the dom.,1,0,Classreferences,load html from a remote file and inject it into the dom
+2578,PRHTMLCanvas,an html canvas that facilitates writing html to a stream.,1,0,Classreferences,an html canvas that facilitates writing html to a stream
+2441,PPSea,xxxxx,1,0,Classreferences,xxxxx
+3225,RTFilterInView,b,1,0,Classreferences,b
+2159,MalTerms,terms addstring string using camelcasescanner new.,1,0,Classreferences,terms addstring string using camelcasescanner new
+135,BlDecelerateInterpolator,setting factor to 10f produces an upside down y x^2 parabola.,1,0,Classreferences,setting factor to 10f produces an upside down y x 2 parabola
+1050,GtDiagrammerPicker,picker when brtoggleactivatedevent do anevent self inform anevent model .,1,0,Classreferences,picker when brtoggleactivatedevent do anevent self inform anevent model
+1292,GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,1,0,Classreferences,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends
+4122,WALabelledFormDialog,callback v contact name v,1,0,Classreferences,callback v contact name v
+3082,RTCalendarExample,.,1,0,Classreferences,nan
+133,BlDecelerateInterpolator,i am an interpolator where the rate of change starts out quickly and and then decelerates.,1,0,Classreferences,i am an interpolator where the rate of change starts out quickly and and then decelerates
+3078,RTCalendarExample,b monthshape shape b monthshapepath 150 .,1,0,Classreferences,b monthshape shape b monthshapepath 150
+340,BlHostPulseLoop,i indicate to the universe that is time to synchronize the state of the elements.,1,0,Classreferences,i indicate to the universe that is time to synchronize the state of the elements
+192,BlElementPositionChangeTest,i contain examples of position change logging functionality,1,0,Classreferences,i contain examples of position change logging functionality
+242,BlGeometryElement,i am a root class of geometry elements elements driven by geometry anchors.,1,0,Classreferences,i am a root class of geometry elements elements driven by geometry anchors
+2826,PMLineSearch,"in this case, this method finds such an x that this function is minimized in the sense",1,0,Classreferences,in this case this method finds such an x that this function is minimized in the sense
+220,BlExperimentalExamples,i contain experimental examples that only work in manually prepared laboratory environments.,1,0,Classreferences,i contain experimental examples that only work in manually prepared laboratory environments
+4201,WAOptionGroupTag,see wainputtest #renderoptiongroupon for examples.,1,1,Classreferences,see wainputtest renderoptiongroupon for examples
+3207,RTFilterInView,b rtmondrian new.,1,0,Classreferences,b rtmondrian new
+78,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #remove,1,0,Classreferences,example blchildrenorderedcollectionexamples remove
+2197,MooseEntity,this is achieved through mooseentitystate.,1,0,Classreferences,this is achieved through mooseentitystate
+1047,GtDiagrammerPicker,picker constraintsdo c,1,0,Classreferences,picker constraintsdo c
+2439,PPSea,xxxxx,1,0,Classreferences,xxxxx
+3745,RTWeightedCircleLayout,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15 .,1,0,Classreferences,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15
+4216,WAPath,the method wapath currentsegment returns object associated with the current page .,1,0,Classreferences,the method wapath currentsegment returns object associated with the current page
+2121,MalLatticePatterns,smalltalk collection class hierarchy,1,0,Classreferences,smalltalk collection class hierarchy
+182,BlElementEffect,i am the abstract root class for effects.,1,0,Classreferences,i am the abstract root class for effects
+3179,RTExperimentalExample,^ b,1,0,Classreferences,b
+3631,RTSunburstBuilderExamples,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,1,0,Classreferences,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray
+1300,GtGraphTreemapSquarify,"we choose for a horizontal subdivision, because the original rectangle is wider than high.",1,0,Classreferences,we choose for a horizontal subdivision because the original rectangle is wider than high
+1281,GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,1,1,Classreferences,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents
+137,BlDecelerateInterpolator,my formula is,1,0,Classreferences,my formula is
+1280,GtGraphTreemapSliceHorizontalLayout,i implement an horizontal slice algorithm.,1,0,Classreferences,i implement an horizontal slice algorithm
+119,BlClickEvent,mouse down,1,0,Classreferences,mouse down
+3692,RTVerticalMultipleData,each group has the same x value.,1,0,Classreferences,each group has the same x value
+1039,GtDiagrammerPicker,i .,1,0,Classreferences,i
+3215,RTFilterInView,example using the spawn block,1,0,Classreferences,example using the spawn block
+2119,MalLatticePatterns,mallatticepatterns on treillis reportpatterns.,1,0,Classreferences,mallatticepatterns on treillis reportpatterns
+3177,RTExperimentalExample,v addelement rtbox element.,1,0,Classreferences,v addelement rtbox element
+2207,MooseEntity,meta descriptions,1,0,Classreferences,meta descriptions
+984,BrTextEditorLineSplitter,i split a piece of text into line segments class brtexteditorlinesegment,1,1,Classreferences,i split a piece of text into line segments class brtexteditorlinesegment
+4279,WASelection,labelblock item item 1 iftrue first iffalse item asuppercase .,1,0,Classreferences,labelblock item item 1 iftrue first iffalse item asuppercase
+3141,RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,1,0,Classreferences,i am a class helper to do the layout in rtcirculartreemapbuilder
+4302,WAServerAdaptor,codec,1,0,Classreferences,codec
+2832,PMLineSearch,"where funblock is the implementation of g x , g0 g 0 , dg0 g 0 and g1 g 0 .",1,0,Classreferences,where funblock is the implementation of g x g0 g 0 dg0 g 0 and g1 g 0
+1191,GtGraphCircleEnclosure,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,1,0,Classreferences,adding a second circle expands the enclosure circle to fit both circles c1 and c2
+1195,GtGraphCircleEnclosure,method gtgraphcircleenclosure class #enclosure and and is responsible for the computation.,1,0,Classreferences,method gtgraphcircleenclosure class enclosure and and is responsible for the computation
+3656,RTSVGPopup,the click refers to the posibility of activating the popup only when the element is clicked.,1,0,Classreferences,the click refers to the posibility of activating the popup only when the element is clicked
+1312,GtGraphTreemapSquarify,in step 4 we add the rectangle with area 4,1,0,Classreferences,in step 4 we add the rectangle with area 4
+4212,WAPath,the association key is the text that is displayed in the breadcrimb.,1,0,Classreferences,the association key is the text that is displayed in the breadcrimb
+3086,RTCalendarExample,b yearlayout horizontalline.,1,0,Classreferences,b yearlayout horizontalline
+1302,GtGraphTreemapSquarify,first we add a single rectangle.,1,0,Classreferences,first we add a single rectangle
+2640,PRParseWarning,i am a warning for the parse of a pillar file.,1,0,Classreferences,i am a warning for the parse of a pillar file
+3622,RTSunburstBuilder,"you can customize the angle of the arc, and play with the with radius and width of each arc.",1,0,Classreferences,you can customize the angle of the arc and play with the with radius and width of each arc
+1043,GtDiagrammerPicker,picker shape astring brtoggle new,1,0,Classreferences,picker shape astring brtoggle new
+3709,RTVerticalMultipleData,d rtverticalmultipledata new.,1,0,Classreferences,d rtverticalmultipledata new
+3075,RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,1,0,Classreferences,collect ar color r ar first g ar second b ar third range 255
+4252,WAProtectionFilter,the protection filter ensures that the wrapped request handler only accepts requests from the same ip.,1,0,Classreferences,the protection filter ensures that the wrapped request handler only accepts requests from the same ip
+2201,MooseEntity,"for example, if you have yourentity that subclasses mooseentity, you can extend it with",1,0,Classreferences,for example if you have yourentity that subclasses mooseentity you can extend it with
+2649,PRPhase,transformerinputfileon acollection,1,0,Classreferences,transformerinputfileon acollection
+1316,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep previewexpanded true nocode,1,0,Classreferences,example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep previewexpanded true nocode
+259,BlGridLayout,cellspacing anumber to specify spacing between cells,1,0,Classreferences,cellspacing anumber to specify spacing between cells
+2187,MooseCustomTask,the main api is then,1,0,Classreferences,the main api is then
+4323,WAUpTimeTracker,wauptimetracker imageuptime.,1,0,Classreferences,wauptimetracker imageuptime
+361,BlInfiniteDataSourceItemRangeMoved,example,1,0,Classreferences,example
+247,BlGridLayout,a grid consists of cells that are separated by invisible lines.,1,0,Classreferences,a grid consists of cells that are separated by invisible lines
+2195,MooseEntity,extension mechanism,1,0,Classreferences,extension mechanism
+1310,GtGraphTreemapSquarify,"therefore, we decide that we have reached an optimum for the left half in step two, and start processing the right half.",1,0,Classreferences,therefore we decide that we have reached an optimum for the left half in step two and start processing the right half
+1044,GtDiagrammerPicker,look brmaterialtogglelabelledlook,1,0,Classreferences,look brmaterialtogglelabelledlook
+1129,GtGradAbstractTreeLayout,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically.,1,0,Classreferences,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically
+4275,WASelection,selection,1,0,Classreferences,selection
+4100,WALabelledFormDialog,self addmessage please enter the followning information .,1,0,Classreferences,self addmessage please enter the followning information
+3696,RTVerticalMultipleData,b rtgrapher new.,1,0,Classreferences,b rtgrapher new
+400,BlLayout,"tipically this includes the position of child elements within the parent, or the size of the parent element.",1,0,Classreferences,tipically this includes the position of child elements within the parent or the size of the parent element
+1194,GtGraphCircleEnclosure,three circle enclosure is a special case too.,1,0,Classreferences,three circle enclosure is a special case too
+2597,PRInputFileAnnotation,inputfile value directory myfile^pillar,1,0,Classreferences,inputfile value directory myfile pillar
+197,BlElementRemovedEvent,child parent,1,0,Classreferences,child parent
+3093,RTCalendarExample,colors at index.,1,0,Classreferences,colors at index
+4199,WAOptionGroupTag,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options.,1,0,Classreferences,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options
+397,BlLayout,bloc layout,1,0,Classreferences,bloc layout
+1074,GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,1,0,Classreferences,the dependencies of a given example consists in message sends to other method constructing an example
+73,BlChildrenOrderedCollectionExamples,i define examples for the class class blchildrenorderedcollection .,1,0,Classreferences,i define examples for the class class blchildrenorderedcollection
+1304,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep previewexpanded true nocode,1,0,Classreferences,example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep previewexpanded true nocode
+399,BlLayout,i am attached to a bloc element and define the visual structure of that bloc element.,1,0,Classreferences,i am attached to a bloc element and define the visual structure of that bloc element
+2105,MalLatticePatterns,the class implements the identification of patterns in fca lattices.,1,0,Classreferences,the class implements the identification of patterns in fca lattices
+1034,GtDiagrammerPicker,picker,1,0,Classreferences,picker
+2861,PMMatrix,i can be build from rows as follows,1,0,Classreferences,i can be build from rows as follows
+2117,MalLatticePatterns,treillis mallattice on context .,1,0,Classreferences,treillis mallattice on context
+1198,GtGraphCircleEnclosure,"starting with four circles, an enclosure should be computed recursively by building and updating a basis enclosure consisting of one to three circles method gtgraphcircleenclosure class #enclosureall .",1,0,Classreferences,starting with four circles an enclosure should be computed recursively by building and updating a basis enclosure consisting of one to three circles method gtgraphcircleenclosure class enclosureall
+1041,GtDiagrammerPicker,a .,1,0,Classreferences,a
+2443,PPSea,xxxxx,1,0,Classreferences,xxxxx
+4319,WAUpTimeTracker,wauptimetracker is used to track the timestamp when the image last booted.,1,0,Classreferences,wauptimetracker is used to track the timestamp when the image last booted
+1115,GtExampleProcessor,i am an abstract class for manipulating examples.,1,0,Classreferences,i am an abstract class for manipulating examples
+2203,MooseEntity,^ self privatestate attributeat #yourextendingattribute,1,0,Classreferences,self privatestate attributeat yourextendingattribute
+198,BlElementRemovedEvent,child blelement new.,1,0,Classreferences,child blelement new
+2179,ManifestMooseQuery,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,1,1,Classreferences,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser
+3611,RTSmoothLayoutTranslator,nbcycles object,1,0,Classreferences,nbcycles object
+1889,FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,1,1,Classreferences,they can also mirror the same information in terms of famixpackage instances
+4104,WALabelledFormDialog,self answer contact,1,0,Classreferences,self answer contact
+2474,PPXPathFilter,a xpath node applies me to filter xml elements.,1,0,Classreferences,a xpath node applies me to filter xml elements
+48,BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",1,0,Classreferences,a rope uses a balanced binary tree to support fast adding removing and accessing with the disadvantage of taking more memory
+2209,MooseEntity,this is achieved by means of pragmas,1,0,Classreferences,this is achieved by means of pragmas
+4296,WAServerAdaptor,a waserver is the abstract base class for all servers.,1,0,Classreferences,a waserver is the abstract base class for all servers
+1306,GtGraphTreemapSquarify,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep label #worstvaluerounded .,1,0,Classreferences,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep label worstvaluerounded
+1033,GtDiagrammerPicker,i am a scriptable toogle group to display a uniform collection of selectable values.,1,0,Classreferences,i am a scriptable toogle group to display a uniform collection of selectable values
+1322,GtGraphTreemapSquarify,the final result is the following,1,0,Classreferences,the final result is the following
+4240,WAPharoUrlEncoder,i am a pharo specific url encoder.,1,0,Classreferences,i am a pharo specific url encoder
+4180,WAListAttribute,walistattribute is an attribute that is restricted to a list of values.,1,0,Classreferences,walistattribute is an attribute that is restricted to a list of values
+4113,WALabelledFormDialog,asymbol #phonenumber iftrue ^ phone number .,1,0,Classreferences,asymbol phonenumber iftrue phone number
+2624,PRObject,i am visitable.,1,0,Classreferences,i am visitable
+2591,PRInputFileAnnotation,with me we can add a transformation to remplace an annotation to a pillar file by his tree.,1,0,Classreferences,with me we can add a transformation to remplace an annotation to a pillar file by his tree
+3712,RTVerticalMultipleData,d addmetric #numberofmethods.,1,0,Classreferences,d addmetric numberofmethods
+267,BlGridLayout,internal representation and key implementation points.,1,0,Classreferences,internal representation and key implementation points
+2647,PRPhase,this method will return an output.,1,0,Classreferences,this method will return an output
+2869,PMODESolver,the main interface once the solver is set up it has a stepper and a solver is,1,0,Classreferences,the main interface once the solver is set up it has a stepper and a solver is
+4193,WAObjectTag,defines an embedded object.,1,0,Classreferences,defines an embedded object
+1297,GtGraphTreemapSquarify,the area will be subdivided as follows,1,0,Classreferences,the area will be subdivided as follows
+8,BlArrowheadSimpleArrow,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,1,0,Classreferences,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle
+32,BlChicken,how to run,1,0,Classreferences,how to run
+2645,PRPhase,this configuration is a the configuration of the export.,1,0,Classreferences,this configuration is a the configuration of the export
+3743,RTWeightedCircleLayout,here is an example,1,0,Classreferences,here is an example
+47,BlChildrenCollection,a linked list optimize for fast adding and removing.,1,0,Classreferences,a linked list optimize for fast adding and removing
+3635,RTSunburstBuilderExamples,^ b view,1,0,Classreferences,b view
+1131,GtGradAbstractTreeLayout,it improved the older algorithm s ability to handle non uniform sized nodes.,1,0,Classreferences,it improved the older algorithm s ability to handle non uniform sized nodes
+2863,PMMatrix,i understand the usual matrix operations.,1,0,Classreferences,i understand the usual matrix operations
+339,BlHostPulseLoop,i am the bloc main loop.,1,0,Classreferences,i am the bloc main loop
+3698,RTVerticalMultipleData,d points # # hello 1 2 1 # world 2 4 2 # bonjour 3 5 4 # bonjour 3 5 4 # bonjour 3 5 4 .,1,0,Classreferences,d points hello 1 2 1 world 2 4 2 bonjour 3 5 4 bonjour 3 5 4 bonjour 3 5 4
+2607,PRLaTeXEnvironment,to emit,1,0,Classreferences,to emit
+261,BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,1,0,Classreferences,alignbounds alignment is made between the edges of each component s raw bounds
+3675,RTTextWord,interval of the word in the original text,1,0,Classreferences,interval of the word in the original text
+1295,GtGraphTreemapSquarify,this is an adapted extract from the paper squarified treemaps mentioned above.,1,0,Classreferences,this is an adapted extract from the paper squarified treemaps mentioned above
+2435,PPSea,xxxxx,1,0,Classreferences,xxxxx
+2834,PMLineSearch,storedmethod dhblinesearch new.,1,0,Classreferences,storedmethod dhblinesearch new
+1386,GtLibraryInstaller,extension .,1,0,Classreferences,extension
+2107,MalLatticePatterns,data fca context lattice,1,0,Classreferences,data fca context lattice
+647,BlRectangleShapeWithArrowExplanation,we will start with creation of the rectangle shape class blrectangleshape,1,1,Classreferences,we will start with creation of the rectangle shape class blrectangleshape
+3205,RTFilterInView,with edges,1,0,Classreferences,with edges
+3633,RTSunburstBuilderExamples,b view @ rtdraggableview.,1,0,Classreferences,b view @ rtdraggableview
+2516,PRBookTesterVisitor,visitcodeblock uses executeandreport creating a prbooktestresult with the result of the evaluation of the codeblock.,1,1,Classreferences,visitcodeblock uses executeandreport creating a prbooktestresult with the result of the evaluation of the codeblock
+3703,RTVerticalMultipleData,b add d.,1,0,Classreferences,b add d
+2183,MooseAbstractImporter,i m the root for the new importer.,1,0,Classreferences,i m the root for the new importer
+45,BlChildrenCollection,i allow elements to optimize working with children for different scenarious.,1,0,Classreferences,i allow elements to optimize working with children for different scenarious
+1181,GtGraphCircleEnclosure,i compute the smallest circle that encloses the specified array of circles.,1,0,Classreferences,i compute the smallest circle that encloses the specified array of circles
+2061,MalHgNode,outgoing orderedcollection,1,0,Classreferences,outgoing orderedcollection
+2213,MooseEntity,mseclass #yourentity super #mooseentity,1,0,Classreferences,mseclass yourentity super mooseentity
+2353,PPDebugParser,used by adding enabledebug before parsing.,1,0,Classreferences,used by adding enabledebug before parsing
+2677,PRPillarParserMain,i will also use the ston reader to read potentital metadata at the begining of the stream.,1,1,Classreferences,i will also use the ston reader to read potentital metadata at the begining of the stream
+2922,MorphicRoassalAdapter,i am bridging roassalmodel and rtview,1,1,Classreferences,i am bridging roassalmodel and rtview
+3707,RTVerticalMultipleData,classes collection withallsubclasses reversesortedas #numberofmethods first 10.,1,0,Classreferences,classes collection withallsubclasses reversesortedas numberofmethods first 10
+4102,WALabelledFormDialog,^ contact,1,0,Classreferences,contact
+3217,RTFilterInView,b rtmondrian new.,1,0,Classreferences,b rtmondrian new
+2870,PMODESolver,solve system x0 astate t0 starttime t1 endtime,1,0,Classreferences,solve system x0 astate t0 starttime t1 endtime
+4260,WARequestContext,"it does not matter if this is a request to a static file, an ajax request, a long comet request or a normal seaside requestion.",1,0,Classreferences,it does not matter if this is a request to a static file an ajax request a long comet request or a normal seaside requestion
+3627,RTSunburstBuilderExamples,code,1,0,Classreferences,code
+2588,PRHTMLScriptLanguage,hypertext markup language,1,0,Classreferences,hypertext markup language
+2651,PRPhase,acollection,1,0,Classreferences,acollection
+3672,RTTextWord,interval interval,1,0,Classreferences,interval interval
+3613,RTSmoothLayoutTranslator,xxxxx,1,0,Classreferences,xxxxx
+1182,GtGraphCircleEnclosure,the enclosing circle is computed using the matou ek sharir welzl http www^inf.ethz^ch personal emo publfiles subexlinprog alg16 96^pdf algorithm.,1,0,Classreferences,the enclosing circle is computed using the matou ek sharir welzl http www inf ethz ch personal emo publfiles subexlinprog alg16 96 pdf algorithm
+236,BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,1,0,Classreferences,i am an event listener that listens anchor moved event send by anchor
+1090,GtExampleFactory,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,1,0,Classreferences,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword
+4299,WAServerAdaptor,#usessmalltalkencoding,1,0,Classreferences,usessmalltalkencoding
+2192,MooseEntity,mooseentity is an abstract entity.,1,0,Classreferences,mooseentity is an abstract entity
+1117,GtExampleProcessor,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",1,0,Classreferences,for example evaluating an example is to be treated differently from a debugging scenario or from a scenario to recorver static dependencies
+3165,RTEditableLabel,"i am a class to create editable label shapes, but do not forget that roassal is for visualizations not to build morphs",1,0,Classreferences,i am a class to create editable label shapes but do not forget that roassal is for visualizations not to build morphs
+2595,PRInputFileAnnotation,examples,1,0,Classreferences,examples
+1037,GtDiagrammerPicker,picker display hello .,1,0,Classreferences,picker display hello
+3,BlArrowheadExamples,i contain examples of different types of blarrowheadelement,1,1,Classreferences,i contain examples of different types of blarrowheadelement
+1082,GtExampleFactory,this is the class used to look for methods defining examples.,1,0,Classreferences,this is the class used to look for methods defining examples
+1380,GtLibraryInstaller,installer,1,0,Classreferences,installer
+2622,PRObject,i am a superclass of most objects within pier.,1,0,Classreferences,i am a superclass of most objects within pier
+3089,RTCalendarExample,value dictionary at d 005.,1,0,Classreferences,value dictionary at d 005
+2173,ManifestFamixPharoSmalltalkEntities,i store metadata for this package.,1,0,Classreferences,i store metadata for this package
+3136,RTCircleGeometry,"i am not a roassal shape, for that use rtellipse.",1,0,Classreferences,i am not a roassal shape for that use rtellipse
+1218,GtGraphEdgesIterator,i am an abstract iterator over edges connected to a graph element,1,0,Classreferences,i am an abstract iterator over edges connected to a graph element
+1110,GtExampleInstanceSubject,i am the default subject of an example.,1,0,Classreferences,i am the default subject of an example
+4310,WATagBrush,its main additions are,1,0,Classreferences,its main additions are
+1133,GtGradAbstractTreeLayout,"however, this implementation offers the posibility of choosing the orientation vertical or horizontal.",1,0,Classreferences,however this implementation offers the posibility of choosing the orientation vertical or horizontal
+351,BlInfiniteDataSourceCommandType,i suppose to be stateless and therefore immutable.,1,0,Classreferences,i suppose to be stateless and therefore immutable
+296,BlGridLayoutArc,"i represent an association of span interval, associated value and validity flag.",1,0,Classreferences,i represent an association of span interval associated value and validity flag
+3651,RTSVGBoxedTextPopup,"a rtsvgboxedtextpopup is a text popup, contained in a square box.",1,0,Classreferences,a rtsvgboxedtextpopup is a text popup contained in a square box
+4120,WALabelledFormDialog,list # roger pete,1,0,Classreferences,list roger pete
+4210,WAPath,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz .,1,0,Classreferences,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz
+3694,RTVerticalMultipleData,here is an example,1,0,Classreferences,here is an example
+2070,MalHgNode,incoming,1,0,Classreferences,incoming
+3095,RTCalendarExample,b dateinteraction popup.,1,0,Classreferences,b dateinteraction popup
+309,BlHandlerRegistry,i am an event handler registry used by dispatchers in order to manage event handlers.,1,0,Classreferences,i am an event handler registry used by dispatchers in order to manage event handlers
+118,BlClickEvent,the order of fired events,1,0,Classreferences,the order of fired events
+297,BlGridLayoutArc,i am used by grid layout instead of dictionary of span value key value pair for performance reasons.,1,0,Classreferences,i am used by grid layout instead of dictionary of span value key value pair for performance reasons
+3710,RTVerticalMultipleData,d points classes.,1,0,Classreferences,d points classes
+1192,GtGraphCircleEnclosure,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class #enclosure and,1,0,Classreferences,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class enclosure and
+3213,RTFilterInView,b view @ rtfilterinview.,1,0,Classreferences,b view @ rtfilterinview
+2828,PMLineSearch,for some small alpha defaults to 1e 4 .,1,0,Classreferences,for some small alpha defaults to 1e 4
+1308,GtGraphTreemapSquarify,"however, if we add the next area 4 above these original rectangles, the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep label #worstvaluerounded .",1,0,Classreferences,however if we add the next area 4 above these original rectangles the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep label worstvaluerounded
+2356,PPDebugParser,root,1,0,Classreferences,root
+2745,PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",1,0,Classreferences,here are tests that would be in math tests dhb numerical if it could construct random matrices
+139,BlDecelerateInterpolator,"i meant to be immutable, therefore factor can be only set using factory method #factor on my class side",1,0,Classreferences,i meant to be immutable therefore factor can be only set using factory method factor on my class side
+249,BlGridLayout,"indices lie in closed interval 1, n 1 .",1,0,Classreferences,indices lie in closed interval 1 n 1
+1556,SpartaCanvas,i am polymorphic with spartasurface .,1,1,Classreferences,i am polymorphic with spartasurface
+85,BlChildrenSubset,i am an abstract class.,1,0,Classreferences,i am an abstract class
+176,BlElementDynamicTransformation,i am dynamic element transformation in the sense that my transformation matrix may actually depend on some element properties such as #extent or #position.,1,0,Classreferences,i am dynamic element transformation in the sense that my transformation matrix may actually depend on some element properties such as extent or position
+6,BlArrowheadSimpleArrow,i am a simple arrow like arrowhead.,1,0,Classreferences,i am a simple arrow like arrowhead
+2074,MalHgNode,"the larger the number, the deeper down in the hierarchy the node is located.",1,0,Classreferences,the larger the number the deeper down in the hierarchy the node is located
+2068,MalHgNode,higraph,1,0,Classreferences,higraph
+3664,RTTabTable,rttabtable is made to work with csv file contents.,1,0,Classreferences,rttabtable is made to work with csv file contents
+255,BlGridLayout,grid layout supports spacing between cells which can be set sending cellspacing message.,1,0,Classreferences,grid layout supports spacing between cells which can be set sending cellspacing message
+3219,RTFilterInView,b nodes collection withallsubclasses .,1,0,Classreferences,b nodes collection withallsubclasses
+2150,MalRowMatrix,"hapax is distributed under bsd license, see package comment.",1,0,Classreferences,hapax is distributed under bsd license see package comment
+96,BlChildrenSubset,instances of me are created by calling the factory method method blchildrensubset class #on on a subclass with an instance of class blchildren as parameter.,1,0,Classreferences,instances of me are created by calling the factory method method blchildrensubset class on on a subclass with an instance of class blchildren as parameter
+1046,GtDiagrammerPicker,label astring .,1,0,Classreferences,label astring
+2057,MalHgNode,children orderedcollection,1,0,Classreferences,children orderedcollection
+1415,GtPhlowForwarderView,example,1,0,Classreferences,example
+258,BlGridLayout,rowcount anumber to specify amount of rows,1,0,Classreferences,rowcount anumber to specify amount of rows
+341,BlHostPulseLoop,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum.,1,0,Classreferences,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum
+2643,PRPhase,"a phase takes an input, transforms it and returns an output.",1,0,Classreferences,a phase takes an input transforms it and returns an output
+2113,MalLatticePatterns,fca model treillis context,1,0,Classreferences,fca model treillis context
+2109,MalLatticePatterns,fca malformalcontext new.,1,0,Classreferences,fca malformalcontext new
+228,BlFocusExamples,3 navigate with keyboard arrows arrow up down left right,1,0,Classreferences,3 navigate with keyboard arrows arrow up down left right
+3135,RTCircleGeometry,i represent a circle described by its center and a radius .,1,0,Classreferences,i represent a circle described by its center and a radius
+2840,PMLineSearch,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations.,1,0,Classreferences,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations
+2593,PRInputFileAnnotation,i can have in parameter,1,0,Classreferences,i can have in parameter
+275,BlGridLayout,implementation points,1,0,Classreferences,implementation points
+4098,WALabelledFormDialog,contact contact new.,1,0,Classreferences,contact contact new
+4106,WALabelledFormDialog,self answer,1,0,Classreferences,self answer
+2363,PPInfo,a ppinfo represent the informations around a parsing result and also contain this result.,1,0,Classreferences,a ppinfo represent the informations around a parsing result and also contain this result
+3162,RTDualAttachPoint,i am a new class to combine attach points,1,0,Classreferences,i am a new class to combine attach points
+214,BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,1,0,Classreferences,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure
+95,BlChildrenSubset,api,1,0,Classreferences,api
+2614,PRList,"i represent the abstraction over ordered, unordered html or latex list.",1,0,Classreferences,i represent the abstraction over ordered unordered html or latex list
+374,BlInfiniteExampleClassesDataSource,i am a data source of the collection of all classes in the image,1,0,Classreferences,i am a data source of the collection of all classes in the image
+1180,GtGraphCircleEnclosure,smallest enclosing circle of circles,1,0,Classreferences,smallest enclosing circle of circles
+1150,GtGradAbstractTreeLayout,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine.,1,0,Classreferences,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine
+4273,WASelection,"if optional labelblock is not given the string versions of the items are displayed to user, otherwise labelblock is used to generate the text to display for each item.",1,0,Classreferences,if optional labelblock is not given the string versions of the items are displayed to user otherwise labelblock is used to generate the text to display for each item
+1027,GtDiagrammerEllipseStencil,i create an ellipse element,1,0,Classreferences,i create an ellipse element
+40,BlChildrenCollection,i provide a data structure independent api for adding and removing children.,1,0,Classreferences,i provide a data structure independent api for adding and removing children
+200,BlElementRemovedEvent,parent blelement new.,1,0,Classreferences,parent blelement new
+3713,RTVerticalMultipleData,d barchartwithbartitle #name rotation 30.,1,0,Classreferences,d barchartwithbartitle name rotation 30
+102,BlChildrenSubset,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration.,1,0,Classreferences,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration
+1048,GtDiagrammerPicker,c horizontal exact 400.,1,0,Classreferences,c horizontal exact 400
+3954,WAErrorHandler,handlewarning,1,1,Classreferences,handlewarning
+3091,RTCalendarExample,index 1 iftrue index 1 .,1,0,Classreferences,index 1 iftrue index 1
+120,BlClickEvent,mouse up,1,0,Classreferences,mouse up
+1410,GtPhlowForwarderView,"i am also useful in situtions, when the object is created only for the purpose of the view.",1,0,Classreferences,i am also useful in situtions when the object is created only for the purpose of the view
+4246,WAPlugin,to add a new plugin make sure you choose the right superclass so that the tool can detect your code.,1,0,Classreferences,to add a new plugin make sure you choose the right superclass so that the tool can detect your code
+1135,GtGradAbstractTreeLayout,it calculates left and right subtrees of a tree and merges them.,1,0,Classreferences,it calculates left and right subtrees of a tree and merges them
+2077,MalHgNode,parent,1,0,Classreferences,parent
+2111,MalLatticePatterns,mallatticepatterns on mallattice on context reportpatterns,1,0,Classreferences,mallatticepatterns on mallattice on context reportpatterns
+3175,RTExperimentalExample,b rtobjectbrowser new.,1,0,Classreferences,b rtobjectbrowser new
+4312,WATagBrush,attributes instance of wahtmlattributes,1,0,Classreferences,attributes instance of wahtmlattributes
+4271,WASelection,waselection creates a selectable list.,1,0,Classreferences,waselection creates a selectable list
+2063,MalHgNode,attributes,1,0,Classreferences,attributes
+3032,RTBorderAttachPoint,"unline continuousattachpoint & co. you don t need to care about what the end shape is, as long as it is one of the basic shapes.",1,1,Classreferences,unline continuousattachpoint co you don t need to care about what the end shape is as long as it is one of the basic shapes
+173,BlElementCenterLeftAnchor,my position is equal to the left center of a reference element,1,0,Classreferences,my position is equal to the left center of a reference element
+4218,WAPath,"so when you render a page call wapath currentsegment to get the current object, and generate the page accordingly.",1,0,Classreferences,so when you render a page call wapath currentsegment to get the current object and generate the page accordingly
+1148,GtGradAbstractTreeLayout,"additionally, this implementation supports alignment of nodes top, center, bottom in case of the vertical layout and left, center, right in case of the horizontal layout .",1,0,Classreferences,additionally this implementation supports alignment of nodes top center bottom in case of the vertical layout and left center right in case of the horizontal layout
+1190,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithonecircle previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Classreferences,example gtgraphcircleenclosureexamples enclosurewithonecircle previewshow gtpreviewfor previewexpanded previewheight 300
+2634,PRParameter,i represent a key and value pair.,1,0,Classreferences,i represent a key and value pair
+4185,WAMemoryInput,this is a seaside internal class.,1,0,Classreferences,this is a seaside internal class
+1318,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep previewexpanded true nocode,1,0,Classreferences,example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep previewexpanded true nocode
+3173,RTExperimentalExample,gtexample,1,0,Classreferences,gtexample
+652,BlRectangleShapeWithArrowExplanation,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape #moveby to the topedge,1,1,Classreferences,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape moveby to the topedge
+185,BlElementEffect,i can influence the bounds of my owner used to clip my owner .,1,0,Classreferences,i can influence the bounds of my owner used to clip my owner
+3714,RTVerticalMultipleData,b add d.,1,0,Classreferences,b add d
+3608,RTSmoothLayoutTranslator,a rosmoothlayouttranslator is xxxxxxxxx.,1,0,Classreferences,a rosmoothlayouttranslator is xxxxxxxxx
+1151,GtGradAbstractTreeLayout,"generally, the differences between the implementations of the hozitonal and vertical variants are really small, revolving around one using or setting the x and the other y coordinates.",1,0,Classreferences,generally the differences between the implementations of the hozitonal and vertical variants are really small revolving around one using or setting the x and the other y coordinates
+3747,RTWeightedCircleLayout,rtweightedcirclelayout on elements.,1,0,Classreferences,rtweightedcirclelayout on elements
+4342,WAUrlAttribute,waurlattribute represents a url attribute.,1,0,Classreferences,waurlattribute represents a url attribute
+2569,PRFootnote,noted astring,1,0,Classreferences,noted astring
+3083,RTCalendarExample,b dates year year 1990 to year year 2010 .,1,0,Classreferences,b dates year year 1990 to year year 2010
+4118,WALabelledFormDialog,show how to specily special input instead of using simple text field.,1,0,Classreferences,show how to specily special input instead of using simple text field
+3708,RTVerticalMultipleData,b rtgrapher new.,1,0,Classreferences,b rtgrapher new
+1121,GtExampleProcessor,#canprocess verifies if the processor can execute on the given example.,1,0,Classreferences,canprocess verifies if the processor can execute on the given example
+3084,RTCalendarExample,b datelayout gapsize 0.,1,0,Classreferences,b datelayout gapsize 0
+311,BlHandlerRegistry,registry,1,0,Classreferences,registry
+3715,RTVerticalMultipleData,b,1,0,Classreferences,b
+4214,WAPath,to add to the path use the method wapath pushsegment anobject name lulu .,1,0,Classreferences,to add to the path use the method wapath pushsegment anobject name lulu
+3085,RTCalendarExample,b monthlayout month.,1,0,Classreferences,b monthlayout month
+1367,GtGraphTreemapSquarifyLandscapeRectangle,example,1,0,Classreferences,example
+2052,MalHgNode,a malhgnode is a node inside a hierarchical graph.,1,0,Classreferences,a malhgnode is a node inside a hierarchical graph
+3087,RTCalendarExample,b dateshape if d dictionary includeskey d color,1,0,Classreferences,b dateshape if d dictionary includeskey d color
+3711,RTVerticalMultipleData,d addmetric #numberoflinesofcode.,1,0,Classreferences,d addmetric numberoflinesofcode
+36,BlChickenLeg,i am a single red chicken leg with two toes,1,0,Classreferences,i am a single red chicken leg with two toes
+3615,RTSmoothLayoutTranslator,xxxxx,1,0,Classreferences,xxxxx
+305,BlGridLayoutUsageExamples,i contain examples of a grid layout,1,0,Classreferences,i contain examples of a grid layout
+3705,RTVerticalMultipleData,here another example,1,0,Classreferences,here another example
+226,BlFocusExamples,1 inspect run example,1,0,Classreferences,1 inspect run example
+2433,PPSea,xxxxx,1,0,Classreferences,xxxxx
+1042,GtDiagrammerPicker,picker .,1,0,Classreferences,picker
+342,BlHostPulseLoop,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete .,1,0,Classreferences,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete
+3505,RTLinkView,rtsvgexporter,1,1,Classreferences,rtsvgexporter
+3081,RTCalendarExample,comp add rtbox new color color transparent .,1,0,Classreferences,comp add rtbox new color color transparent
+2099,MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",1,0,Classreferences,this means it finds a subset of the edges that forms a tree that includes every vertex where the total weight of all the edges in the tree is minimized
+3657,RTSVGPopup,this is disabled by default.,1,0,Classreferences,this is disabled by default
+2059,MalHgNode,incoming orderedcollection,1,0,Classreferences,incoming orderedcollection
+2115,MalLatticePatterns,fca malformalcontext new.,1,0,Classreferences,fca malformalcontext new
+3211,RTFilterInView,b edges connectfrom #superclass.,1,0,Classreferences,b edges connectfrom superclass
+1084,GtExampleFactory,"if the example method is defined on the class side, the provider is the class object.",1,0,Classreferences,if the example method is defined on the class side the provider is the class object
+3700,RTVerticalMultipleData,d addmetric #third.,1,0,Classreferences,d addmetric third
+1139,GtGradAbstractTreeLayout,"to accomplish that, it uses shapes represented by polyline structures.",1,0,Classreferences,to accomplish that it uses shapes represented by polyline structures
+1406,GtLibraryInstallerMorph,top most container of the whole installer,1,0,Classreferences,top most container of the whole installer
+1188,GtGraphCircleEnclosure,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class #enclosure .,1,0,Classreferences,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class enclosure
+3158,RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,1,0,Classreferences,a rtdecoratedtest is a test class for testing the behavior of rtdecorated
+2145,MalNodeWithPreviousAndNext,a basic node able to host the model and to represent edges with no additional class.,1,0,Classreferences,a basic node able to host the model and to represent edges with no additional class
+2824,PMLineSearch,"the method is initialized by g 0 , g 1 and g 0 .",1,0,Classreferences,the method is initialized by g 0 g 1 and g 0
+4257,WARedirectingRegistry,i revert to the old 33.0 behavior which is easier for tests.,1,0,Classreferences,i revert to the old 33 0 behavior which is easier for tests
+2123,MalLatticePatterns,treillis mallattice on malformalcontext classhierarchycollection .,1,0,Classreferences,treillis mallattice on malformalcontext classhierarchycollection
+4244,WAPlugin,i am an abstract root class for all plugins.,1,0,Classreferences,i am an abstract root class for all plugins
+149,BlDevScripterCheckFiredEventsStep,example,1,0,Classreferences,example
+1146,GtGradAbstractTreeLayout,"during this second traversal, positions of the tree s nodes are set.",1,0,Classreferences,during this second traversal positions of the tree s nodes are set
+1408,GtPhlowForwarderView,i forward a view definition to another object.,1,0,Classreferences,i forward a view definition to another object
+2278,PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,1,1,Classreferences,i am a test resource building a famixstmodel with the package blueprint test resource entities
+3147,RTCPQualitative,check it out by executing,1,0,Classreferences,check it out by executing
+3098,RTCalendarExample,^ b view,1,0,Classreferences,b view
+1086,GtExampleFactory,"in the second case, a new instance is created for running each example method.",1,0,Classreferences,in the second case a new instance is created for running each example method
+2838,PMLineSearch,optimization tip!!!,1,0,Classreferences,optimization tip
+1377,GtLibraryInstaller,i am the installer of shared libraries along side image or vm.,1,0,Classreferences,i am the installer of shared libraries along side image or vm
+2163,MalTerms,this class is part of hapax.,1,0,Classreferences,this class is part of hapax
+1402,GtLibraryInstallerLogAnnouncement,i am sent by installer when it tries to log some messages.,1,0,Classreferences,i am sent by installer when it tries to log some messages
+3079,RTCalendarExample,b yearshape composite comp,1,0,Classreferences,b yearshape composite comp
+2437,PPSea,xxxxx,1,0,Classreferences,xxxxx
+3080,RTCalendarExample,comp add rtlabel new text d d year height 20 .,1,0,Classreferences,comp add rtlabel new text d d year height 20
+4108,WALabelledFormDialog,^ # name phonenumber,1,0,Classreferences,name phonenumber
+90,BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",1,0,Classreferences,by having an explicit object for each operation the composition of operations can be inspected
+88,BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",1,0,Classreferences,for example class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included
+2836,PMLineSearch,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1.,1,0,Classreferences,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1
+3171,RTExperimentalExample,rtexperimentalexample new installtitle boxselectionforedges,1,0,Classreferences,rtexperimentalexample new installtitle boxselectionforedges
+2629,PRParagraph,i m close to a latex or html paragraph.,1,0,Classreferences,i m close to a latex or html paragraph
+100,BlChildrenSubset,internally the result of method blchildrensubset #subsetfrom is stored into an instance variable.,1,0,Classreferences,internally the result of method blchildrensubset subsetfrom is stored into an instance variable
+1314,GtGraphTreemapSquarify,"in the next step, we add area 3.",1,0,Classreferences,in the next step we add area 3
+117,BlClickEvent,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element.,1,0,Classreferences,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element
+3629,RTSunburstBuilderExamples,b rtsunburstbuilder new.,1,0,Classreferences,b rtsunburstbuilder new
+2054,MalHgNode,one can also store arbitrary informaition as attributes to a node.,1,0,Classreferences,one can also store arbitrary informaition as attributes to a node
+3221,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Classreferences,b normalizer normalizecolor numberofmethods
+1186,GtGraphCircleEnclosure,"and add circles one by one, starting with a larger one.",1,0,Classreferences,and add circles one by one starting with a larger one
+2199,MooseEntity,this extension will only be visible when the package is loaded.,1,0,Classreferences,this extension will only be visible when the package is loaded
+251,BlGridLayout,children are allowed to have fitcontent and exact resizing modes.,1,0,Classreferences,children are allowed to have fitcontent and exact resizing modes
+3588,RTScale,a class to have nice scales checks subclasses,1,0,Classreferences,a class to have nice scales checks subclasses
+2211,MooseEntity,"for example, yourentity could have",1,0,Classreferences,for example yourentity could have
+358,BlInfiniteDataSourceItemRangeMoved,"representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.",1,0,Classreferences,representations of other existing items in the data set are still considered up to date and will not be rebound though their positions may be altered

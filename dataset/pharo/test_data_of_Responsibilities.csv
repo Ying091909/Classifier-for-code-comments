@@ -1,0 +1,360 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3761,TROSMShape,position point,1,0,Responsibilities,position point
+3700,RTVerticalMultipleData,d addmetric #third.,1,0,Responsibilities,d addmetric third
+2311,TDependencyQueries,afamixmethod queryall #out.,1,0,Responsibilities,afamixmethod queryall out
+2828,PMLineSearch,for some small alpha defaults to 1e 4 .,1,0,Responsibilities,for some small alpha defaults to 1e 4
+2155,MalTerms,terms subclasses bag with support for handling stopwords etc,1,1,Responsibilities,terms subclasses bag with support for handling stopwords etc
+3147,RTCPQualitative,check it out by executing,1,0,Responsibilities,check it out by executing
+1305,GtGraphTreemapSquarify,"next we add a second rectangle, above the first.",1,0,Responsibilities,next we add a second rectangle above the first
+3694,RTVerticalMultipleData,here is an example,1,0,Responsibilities,here is an example
+3597,RTScrollBarBuilder,size or fixedposition can be defined as blocks.,1,0,Responsibilities,size or fixedposition can be defined as blocks
+342,BlHostPulseLoop,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete .,1,0,Responsibilities,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete
+2119,MalLatticePatterns,mallatticepatterns on treillis reportpatterns.,1,0,Responsibilities,mallatticepatterns on treillis reportpatterns
+182,BlElementEffect,i am the abstract root class for effects.,1,0,Responsibilities,i am the abstract root class for effects
+2593,PRInputFileAnnotation,i can have in parameter,1,0,Responsibilities,i can have in parameter
+2863,PMMatrix,i understand the usual matrix operations.,1,0,Responsibilities,i understand the usual matrix operations
+3922,WADatalistTag,datalist id browsers,1,0,Responsibilities,datalist id browsers
+3593,RTScrollBarBuilder,aving an orientation #vertical or #horizontal.,1,0,Responsibilities,aving an orientation vertical or horizontal
+1195,GtGraphCircleEnclosure,method gtgraphcircleenclosure class #enclosure and and is responsible for the computation.,1,0,Responsibilities,method gtgraphcircleenclosure class enclosure and and is responsible for the computation
+2316,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod as source,1,0,Responsibilities,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod as source
+362,BlInfiniteDataSourceItemRangeMoved,infiniteelement datasource,1,0,Responsibilities,infiniteelement datasource
+2579,PRHTMLCanvas,the main method is #tag that allow you to write something like this,1,1,Responsibilities,the main method is tag that allow you to write something like this
+2309,TDependencyQueries,afamixclass queryall #in.,1,0,Responsibilities,afamixclass queryall in
+3674,RTTextWord,interval,1,0,Responsibilities,interval
+247,BlGridLayout,a grid consists of cells that are separated by invisible lines.,1,0,Responsibilities,a grid consists of cells that are separated by invisible lines
+1888,FamixTPackage,java extractors map java packages to famixnamespaces.,1,0,Responsibilities,java extractors map java packages to famixnamespaces
+810,BlUniverseEventsCleared,emitted when all of the event loop s events have been processed and control flow is about to be taken away from the universe.,1,1,Responsibilities,emitted when all of the event loop s events have been processed and control flow is about to be taken away from the universe
+3862,WAComboResponse,self rendersearchresulton acanvas.,1,0,Responsibilities,self rendersearchresulton acanvas
+11,BlArrowheadSimpleArrow,i support both background and border paint and can have hollow inner triangle.,1,1,Responsibilities,i support both background and border paint and can have hollow inner triangle
+1033,GtDiagrammerPicker,i am a scriptable toogle group to display a uniform collection of selectable values.,1,0,Responsibilities,i am a scriptable toogle group to display a uniform collection of selectable values
+3703,RTVerticalMultipleData,b add d.,1,0,Responsibilities,b add d
+2734,PRUnorderedList,i am typically used for unnumbered lists,1,0,Responsibilities,i am typically used for unnumbered lists
+2830,PMLineSearch,for once off use,1,0,Responsibilities,for once off use
+1367,GtGraphTreemapSquarifyLandscapeRectangle,example,1,0,Responsibilities,example
+1082,GtExampleFactory,this is the class used to look for methods defining examples.,1,0,Responsibilities,this is the class used to look for methods defining examples
+33,BlChicken,blchicken open,1,0,Responsibilities,blchicken open
+3176,RTExperimentalExample,v rtview new.,1,0,Responsibilities,v rtview new
+3398,RTLabeled,a rtlabeled adds a label above an element.,1,1,Responsibilities,a rtlabeled adds a label above an element
+252,BlGridLayout,because child s matchparent does not make sense in case of grid users should use #fill to declare that child should take all available cell s space.,1,0,Responsibilities,because child s matchparent does not make sense in case of grid users should use fill to declare that child should take all available cell s space
+1303,GtGraphTreemapSquarify,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep label #worstvaluerounded .,1,0,Responsibilities,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep label worstvaluerounded
+587,BlMorphicHostSpace,i make it possible to embed bloc space within arbitrary morphs.,1,1,Responsibilities,i make it possible to embed bloc space within arbitrary morphs
+3092,RTCalendarExample,index 11 iftrue index 11 .,1,0,Responsibilities,index 11 iftrue index 11
+3075,RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,1,0,Responsibilities,collect ar color r ar first g ar second b ar third range 255
+2645,PRPhase,this configuration is a the configuration of the export.,1,1,Responsibilities,this configuration is a the configuration of the export
+3612,RTSmoothLayoutTranslator,move,1,0,Responsibilities,move
+2869,PMODESolver,the main interface once the solver is set up it has a stepper and a solver is,1,0,Responsibilities,the main interface once the solver is set up it has a stepper and a solver is
+1197,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewiththreecircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Responsibilities,example gtgraphcircleenclosureexamples enclosurewiththreecircles previewshow gtpreviewfor previewexpanded previewheight 300
+157,BlDevScripterClickStep,example,1,0,Responsibilities,example
+1311,GtGraphTreemapSquarify,"the initial subdivision we choose here is vertical, because the rectangle is higher than wider.",1,0,Responsibilities,the initial subdivision we choose here is vertical because the rectangle is higher than wider
+1051,GtDiagrammerPicker,picker,1,0,Responsibilities,picker
+1309,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep previewexpanded true nocode,1,0,Responsibilities,example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep previewexpanded true nocode
+228,BlFocusExamples,3 navigate with keyboard arrows arrow up down left right,1,0,Responsibilities,3 navigate with keyboard arrows arrow up down left right
+4246,WAPlugin,to add a new plugin make sure you choose the right superclass so that the tool can detect your code.,1,1,Responsibilities,to add a new plugin make sure you choose the right superclass so that the tool can detect your code
+3634,RTSunburstBuilderExamples,b build.,1,0,Responsibilities,b build
+85,BlChildrenSubset,i am an abstract class.,1,0,Responsibilities,i am an abstract class
+1299,GtGraphTreemapSquarify,the first step of our algorithm is to split the initial rectangle.,1,0,Responsibilities,the first step of our algorithm is to split the initial rectangle
+794,BlTextUnderlineAttribute,i am used together with class bltext and class tbltextstyleable to style text.,1,1,Responsibilities,i am used together with class bltext and class tbltextstyleable to style text
+3396,RTHorizontalData,rtdata renders bars and dots in vertical way,1,1,Responsibilities,rtdata renders bars and dots in vertical way
+1142,GtGradAbstractTreeLayout,"in this implementation, we call the polylines contours.",1,1,Responsibilities,in this implementation we call the polylines contours
+1117,GtExampleProcessor,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",1,0,Responsibilities,for example evaluating an example is to be treated differently from a debugging scenario or from a scenario to recorver static dependencies
+1193,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithtwocircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Responsibilities,example gtgraphcircleenclosureexamples enclosurewithtwocircles previewshow gtpreviewfor previewexpanded previewheight 300
+2826,PMLineSearch,"in this case, this method finds such an x that this function is minimized in the sense",1,0,Responsibilities,in this case this method finds such an x that this function is minimized in the sense
+309,BlHandlerRegistry,i am an event handler registry used by dispatchers in order to manage event handlers.,1,1,Responsibilities,i am an event handler registry used by dispatchers in order to manage event handlers
+3203,RTFilterInView,b view @ rtfilterinview.,1,0,Responsibilities,b view @ rtfilterinview
+2120,MalLatticePatterns,mallattice new viewlattice treillis .,1,0,Responsibilities,mallattice new viewlattice treillis
+77,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #add,1,0,Responsibilities,example blchildrenorderedcollectionexamples add
+3218,RTFilterInView,b shape box size #numberofmethods.,1,0,Responsibilities,b shape box size numberofmethods
+3400,RTLabeled,consider,1,1,Responsibilities,consider
+3614,RTSmoothLayoutTranslator,nbcycles,1,0,Responsibilities,nbcycles
+1291,GtGraphTreemapSquarify,i use method gtgraphtreemapnode #weight node values to split an area into.,1,1,Responsibilities,i use method gtgraphtreemapnode weight node values to split an area into
+1929,FMModel,i contains real instances of a class representing a concept in the current metamodel.,1,1,Responsibilities,i contains real instances of a class representing a concept in the current metamodel
+3137,RTCircleGeometry,instead i am using in some circle related gemetric computations.,1,1,Responsibilities,instead i am using in some circle related gemetric computations
+4039,WAHtmlHaltAndErrorHandler,"this exception handler also catches halts, in order to prevent debugger windows from popping up and blocking server processes in deployed images.",1,1,Responsibilities,this exception handler also catches halts in order to prevent debugger windows from popping up and blocking server processes in deployed images
+3595,RTScrollBarBuilder,the bar shape is defined by #barshape #abox or default value #anellipse,1,0,Responsibilities,the bar shape is defined by barshape abox or default value anellipse
+358,BlInfiniteDataSourceItemRangeMoved,"representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.",1,1,Responsibilities,representations of other existing items in the data set are still considered up to date and will not be rebound though their positions may be altered
+2794,PMKolmogorovSmirnov1Sample,does a two sided kolmogorov smirnow test and checks whether sample data are from a population with a given distribution.,1,1,Responsibilities,does a two sided kolmogorov smirnow test and checks whether sample data are from a population with a given distribution
+604,BlMouseMiddleButton,often can be triggered by mouse wheel click,1,1,Responsibilities,often can be triggered by mouse wheel click
+2629,PRParagraph,i m close to a latex or html paragraph.,1,1,Responsibilities,i m close to a latex or html paragraph
+3863,WAComboResponse,acanvas flush.,1,0,Responsibilities,acanvas flush
+2441,PPSea,xxxxx,1,0,Responsibilities,xxxxx
+2109,MalLatticePatterns,fca malformalcontext new.,1,0,Responsibilities,fca malformalcontext new
+2314,TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target,1,0,Responsibilities,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target
+3201,RTFilterInView,b layout grid.,1,0,Responsibilities,b layout grid
+2726,PRShowClassTransformer,i create a prcodeblock with the class definition within it.,1,0,Responsibilities,i create a prcodeblock with the class definition within it
+1088,GtExampleFactory,"if this is done, this provider will be used for all examples created by the factory.",1,0,Responsibilities,if this is done this provider will be used for all examples created by the factory
+3079,RTCalendarExample,b yearshape composite comp,1,0,Responsibilities,b yearshape composite comp
+3598,RTScrollBarBuilder,width to set a static size of width.,1,0,Responsibilities,width to set a static size of width
+201,BlElementRemovedEvent,parent addchild child.,1,0,Responsibilities,parent addchild child
+19,BlArrowheadTriangle,my size depends on the width of a curve and hence can not be manually specified.,1,1,Responsibilities,my size depends on the width of a curve and hence can not be manually specified
+409,BlLayout,"every frame, the space goes through several phases method blspaceframe #initializephases .",1,0,Responsibilities,every frame the space goes through several phases method blspaceframe initializephases
+139,BlDecelerateInterpolator,"i meant to be immutable, therefore factor can be only set using factory method #factor on my class side",1,0,Responsibilities,i meant to be immutable therefore factor can be only set using factory method factor on my class side
+3865,WAComboResponse,"after a response has been flushed once, header modifications are no longer possible and will raise a waillegalstateexception.",1,0,Responsibilities,after a response has been flushed once header modifications are no longer possible and will raise a waillegalstateexception
+2116,MalLatticePatterns,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,1,0,Responsibilities,context fca with model allmodelclasses using yourself using cl cl methods collect m m name
+3692,RTVerticalMultipleData,each group has the same x value.,1,0,Responsibilities,each group has the same x value
+1317,GtGraphTreemapSquarify,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep label #worstvaluerounded,1,0,Responsibilities,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded to example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep label worstvaluerounded
+2305,TDependencyQueries,afamixclass querylocal #in with famixinheritance.,1,0,Responsibilities,afamixclass querylocal in with famixinheritance
+2062,MalHgNode,parent malhgnode,1,0,Responsibilities,parent malhgnode
+2575,PRHeadingLevelOffsetTransformer,"for example, a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html.",1,0,Responsibilities,for example a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html
+2696,PRScreenshotAnnotation,package the targetted package,1,0,Responsibilities,package the targetted package
+3626,RTSunburstBuilderExamples,rtsunburstbuilderexamples new installtitle basic15,1,0,Responsibilities,rtsunburstbuilderexamples new installtitle basic15
+1301,GtGraphTreemapSquarify,we next fill the left half.,1,0,Responsibilities,we next fill the left half
+3200,RTFilterInView,b nodes collection withallsubclasses .,1,0,Responsibilities,b nodes collection withallsubclasses
+2578,PRHTMLCanvas,an html canvas that facilitates writing html to a stream.,1,1,Responsibilities,an html canvas that facilitates writing html to a stream
+3174,RTExperimentalExample,b v,1,0,Responsibilities,b v
+3866,WAComboResponse,"server adaptors need to be aware that a committed response must be closed, when complete.",1,0,Responsibilities,server adaptors need to be aware that a committed response must be closed when complete
+3632,RTSunburstBuilderExamples,b explore morph using #subclasses.,1,0,Responsibilities,b explore morph using subclasses
+411,BlLayout,"one of them, class blspaceframelayoutphase , consists in layouting the elements contained in the space.",1,0,Responsibilities,one of them class blspaceframelayoutphase consists in layouting the elements contained in the space
+1185,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #emptyenclosure previewshow #gtpreviewfor previewheight 300,1,0,Responsibilities,example gtgraphcircleenclosureexamples emptyenclosure previewshow gtpreviewfor previewheight 300
+21,BlArrowheadTriangle,i support background and border paints.,1,1,Responsibilities,i support background and border paints
+4237,WAPharoEncoder,i am the common superclass for pharo encoders.,1,1,Responsibilities,i am the common superclass for pharo encoders
+259,BlGridLayout,cellspacing anumber to specify spacing between cells,1,0,Responsibilities,cellspacing anumber to specify spacing between cells
+3588,RTScale,a class to have nice scales checks subclasses,1,0,Responsibilities,a class to have nice scales checks subclasses
+2072,MalHgNode,level,1,0,Responsibilities,level
+3657,RTSVGPopup,this is disabled by default.,1,1,Responsibilities,this is disabled by default
+4098,WALabelledFormDialog,contact contact new.,1,0,Responsibilities,contact contact new
+3664,RTTabTable,rttabtable is made to work with csv file contents.,1,1,Responsibilities,rttabtable is made to work with csv file contents
+4252,WAProtectionFilter,the protection filter ensures that the wrapped request handler only accepts requests from the same ip.,1,1,Responsibilities,the protection filter ensures that the wrapped request handler only accepts requests from the same ip
+3887,WACookie,i am basically a key value pair of strings.,1,0,Responsibilities,i am basically a key value pair of strings
+3743,RTWeightedCircleLayout,here is an example,1,0,Responsibilities,here is an example
+360,BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,1,0,Responsibilities,blinfinitedatasource
+3747,RTWeightedCircleLayout,rtweightedcirclelayout on elements.,1,0,Responsibilities,rtweightedcirclelayout on elements
+4260,WARequestContext,"it does not matter if this is a request to a static file, an ajax request, a long comet request or a normal seaside requestion.",1,1,Responsibilities,it does not matter if this is a request to a static file an ajax request a long comet request or a normal seaside requestion
+3220,RTFilterInView,b layout grid.,1,0,Responsibilities,b layout grid
+4193,WAObjectTag,defines an embedded object.,1,0,Responsibilities,defines an embedded object
+3847,WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,1,0,Responsibilities,a common superclass for all widgets that want to use wahtmlcanvas as their renderer
+397,BlLayout,bloc layout,1,0,Responsibilities,bloc layout
+2278,PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,1,1,Responsibilities,i am a test resource building a famixstmodel with the package blueprint test resource entities
+2439,PPSea,xxxxx,1,0,Responsibilities,xxxxx
+41,BlChildrenCollection,i assume an index based way of working with children.,1,1,Responsibilities,i assume an index based way of working with children
+3088,RTCalendarExample,d value index,1,0,Responsibilities,d value index
+1315,GtGraphTreemapSquarify,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded,1,0,Responsibilities,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep label worstvaluerounded to example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded
+1133,GtGradAbstractTreeLayout,"however, this implementation offers the posibility of choosing the orientation vertical or horizontal.",1,1,Responsibilities,however this implementation offers the posibility of choosing the orientation vertical or horizontal
+1406,GtLibraryInstallerMorph,top most container of the whole installer,1,0,Responsibilities,top most container of the whole installer
+2107,MalLatticePatterns,data fca context lattice,1,0,Responsibilities,data fca context lattice
+3592,RTScrollBarBuilder,"it can be static, movable, using #isstatic or #ismovable",1,0,Responsibilities,it can be static movable using isstatic or ismovable
+10,BlArrowheadSimpleArrow,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead.,1,1,Responsibilities,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead
+3698,RTVerticalMultipleData,d points # # hello 1 2 1 # world 2 4 2 # bonjour 3 5 4 # bonjour 3 5 4 # bonjour 3 5 4 .,1,0,Responsibilities,d points hello 1 2 1 world 2 4 2 bonjour 3 5 4 bonjour 3 5 4 bonjour 3 5 4
+1086,GtExampleFactory,"in the second case, a new instance is created for running each example method.",1,0,Responsibilities,in the second case a new instance is created for running each example method
+3705,RTVerticalMultipleData,here another example,1,0,Responsibilities,here another example
+3206,RTFilterInView,b,1,0,Responsibilities,b
+4180,WAListAttribute,walistattribute is an attribute that is restricted to a list of values.,1,0,Responsibilities,walistattribute is an attribute that is restricted to a list of values
+3927,WADatalistTag,datalist,1,0,Responsibilities,datalist
+1080,GtExampleFactory,i am a factory that can create class gtexample instances.,1,0,Responsibilities,i am a factory that can create class gtexample instances
+51,BlChildrenCollection,class blchildrenarray stores children using an class array,1,0,Responsibilities,class blchildrenarray stores children using an class array
+2124,MalLatticePatterns,mallatticepatterns on treillis reportmodules.,1,0,Responsibilities,mallatticepatterns on treillis reportmodules
+1550,SpartaCanvas,in order to create and perform a drawing operation users should rely on corresponding builder.,1,1,Responsibilities,in order to create and perform a drawing operation users should rely on corresponding builder
+3172,RTExperimentalExample,code,1,0,Responsibilities,code
+3661,RTSVGVisitor2Test,i am a simple test class for rtsvgvisitor2,1,0,Responsibilities,i am a simple test class for rtsvgvisitor2
+2724,PRShowClassTransformer,i am a transformer for the showclass annotation.,1,0,Responsibilities,i am a transformer for the showclass annotation
+1084,GtExampleFactory,"if the example method is defined on the class side, the provider is the class object.",1,0,Responsibilities,if the example method is defined on the class side the provider is the class object
+385,BlKeyCombination,i define an event matching api that allows blshortcuthandler to find the most appropriate shortcut for currently pressed keys.,1,0,Responsibilities,i define an event matching api that allows blshortcuthandler to find the most appropriate shortcut for currently pressed keys
+2315,TDependencyQueries,afamixmethod queryalllocal #out.,1,0,Responsibilities,afamixmethod queryalllocal out
+2443,PPSea,xxxxx,1,0,Responsibilities,xxxxx
+2437,PPSea,xxxxx,1,0,Responsibilities,xxxxx
+2122,MalLatticePatterns,fca model treillis context,1,0,Responsibilities,fca model treillis context
+1553,SpartaCanvas,they can be found in api protocol.,1,1,Responsibilities,they can be found in api protocol
+1274,GtGraphTreemapLayoutConstraints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,1,0,Responsibilities,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout
+3867,WAComboResponse,an uncommitted response should be handled as usual by the server adapter.,1,0,Responsibilities,an uncommitted response should be handled as usual by the server adapter
+2115,MalLatticePatterns,fca malformalcontext new.,1,0,Responsibilities,fca malformalcontext new
+3897,WACookie,https tools^ietf.org html rfc6265,1,0,Responsibilities,https tools ietf org html rfc6265
+3222,RTFilterInView,filter rtfilterinview new.,1,0,Responsibilities,filter rtfilterinview new
+3596,RTScrollBarBuilder,"the bar can have a specificity like #scalable, so it give an idea of the size of the view.",1,0,Responsibilities,the bar can have a specificity like scalable so it give an idea of the size of the view
+3763,TROSMShape,scale point,1,0,Responsibilities,scale point
+2114,MalLatticePatterns,model moosemodel root allmodels second.,1,0,Responsibilities,model moosemodel root allmodels second
+3628,RTSunburstBuilderExamples,b,1,0,Responsibilities,b
+52,BlChildrenCollection,class blchildrenlinkedlist stores children using a class linkedlist,1,0,Responsibilities,class blchildrenlinkedlist stores children using a class linkedlist
+1115,GtExampleProcessor,i am an abstract class for manipulating examples.,1,0,Responsibilities,i am an abstract class for manipulating examples
+3090,RTCalendarExample,index value 11 01 1.,1,0,Responsibilities,index value 11 01 1
+1426,GtPlotterAxisProjection,a projection of a domain object on discrete axis is an index of that object in a data set,1,0,Responsibilities,a projection of a domain object on discrete axis is an index of that object in a data set
+3889,WACookie,i model only a part of the full cookie specification.,1,1,Responsibilities,i model only a part of the full cookie specification
+1424,GtPlotterAxisProjection,given a point 20@30 as a domain object and euclidian coordinate system.,1,0,Responsibilities,given a point 20@30 as a domain object and euclidian coordinate system
+2754,PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,1,1,Responsibilities,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator
+249,BlGridLayout,"indices lie in closed interval 1, n 1 .",1,0,Responsibilities,indices lie in closed interval 1 n 1
+3197,RTFilterInView,b,1,0,Responsibilities,b
+1365,GtGraphTreemapSquarifyLandscapeRectangle,i layout class gtgraphtreemapnode along my shorter side height .,1,1,Responsibilities,i layout class gtgraphtreemapnode along my shorter side height
+3073,RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,1,0,Responsibilities,253 174 97 254 224 139 255 255 191 217 239 139
+2836,PMLineSearch,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1.,1,0,Responsibilities,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1
+2760,PMExponentialGenerator,"the exponential distribution has a single parameter beta, here denoted as mean.",1,1,Responsibilities,the exponential distribution has a single parameter beta here denoted as mean
+3216,RTFilterInView,b,1,0,Responsibilities,b
+3212,RTFilterInView,b layout tree.,1,0,Responsibilities,b layout tree
+1135,GtGradAbstractTreeLayout,it calculates left and right subtrees of a tree and merges them.,1,0,Responsibilities,it calculates left and right subtrees of a tree and merges them
+2410,PPSea,"p x, a island, y accepts following inputs",1,0,Responsibilities,p x a island y accepts following inputs
+22,BlArrowheadTriangle,for hollow arrowhead let background be transparent.,1,1,Responsibilities,for hollow arrowhead let background be transparent
+194,BlElementRemovedEvent,is sent by an element after it is removed from the parent.,1,0,Responsibilities,is sent by an element after it is removed from the parent
+1119,GtExampleProcessor,#value execute the processor.,1,0,Responsibilities,value execute the processor
+3177,RTExperimentalExample,v addelement rtbox element.,1,0,Responsibilities,v addelement rtbox element
+3672,RTTextWord,interval interval,1,0,Responsibilities,interval interval
+1313,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep previewexpanded true nocode,1,0,Responsibilities,example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep previewexpanded true nocode
+119,BlClickEvent,mouse down,1,0,Responsibilities,mouse down
+388,BlKeyCombination,see blkeycombinationexamples for related examples.,1,0,Responsibilities,see blkeycombinationexamples for related examples
+3651,RTSVGBoxedTextPopup,"a rtsvgboxedtextpopup is a text popup, contained in a square box.",1,0,Responsibilities,a rtsvgboxedtextpopup is a text popup contained in a square box
+3224,RTFilterInView,b view @ filter.,1,0,Responsibilities,b view @ filter
+1294,GtGraphTreemapSquarify,algorithm explanation,1,0,Responsibilities,algorithm explanation
+1320,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesseventhstep previewexpanded true nocode,1,0,Responsibilities,example gtgraphtreemaplayoutexamples squarifywithsevennodesseventhstep previewexpanded true nocode
+800,BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,1,1,Responsibilities,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action
+3676,RTTextWord,text,1,0,Responsibilities,text
+1377,GtLibraryInstaller,i am the installer of shared libraries along side image or vm.,1,0,Responsibilities,i am the installer of shared libraries along side image or vm
+3851,WAComboResponse,"by default, wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle.",1,1,Responsibilities,by default wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle
+196,BlElementRemovedEvent,example,1,0,Responsibilities,example
+3594,RTScrollBarBuilder,"the default configuration is #isbasic and #isstatic,",1,0,Responsibilities,the default configuration is isbasic and isstatic
+257,BlGridLayout,columncount anumber to specify amount of columns,1,0,Responsibilities,columncount anumber to specify amount of columns
+1071,GtDiagrammerStarStencil,i create a star element,1,1,Responsibilities,i create a star element
+2483,PRAbstractCommand,my main entry point is,1,0,Responsibilities,my main entry point is
+3196,RTFilterInView,here is an example,1,0,Responsibilities,here is an example
+2401,PPRelativePositionStream,a pprelativepositionstream is a specialized stream to get the relative position according to another stream.,1,1,Responsibilities,a pprelativepositionstream is a specialized stream to get the relative position according to another stream
+20,BlArrowheadTriangle,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead.,1,0,Responsibilities,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead
+88,BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",1,0,Responsibilities,for example class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included
+3646,RTSVGAbstractLine,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths .,1,0,Responsibilities,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths
+310,BlHandlerRegistry,example,1,0,Responsibilities,example
+2069,MalHgNode,the malhierarchicalgraph this node belongs to.,1,0,Responsibilities,the malhierarchicalgraph this node belongs to
+4013,WAFormDecoration,a waformdecoration places its component inside an html form tag.,1,1,Responsibilities,a waformdecoration places its component inside an html form tag
+1199,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithfourcircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Responsibilities,example gtgraphcircleenclosureexamples enclosurewithfourcircles previewshow gtpreviewfor previewexpanded previewheight 300
+2838,PMLineSearch,optimization tip!!!,1,0,Responsibilities,optimization tip
+351,BlInfiniteDataSourceCommandType,i suppose to be stateless and therefore immutable.,1,0,Responsibilities,i suppose to be stateless and therefore immutable
+4113,WALabelledFormDialog,asymbol #phonenumber iftrue ^ phone number .,1,0,Responsibilities,asymbol phonenumber iftrue phone number
+3895,WACookie,http tools^ietf.org html rfc2109,1,0,Responsibilities,http tools ietf org html rfc2109
+254,BlGridLayout,user can specify amount of columns or rows by sending columncount or rowcount to an instance of grid layout.,1,0,Responsibilities,user can specify amount of columns or rows by sending columncount or rowcount to an instance of grid layout
+46,BlChildrenCollection,"for example, an array for storing children optimises for accessing fast accesses at any position.",1,1,Responsibilities,for example an array for storing children optimises for accessing fast accesses at any position
+1141,GtGradAbstractTreeLayout,"during the first phase of the algorithm s execution bottom up traversal , these shapes are merged shapes of parents are merged with shapes of children.",1,0,Responsibilities,during the first phase of the algorithm s execution bottom up traversal these shapes are merged shapes of parents are merged with shapes of children
+363,BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,1,0,Responsibilities,addeventhandleron blinfinitedatasourceitemrangemoved
+2273,MooseVisualLocator,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side.,1,1,Responsibilities,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side
+2112,MalLatticePatterns,for moose models,1,0,Responsibilities,for moose models
+3893,WACookie,http cgi^netscape.com newsref std cookie spec^html,1,0,Responsibilities,http cgi netscape com newsref std cookie spec html
+6,BlArrowheadSimpleArrow,i am a simple arrow like arrowhead.,1,0,Responsibilities,i am a simple arrow like arrowhead
+1037,GtDiagrammerPicker,picker display hello .,1,0,Responsibilities,picker display hello
+2515,PRBookTesterVisitor,i gather all results as prbooktestresult s in alltestsresults.,1,1,Responsibilities,i gather all results as prbooktestresult s in alltestsresults
+3696,RTVerticalMultipleData,b rtgrapher new.,1,0,Responsibilities,b rtgrapher new
+3202,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Responsibilities,b normalizer normalizecolor numberofmethods
+2435,PPSea,xxxxx,1,0,Responsibilities,xxxxx
+1041,GtDiagrammerPicker,a .,1,0,Responsibilities,a
+1049,GtDiagrammerPicker,c vertical fitcontent .,1,0,Responsibilities,c vertical fitcontent
+3210,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Responsibilities,b normalizer normalizecolor numberofmethods
+1128,GtGradAbstractTreeLayout,this an implementation of a moen s tree layout algorithm.,1,0,Responsibilities,this an implementation of a moen s tree layout algorithm
+2067,MalHgNode,empty collection if the node is a leaf in the hierarchy.,1,0,Responsibilities,empty collection if the node is a leaf in the hierarchy
+3891,WACookie,http www^mnot.net blog 2006 10 27 cookie fun,1,0,Responsibilities,http www mnot net blog 2006 10 27 cookie fun
+2075,MalHgNode,outgoing,1,0,Responsibilities,outgoing
+2016,FmxMBPrintVisitor,"i just visit each node in the builder, and print it on the transcript.",1,1,Responsibilities,i just visit each node in the builder and print it on the transcript
+1045,GtDiagrammerPicker,margin blinsets all 3,1,0,Responsibilities,margin blinsets all 3
+1552,SpartaCanvas,there is a separate builder for every single operation.,1,1,Responsibilities,there is a separate builder for every single operation
+3925,WADatalistTag,option value opera,1,0,Responsibilities,option value opera
+2595,PRInputFileAnnotation,examples,1,0,Responsibilities,examples
+135,BlDecelerateInterpolator,setting factor to 10f produces an upside down y x^2 parabola.,1,0,Responsibilities,setting factor to 10f produces an upside down y x 2 parabola
+2110,MalLatticePatterns,context fca with data using #first using #last.,1,0,Responsibilities,context fca with data using first using last
+2733,PRUnorderedList,i am an unordered list.,1,0,Responsibilities,i am an unordered list
+256,BlGridLayout,public api and key messages,1,0,Responsibilities,public api and key messages
+2832,PMLineSearch,"where funblock is the implementation of g x , g0 g 0 , dg0 g 0 and g1 g 0 .",1,0,Responsibilities,where funblock is the implementation of g x g0 g 0 dg0 g 0 and g1 g 0
+3899,WACookie,http msdn2^microsoft.com en us library ms533046^aspx,1,0,Responsibilities,http msdn2 microsoft com en us library ms533046 aspx
+340,BlHostPulseLoop,i indicate to the universe that is time to synchronize the state of the elements.,1,1,Responsibilities,i indicate to the universe that is time to synchronize the state of the elements
+3860,WAComboResponse,flush before starting search to give immediate feedback,1,0,Responsibilities,flush before starting search to give immediate feedback
+199,BlElementRemovedEvent,child when blelementremovedevent do self inform removed from parent .,1,0,Responsibilities,child when blelementremovedevent do self inform removed from parent
+2118,MalLatticePatterns,transcript clear.,1,0,Responsibilities,transcript clear
+4102,WALabelledFormDialog,^ contact,1,0,Responsibilities,contact
+1319,GtGraphTreemapSquarify,so we reject the previous step and start to fill the right top partition,1,0,Responsibilities,so we reject the previous step and start to fill the right top partition
+374,BlInfiniteExampleClassesDataSource,i am a data source of the collection of all classes in the image,1,0,Responsibilities,i am a data source of the collection of all classes in the image
+2312,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source,1,0,Responsibilities,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source
+4105,WALabelledFormDialog,cancel,1,0,Responsibilities,cancel
+1877,FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,1,1,Responsibilities,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace
+1047,GtDiagrammerPicker,picker constraintsdo c,1,0,Responsibilities,picker constraintsdo c
+1307,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep previewexpanded true nocode,1,0,Responsibilities,example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep previewexpanded true nocode
+101,BlChildrenSubset,this result is then used when accessing or iterating over elements.,1,0,Responsibilities,this result is then used when accessing or iterating over elements
+2840,PMLineSearch,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations.,1,0,Responsibilities,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations
+2053,MalHgNode,"it knows the graph it belongs to, its children and its parent, on which level in the graph it resides and its outgoing ind incoming edges.",1,1,Responsibilities,it knows the graph it belongs to its children and its parent on which level in the graph it resides and its outgoing ind incoming edges
+2306,TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target,1,0,Responsibilities,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target
+1322,GtGraphTreemapSquarify,the final result is the following,1,0,Responsibilities,the final result is the following
+3204,RTFilterInView,b,1,0,Responsibilities,b
+4052,WAImageButtonTag,creates a graphical submit button.,1,1,Responsibilities,creates a graphical submit button
+594,BlMorphicWindowHost,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,1,1,Responsibilities,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows
+1425,GtPlotterAxisProjection,then projection of that point on continuous x axis would be 20 and projection on y axis would be 30.,1,0,Responsibilities,then projection of that point on continuous x axis would be 20 and projection on y axis would be 30
+1380,GtLibraryInstaller,installer,1,0,Responsibilities,installer
+258,BlGridLayout,rowcount anumber to specify amount of rows,1,0,Responsibilities,rowcount anumber to specify amount of rows
+2149,MalRowMatrix,this class is part of hapax.,1,0,Responsibilities,this class is part of hapax
+2064,MalHgNode,dictionary to attach arbitrary information to a node,1,0,Responsibilities,dictionary to attach arbitrary information to a node
+2113,MalLatticePatterns,fca model treillis context,1,0,Responsibilities,fca model treillis context
+1191,GtGraphCircleEnclosure,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,1,0,Responsibilities,adding a second circle expands the enclosure circle to fit both circles c1 and c2
+226,BlFocusExamples,1 inspect run example,1,0,Responsibilities,1 inspect run example
+38,BlChildrenCollection,i am an abstract collection of bloc elements that can be mutated.,1,0,Responsibilities,i am an abstract collection of bloc elements that can be mutated
+99,BlChildrenSubset,implementation details,1,0,Responsibilities,implementation details
+2704,PRScreenshotAnnotation,i am used as follows in a document,1,0,Responsibilities,i am used as follows in a document
+339,BlHostPulseLoop,i am the bloc main loop.,1,0,Responsibilities,i am the bloc main loop
+2412,PPSea,.,1,0,Responsibilities,nan
+3745,RTWeightedCircleLayout,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15 .,1,0,Responsibilities,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15
+3214,RTFilterInView,b,1,0,Responsibilities,b
+1151,GtGradAbstractTreeLayout,"generally, the differences between the implementations of the hozitonal and vertical variants are really small, revolving around one using or setting the x and the other y coordinates.",1,0,Responsibilities,generally the differences between the implementations of the hozitonal and vertical variants are really small revolving around one using or setting the x and the other y coordinates
+3701,RTVerticalMultipleData,d addmetric #fourth.,1,0,Responsibilities,d addmetric fourth
+8,BlArrowheadSimpleArrow,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,1,0,Responsibilities,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle
+4257,WARedirectingRegistry,i revert to the old 33.0 behavior which is easier for tests.,1,1,Responsibilities,i revert to the old 33 0 behavior which is easier for tests
+3096,RTCalendarExample,b build.,1,0,Responsibilities,b build
+1042,GtDiagrammerPicker,picker .,1,0,Responsibilities,picker
+3850,WAComboResponse,wacomboresponse is a combination of a buffered and a streaming response.,1,0,Responsibilities,wacomboresponse is a combination of a buffered and a streaming response
+3918,WACopyHandlerPlugin,i make a copy of an application.,1,1,Responsibilities,i make a copy of an application
+3179,RTExperimentalExample,^ b,1,0,Responsibilities,b
+3097,RTCalendarExample,b view elements select e e model iskindof month pushfront.,1,0,Responsibilities,b view elements select e e model iskindof month pushfront
+261,BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,1,0,Responsibilities,alignbounds alignment is made between the edges of each component s raw bounds
+3864,WAComboResponse,flush after each search result,1,0,Responsibilities,flush after each search result
+150,BlDevScripterCheckFiredEventsStep,here you can see how to configure a fire and check a click event on a child element,1,0,Responsibilities,here you can see how to configure a fire and check a click event on a child element
+3647,RTSVGAbstractLine,the decoration refers to the maker of the line.,1,0,Responsibilities,the decoration refers to the maker of the line
+3198,RTFilterInView,b rtmondrian new.,1,0,Responsibilities,b rtmondrian new
+1187,GtGraphCircleEnclosure,a circle enclosure is represented by a cyan circle.,1,0,Responsibilities,a circle enclosure is represented by a cyan circle
+4100,WALabelledFormDialog,self addmessage please enter the followning information .,1,0,Responsibilities,self addmessage please enter the followning information
+1296,GtGraphTreemapSquarify,"suppose we have a rectangle with width example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #width and height example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #height , and furthermore suppose that this rectangle must be subdivided in seven rectangles with areas example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #nodevalues .",1,0,Responsibilities,suppose we have a rectangle with width example gtgraphtreemaplayoutexamples squarifywithsevennodes label width and height example gtgraphtreemaplayoutexamples squarifywithsevennodes label height and furthermore suppose that this rectangle must be subdivided in seven rectangles with areas example gtgraphtreemaplayoutexamples squarifywithsevennodes label nodevalues
+3610,RTSmoothLayoutTranslator,move object,1,0,Responsibilities,move object
+2313,TDependencyQueries,afamixclass queryalllocal #in.,1,0,Responsibilities,afamixclass queryalllocal in
+4111,WALabelledFormDialog,labelforselector asymbol,1,0,Responsibilities,labelforselector asymbol
+611,BlMouseProcessor,i convert basic events to more complex events.,1,1,Responsibilities,i convert basic events to more complex events
+1132,GtGradAbstractTreeLayout,moen s trees are oriented horizontally.,1,0,Responsibilities,moen s trees are oriented horizontally
+3861,WAComboResponse,self searchresultsdo aresult,1,0,Responsibilities,self searchresultsdo aresult
+3208,RTFilterInView,b shape box size #numberofmethods.,1,0,Responsibilities,b shape box size numberofmethods
+2697,PRScreenshotAnnotation,class the targetted class,1,0,Responsibilities,class the targetted class
+1292,GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,1,1,Responsibilities,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends
+1423,GtPlotterAxisProjection,i represent a projection value of a domain object on the axis.,1,0,Responsibilities,i represent a projection value of a domain object on the axis
+1298,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow #gtpreviewfor,1,0,Responsibilities,example gtgraphtreemaplayoutexamples squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow gtpreviewfor
+3199,RTFilterInView,b shape box size #numberofmethods.,1,0,Responsibilities,b shape box size numberofmethods
+1369,GtGraphTreemapSquarifyLandscapeRectangle,example gtgraphtreemaplayoutexamples #squarifywithfournodesfirstarea nocode,1,0,Responsibilities,example gtgraphtreemaplayoutexamples squarifywithfournodesfirstarea nocode
+90,BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",1,0,Responsibilities,by having an explicit object for each operation the composition of operations can be inspected
+1221,GtGraphForceBasedLayout,a roforcebasedlayout is inspired from the code of d3.,1,0,Responsibilities,a roforcebasedlayout is inspired from the code of d3
+404,BlLayout,"each layout has a dedicated constraint objects, instance of class bllayoutcommonconstraints , that contain these common constraints.",1,0,Responsibilities,each layout has a dedicated constraint objects instance of class bllayoutcommonconstraints that contain these common constraints
+3078,RTCalendarExample,b monthshape shape b monthshapepath 150 .,1,0,Responsibilities,b monthshape shape b monthshapepath 150
+2695,PRScreenshotAnnotation,my parameters are,1,0,Responsibilities,my parameters are
+2834,PMLineSearch,storedmethod dhblinesearch new.,1,0,Responsibilities,storedmethod dhblinesearch new
+2861,PMMatrix,i can be build from rows as follows,1,0,Responsibilities,i can be build from rows as follows
+1139,GtGradAbstractTreeLayout,"to accomplish that, it uses shapes represented by polyline structures.",1,0,Responsibilities,to accomplish that it uses shapes represented by polyline structures
+3,BlArrowheadExamples,i contain examples of different types of blarrowheadelement,1,1,Responsibilities,i contain examples of different types of blarrowheadelement
+2701,PRScreenshotAnnotation,file width 50,1,0,Responsibilities,file width 50
+1364,GtGraphTreemapSquarifyLandscapeRectangle,my height is smaller than my width.,1,0,Responsibilities,my height is smaller than my width
+3853,WAComboResponse,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections .,1,0,Responsibilities,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections
+3094,RTCalendarExample,.,1,0,Responsibilities,nan
+2108,MalLatticePatterns,data # # #cat # #fourlegs #hair # #dog # #smart #fourlegs #hair # #dolphin # #smart #marine # #gibbon # #hair #smart #thumbed # #man # #smart #thumbed # #whale # #smart #marine .,1,0,Responsibilities,data cat fourlegs hair dog smart fourlegs hair dolphin smart marine gibbon hair smart thumbed man smart thumbed whale smart marine
+1120,GtExampleProcessor,"can return a value, depending on the processor.",1,0,Responsibilities,can return a value depending on the processor
+2111,MalLatticePatterns,mallatticepatterns on mallattice on context reportpatterns,1,0,Responsibilities,mallatticepatterns on mallattice on context reportpatterns
+816,BrEditorTextFlowLine,i store reference to the next line in order to avoid unnecessary array of lines creation for a very common case of just one line,1,1,Responsibilities,i store reference to the next line in order to avoid unnecessary array of lines creation for a very common case of just one line
+1843,FamixGenerator,g,1,0,Responsibilities,g
+2699,PRScreenshotAnnotation,caption the caption that will appear under my figure in the final book,1,0,Responsibilities,caption the caption that will appear under my figure in the final book
+211,BlElementSelectionAcquiredEvent,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes.,1,0,Responsibilities,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes
+24,BlArrowheadTriangle,it is possible to specify different paints for border and background,1,1,Responsibilities,it is possible to specify different paints for border and background
+2872,PMODESolver,announcements are made when a step is taken.,1,0,Responsibilities,announcements are made when a step is taken
+3652,RTSVGBoxedTextPopup,"this boxing, in svg, supports many features, not included in this class.",1,1,Responsibilities,this boxing in svg supports many features not included in this class
+306,BlGridLayoutUsageExamples,i show how different resizing strategies work and how to build advanced layouts with the help of a grid,1,1,Responsibilities,i show how different resizing strategies work and how to build advanced layouts with the help of a grid
+2570,PRFootnote,it create a footnote with note specified in parameter.,1,1,Responsibilities,it create a footnote with note specified in parameter
+4108,WALabelledFormDialog,^ # name phonenumber,1,0,Responsibilities,name phonenumber
+121,BlClickEvent,click,1,0,Responsibilities,click
+3399,RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,1,1,Responsibilities,the label may be particularized using text in the default string representation is not sufficient
+2052,MalHgNode,a malhgnode is a node inside a hierarchical graph.,1,0,Responsibilities,a malhgnode is a node inside a hierarchical graph
+305,BlGridLayoutUsageExamples,i contain examples of a grid layout,1,1,Responsibilities,i contain examples of a grid layout
+2588,PRHTMLScriptLanguage,hypertext markup language,1,0,Responsibilities,hypertext markup language
+4112,WALabelledFormDialog,asymbol #name iftrue ^ your name .,1,0,Responsibilities,asymbol name iftrue your name
+1845,FamixGenerator,g generatewithoutcleaning.,1,0,Responsibilities,g generatewithoutcleaning
+2388,PPParserReplaceRule,"ppparserreplacerule replaces a matched grammar with another grammar, which may include patterns from the matching grammar.",1,1,Responsibilities,ppparserreplacerule replaces a matched grammar with another grammar which may include patterns from the matching grammar
+2433,PPSea,xxxxx,1,0,Responsibilities,xxxxx
+1137,GtGradAbstractTreeLayout,"reignold tilfold s algorithm was originally designed only for binary trees, but later extended to work for non binary ones as well.",1,0,Responsibilities,reignold tilfold s algorithm was originally designed only for binary trees but later extended to work for non binary ones as well
+3858,WAComboResponse,self rendersearchlabelon acanvas.,1,0,Responsibilities,self rendersearchlabelon acanvas
+2630,PRParagraph,"i do not contain complex structures such as lists, codeblocks.",1,1,Responsibilities,i do not contain complex structures such as lists codeblocks
+407,BlLayout,layout phase in a frame,1,0,Responsibilities,layout phase in a frame
+3630,RTSunburstBuilderExamples,b strategy rtsunburstextentstrategy new extent 800@800 .,1,0,Responsibilities,b strategy rtsunburstextentstrategy new extent 800@800
+1090,GtExampleFactory,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,1,0,Responsibilities,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword
+1130,GtGradAbstractTreeLayout,it is an extension of the well known reingold tilfold algorithm.,1,0,Responsibilities,it is an extension of the well known reingold tilfold algorithm
+1039,GtDiagrammerPicker,i .,1,0,Responsibilities,i
+2117,MalLatticePatterns,treillis mallattice on context .,1,0,Responsibilities,treillis mallattice on context
+137,BlDecelerateInterpolator,my formula is,1,0,Responsibilities,my formula is
+3901,WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,1,0,Responsibilities,compared to warequestcookie i represent the information that is sent to the user agent
+2405,PPScriptingTest,these are some simple demo scripts of parser combinators for the compiler construction course.,1,0,Responsibilities,these are some simple demo scripts of parser combinators for the compiler construction course
+1189,GtGraphCircleEnclosure,"note, that the added circle has a margin set which is taken into account by enclosure",1,0,Responsibilities,note that the added circle has a margin set which is taken into account by enclosure

@@ -1,0 +1,60 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+599,BlMorphicWindowOpenedEvent,i am fired by morphic host window when it is opened in the world,0,1,Classreferences,i am fired by morphic host window when it is opened in the world
+360,BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,0,1,Classreferences,blinfinitedatasource
+4237,WAPharoEncoder,i am the common superclass for pharo encoders.,0,0,Classreferences,i am the common superclass for pharo encoders
+1900,FamixTParameterType,where aclass is a parameterizableclass.,0,0,Classreferences,where aclass is a parameterizableclass
+2415,PPSea,yet fails on,0,0,Classreferences,yet fails on
+3067,RTCalendarExample,tab removefirstrow.,0,0,Classreferences,tab removefirstrow
+713,BlSpaceEventExamples,i contain examples of space related events,0,0,Classreferences,i contain examples of space related events
+3757,TROSMShape,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap.,0,0,Classreferences,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap
+3475,RTLineDecorationExample,v,0,0,Classreferences,v
+423,BlLayout,"however, often elements need to reach and perform actions, when for example their position or extent changes.",0,0,Classreferences,however often elements need to reach and perform actions when for example their position or extent changes
+1914,FMFutureProperty,each time a value is resolved i ll check if i can be resolved.,0,0,Classreferences,each time a value is resolved i ll check if i can be resolved
+3776,TROSMShape,zoom,0,0,Classreferences,zoom
+1585,SpartaCanvas,lineto 200@200,0,0,Classreferences,lineto 200@200
+1450,GtRemoteInspector,public api and key messages,0,0,Classreferences,public api and key messages
+3768,TROSMShape,position,0,0,Classreferences,position
+1002,GtABAddress,i hold all data relevant for an address,0,0,Classreferences,i hold all data relevant for an address
+661,BlRectangleShapeWithArrowExplanation,we just need to split an injected line in half in order to create the top corner of the rectangle.,0,0,Classreferences,we just need to split an injected line in half in order to create the top corner of the rectangle
+1597,SpartaCanvas,apply translation to place trangle in the center,0,0,Classreferences,apply translation to place trangle in the center
+1999,FMRelationSlot,description,0,0,Classreferences,description
+3697,RTVerticalMultipleData,d rtverticalmultipledata new.,0,0,Classreferences,d rtverticalmultipledata new
+2804,PMKolmogorovSmirnov1Sample,"normal distribution 0, 1",0,0,Classreferences,normal distribution 0 1
+2762,PMExponentialGenerator,the next method uses the formula,0,0,Classreferences,the next method uses the formula
+3200,RTFilterInView,b nodes collection withallsubclasses .,0,0,Classreferences,b nodes collection withallsubclasses
+1770,TSpartaPaint,i define an api of an abstract paint.,0,0,Classreferences,i define an api of an abstract paint
+3452,RTLineDecorationExample,rtlinedecorationexample new installtitle cool,0,0,Classreferences,rtlinedecorationexample new installtitle cool
+1773,TSpartaPaint,"if not set, supposed to be identity.",0,0,Classreferences,if not set supposed to be identity
+2300,TDependencyQueries,examples,0,0,Classreferences,examples
+2801,PMKolmogorovSmirnov1Sample,#rejectequalityhypothesiswithalpha does what its name says of course.,0,0,Classreferences,rejectequalityhypothesiswithalpha does what its name says of course
+2228,MooseEntity,"each entity belongs to one and only one model, if an entity has not yet been added to a model or if an entity has been removed from a model the moosemodel is undefined, that is it may be nil.",0,0,Classreferences,each entity belongs to one and only one model if an entity has not yet been added to a model or if an entity has been removed from a model the moosemodel is undefined that is it may be nil
+3358,RTHighlightableWithCursor,nodes @ rthighlightablewithcursor.,0,0,Classreferences,nodes @ rthighlightablewithcursor
+1038,GtDiagrammerPicker,world .,0,0,Classreferences,world
+1614,SpartaCanvas,path triangle,0,0,Classreferences,path triangle
+620,BlPerpendicularFractionAnchor,i am a virtual anchor that lays on a perpendicular to a line between two reference anchors.,0,0,Classreferences,i am a virtual anchor that lays on a perpendicular to a line between two reference anchors
+2777,PMGradient,g value # 1 1 .,0,0,Classreferences,g value 1 1
+1615,SpartaCanvas,width 6,0,0,Classreferences,width 6
+582,BlMeasurementUnspecifiedMode,i represent a concrete implementation of unspecified measurement mode.,0,0,Classreferences,i represent a concrete implementation of unspecified measurement mode
+2116,MalLatticePatterns,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,0,0,Classreferences,context fca with model allmodelclasses using yourself using cl cl methods collect m m name
+2222,MooseEntity,important api,0,0,Classreferences,important api
+3693,RTVerticalMultipleData,negative data are not allowed.,0,0,Classreferences,negative data are not allowed
+1453,GtRemoteInspector,for bonus points how to create instances.,0,0,Classreferences,for bonus points how to create instances
+1438,GtProtoTasker,method gtprototasker #addtask expanded true,0,0,Classreferences,method gtprototasker addtask expanded true
+3851,WAComboResponse,"by default, wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle.",0,0,Classreferences,by default wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle
+467,BlLayout,concrete implementations should focus on measure with and layout in,0,0,Classreferences,concrete implementations should focus on measure with and layout in
+1464,GtRlBaselineTagReleaseStrategy,i am a release strategy that uses the current loaded tag for a repository as the version number.,0,0,Classreferences,i am a release strategy that uses the current loaded tag for a repository as the version number
+1130,GtGradAbstractTreeLayout,it is an extension of the well known reingold tilfold algorithm.,0,0,Classreferences,it is an extension of the well known reingold tilfold algorithm
+3092,RTCalendarExample,index 11 iftrue index 11 .,0,0,Classreferences,index 11 iftrue index 11
+2909,PMStepper,"solving ordinary differential equation numerically is usually done iteratively, that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt .",0,0,Classreferences,solving ordinary differential equation numerically is usually done iteratively that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt
+2273,MooseVisualLocator,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side.,0,0,Classreferences,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side
+4247,WAPlugin,"the appearance of all plugins, such as icons, has to be configured using css.",0,0,Classreferences,the appearance of all plugins such as icons has to be configured using css
+2835,PMLineSearch,storedmethod setfunction funblock.,0,0,Classreferences,storedmethod setfunction funblock
+1294,GtGraphTreemapSquarify,algorithm explanation,0,0,Classreferences,algorithm explanation
+438,BlLayout,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element.,0,0,Classreferences,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element
+725,BlTextBackgroundAttribute,i am used together with brtext and brtextstyler to style text.,0,0,Classreferences,i am used together with brtext and brtextstyler to style text
+1579,SpartaCanvas,canvas spartacanvas extent 400@250.,0,0,Classreferences,canvas spartacanvas extent 400@250
+2938,RTAbstractExample,builder example perform met selector.,0,0,Classreferences,builder example perform met selector
+4052,WAImageButtonTag,creates a graphical submit button.,0,0,Classreferences,creates a graphical submit button
+3455,RTLineDecorationExample,b1 rtbox new,0,0,Classreferences,b1 rtbox new
+3457,RTLineDecorationExample,element,0,0,Classreferences,element
+2380,PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,0,0,Classreferences,abstract literal parser that parses some kind of literal type to be specified by subclasses

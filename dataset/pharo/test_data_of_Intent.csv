@@ -1,0 +1,357 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+4066,WAInspector,this is an abstract implementation of a web based object inspector.,1,1,Intent,this is an abstract implementation of a web based object inspector
+3214,RTFilterInView,b,1,0,Intent,b
+2485,PRAbstractCommand,when you type on the command line,1,0,Intent,when you type on the command line
+903,BrGlamorousIcons,i am a glamorous icons container.,1,1,Intent,i am a glamorous icons container
+1843,FamixGenerator,g,1,0,Intent,g
+92,BlChildrenSubset,i do not enforce a lazy api.,1,0,Intent,i do not enforce a lazy api
+1545,SpartaCanvas,spartacanvas,1,1,Intent,spartacanvas
+1300,GtGraphTreemapSquarify,"we choose for a horizontal subdivision, because the original rectangle is wider than high.",1,0,Intent,we choose for a horizontal subdivision because the original rectangle is wider than high
+211,BlElementSelectionAcquiredEvent,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes.,1,0,Intent,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes
+1435,GtProtoTasker,i am an abstract tasker defining mandatory methods for all taskers.,1,1,Intent,i am an abstract tasker defining mandatory methods for all taskers
+3145,RTCPQualitative,"qualitative schemes do not imply magnitude differences between legend classes, and hues are used to create the primary visual differences between classes.",1,0,Intent,qualitative schemes do not imply magnitude differences between legend classes and hues are used to create the primary visual differences between classes
+136,BlDecelerateInterpolator,"increasing factor above 10f makes exaggerates the ease out effect ie, it starts even faster and ends evens slower .",1,0,Intent,increasing factor above 10f makes exaggerates the ease out effect ie it starts even faster and ends evens slower
+3082,RTCalendarExample,.,1,0,Intent,nan
+1409,GtPhlowForwarderView,i am useful in situations when the object that has the view definition is expensive to create.,1,0,Intent,i am useful in situations when the object that has the view definition is expensive to create
+1931,FMModel,i have a meta model containing descriptions of my content.,1,1,Intent,i have a meta model containing descriptions of my content
+2869,PMODESolver,the main interface once the solver is set up it has a stepper and a solver is,1,0,Intent,the main interface once the solver is set up it has a stepper and a solver is
+1853,FamixJavaEntity,famixjavaentity withallsubclasses collect c,1,0,Intent,famixjavaentity withallsubclasses collect c
+341,BlHostPulseLoop,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum.,1,0,Intent,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum
+275,BlGridLayout,implementation points,1,0,Intent,implementation points
+3936,WADelayedAnswerDecoration,wadelayedanswerdecoration adds a delay in displaying a component.,1,0,Intent,wadelayedanswerdecoration adds a delay in displaying a component
+4117,WALabelledFormDialog,rendernameon html,1,0,Intent,rendernameon html
+1189,GtGraphCircleEnclosure,"note, that the added circle has a margin set which is taken into account by enclosure",1,0,Intent,note that the added circle has a margin set which is taken into account by enclosure
+1193,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithtwocircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Intent,example gtgraphcircleenclosureexamples enclosurewithtwocircles previewshow gtpreviewfor previewexpanded previewheight 300
+1151,GtGradAbstractTreeLayout,"generally, the differences between the implementations of the hozitonal and vertical variants are really small, revolving around one using or setting the x and the other y coordinates.",1,0,Intent,generally the differences between the implementations of the hozitonal and vertical variants are really small revolving around one using or setting the x and the other y coordinates
+1150,GtGradAbstractTreeLayout,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine.,1,0,Intent,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine
+388,BlKeyCombination,see blkeycombinationexamples for related examples.,1,0,Intent,see blkeycombinationexamples for related examples
+1148,GtGradAbstractTreeLayout,"additionally, this implementation supports alignment of nodes top, center, bottom in case of the vertical layout and left, center, right in case of the horizontal layout .",1,0,Intent,additionally this implementation supports alignment of nodes top center bottom in case of the vertical layout and left center right in case of the horizontal layout
+1813,TSpFontDescriptor,"i am a helper trait that defines basic font properties such as weight, style and stretch",1,1,Intent,i am a helper trait that defines basic font properties such as weight style and stretch
+4119,WALabelledFormDialog,html select,1,0,Intent,html select
+1041,GtDiagrammerPicker,a .,1,0,Intent,a
+3196,RTFilterInView,here is an example,1,0,Intent,here is an example
+545,BlMatrix2D,i represent a matrix used for 2d affine transformations.,1,1,Intent,i represent a matrix used for 2d affine transformations
+3954,WAErrorHandler,handlewarning,1,0,Intent,handlewarning
+2570,PRFootnote,it create a footnote with note specified in parameter.,1,0,Intent,it create a footnote with note specified in parameter
+73,BlChildrenOrderedCollectionExamples,i define examples for the class class blchildrenorderedcollection .,1,0,Intent,i define examples for the class class blchildrenorderedcollection
+3923,WADatalistTag,option value safari,1,0,Intent,option value safari
+2309,TDependencyQueries,afamixclass queryall #in.,1,0,Intent,afamixclass queryall in
+2839,PMLineSearch,it is guaranteed that g x will be called on the resulting x.,1,0,Intent,it is guaranteed that g x will be called on the resulting x
+3081,RTCalendarExample,comp add rtbox new color color transparent .,1,0,Intent,comp add rtbox new color color transparent
+3765,TROSMShape,zoom point,1,0,Intent,zoom point
+2835,PMLineSearch,storedmethod setfunction funblock.,1,0,Intent,storedmethod setfunction funblock
+2305,TDependencyQueries,afamixclass querylocal #in with famixinheritance.,1,0,Intent,afamixclass querylocal in with famixinheritance
+3897,WACookie,https tools^ietf.org html rfc6265,1,0,Intent,https tools ietf org html rfc6265
+3772,TROSMShape,scale,1,0,Intent,scale
+121,BlClickEvent,click,1,0,Intent,click
+3761,TROSMShape,position point,1,0,Intent,position point
+20,BlArrowheadTriangle,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead.,1,0,Intent,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead
+3743,RTWeightedCircleLayout,here is an example,1,0,Intent,here is an example
+3610,RTSmoothLayoutTranslator,move object,1,0,Intent,move object
+1120,GtExampleProcessor,"can return a value, depending on the processor.",1,0,Intent,can return a value depending on the processor
+1316,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep previewexpanded true nocode,1,0,Intent,example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep previewexpanded true nocode
+1135,GtGradAbstractTreeLayout,it calculates left and right subtrees of a tree and merges them.,1,0,Intent,it calculates left and right subtrees of a tree and merges them
+4108,WALabelledFormDialog,^ # name phonenumber,1,0,Intent,name phonenumber
+88,BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",1,0,Intent,for example class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included
+3899,WACookie,http msdn2^microsoft.com en us library ms533046^aspx,1,0,Intent,http msdn2 microsoft com en us library ms533046 aspx
+1139,GtGradAbstractTreeLayout,"to accomplish that, it uses shapes represented by polyline structures.",1,0,Intent,to accomplish that it uses shapes represented by polyline structures
+3073,RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,1,0,Intent,253 174 97 254 224 139 255 255 191 217 239 139
+1320,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesseventhstep previewexpanded true nocode,1,0,Intent,example gtgraphtreemaplayoutexamples squarifywithsevennodesseventhstep previewexpanded true nocode
+2310,TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target,1,0,Intent,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target
+1816,TSpTextRun,i define an api of a text run an object that holds an array of glyphs that represent a piece of text.,1,1,Intent,i define an api of a text run an object that holds an array of glyphs that represent a piece of text
+2695,PRScreenshotAnnotation,my parameters are,1,0,Intent,my parameters are
+1129,GtGradAbstractTreeLayout,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically.,1,0,Intent,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically
+134,BlDecelerateInterpolator,i am configurable using factor a degree to which the animation should be eased.,1,1,Intent,i am configurable using factor a degree to which the animation should be eased
+2056,MalHgNode,attributes dictionary,1,0,Intent,attributes dictionary
+3093,RTCalendarExample,colors at index.,1,0,Intent,colors at index
+3614,RTSmoothLayoutTranslator,nbcycles,1,0,Intent,nbcycles
+1380,GtLibraryInstaller,installer,1,0,Intent,installer
+1029,GtDiagrammerExamples,diagrammer,1,0,Intent,diagrammer
+2693,PRScreenshotAnnotation,i am an annotation used to show a screenshot of a given class and method.,1,1,Intent,i am an annotation used to show a screenshot of a given class and method
+1196,GtGraphCircleEnclosure,let s add the third circle to our enclosure to see the result,1,0,Intent,let s add the third circle to our enclosure to see the result
+47,BlChildrenCollection,a linked list optimize for fast adding and removing.,1,0,Intent,a linked list optimize for fast adding and removing
+3854,WAComboResponse,clients can flush the response as often as they want at appropriate points in their response generation everything buffered up to that point will be sent.,1,0,Intent,clients can flush the response as often as they want at appropriate points in their response generation everything buffered up to that point will be sent
+1851,FamixJavaEntity,file argouml 034^mse asfilereference readstream.,1,0,Intent,file argouml 034 mse asfilereference readstream
+4109,WALabelledFormDialog,buttons,1,0,Intent,buttons
+1302,GtGraphTreemapSquarify,first we add a single rectangle.,1,0,Intent,first we add a single rectangle
+4123,WALabelledFormDialog,"contact class used above has instance variables name, phonenumber with standard getter and setter methods",1,0,Intent,contact class used above has instance variables name phonenumber with standard getter and setter methods
+1088,GtExampleFactory,"if this is done, this provider will be used for all examples created by the factory.",1,0,Intent,if this is done this provider will be used for all examples created by the factory
+183,BlElementEffect,i define the default drawing strategy before & after .,1,0,Intent,i define the default drawing strategy before after
+2058,MalHgNode,higraph malhierarchicalgraph,1,0,Intent,higraph malhierarchicalgraph
+171,BlElementBoundsExamples,i contain examples of element bounds api,1,0,Intent,i contain examples of element bounds api
+2733,PRUnorderedList,i am an unordered list.,1,1,Intent,i am an unordered list
+4103,WALabelledFormDialog,ok,1,0,Intent,ok
+3952,WAErrorHandler,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception,1,0,Intent,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception
+2861,PMMatrix,i can be build from rows as follows,1,0,Intent,i can be build from rows as follows
+1297,GtGraphTreemapSquarify,the area will be subdivided as follows,1,0,Intent,the area will be subdivided as follows
+2901,PMStateTime,a statetime class is a generalization of point.,1,1,Intent,a statetime class is a generalization of point
+1856,FamixJavaEntity,", cn famixjava entities.",1,0,Intent,cn famixjava entities
+3212,RTFilterInView,b layout tree.,1,0,Intent,b layout tree
+1306,GtGraphTreemapSquarify,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep label #worstvaluerounded .,1,0,Intent,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep label worstvaluerounded
+1295,GtGraphTreemapSquarify,this is an adapted extract from the paper squarified treemaps mentioned above.,1,0,Intent,this is an adapted extract from the paper squarified treemaps mentioned above
+3148,RTCPQualitative,colorpalette qualitative show,1,0,Intent,colorpalette qualitative show
+306,BlGridLayoutUsageExamples,i show how different resizing strategies work and how to build advanced layouts with the help of a grid,1,0,Intent,i show how different resizing strategies work and how to build advanced layouts with the help of a grid
+38,BlChildrenCollection,i am an abstract collection of bloc elements that can be mutated.,1,1,Intent,i am an abstract collection of bloc elements that can be mutated
+3077,RTCalendarExample,b dateshape rectangle size 15 color color white bordercolor color lightgray.,1,0,Intent,b dateshape rectangle size 15 color color white bordercolor color lightgray
+3698,RTVerticalMultipleData,d points # # hello 1 2 1 # world 2 4 2 # bonjour 3 5 4 # bonjour 3 5 4 # bonjour 3 5 4 .,1,0,Intent,d points hello 1 2 1 world 2 4 2 bonjour 3 5 4 bonjour 3 5 4 bonjour 3 5 4
+342,BlHostPulseLoop,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete .,1,0,Intent,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete
+3084,RTCalendarExample,b datelayout gapsize 0.,1,0,Intent,b datelayout gapsize 0
+2392,PPPluggableParser,a pluggable parser that passes the parser stream into a block.,1,1,Intent,a pluggable parser that passes the parser stream into a block
+1861,FamixJavaEntity,model silentlyaddall repo elements.,1,0,Intent,model silentlyaddall repo elements
+2192,MooseEntity,mooseentity is an abstract entity.,1,1,Intent,mooseentity is an abstract entity
+227,BlFocusExamples,2 click one any cell to give it a focus blue border should appear,1,0,Intent,2 click one any cell to give it a focus blue border should appear
+1074,GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,1,0,Intent,the dependencies of a given example consists in message sends to other method constructing an example
+1858,FamixJavaEntity,dictionary at famix^javasourcelanguage put famixjava entities^sourcelanguage .,1,0,Intent,dictionary at famix javasourcelanguage put famixjava entities sourcelanguage
+1049,GtDiagrammerPicker,c vertical fitcontent .,1,0,Intent,c vertical fitcontent
+3927,WADatalistTag,datalist,1,0,Intent,datalist
+2068,MalHgNode,higraph,1,0,Intent,higraph
+1321,GtGraphTreemapSquarify,these steps are repeated until all rectangles have been processed.,1,0,Intent,these steps are repeated until all rectangles have been processed
+2827,PMLineSearch,g x g 0 alpha g 0,1,0,Intent,g x g 0 alpha g 0
+2401,PPRelativePositionStream,a pprelativepositionstream is a specialized stream to get the relative position according to another stream.,1,1,Intent,a pprelativepositionstream is a specialized stream to get the relative position according to another stream
+3218,RTFilterInView,b shape box size #numberofmethods.,1,0,Intent,b shape box size numberofmethods
+3031,RTBorderAttachPoint,i am an attach point that will end the line on the border of the end shapes.,1,1,Intent,i am an attach point that will end the line on the border of the end shapes
+119,BlClickEvent,mouse down,1,0,Intent,mouse down
+1369,GtGraphTreemapSquarifyLandscapeRectangle,example gtgraphtreemaplayoutexamples #squarifywithfournodesfirstarea nocode,1,0,Intent,example gtgraphtreemaplayoutexamples squarifywithfournodesfirstarea nocode
+358,BlInfiniteDataSourceItemRangeMoved,"representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.",1,0,Intent,representations of other existing items in the data set are still considered up to date and will not be rebound though their positions may be altered
+233,BlGeometry,the geometry is used to define the geometry to be drawn and the interaction area.,1,0,Intent,the geometry is used to define the geometry to be drawn and the interaction area
+117,BlClickEvent,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element.,1,0,Intent,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element
+2592,PRInputFileAnnotation,my tag is inputfile .,1,0,Intent,my tag is inputfile
+45,BlChildrenCollection,i allow elements to optimize working with children for different scenarious.,1,0,Intent,i allow elements to optimize working with children for different scenarious
+1086,GtExampleFactory,"in the second case, a new instance is created for running each example method.",1,0,Intent,in the second case a new instance is created for running each example method
+3635,RTSunburstBuilderExamples,^ b view,1,0,Intent,b view
+3216,RTFilterInView,b,1,0,Intent,b
+3224,RTFilterInView,b view @ filter.,1,0,Intent,b view @ filter
+3141,RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,1,1,Intent,i am a class helper to do the layout in rtcirculartreemapbuilder
+3633,RTSunburstBuilderExamples,b view @ rtdraggableview.,1,0,Intent,b view @ rtdraggableview
+1090,GtExampleFactory,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,1,0,Intent,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword
+3891,WACookie,http www^mnot.net blog 2006 10 27 cookie fun,1,0,Intent,http www mnot net blog 2006 10 27 cookie fun
+4105,WALabelledFormDialog,cancel,1,0,Intent,cancel
+258,BlGridLayout,rowcount anumber to specify amount of rows,1,0,Intent,rowcount anumber to specify amount of rows
+21,BlArrowheadTriangle,i support background and border paints.,1,0,Intent,i support background and border paints
+3704,RTVerticalMultipleData,b,1,0,Intent,b
+3763,TROSMShape,scale point,1,0,Intent,scale point
+3921,WADatalistTag,input list browsers,1,0,Intent,input list browsers
+3174,RTExperimentalExample,b v,1,0,Intent,b v
+2705,PRScreenshotAnnotation,screenshot package kernel class integer method caption the plus method width 50 label aa,1,0,Intent,screenshot package kernel class integer method caption the plus method width 50 label aa
+1137,GtGradAbstractTreeLayout,"reignold tilfold s algorithm was originally designed only for binary trees, but later extended to work for non binary ones as well.",1,0,Intent,reignold tilfold s algorithm was originally designed only for binary trees but later extended to work for non binary ones as well
+360,BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,1,0,Intent,blinfinitedatasource
+1423,GtPlotterAxisProjection,i represent a projection value of a domain object on the axis.,1,1,Intent,i represent a projection value of a domain object on the axis
+261,BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,1,0,Intent,alignbounds alignment is made between the edges of each component s raw bounds
+118,BlClickEvent,the order of fired events,1,0,Intent,the order of fired events
+3856,WAComboResponse,rendercontenton acanvas,1,0,Intent,rendercontenton acanvas
+394,BlKeyCombinationConverterCNF,i transform composite key combination formula into a cnf https en^wikipedia.org wiki conjunctive normal form,1,0,Intent,i transform composite key combination formula into a cnf https en wikipedia org wiki conjunctive normal form
+296,BlGridLayoutArc,"i represent an association of span interval, associated value and validity flag.",1,1,Intent,i represent an association of span interval associated value and validity flag
+1312,GtGraphTreemapSquarify,in step 4 we add the rectangle with area 4,1,0,Intent,in step 4 we add the rectangle with area 4
+3674,RTTextWord,interval,1,0,Intent,interval
+1051,GtDiagrammerPicker,picker,1,0,Intent,picker
+251,BlGridLayout,children are allowed to have fitcontent and exact resizing modes.,1,0,Intent,children are allowed to have fitcontent and exact resizing modes
+2596,PRInputFileAnnotation,inputfile myfile^pillar,1,0,Intent,inputfile myfile pillar
+3847,WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,1,1,Intent,a common superclass for all widgets that want to use wahtmlcanvas as their renderer
+3091,RTCalendarExample,index 1 iftrue index 1 .,1,0,Intent,index 1 iftrue index 1
+2594,PRInputFileAnnotation,"a path to a file with the key value required, you can write it without the key",1,0,Intent,a path to a file with the key value required you can write it without the key
+1310,GtGraphTreemapSquarify,"therefore, we decide that we have reached an optimum for the left half in step two, and start processing the right half.",1,0,Intent,therefore we decide that we have reached an optimum for the left half in step two and start processing the right half
+1882,FamixTDereferencedInvocation,represents an invocation which function is contained in a pointer.,1,1,Intent,represents an invocation which function is contained in a pointer
+36,BlChickenLeg,i am a single red chicken leg with two toes,1,1,Intent,i am a single red chicken leg with two toes
+150,BlDevScripterCheckFiredEventsStep,here you can see how to configure a fire and check a click event on a child element,1,0,Intent,here you can see how to configure a fire and check a click event on a child element
+1844,FamixGenerator,g famixgenerator new.,1,0,Intent,g famixgenerator new
+400,BlLayout,"tipically this includes the position of child elements within the parent, or the size of the parent element.",1,0,Intent,tipically this includes the position of child elements within the parent or the size of the parent element
+1928,FMModel,i am a model used in the scope of fame.,1,1,Intent,i am a model used in the scope of fame
+168,BlDragDelegate,drag gesture fails if there are no drag items,1,0,Intent,drag gesture fails if there are no drag items
+148,BlDevScripterCheckFiredEventsStep,i check whether particular class blevent events were fired on a class blelement target.,1,0,Intent,i check whether particular class blevent events were fired on a class blelement target
+4073,WAInvisibleSessionTrackingStrategy,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions.,1,1,Intent,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions
+1318,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep previewexpanded true nocode,1,0,Intent,example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep previewexpanded true nocode
+2065,MalHgNode,children,1,0,Intent,children
+3855,WAComboResponse,"for example, a search results page might use something like",1,0,Intent,for example a search results page might use something like
+3197,RTFilterInView,b,1,0,Intent,b
+1037,GtDiagrammerPicker,picker display hello .,1,0,Intent,picker display hello
+33,BlChicken,blchicken open,1,0,Intent,blchicken open
+3086,RTCalendarExample,b yearlayout horizontalline.,1,0,Intent,b yearlayout horizontalline
+157,BlDevScripterClickStep,example,1,0,Intent,example
+3631,RTSunburstBuilderExamples,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,1,0,Intent,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray
+3676,RTTextWord,text,1,0,Intent,text
+3198,RTFilterInView,b rtmondrian new.,1,0,Intent,b rtmondrian new
+3210,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Intent,b normalizer normalizecolor numberofmethods
+2628,PRParagraph,"i m a paragraph of text containing text, line breaks or annotations.",1,1,Intent,i m a paragraph of text containing text line breaks or annotations
+2725,PRShowClassTransformer,i know how to visit a showclass annotation and the way to transform it.,1,0,Intent,i know how to visit a showclass annotation and the way to transform it
+2060,MalHgNode,level number,1,0,Intent,level number
+2437,PPSea,xxxxx,1,0,Intent,xxxxx
+2441,PPSea,xxxxx,1,0,Intent,xxxxx
+1109,GtExampleInstanceSubject,i indicate that the subject of an example is an object.,1,0,Intent,i indicate that the subject of an example is an object
+3612,RTSmoothLayoutTranslator,move,1,0,Intent,move
+3627,RTSunburstBuilderExamples,code,1,0,Intent,code
+4118,WALabelledFormDialog,show how to specily special input instead of using simple text field.,1,0,Intent,show how to specily special input instead of using simple text field
+225,BlFocusExamples,how to,1,0,Intent,how to
+3158,RTDecoratedTest,a rtdecoratedtest is a test class for testing the behavior of rtdecorated,1,1,Intent,a rtdecoratedtest is a test class for testing the behavior of rtdecorated
+1034,GtDiagrammerPicker,picker,1,0,Intent,picker
+4107,WALabelledFormDialog,rows,1,0,Intent,rows
+3097,RTCalendarExample,b view elements select e e model iskindof month pushfront.,1,0,Intent,b view elements select e e model iskindof month pushfront
+2831,PMLineSearch,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate.,1,0,Intent,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate
+3083,RTCalendarExample,b dates year year 1990 to year year 2010 .,1,0,Intent,b dates year year 1990 to year year 2010
+2829,PMLineSearch,usage,1,0,Intent,usage
+120,BlClickEvent,mouse up,1,0,Intent,mouse up
+1408,GtPhlowForwarderView,i forward a view definition to another object.,1,0,Intent,i forward a view definition to another object
+3202,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Intent,b normalizer normalizecolor numberofmethods
+23,BlArrowheadTriangle,for solid arrowhead make background paint be the same as border paint.,1,0,Intent,for solid arrowhead make background paint be the same as border paint
+53,BlChildrenCollection,class blchildrenorderedcollection stores children using a class orderedcollection,1,0,Intent,class blchildrenorderedcollection stores children using a class orderedcollection
+3857,WAComboResponse,render the search page,1,0,Intent,render the search page
+3222,RTFilterInView,filter rtfilterinview new.,1,0,Intent,filter rtfilterinview new
+3845,WACancelButtonTag,creates a cancel submit button.,1,0,Intent,creates a cancel submit button
+4122,WALabelledFormDialog,callback v contact name v,1,0,Intent,callback v contact name v
+2837,PMLineSearch,storedmethod evaluate.,1,0,Intent,storedmethod evaluate
+138,BlDecelerateInterpolator,"f x 1 1 x ^n, where n 2 factor",1,0,Intent,f x 1 1 x n where n 2 factor
+3946,WADynamicVariable,i exist for legacy purposes.,1,0,Intent,i exist for legacy purposes
+1199,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithfourcircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Intent,example gtgraphcircleenclosureexamples enclosurewithfourcircles previewshow gtpreviewfor previewexpanded previewheight 300
+1304,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep previewexpanded true nocode,1,0,Intent,example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep previewexpanded true nocode
+2349,TOODependencyQueries,a toodependencyqueries defines a vocabulary to compute dependencies of object oriented entities.,1,0,Intent,a toodependencyqueries defines a vocabulary to compute dependencies of object oriented entities
+3859,WAComboResponse,acanvas flush.,1,0,Intent,acanvas flush
+2306,TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target,1,0,Intent,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target
+9,BlArrowheadSimpleArrow,users can also customise nose angle that tells how wide should the arrow lines be spread.,1,0,Intent,users can also customise nose angle that tells how wide should the arrow lines be spread
+3666,RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,1,1,Intent,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal
+1854,FamixJavaEntity,cn c name withoutprefix #famixjava.,1,0,Intent,cn c name withoutprefix famixjava
+247,BlGridLayout,a grid consists of cells that are separated by invisible lines.,1,0,Intent,a grid consists of cells that are separated by invisible lines
+2482,PRAbstractCommand,i m usually invoked from a command line but not only.,1,0,Intent,i m usually invoked from a command line but not only
+255,BlGridLayout,grid layout supports spacing between cells which can be set sending cellspacing message.,1,0,Intent,grid layout supports spacing between cells which can be set sending cellspacing message
+363,BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,1,0,Intent,addeventhandleron blinfinitedatasourceitemrangemoved
+2074,MalHgNode,"the larger the number, the deeper down in the hierarchy the node is located.",1,0,Intent,the larger the number the deeper down in the hierarchy the node is located
+1860,FamixJavaEntity,model moosemodel new.,1,0,Intent,model moosemodel new
+1862,FamixJavaEntity,model entitystorage forruntime.,1,0,Intent,model entitystorage forruntime
+1845,FamixGenerator,g generatewithoutcleaning.,1,0,Intent,g generatewithoutcleaning
+3208,RTFilterInView,b shape box size #numberofmethods.,1,0,Intent,b shape box size numberofmethods
+387,BlKeyCombination,see blkeycombinationvisitor,1,0,Intent,see blkeycombinationvisitor
+1859,FamixJavaEntity,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,1,0,Intent,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary
+3889,WACookie,i model only a part of the full cookie specification.,1,0,Intent,i model only a part of the full cookie specification
+199,BlElementRemovedEvent,child when blelementremovedevent do self inform removed from parent .,1,0,Intent,child when blelementremovedevent do self inform removed from parent
+1323,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true .,1,0,Intent,example gtgraphtreemaplayoutexamples squarifywithsevennodes nocode codeexpanded false previewexpanded true
+90,BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",1,0,Intent,by having an explicit object for each operation the composition of operations can be inspected
+4098,WALabelledFormDialog,contact contact new.,1,0,Intent,contact contact new
+556,BlMatrixDecomposition,i represent a matrix decomposition in components.,1,1,Intent,i represent a matrix decomposition in components
+3590,RTScrollBarBuilder,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view.,1,1,Intent,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view
+101,BlChildrenSubset,this result is then used when accessing or iterating over elements.,1,0,Intent,this result is then used when accessing or iterating over elements
+245,BlGridLayout,i layout elements in a rectangular grid.,1,0,Intent,i layout elements in a rectangular grid
+1855,FamixJavaEntity,famix.,1,0,Intent,famix
+4199,WAOptionGroupTag,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options.,1,0,Intent,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options
+2606,PRLaTeXEnvironment,a latex environment,1,1,Intent,a latex environment
+2077,MalHgNode,parent,1,0,Intent,parent
+22,BlArrowheadTriangle,for hollow arrowhead let background be transparent.,1,0,Intent,for hollow arrowhead let background be transparent
+3089,RTCalendarExample,value dictionary at d 005.,1,0,Intent,value dictionary at d 005
+194,BlElementRemovedEvent,is sent by an element after it is removed from the parent.,1,0,Intent,is sent by an element after it is removed from the parent
+3204,RTFilterInView,b,1,0,Intent,b
+4121,WALabelledFormDialog,selected roger,1,0,Intent,selected roger
+4237,WAPharoEncoder,i am the common superclass for pharo encoders.,1,1,Intent,i am the common superclass for pharo encoders
+3079,RTCalendarExample,b yearshape composite comp,1,0,Intent,b yearshape composite comp
+3622,RTSunburstBuilder,"you can customize the angle of the arc, and play with the with radius and width of each arc.",1,0,Intent,you can customize the angle of the arc and play with the with radius and width of each arc
+311,BlHandlerRegistry,registry,1,0,Intent,registry
+3886,WACookie,"i represent a cookie, a piece of information that is stored on the client and read and writable by the server.",1,1,Intent,i represent a cookie a piece of information that is stored on the client and read and writable by the server
+3694,RTVerticalMultipleData,here is an example,1,0,Intent,here is an example
+249,BlGridLayout,"indices lie in closed interval 1, n 1 .",1,0,Intent,indices lie in closed interval 1 n 1
+384,BlKeyCombination,i represent an abstract key combination which is the most important part of blshortcut .,1,1,Intent,i represent an abstract key combination which is the most important part of blshortcut
+2754,PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,1,1,Intent,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator
+1852,FamixJavaEntity,dictionary dictionary newfrom,1,0,Intent,dictionary dictionary newfrom
+2183,MooseAbstractImporter,i m the root for the new importer.,1,1,Intent,i m the root for the new importer
+2833,PMLineSearch,for repeated use,1,0,Intent,for repeated use
+2872,PMODESolver,announcements are made when a step is taken.,1,0,Intent,announcements are made when a step is taken
+2590,PRInputFileAnnotation,i include a reference to a pillar file.,1,0,Intent,i include a reference to a pillar file
+812,BlVisibilityHidden,i am a concrete visibility type hidden .,1,1,Intent,i am a concrete visibility type hidden
+158,BlDevScripterClickStep,here you can see how to configure a fire and check a click event on a child element,1,0,Intent,here you can see how to configure a fire and check a click event on a child element
+1308,GtGraphTreemapSquarify,"however, if we add the next area 4 above these original rectangles, the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep label #worstvaluerounded .",1,0,Intent,however if we add the next area 4 above these original rectangles the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep label worstvaluerounded
+1863,FamixJavaEntity,model.,1,0,Intent,model
+2701,PRScreenshotAnnotation,file width 50,1,0,Intent,file width 50
+3651,RTSVGBoxedTextPopup,"a rtsvgboxedtextpopup is a text popup, contained in a square box.",1,1,Intent,a rtsvgboxedtextpopup is a text popup contained in a square box
+3200,RTFilterInView,b nodes collection withallsubclasses .,1,0,Intent,b nodes collection withallsubclasses
+3955,WAErrorHandler,"if either method is not implemented, the default implementation will call #handledefault , which can be used to provide common behaviour for both exception types.",1,0,Intent,if either method is not implemented the default implementation will call handledefault which can be used to provide common behaviour for both exception types
+1367,GtGraphTreemapSquarifyLandscapeRectangle,example,1,0,Intent,example
+189,BlElementPositionChangedEvent,is sent when element s position within its parent changes.,1,0,Intent,is sent when element s position within its parent changes
+2063,MalHgNode,attributes,1,0,Intent,attributes
+1133,GtGradAbstractTreeLayout,"however, this implementation offers the posibility of choosing the orientation vertical or horizontal.",1,0,Intent,however this implementation offers the posibility of choosing the orientation vertical or horizontal
+2439,PPSea,xxxxx,1,0,Intent,xxxxx
+3085,RTCalendarExample,b monthlayout month.,1,0,Intent,b monthlayout month
+3199,RTFilterInView,b shape box size #numberofmethods.,1,0,Intent,b shape box size numberofmethods
+1119,GtExampleProcessor,#value execute the processor.,1,0,Intent,value execute the processor
+3696,RTVerticalMultipleData,b rtgrapher new.,1,0,Intent,b rtgrapher new
+19,BlArrowheadTriangle,my size depends on the width of a curve and hence can not be manually specified.,1,0,Intent,my size depends on the width of a curve and hence can not be manually specified
+99,BlChildrenSubset,implementation details,1,0,Intent,implementation details
+3176,RTExperimentalExample,v rtview new.,1,0,Intent,v rtview new
+201,BlElementRemovedEvent,parent addchild child.,1,0,Intent,parent addchild child
+3,BlArrowheadExamples,i contain examples of different types of blarrowheadelement,1,0,Intent,i contain examples of different types of blarrowheadelement
+3629,RTSunburstBuilderExamples,b rtsunburstbuilder new.,1,0,Intent,b rtsunburstbuilder new
+815,BrEditorTextFlowLine,i represent a single line of a flow layout.,1,1,Intent,i represent a single line of a flow layout
+2443,PPSea,xxxxx,1,0,Intent,xxxxx
+3087,RTCalendarExample,b dateshape if d dictionary includeskey d color,1,0,Intent,b dateshape if d dictionary includeskey d color
+1039,GtDiagrammerPicker,i .,1,0,Intent,i
+3692,RTVerticalMultipleData,each group has the same x value.,1,0,Intent,each group has the same x value
+2734,PRUnorderedList,i am typically used for unnumbered lists,1,0,Intent,i am typically used for unnumbered lists
+1075,GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",1,0,Intent,to determine if a message send represents a dependency to a method containing an example i use heuristic defined by subclasses of gtexampledependencyresolver
+3925,WADatalistTag,option value opera,1,0,Intent,option value opera
+2634,PRParameter,i represent a key and value pair.,1,1,Intent,i represent a key and value pair
+1403,GtLibraryInstallerLogAnnouncement,the ui may want to display them in a transcript,1,0,Intent,the ui may want to display them in a transcript
+378,BlInfiniteItemAnimationsFinished,"i can be used, for example, to delay an action in a data set until currently running animations are complete.",1,0,Intent,i can be used for example to delay an action in a data set until currently running animations are complete
+253,BlGridLayout,"by default grid layout does not specify how many columns and rows exist, instead it tries to compute necessary amount of columns or rows depending on amount of children.",1,0,Intent,by default grid layout does not specify how many columns and rows exist instead it tries to compute necessary amount of columns or rows depending on amount of children
+3075,RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,1,0,Intent,collect ar color r ar first g ar second b ar third range 255
+1084,GtExampleFactory,"if the example method is defined on the class side, the provider is the class object.",1,0,Intent,if the example method is defined on the class side the provider is the class object
+2057,MalHgNode,children orderedcollection,1,0,Intent,children orderedcollection
+3918,WACopyHandlerPlugin,i make a copy of an application.,1,0,Intent,i make a copy of an application
+4120,WALabelledFormDialog,list # roger pete,1,0,Intent,list roger pete
+3702,RTVerticalMultipleData,d barchartwithbartitle #first rotation 30.,1,0,Intent,d barchartwithbartitle first rotation 30
+1292,GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,1,0,Intent,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends
+3080,RTCalendarExample,comp add rtlabel new text d d year height 20 .,1,0,Intent,comp add rtlabel new text d d year height 20
+2410,PPSea,"p x, a island, y accepts following inputs",1,0,Intent,p x a island y accepts following inputs
+3203,RTFilterInView,b view @ rtfilterinview.,1,0,Intent,b view @ rtfilterinview
+3527,RTPopupTest,a roabstractpopuptest is xxxxxxxxx.,1,1,Intent,a roabstractpopuptest is xxxxxxxxx
+48,BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",1,0,Intent,a rope uses a balanced binary tree to support fast adding removing and accessing with the disadvantage of taking more memory
+1185,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #emptyenclosure previewshow #gtpreviewfor previewheight 300,1,0,Intent,example gtgraphcircleenclosureexamples emptyenclosure previewshow gtpreviewfor previewheight 300
+2569,PRFootnote,noted astring,1,0,Intent,noted astring
+3770,TROSMShape,rectangle,1,0,Intent,rectangle
+352,BlInfiniteDataSourceCommandType,for performance and memory reasons i provide a unique instance of me to be shared among my users,1,0,Intent,for performance and memory reasons i provide a unique instance of me to be shared among my users
+2105,MalLatticePatterns,the class implements the identification of patterns in fca lattices.,1,0,Intent,the class implements the identification of patterns in fca lattices
+3745,RTWeightedCircleLayout,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15 .,1,0,Intent,elements rtellipse new size 5 color color red size vv vv 4 elementson 1 to 15
+267,BlGridLayout,internal representation and key implementation points.,1,0,Intent,internal representation and key implementation points
+3700,RTVerticalMultipleData,d addmetric #third.,1,0,Intent,d addmetric third
+3672,RTTextWord,interval interval,1,0,Intent,interval interval
+3095,RTCalendarExample,b dateinteraction popup.,1,0,Intent,b dateinteraction popup
+2059,MalHgNode,incoming orderedcollection,1,0,Intent,incoming orderedcollection
+1197,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewiththreecircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Intent,example gtgraphcircleenclosureexamples enclosurewiththreecircles previewshow gtpreviewfor previewexpanded previewheight 300
+3206,RTFilterInView,b,1,0,Intent,b
+133,BlDecelerateInterpolator,i am an interpolator where the rate of change starts out quickly and and then decelerates.,1,1,Intent,i am an interpolator where the rate of change starts out quickly and and then decelerates
+4100,WALabelledFormDialog,self addmessage please enter the followning information .,1,0,Intent,self addmessage please enter the followning information
+2061,MalHgNode,outgoing orderedcollection,1,0,Intent,outgoing orderedcollection
+24,BlArrowheadTriangle,it is possible to specify different paints for border and background,1,0,Intent,it is possible to specify different paints for border and background
+1187,GtGraphCircleEnclosure,a circle enclosure is represented by a cyan circle.,1,0,Intent,a circle enclosure is represented by a cyan circle
+1857,FamixJavaEntity,", cn .",1,0,Intent,cn
+1940,FMModel,#metadescriptionon allows one to get the meta description of an element.,1,1,Intent,metadescriptionon allows one to get the meta description of an element
+40,BlChildrenCollection,i provide a data structure independent api for adding and removing children.,1,0,Intent,i provide a data structure independent api for adding and removing children
+401,BlLayout,layout constraints,1,0,Intent,layout constraints
+3178,RTExperimentalExample,b object v.,1,0,Intent,b object v
+2388,PPParserReplaceRule,"ppparserreplacerule replaces a matched grammar with another grammar, which may include patterns from the matching grammar.",1,0,Intent,ppparserreplacerule replaces a matched grammar with another grammar which may include patterns from the matching grammar
+3652,RTSVGBoxedTextPopup,"this boxing, in svg, supports many features, not included in this class.",1,0,Intent,this boxing in svg supports many features not included in this class
+3146,RTCPQualitative,qualitative schemes are best suited to representing nominal or categorical data.,1,0,Intent,qualitative schemes are best suited to representing nominal or categorical data
+2825,PMLineSearch,"the step from x 0 to x 1 suppose to minimize g x i^eg 0 0 , but due to nonlinearity of g x might fail to do so.",1,0,Intent,the step from x 0 to x 1 suppose to minimize g x i eg 0 0 but due to nonlinearity of g x might fail to do so
+3172,RTExperimentalExample,code,1,0,Intent,code
+1082,GtExampleFactory,this is the class used to look for methods defining examples.,1,0,Intent,this is the class used to look for methods defining examples
+3201,RTFilterInView,b layout grid.,1,0,Intent,b layout grid
+3195,RTFilterInView,this interaction adds a set of menu in the view to filter in and out some elements,1,0,Intent,this interaction adds a set of menu in the view to filter in and out some elements
+397,BlLayout,bloc layout,1,1,Intent,bloc layout
+3220,RTFilterInView,b layout grid.,1,0,Intent,b layout grid
+2052,MalHgNode,a malhgnode is a node inside a hierarchical graph.,1,1,Intent,a malhgnode is a node inside a hierarchical graph
+197,BlElementRemovedEvent,child parent,1,0,Intent,child parent
+2483,PRAbstractCommand,my main entry point is,1,0,Intent,my main entry point is
+78,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #remove,1,0,Intent,example blchildrenorderedcollectionexamples remove
+362,BlInfiniteDataSourceItemRangeMoved,infiniteelement datasource,1,0,Intent,infiniteelement datasource
+2699,PRScreenshotAnnotation,caption the caption that will appear under my figure in the final book,1,0,Intent,caption the caption that will appear under my figure in the final book
+3895,WACookie,http tools^ietf.org html rfc2109,1,0,Intent,http tools ietf org html rfc2109
+2435,PPSea,xxxxx,1,0,Intent,xxxxx
+2703,PRScreenshotAnnotation,file label aa,1,0,Intent,file label aa
+3747,RTWeightedCircleLayout,rtweightedcirclelayout on elements.,1,0,Intent,rtweightedcirclelayout on elements
+2702,PRScreenshotAnnotation,label prfigure label as would be used in a more classic figure inclusion with caption .,1,0,Intent,label prfigure label as would be used in a more classic figure inclusion with caption
+1131,GtGradAbstractTreeLayout,it improved the older algorithm s ability to handle non uniform sized nodes.,1,0,Intent,it improved the older algorithm s ability to handle non uniform sized nodes
+259,BlGridLayout,cellspacing anumber to specify spacing between cells,1,0,Intent,cellspacing anumber to specify spacing between cells
+2070,MalHgNode,incoming,1,0,Intent,incoming
+257,BlGridLayout,columncount anumber to specify amount of columns,1,0,Intent,columncount anumber to specify amount of columns
+2308,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source,1,0,Intent,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source
+1118,GtExampleProcessor,i maintain a context that can be accessed from within the examples being processed during the execution of the processor.,1,0,Intent,i maintain a context that can be accessed from within the examples being processed during the execution of the processor
+2408,PPSea,a ppisland allows for imprecise parsing.,1,0,Intent,a ppisland allows for imprecise parsing
+1314,GtGraphTreemapSquarify,"in the next step, we add area 3.",1,0,Intent,in the next step we add area 3
+2863,PMMatrix,i understand the usual matrix operations.,1,0,Intent,i understand the usual matrix operations
+167,BlDragDelegate,drag delegate provides drag items when a visual element lifts.,1,0,Intent,drag delegate provides drag items when a visual element lifts
+3893,WACookie,http cgi^netscape.com newsref std cookie spec^html,1,0,Intent,http cgi netscape com newsref std cookie spec html
+2433,PPSea,xxxxx,1,0,Intent,xxxxx
+1146,GtGradAbstractTreeLayout,"during this second traversal, positions of the tree s nodes are set.",1,0,Intent,during this second traversal positions of the tree s nodes are set

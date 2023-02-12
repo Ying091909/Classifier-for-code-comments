@@ -1,0 +1,1309 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+2972,RTAbstractTreeBuilder,rtcirculartreemapbuilder,0,1,Collaborators,rtcirculartreemapbuilder
+1403,GtLibraryInstallerLogAnnouncement,the ui may want to display them in a transcript,0,1,Collaborators,the ui may want to display them in a transcript
+359,BlInfiniteDataSourceItemRangeMoved,sent by,0,1,Collaborators,sent by
+2911,PMStepper,the most general stepper type is described by the stepper concept.,0,1,Collaborators,the most general stepper type is described by the stepper concept
+987,BrTextEditorSelectionRecorder,i am used to record text selection intervals while user drags mouse over the text editor.,0,1,Collaborators,i am used to record text selection intervals while user drags mouse over the text editor
+3141,RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,0,1,Collaborators,i am a class helper to do the layout in rtcirculartreemapbuilder
+1021,GtDiagrammerEditorList,i display a list of editors of an object in a vertical list.,0,1,Collaborators,i display a list of editors of an object in a vertical list
+2734,PRUnorderedList,i am typically used for unnumbered lists,0,1,Collaborators,i am typically used for unnumbered lists
+800,BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,0,1,Collaborators,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action
+4213,WAPath,"the association value is an object of your choosing, which your code uses to restore that page .",0,1,Collaborators,the association value is an object of your choosing which your code uses to restore that page
+2970,RTAbstractTreeBuilder,i am a base class for some builders of roassal like,0,1,Collaborators,i am a base class for some builders of roassal like
+611,BlMouseProcessor,i convert basic events to more complex events.,0,1,Collaborators,i convert basic events to more complex events
+1503,GtRlReleaseConfiguration,"users can configure default options that apply to all repositories from a release, or configure options for individual repositories.",0,1,Collaborators,users can configure default options that apply to all repositories from a release or configure options for individual repositories
+399,BlLayout,i am attached to a bloc element and define the visual structure of that bloc element.,0,1,Collaborators,i am attached to a bloc element and define the visual structure of that bloc element
+1007,GtConnectorButtonCreatedEvent,i allow connector to be notified and attach its own additional handlers to newly created button,0,1,Collaborators,i allow connector to be notified and attach its own additional handlers to newly created button
+194,BlElementRemovedEvent,is sent by an element after it is removed from the parent.,0,1,Collaborators,is sent by an element after it is removed from the parent
+2990,RTAxisRenderer,it simply render in a view an axis configuration,0,1,Collaborators,it simply render in a view an axis configuration
+3504,RTLinkView,rtlinkview works with rthtml5exporter and,0,1,Collaborators,rtlinkview works with rthtml5exporter and
+363,BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,0,1,Collaborators,addeventhandleron blinfinitedatasourceitemrangemoved
+1150,GtGradAbstractTreeLayout,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine.,0,1,Collaborators,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine
+2635,PRParameter,my key is instance of prparameterkey and its associated vaue is an instance of prparametervalue.,0,1,Collaborators,my key is instance of prparameterkey and its associated vaue is an instance of prparametervalue
+2966,RTAbstractStackedDataSet,a data set has to be added to a rtgrapher.,0,1,Collaborators,a data set has to be added to a rtgrapher
+2973,RTAbstractTreeBuilder,rtbundlebuilder,0,1,Collaborators,rtbundlebuilder
+2278,PackageBlueprintTestResource,i am a test resource building a famixstmodel with the package blueprint test resource entities.,0,1,Collaborators,i am a test resource building a famixstmodel with the package blueprint test resource entities
+2513,PRBookTesterVisitor,i am a visitor specialized in visiting books and testing their code.,0,1,Collaborators,i am a visitor specialized in visiting books and testing their code
+4206,WAPainterVisitor,an implementation of the visitor pattern for painter subclasses.,0,1,Collaborators,an implementation of the visitor pattern for painter subclasses
+944,BrTextEditor,i make use of class brtextadornmentattribute to augment text with visual elements.,0,1,Collaborators,i make use of class brtextadornmentattribute to augment text with visual elements
+2974,RTAbstractTreeBuilder,rtsunburstbuilder,0,1,Collaborators,rtsunburstbuilder
+3837,WABulkReapingCache,i am intended to be used in gemstone s instead of wahashcache.,0,1,Collaborators,i am intended to be used in gemstone s instead of wahashcache
+2162,MalTerms,"copyright c , 2004 2007 adrian kuhn.",0,1,Collaborators,copyright c 2004 2007 adrian kuhn
+3838,WABulkReapingCache,a background process should send #reap to me.,0,1,Collaborators,a background process should send reap to me
+3952,WAErrorHandler,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception,0,1,Collaborators,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception
+2179,ManifestMooseQuery,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,0,1,Collaborators,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser
+1931,FMModel,i have a meta model containing descriptions of my content.,0,1,Collaborators,i have a meta model containing descriptions of my content
+1151,GtGradAbstractTreeLayout,"generally, the differences between the implementations of the hozitonal and vertical variants are really small, revolving around one using or setting the x and the other y coordinates.",0,1,Collaborators,generally the differences between the implementations of the hozitonal and vertical variants are really small revolving around one using or setting the x and the other y coordinates
+3866,WAComboResponse,"server adaptors need to be aware that a committed response must be closed, when complete.",0,1,Collaborators,server adaptors need to be aware that a committed response must be closed when complete
+1274,GtGraphTreemapLayoutConstraints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,0,1,Collaborators,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout
+1908,FamixTTrait,famixtrait models a trait as it can be found in pharo or php.,0,1,Collaborators,famixtrait models a trait as it can be found in pharo or php
+211,BlElementSelectionAcquiredEvent,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes.,0,1,Collaborators,is sent when element gets inside of mouse selection rectangle or when the overlapping rectangle formed by element s bounds and selection rectangle changes
+4320,WAUpTimeTracker,access the timestamp when the image booted as follows,0,1,Collaborators,access the timestamp when the image booted as follows
+4026,WAFormTag,the form element acts as a container for input elements and buttons.,0,1,Collaborators,the form element acts as a container for input elements and buttons
+4322,WAUpTimeTracker,access the duration how long ago the image booted as follows,0,1,Collaborators,access the duration how long ago the image booted as follows
+3568,RTResizeCanceled,dcrtresizable,0,1,Collaborators,dcrtresizable
+2021,KGBForMetricsTestResource,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests.,0,1,Collaborators,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests
+594,BlMorphicWindowHost,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows,0,1,Collaborators,i am a concrete implementation of a blhost that allows users to open host bloc spaces within moprhic windows
+2163,MalTerms,this class is part of hapax.,0,1,Collaborators,this class is part of hapax
+3683,RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,0,1,Collaborators,a rttimelinesettest is a test class for testing the behavior of rttimelineset
+1556,SpartaCanvas,i am polymorphic with spartasurface .,0,1,Collaborators,i am polymorphic with spartasurface
+380,BlInfiniteSmoothScrollerAction,i hold information about a smooth scroll request by a smoothscroller.,0,1,Collaborators,i hold information about a smooth scroll request by a smoothscroller
+3505,RTLinkView,rtsvgexporter,0,1,Collaborators,rtsvgexporter
+2684,PRPillarParserOld,i use the prpillargrammar and i build a prdocument.,0,1,Collaborators,i use the prpillargrammar and i build a prdocument
+1022,GtDiagrammerEditorList,i fetch data from the diagrammer editor data source,0,1,Collaborators,i fetch data from the diagrammer editor data source
+743,BlTextElementMeasurementStrategyExamples,"there is no perfect strategy, therefore understanding the differences between them is an important step in learning how to work with text in bloc.",0,1,Collaborators,there is no perfect strategy therefore understanding the differences between them is an important step in learning how to work with text in bloc
+2677,PRPillarParserMain,i will also use the ston reader to read potentital metadata at the begining of the stream.,0,1,Collaborators,i will also use the ston reader to read potentital metadata at the begining of the stream
+806,BlUniverseEvent,i am an event that is sent to the universe by the host to control the universe s lifecycle,0,1,Collaborators,i am an event that is sent to the universe by the host to control the universe s lifecycle
+374,BlInfiniteExampleClassesDataSource,i am a data source of the collection of all classes in the image,0,1,Collaborators,i am a data source of the collection of all classes in the image
+2670,PRPillarParser,i use the prpillargrammar and i build a prdocument.,0,1,Collaborators,i use the prpillargrammar and i build a prdocument
+1767,TSpartaPaint,i am instantiated by canvas and does not supposed to be created by refering paint class directly.,0,1,Collaborators,i am instantiated by canvas and does not supposed to be created by refering paint class directly
+1281,GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,0,1,Collaborators,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents
+794,BlTextUnderlineAttribute,i am used together with class bltext and class tbltextstyleable to style text.,0,1,Collaborators,i am used together with class bltext and class tbltextstyleable to style text
+3867,WAComboResponse,an uncommitted response should be handled as usual by the server adapter.,0,1,Collaborators,an uncommitted response should be handled as usual by the server adapter
+2726,PRShowClassTransformer,i create a prcodeblock with the class definition within it.,0,1,Collaborators,i create a prcodeblock with the class definition within it
+1877,FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,0,1,Collaborators,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace
+2353,PPDebugParser,used by adding enabledebug before parsing.,0,1,Collaborators,used by adding enabledebug before parsing
+4212,WAPath,the association key is the text that is displayed in the breadcrimb.,0,1,Collaborators,the association key is the text that is displayed in the breadcrimb
+742,BlTextElementMeasurementStrategyExamples,"class bltextelement provides different text measurement strategies, each suitable for a specific use case.",0,1,Collaborators,class bltextelement provides different text measurement strategies each suitable for a specific use case
+1110,GtExampleInstanceSubject,i am the default subject of an example.,0,1,Collaborators,i am the default subject of an example
+988,BrTextEditorSelectionRecorder,additionally i play a role of a selection strategy to support single or multiple selection.,0,1,Collaborators,additionally i play a role of a selection strategy to support single or multiple selection
+2380,PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,0,1,Collaborators,abstract literal parser that parses some kind of literal type to be specified by subclasses
+3666,RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,0,1,Collaborators,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal
+2290,TDependencyQueries,the actual core of the algorithms are in moosequerycalculator class.,0,1,Collaborators,the actual core of the algorithms are in moosequerycalculator class
+2045,MalDendrogramNode,"hapax is distributed under bsd license, see package comment.",0,1,Collaborators,hapax is distributed under bsd license see package comment
+2789,PMImplicitAnnouncer,an implicitannouncer is used by odesolver to announce step results implicitsolverannouncement .,0,1,Collaborators,an implicitannouncer is used by odesolver to announce step results implicitsolverannouncement
+1006,GtConnectorButtonCreatedEvent,is sent by buttonattribute after button is created.,0,1,Collaborators,is sent by buttonattribute after button is created
+4324,WAUpTimeTracker,at system startup the imageboottime is re set automatically.,0,1,Collaborators,at system startup the imageboottime is re set automatically
+1366,GtGraphTreemapSquarifyLandscapeRectangle,i am used by class gtgraphtreemapsquarifystep .,0,1,Collaborators,i am used by class gtgraphtreemapsquarifystep
+2164,MalTerms,"hapax is distributed under bsd license, see package comment.",0,1,Collaborators,hapax is distributed under bsd license see package comment
+4074,WAInvisibleSessionTrackingStrategy,for document handlers query fields are used.,0,1,Collaborators,for document handlers query fields are used
+2971,RTAbstractTreeBuilder,rttreemapbuilder,0,1,Collaborators,rttreemapbuilder
+3865,WAComboResponse,"after a response has been flushed once, header modifications are no longer possible and will raise a waillegalstateexception.",0,1,Collaborators,after a response has been flushed once header modifications are no longer possible and will raise a waillegalstateexception
+1768,TSpartaPaint,sparta canvas provides a paint builder that should be used to build concerete paints.,0,1,Collaborators,sparta canvas provides a paint builder that should be used to build concerete paints
+599,BlMorphicWindowOpenedEvent,i am fired by morphic host window when it is opened in the world,0,1,Collaborators,i am fired by morphic host window when it is opened in the world
+2044,MalDendrogramNode,this class is part of hapax.,0,1,Collaborators,this class is part of hapax
+725,BlTextBackgroundAttribute,i am used together with brtext and brtextstyler to style text.,0,1,Collaborators,i am used together with brtext and brtextstyler to style text
+233,BlGeometry,the geometry is used to define the geometry to be drawn and the interaction area.,0,1,Collaborators,the geometry is used to define the geometry to be drawn and the interaction area
+3691,RTVerticalMultipleData,rtverticalmultipledata represents a group of data points that are vertically located.,0,1,Collaborators,rtverticalmultipledata represents a group of data points that are vertically located
+1483,GtRlCommitAndTagReleaseAction,i only work with strategies of type class gtrlsemantictagreleasestrategy .,0,1,Collaborators,i only work with strategies of type class gtrlsemantictagreleasestrategy
+1502,GtRlReleaseConfiguration,i am used by a class gtrlreleasebuilder to create a new release.,0,1,Collaborators,i am used by a class gtrlreleasebuilder to create a new release
+360,BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,0,1,Collaborators,blinfinitedatasource
+938,BrTabAddedEvent,i am sent when a new tab is added to class brtabgroupmodel,0,1,Collaborators,i am sent when a new tab is added to class brtabgroupmodel
+3901,WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,0,1,Collaborators,compared to warequestcookie i represent the information that is sent to the user agent
+236,BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,0,1,Collaborators,i am an event listener that listens anchor moved event send by anchor
+2754,PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,0,1,Collaborators,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator
+3168,RTEllipseTest,a rtellipsetest is a test class for testing the behavior of rtellipse,0,0,Collaborators,a rtellipsetest is a test class for testing the behavior of rtellipse
+3676,RTTextWord,text,0,0,Collaborators,text
+559,BlMatrixDecomposition,scale,0,0,Collaborators,scale
+3212,RTFilterInView,b layout tree.,0,0,Collaborators,b layout tree
+1280,GtGraphTreemapSliceHorizontalLayout,i implement an horizontal slice algorithm.,0,0,Collaborators,i implement an horizontal slice algorithm
+4111,WALabelledFormDialog,labelforselector asymbol,0,0,Collaborators,labelforselector asymbol
+2294,TDependencyQueries,public api and key messages,0,0,Collaborators,public api and key messages
+1583,SpartaCanvas,triangle canvas path,0,0,Collaborators,triangle canvas path
+3776,TROSMShape,zoom,0,0,Collaborators,zoom
+1465,GtRlBaselineTagReleaseStrategy,i indicate a passive release as no actions need to be executed.,0,0,Collaborators,i indicate a passive release as no actions need to be executed
+3414,RTLabeled,text object,0,0,Collaborators,text object
+3393,RTHistogramSet,frequency on y and a collection of values per bars on x.,0,0,Collaborators,frequency on y and a collection of values per bars on x
+648,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectangleshape previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Collaborators,example blrectangleshapewitharrowexplanation rectangleshape previewshow gtlivefor previewexpanded true previewheight 250
+1978,FMMSEPrinter,fmmetametamodel default exportwithprinter printer.,0,0,Collaborators,fmmetametamodel default exportwithprinter printer
+2737,PRWatcher,a class to watch served sites.,0,0,Collaborators,a class to watch served sites
+4273,WASelection,"if optional labelblock is not given the string versions of the items are displayed to user, otherwise labelblock is used to generate the text to display for each item.",0,0,Collaborators,if optional labelblock is not given the string versions of the items are displayed to user otherwise labelblock is used to generate the text to display for each item
+1050,GtDiagrammerPicker,picker when brtoggleactivatedevent do anevent self inform anevent model .,0,0,Collaborators,picker when brtoggleactivatedevent do anevent self inform anevent model
+3546,RTRectangleAttachPoint,e1 @ rtdraggable.,0,0,Collaborators,e1 @ rtdraggable
+2194,MooseEntity,"any moose entity should answer its mooseid, its moosename and its moosemodel.",0,0,Collaborators,any moose entity should answer its mooseid its moosename and its moosemodel
+3172,RTExperimentalExample,code,0,0,Collaborators,code
+1386,GtLibraryInstaller,extension .,0,0,Collaborators,extension
+1406,GtLibraryInstallerMorph,top most container of the whole installer,0,0,Collaborators,top most container of the whole installer
+413,BlLayout,"layouting should to be executed during a frame when various properties like, width, height or position change in any element contained by the space.",0,0,Collaborators,layouting should to be executed during a frame when various properties like width height or position change in any element contained by the space
+837,BrExamplesShowroom,iconified toggle,0,0,Collaborators,iconified toggle
+4046,WAIframeTag,"the contents of the iframe element, on the other hand, should only be displayed by user agents that do not support frames or are configured not to display frames.",0,0,Collaborators,the contents of the iframe element on the other hand should only be displayed by user agents that do not support frames or are configured not to display frames
+1779,TSpartaPaint,rotatebydegrees rotate me by amount of degrees clockwise,0,0,Collaborators,rotatebydegrees rotate me by amount of degrees clockwise
+4279,WASelection,labelblock item item 1 iftrue first iffalse item asuppercase .,0,0,Collaborators,labelblock item item 1 iftrue first iffalse item asuppercase
+2183,MooseAbstractImporter,i m the root for the new importer.,0,0,Collaborators,i m the root for the new importer
+4081,WALabelledFormDialog,"subclasses need to implment the methods labelforselector , model, and rows.",0,0,Collaborators,subclasses need to implment the methods labelforselector model and rows
+1628,SpartaCanvas,area canvas bounds,0,0,Collaborators,area canvas bounds
+4122,WALabelledFormDialog,callback v contact name v,0,0,Collaborators,callback v contact name v
+2940,RTAbstractExample,iftrue builder build .,0,0,Collaborators,iftrue builder build
+564,BlMatrixDecomposition,scale,0,0,Collaborators,scale
+3422,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+3529,RTPopupTest,popup object,0,0,Collaborators,popup object
+134,BlDecelerateInterpolator,i am configurable using factor a degree to which the animation should be eased.,0,0,Collaborators,i am configurable using factor a degree to which the animation should be eased
+202,BlElementRemovedEvent,parent removechild child,0,0,Collaborators,parent removechild child
+1306,GtGraphTreemapSquarify,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep label #worstvaluerounded .,0,0,Collaborators,the worst aspect ratio improves to example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep label worstvaluerounded
+297,BlGridLayoutArc,i am used by grid layout instead of dictionary of span value key value pair for performance reasons.,0,0,Collaborators,i am used by grid layout instead of dictionary of span value key value pair for performance reasons
+296,BlGridLayoutArc,"i represent an association of span interval, associated value and validity flag.",0,0,Collaborators,i represent an association of span interval associated value and validity flag
+4296,WAServerAdaptor,a waserver is the abstract base class for all servers.,0,0,Collaborators,a waserver is the abstract base class for all servers
+3858,WAComboResponse,self rendersearchlabelon acanvas.,0,0,Collaborators,self rendersearchlabelon acanvas
+427,BlLayout,"hence, often the layout needs to be applied twice, or more, during the layouting phase.",0,0,Collaborators,hence often the layout needs to be applied twice or more during the layouting phase
+1746,TSpartaCompositeFilter,merge filter primitive is just a composite filter with over composion mode.,0,0,Collaborators,merge filter primitive is just a composite filter with over composion mode
+3349,RTHighlightableWithCursor,b view elements @ rthighlightablewithcursor.,0,0,Collaborators,b view elements @ rthighlightablewithcursor
+1197,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewiththreecircles previewshow #gtpreviewfor previewexpanded previewheight 300,0,0,Collaborators,example gtgraphcircleenclosureexamples enclosurewiththreecircles previewshow gtpreviewfor previewexpanded previewheight 300
+654,BlRectangleShapeWithArrowExplanation,injecting a line inside of the top edge,0,0,Collaborators,injecting a line inside of the top edge
+3008,RTBezier3Line,e2 @ rtdraggable.,0,0,Collaborators,e2 @ rtdraggable
+1946,FMModel,model fmmodel withmetamodel fmmetamodel fromstring fmheinekenexample metamodelmse .,0,0,Collaborators,model fmmodel withmetamodel fmmetamodel fromstring fmheinekenexample metamodelmse
+3543,RTRectangleAttachPoint,e2 rtellipse new size 50 elementon 2.,0,0,Collaborators,e2 rtellipse new size 50 elementon 2
+1109,GtExampleInstanceSubject,i indicate that the subject of an example is an object.,0,0,Collaborators,i indicate that the subject of an example is an object
+3076,RTCalendarExample,b rtcalendarbuilder new.,0,0,Collaborators,b rtcalendarbuilder new
+2429,PPSea,bwp object,0,0,Collaborators,bwp object
+2801,PMKolmogorovSmirnov1Sample,#rejectequalityhypothesiswithalpha does what its name says of course.,0,0,Collaborators,rejectequalityhypothesiswithalpha does what its name says of course
+2986,RTAttachPoint,an attach point indicates where lines start and end.,0,0,Collaborators,an attach point indicates where lines start and end
+858,BrExamplesShowroom,example brexamplesshowroom #materialtoolbar,0,0,Collaborators,example brexamplesshowroom materialtoolbar
+3313,RTGrapherSelectRangeViewContext,ds rtdata new.,0,0,Collaborators,ds rtdata new
+2405,PPScriptingTest,these are some simple demo scripts of parser combinators for the compiler construction course.,0,0,Collaborators,these are some simple demo scripts of parser combinators for the compiler construction course
+810,BlUniverseEventsCleared,emitted when all of the event loop s events have been processed and control flow is about to be taken away from the universe.,0,0,Collaborators,emitted when all of the event loop s events have been processed and control flow is about to be taken away from the universe
+3473,RTLineDecorationExample,addall edges.,0,0,Collaborators,addall edges
+414,BlLayout,"however, an important aspect in bloc, is that when one of these properties changes, layouting is not performed immediately.",0,0,Collaborators,however an important aspect in bloc is that when one of these properties changes layouting is not performed immediately
+3051,RTBox,v add rtbox new width 10 height 20 element.,0,0,Collaborators,v add rtbox new width 10 height 20 element
+1606,SpartaCanvas,paint lineargradient,0,0,Collaborators,paint lineargradient
+4259,WARequestContext,warequestcontext encapsulates all the knowledge that should be available while processing a single request.,0,0,Collaborators,warequestcontext encapsulates all the knowledge that should be available while processing a single request
+3968,WAExpiringCache,maximumabsoluteage integer,0,0,Collaborators,maximumabsoluteage integer
+1823,XdDocumentsExamples,adocument anxdfile,0,0,Collaborators,adocument anxdfile
+556,BlMatrixDecomposition,i represent a matrix decomposition in components.,0,0,Collaborators,i represent a matrix decomposition in components
+339,BlHostPulseLoop,i am the bloc main loop.,0,0,Collaborators,i am the bloc main loop
+1550,SpartaCanvas,in order to create and perform a drawing operation users should rely on corresponding builder.,0,0,Collaborators,in order to create and perform a drawing operation users should rely on corresponding builder
+2655,PRPhase,start each,0,0,Collaborators,start each
+1564,SpartaCanvas,font create a font build helper,0,0,Collaborators,font create a font build helper
+2016,FmxMBPrintVisitor,"i just visit each node in the builder, and print it on the transcript.",0,0,Collaborators,i just visit each node in the builder and print it on the transcript
+651,BlRectangleShapeWithArrowExplanation,first of all we should ask the rectangle shape to give us its top edge method blrectangleshape #topedge .,0,0,Collaborators,first of all we should ask the rectangle shape to give us its top edge method blrectangleshape topedge
+844,BrExamplesShowroom,thus being said by swapping the label and icon look we can move the icon to the right from the label,0,0,Collaborators,thus being said by swapping the label and icon look we can move the icon to the right from the label
+1300,GtGraphTreemapSquarify,"we choose for a horizontal subdivision, because the original rectangle is wider than high.",0,0,Collaborators,we choose for a horizontal subdivision because the original rectangle is wider than high
+547,BlMatrix2D,my components are named according to mathematical convention,0,0,Collaborators,my components are named according to mathematical convention
+4028,WAFormTag,the input fields callbacks will be evaluated in the order they,0,0,Collaborators,the input fields callbacks will be evaluated in the order they
+719,BlSpartaMozSkiaCanvasBuilder,i am a copy of class blspartamozcanvasbuilder.,0,0,Collaborators,i am a copy of class blspartamozcanvasbuilder
+4244,WAPlugin,i am an abstract root class for all plugins.,0,0,Collaborators,i am an abstract root class for all plugins
+626,BlPolygon,blpolygon vertices,0,0,Collaborators,blpolygon vertices
+2215,MooseEntity,msecomment the yourentity smalltalk class has a correspondent yourentity meta entity in the fame world,0,0,Collaborators,msecomment the yourentity smalltalk class has a correspondent yourentity meta entity in the fame world
+1004,GtConnectorButtonAddedEvent,is sent after button is added to the scene graph,0,0,Collaborators,is sent after button is added to the scene graph
+2825,PMLineSearch,"the step from x 0 to x 1 suppose to minimize g x i^eg 0 0 , but due to nonlinearity of g x might fail to do so.",0,0,Collaborators,the step from x 0 to x 1 suppose to minimize g x i eg 0 0 but due to nonlinearity of g x might fail to do so
+3863,WAComboResponse,acanvas flush.,0,0,Collaborators,acanvas flush
+2938,RTAbstractExample,builder example perform met selector.,0,0,Collaborators,builder example perform met selector
+1596,SpartaCanvas,1 color blue .,0,0,Collaborators,1 color blue
+2488,PRAbstractCommand,prexportbuilder new,0,0,Collaborators,prexportbuilder new
+1117,GtExampleProcessor,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",0,0,Collaborators,for example evaluating an example is to be treated differently from a debugging scenario or from a scenario to recorver static dependencies
+3924,WADatalistTag,option value internet explorer,0,0,Collaborators,option value internet explorer
+3530,RTPopupTest,view object,0,0,Collaborators,view object
+2224,MooseEntity,it should not change nor be nil.,0,0,Collaborators,it should not change nor be nil
+1045,GtDiagrammerPicker,margin blinsets all 3,0,0,Collaborators,margin blinsets all 3
+964,BrTextEditorExamples,example brtexteditorexamples #newelement show gtlivein,0,0,Collaborators,example brtexteditorexamples newelement show gtlivein
+3469,RTLineDecorationExample,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,0,Collaborators,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2
+4019,WAFormDecoration,buttons collection of strings or symbols,0,0,Collaborators,buttons collection of strings or symbols
+2675,PRPillarParserMain,i m responsible for starting the parsing process of a pillar document.,0,0,Collaborators,i m responsible for starting the parsing process of a pillar document
+1765,TSpartaPaint,overview,0,0,Collaborators,overview
+2000,FMRelationSlot,i am an abstract slot used to declare fame properties for a class.,0,0,Collaborators,i am an abstract slot used to declare fame properties for a class
+445,BlLayout,the measured bounds are used during layouting to hold the new extent of an element.,0,0,Collaborators,the measured bounds are used during layouting to hold the new extent of an element
+4052,WAImageButtonTag,creates a graphical submit button.,0,0,Collaborators,creates a graphical submit button
+2214,MooseEntity,package yourpackage,0,0,Collaborators,package yourpackage
+3628,RTSunburstBuilderExamples,b,0,0,Collaborators,b
+4201,WAOptionGroupTag,see wainputtest #renderoptiongroupon for examples.,0,0,Collaborators,see wainputtest renderoptiongroupon for examples
+2839,PMLineSearch,it is guaranteed that g x will be called on the resulting x.,0,0,Collaborators,it is guaranteed that g x will be called on the resulting x
+3982,WAExpiringCache,has to be positive.,0,0,Collaborators,has to be positive
+2902,PMStateTime,it holds both a state and a time.,0,0,Collaborators,it holds both a state and a time
+3534,RTPopupTest,xxxxx,0,0,Collaborators,xxxxx
+2427,PPSea,awp object,0,0,Collaborators,awp object
+3540,RTRectangleAttachPoint,continuous attach point which presumes both shapes are not rotated rectangles,0,0,Collaborators,continuous attach point which presumes both shapes are not rotated rectangles
+430,BlLayout,performing a layout,0,0,Collaborators,performing a layout
+2178,ManifestMooseQuery,i store metadata for this package.,0,0,Collaborators,i store metadata for this package
+1817,TSpTextRun,"note that textrun is optimised for the case of simple ascii string all chars are 8 bit , simple multilanguage string all chars are 16 bit and complex scripts characters have various length of 8 32 bits .",0,0,Collaborators,note that textrun is optimised for the case of simple ascii string all chars are 8 bit simple multilanguage string all chars are 16 bit and complex scripts characters have various length of 8 32 bits
+2942,RTAbstractExample,time 1 asduration,0,0,Collaborators,time 1 asduration
+1304,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep previewexpanded true nocode,0,0,Collaborators,example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep previewexpanded true nocode
+2222,MooseEntity,important api,0,0,Collaborators,important api
+1911,FMFutureProperty,description,0,0,Collaborators,description
+3899,WACookie,http msdn2^microsoft.com en us library ms533046^aspx,0,0,Collaborators,http msdn2 microsoft com en us library ms533046 aspx
+545,BlMatrix2D,i represent a matrix used for 2d affine transformations.,0,0,Collaborators,i represent a matrix used for 2d affine transformations
+1887,FamixTPackage,"famixpackage represents a package in the source language, meaning that it provides a means to group entities without any baring on lexical scoping.",0,0,Collaborators,famixpackage represents a package in the source language meaning that it provides a means to group entities without any baring on lexical scoping
+3339,RTHighlightableWithCursor,methodsnames #rtmethods,0,0,Collaborators,methodsnames rtmethods
+2068,MalHgNode,higraph,0,0,Collaborators,higraph
+1750,TSpartaCompositeFilter,source filter2,0,0,Collaborators,source filter2
+3396,RTHorizontalData,rtdata renders bars and dots in vertical way,0,0,Collaborators,rtdata renders bars and dots in vertical way
+762,BlTextElementMeasurementStrategyExamples,conslusion,0,0,Collaborators,conslusion
+3590,RTScrollBarBuilder,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view.,0,0,Collaborators,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view
+3774,TROSMShape,tiles,0,0,Collaborators,tiles
+3316,RTGrapherSelectRangeViewContext,ds y cls cls numberofmethods 50 .,0,0,Collaborators,ds y cls cls numberofmethods 50
+1528,SpartaCairoTextMetrics,i store the extents of a single glyph or a string of glyphs in user space coordinates.,0,0,Collaborators,i store the extents of a single glyph or a string of glyphs in user space coordinates
+3199,RTFilterInView,b shape box size #numberofmethods.,0,0,Collaborators,b shape box size numberofmethods
+1990,FMOne,trait named #famixtmethod,0,0,Collaborators,trait named famixtmethod
+2487,PRAbstractCommand,you can obtain the same doing,0,0,Collaborators,you can obtain the same doing
+3748,RTWeightedCircleLayout,v,0,0,Collaborators,v
+2057,MalHgNode,children orderedcollection,0,0,Collaborators,children orderedcollection
+965,BrTextEditorExamples,"and finally, build everything together",0,0,Collaborators,and finally build everything together
+839,BrExamplesShowroom,example brexamplesshowroom #materialicontoggle,0,0,Collaborators,example brexamplesshowroom materialicontoggle
+2835,PMLineSearch,storedmethod setfunction funblock.,0,0,Collaborators,storedmethod setfunction funblock
+728,BlTextBackgroundAttribute,example,0,0,Collaborators,example
+2932,RTAbstractExample,examples orderedcollection new.,0,0,Collaborators,examples orderedcollection new
+2482,PRAbstractCommand,i m usually invoked from a command line but not only.,0,0,Collaborators,i m usually invoked from a command line but not only
+1186,GtGraphCircleEnclosure,"and add circles one by one, starting with a larger one.",0,0,Collaborators,and add circles one by one starting with a larger one
+3593,RTScrollBarBuilder,aving an orientation #vertical or #horizontal.,0,0,Collaborators,aving an orientation vertical or horizontal
+630,BlPolygon,180@150.,0,0,Collaborators,180@150
+4184,WAMemoryInput,a wamemoryinput is a dialog that allows the user to enter an amount of memory.,0,0,Collaborators,a wamemoryinput is a dialog that allows the user to enter an amount of memory
+402,BlLayout,i support a set of attributes refered to as constraints in bloc which define the visual properties of the layout.,0,0,Collaborators,i support a set of attributes refered to as constraints in bloc which define the visual properties of the layout
+2936,RTAbstractExample,example gtexamples do met time builder,0,0,Collaborators,example gtexamples do met time builder
+1484,GtRlCommitAndTagReleaseAction,see method gtrlsemantictagreleasestrategy #commitandtagrelease for more implementation details.,0,0,Collaborators,see method gtrlsemantictagreleasestrategy commitandtagrelease for more implementation details
+3399,RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,0,0,Collaborators,the label may be particularized using text in the default string representation is not sufficient
+444,BlLayout,the real bounds contain the actual position and extent of an element that users of that element should rely on.,0,0,Collaborators,the real bounds contain the actual position and extent of an element that users of that element should rely on
+3541,RTRectangleAttachPoint,v rtview new.,0,0,Collaborators,v rtview new
+4219,WAPath,see wainspector for example use.,0,0,Collaborators,see wainspector for example use
+1115,GtExampleProcessor,i am an abstract class for manipulating examples.,0,0,Collaborators,i am an abstract class for manipulating examples
+646,BlRectangleShapeWithArrowExplanation,creating a rectangle shape,0,0,Collaborators,creating a rectangle shape
+3392,RTHistogramSet,the histogram gives you a distribution frequency over the points given.,0,0,Collaborators,the histogram gives you a distribution frequency over the points given
+3353,RTHighlightableWithCursor,b interaction showedge,0,0,Collaborators,b interaction showedge
+759,BlTextElementMeasurementStrategyExamples,method bltextelement #tightmeasurement does exactly that and clips off any white space surrounding the text.,0,0,Collaborators,method bltextelement tightmeasurement does exactly that and clips off any white space surrounding the text
+2733,PRUnorderedList,i am an unordered list.,0,0,Collaborators,i am an unordered list
+4313,WATagBrush,"common events onxxx , this is a hack and would better be solved with traits",0,0,Collaborators,common events onxxx this is a hack and would better be solved with traits
+1900,FamixTParameterType,where aclass is a parameterizableclass.,0,0,Collaborators,where aclass is a parameterizableclass
+4082,WALabelledFormDialog,the model method just returns the object whose fields we wish to populate with date.,0,0,Collaborators,the model method just returns the object whose fields we wish to populate with date
+2946,RTAbstractExample,examples errors,0,0,Collaborators,examples errors
+1507,GtRlReleaseConfiguration,these are subclasses of class gtrlsemanticversioncomputation,0,0,Collaborators,these are subclasses of class gtrlsemanticversioncomputation
+2208,MooseEntity,entities should also be meta described in terms of fame.,0,0,Collaborators,entities should also be meta described in terms of fame
+3418,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+1571,SpartaCanvas,extent get my size width@height,0,0,Collaborators,extent get my size width@height
+1612,SpartaCanvas,canvas stroke,0,0,Collaborators,canvas stroke
+4261,WARequestContext,the request context is valid only during the request that caused it.,0,0,Collaborators,the request context is valid only during the request that caused it
+4319,WAUpTimeTracker,wauptimetracker is used to track the timestamp when the image last booted.,0,0,Collaborators,wauptimetracker is used to track the timestamp when the image last booted
+2074,MalHgNode,"the larger the number, the deeper down in the hierarchy the node is located.",0,0,Collaborators,the larger the number the deeper down in the hierarchy the node is located
+198,BlElementRemovedEvent,child blelement new.,0,0,Collaborators,child blelement new
+3405,RTLabeled,"e @ rtlabeled new text value my value is , value asstring .",0,0,Collaborators,e @ rtlabeled new text value my value is value asstring
+1308,GtGraphTreemapSquarify,"however, if we add the next area 4 above these original rectangles, the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep label #worstvaluerounded .",0,0,Collaborators,however if we add the next area 4 above these original rectangles the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep label worstvaluerounded
+3337,RTHighlightableWithCursor,instancevariables #instvarnames,0,0,Collaborators,instancevariables instvarnames
+3090,RTCalendarExample,index value 11 01 1.,0,0,Collaborators,index value 11 01 1
+667,BlRectangleShapeWithArrowExplanation,after doing so we receive the expected vector shape we we can later use together with class blshapegeometry,0,0,Collaborators,after doing so we receive the expected vector shape we we can later use together with class blshapegeometry
+1737,SpUserFontSourceBuffer,i am a buffer source.,0,0,Collaborators,i am a buffer source
+1501,GtRlReleaseConfiguration,i model options for configuring how releases are performed.,0,0,Collaborators,i model options for configuring how releases are performed
+1988,FMOne,i am a relation slot representing a property containing only one element.,0,0,Collaborators,i am a relation slot representing a property containing only one element
+1608,SpartaCanvas,draw.,0,0,Collaborators,draw
+3576,RTRotatedLabel,es shape elementson collection withallsubclasses.,0,0,Collaborators,es shape elementson collection withallsubclasses
+424,BlLayout,they can react by requesting another layout.,0,0,Collaborators,they can react by requesting another layout
+3860,WAComboResponse,flush before starting search to give immediate feedback,0,0,Collaborators,flush before starting search to give immediate feedback
+3566,RTResizeCanceled,i am fired when resize operation is canceled globally for the whole view.,0,0,Collaborators,i am fired when resize operation is canceled globally for the whole view
+2438,PPSea,bwp,0,0,Collaborators,bwp
+1772,TSpartaPaint,transformation set new paint transformation.,0,0,Collaborators,transformation set new paint transformation
+3699,RTVerticalMultipleData,d addmetric #second.,0,0,Collaborators,d addmetric second
+3077,RTCalendarExample,b dateshape rectangle size 15 color color white bordercolor color lightgray.,0,0,Collaborators,b dateshape rectangle size 15 color color white bordercolor color lightgray
+3069,RTCalendarExample,tab values do ar value,0,0,Collaborators,tab values do ar value
+1146,GtGradAbstractTreeLayout,"during this second traversal, positions of the tree s nodes are set.",0,0,Collaborators,during this second traversal positions of the tree s nodes are set
+3216,RTFilterInView,b,0,0,Collaborators,b
+3471,RTLineDecorationExample,add b1,0,0,Collaborators,add b1
+665,BlRectangleShapeWithArrowExplanation,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow.,0,0,Collaborators,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow
+1941,FMModel,examples,0,0,Collaborators,examples
+3002,RTBezier3Line,lineshape rtbezier3line new.,0,0,Collaborators,lineshape rtbezier3line new
+755,BlTextElementMeasurementStrategyExamples,method bltextelement #editormeasurement,0,0,Collaborators,method bltextelement editormeasurement
+819,BrExampleColoredElementStencil,i am an example of a custom stencil that creates a rounded rectangular element with cusomizable background color and corner radius,0,0,Collaborators,i am an example of a custom stencil that creates a rounded rectangular element with cusomizable background color and corner radius
+419,BlLayout,"instead layout is requested and perfomed, if needed, during every frame.",0,0,Collaborators,instead layout is requested and perfomed if needed during every frame
+2440,PPSea,context,0,0,Collaborators,context
+752,BlTextElementMeasurementStrategyExamples,editor measurement,0,0,Collaborators,editor measurement
+2640,PRParseWarning,i am a warning for the parse of a pillar file.,0,0,Collaborators,i am a warning for the parse of a pillar file
+2274,MooseVisualLocator,it is meant to be subclassed.,0,0,Collaborators,it is meant to be subclassed
+4101,WALabelledFormDialog,model,0,0,Collaborators,model
+1747,TSpartaCompositeFilter,merge canvas compositefilter,0,0,Collaborators,merge canvas compositefilter
+2409,PPSea,one can create it on a parser p by calling p island eg,0,0,Collaborators,one can create it on a parser p by calling p island eg
+4275,WASelection,selection,0,0,Collaborators,selection
+4246,WAPlugin,to add a new plugin make sure you choose the right superclass so that the tool can detect your code.,0,0,Collaborators,to add a new plugin make sure you choose the right superclass so that the tool can detect your code
+812,BlVisibilityHidden,i am a concrete visibility type hidden .,0,0,Collaborators,i am a concrete visibility type hidden
+726,BlTextBackgroundAttribute,public api and key messages,0,0,Collaborators,public api and key messages
+2704,PRScreenshotAnnotation,i am used as follows in a document,0,0,Collaborators,i am used as follows in a document
+628,BlPolygon,50@20.,0,0,Collaborators,50@20
+3923,WADatalistTag,option value safari,0,0,Collaborators,option value safari
+2291,TDependencyQueries,most of the generic methods takes a symbol to describe the direction.,0,0,Collaborators,most of the generic methods takes a symbol to describe the direction
+3361,RTHighlightableWithCursor,b,0,0,Collaborators,b
+3788,TROSMShape,"depending on the rtview size and the canvas parameters, get the right tiles from osm and display them.",0,0,Collaborators,depending on the rtview size and the canvas parameters get the right tiles from osm and display them
+4342,WAUrlAttribute,waurlattribute represents a url attribute.,0,0,Collaborators,waurlattribute represents a url attribute
+3551,RTRectangleAttachPoint,v add l.,0,0,Collaborators,v add l
+3224,RTFilterInView,b view @ filter.,0,0,Collaborators,b view @ filter
+2100,MalKruskal,"if the graph is not connected, then it finds a minimum spanning forest a minimum spanning tree for each connected component .",0,0,Collaborators,if the graph is not connected then it finds a minimum spanning forest a minimum spanning tree for each connected component
+1034,GtDiagrammerPicker,picker,0,0,Collaborators,picker
+2731,PRSyntaxError,an error about syntax,0,0,Collaborators,an error about syntax
+2199,MooseEntity,this extension will only be visible when the package is loaded.,0,0,Collaborators,this extension will only be visible when the package is loaded
+2061,MalHgNode,outgoing orderedcollection,0,0,Collaborators,outgoing orderedcollection
+3206,RTFilterInView,b,0,0,Collaborators,b
+4281,WASelection,self inform result printstring,0,0,Collaborators,self inform result printstring
+1593,SpartaCanvas,begin 50@100,0,0,Collaborators,begin 50@100
+84,BlChildrenSubset,i capture a subset of children from a class blelement instance.,0,0,Collaborators,i capture a subset of children from a class blelement instance
+2145,MalNodeWithPreviousAndNext,a basic node able to host the model and to represent edges with no additional class.,0,0,Collaborators,a basic node able to host the model and to represent edges with no additional class
+2492,PRAbstractCommand,inputfile filesystem workingdirectory chapters chapter1 chapter1^pillar .,0,0,Collaborators,inputfile filesystem workingdirectory chapters chapter1 chapter1 pillar
+342,BlHostPulseLoop,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete .,0,0,Collaborators,this may be delayed if there are background processes wanting to run to ensure that background calculation of ui elements can complete
+2107,MalLatticePatterns,data fca context lattice,0,0,Collaborators,data fca context lattice
+387,BlKeyCombination,see blkeycombinationvisitor,0,0,Collaborators,see blkeycombinationvisitor
+984,BrTextEditorLineSplitter,i split a piece of text into line segments class brtexteditorlinesegment,0,0,Collaborators,i split a piece of text into line segments class brtexteditorlinesegment
+340,BlHostPulseLoop,i indicate to the universe that is time to synchronize the state of the elements.,0,0,Collaborators,i indicate to the universe that is time to synchronize the state of the elements
+1472,GtRlBaselineTagReleaseStrategy,see method gtrlbaselinetagreleasestrategy #assertcompatiblewithrepository for assertions that check when i can be used.,0,0,Collaborators,see method gtrlbaselinetagreleasestrategy assertcompatiblewithrepository for assertions that check when i can be used
+906,BrGlamorousIcons,brglamorousicons importiconsfromdirectory .,0,0,Collaborators,brglamorousicons importiconsfromdirectory
+3474,RTLineDecorationExample,edges do each each update .,0,0,Collaborators,edges do each each update
+4030,WAFormTag,"buttons will always be evaluated last, no matter",0,0,Collaborators,buttons will always be evaluated last no matter
+2913,PMStepper,the class method onsystem will assign the system to the stepper.,0,0,Collaborators,the class method onsystem will assign the system to the stepper
+3773,TROSMShape,the scale of the shape,0,0,Collaborators,the scale of the shape
+118,BlClickEvent,the order of fired events,0,0,Collaborators,the order of fired events
+2220,MooseEntity,msecomment this is an attribute extended in a different package,0,0,Collaborators,msecomment this is an attribute extended in a different package
+1451,GtRemoteInspector,message one,0,0,Collaborators,message one
+2227,MooseEntity,it may be nil if the entity is not part of a model.,0,0,Collaborators,it may be nil if the entity is not part of a model
+1769,TSpartaPaint,public api and key messages,0,0,Collaborators,public api and key messages
+3797,TROSMShape,"when displaying, check if tile exists.",0,0,Collaborators,when displaying check if tile exists
+3097,RTCalendarExample,b view elements select e e model iskindof month pushfront.,0,0,Collaborators,b view elements select e e model iskindof month pushfront
+3598,RTScrollBarBuilder,width to set a static size of width.,0,0,Collaborators,width to set a static size of width
+197,BlElementRemovedEvent,child parent,0,0,Collaborators,child parent
+1182,GtGraphCircleEnclosure,the enclosing circle is computed using the matou ek sharir welzl http www^inf.ethz^ch personal emo publfiles subexlinprog alg16 96^pdf algorithm.,0,0,Collaborators,the enclosing circle is computed using the matou ek sharir welzl http www inf ethz ch personal emo publfiles subexlinprog alg16 96 pdf algorithm
+2273,MooseVisualLocator,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side.,0,0,Collaborators,the moosevisuallocator is a simple template that offers a list of classes on the left hand side and some presentation on the right hand side
+1748,TSpartaCompositeFilter,over,0,0,Collaborators,over
+2217,MooseEntity,for example,0,0,Collaborators,for example
+3177,RTExperimentalExample,v addelement rtbox element.,0,0,Collaborators,v addelement rtbox element
+1547,SpartaCanvas,i define an abstract api of sparta canvas that all concrete implementations must have.,0,0,Collaborators,i define an abstract api of sparta canvas that all concrete implementations must have
+3318,RTGrapherSelectRangeViewContext,g add ds.,0,0,Collaborators,g add ds
+1621,SpartaCanvas,create a gaussian blur filter,0,0,Collaborators,create a gaussian blur filter
+4017,WAFormDecoration,"for each string symbol in the buttons inst var the decorated component must implement a method of the same name, which is called when the button is selected.",0,0,Collaborators,for each string symbol in the buttons inst var the decorated component must implement a method of the same name which is called when the button is selected
+2920,GLMRoassal2MorphicTest,a glmroassalmorphictest is xxxxxxxxx.,0,0,Collaborators,a glmroassalmorphictest is xxxxxxxxx
+2568,PRFootnote,"i am a footnote, you can create me with",0,0,Collaborators,i am a footnote you can create me with
+3332,RTHighlightableWithCursor,highlight to indicates that some interaction be can done.,0,0,Collaborators,highlight to indicates that some interaction be can done
+2945,RTAbstractExample,displayingprogress running examples .,0,0,Collaborators,displayingprogress running examples
+1044,GtDiagrammerPicker,look brmaterialtogglelabelledlook,0,0,Collaborators,look brmaterialtogglelabelledlook
+3460,RTLineDecorationExample,b2 rtbox new,0,0,Collaborators,b2 rtbox new
+957,BrTextEditorExamples,first create the text,0,0,Collaborators,first create the text
+4216,WAPath,the method wapath currentsegment returns object associated with the current page .,0,0,Collaborators,the method wapath currentsegment returns object associated with the current page
+3176,RTExperimentalExample,v rtview new.,0,0,Collaborators,v rtview new
+2418,PPSea,xb,0,0,Collaborators,xb
+2777,PMGradient,g value # 1 1 .,0,0,Collaborators,g value 1 1
+3770,TROSMShape,rectangle,0,0,Collaborators,rectangle
+3697,RTVerticalMultipleData,d rtverticalmultipledata new.,0,0,Collaborators,d rtverticalmultipledata new
+465,BlLayout,layout api,0,0,Collaborators,layout api
+3351,RTHighlightableWithCursor,b rtmondrian new.,0,0,Collaborators,b rtmondrian new
+1037,GtDiagrammerPicker,picker display hello .,0,0,Collaborators,picker display hello
+2997,RTBezier3Line,v rtview new.,0,0,Collaborators,v rtview new
+1745,TSpartaCompositeFilter,example,0,0,Collaborators,example
+1567,SpartaCanvas,mask create a builder of masking draw operation,0,0,Collaborators,mask create a builder of masking draw operation
+3220,RTFilterInView,b layout grid.,0,0,Collaborators,b layout grid
+4257,WARedirectingRegistry,i revert to the old 33.0 behavior which is easier for tests.,0,0,Collaborators,i revert to the old 33 0 behavior which is easier for tests
+1617,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 04 stroke path^png label strokepath,0,0,Collaborators,https github com syrel sparta raw master images spartacanvas 04 stroke path png label strokepath
+967,BrTextEditorExamples,done,0,0,Collaborators,done
+713,BlSpaceEventExamples,i contain examples of space related events,0,0,Collaborators,i contain examples of space related events
+2613,PRList,i am an abstract list.,0,0,Collaborators,i am an abstract list
+2690,PRPreformatted,i am preformatted text or source code.,0,0,Collaborators,i am preformatted text or source code
+1562,SpartaCanvas,clip create a builder to clip canvas by path or rectangle,0,0,Collaborators,clip create a builder to clip canvas by path or rectangle
+3406,RTLabeled,v,0,0,Collaborators,v
+2996,RTBezier3Line,here is an example,0,0,Collaborators,here is an example
+2545,PRDocumentListAnnotation,we can also choose they way abstracts will be represented by specifying templates.,0,0,Collaborators,we can also choose they way abstracts will be represented by specifying templates
+1927,FMModel,description,0,0,Collaborators,description
+3009,RTBezier3Line,e3 @ rtdraggable.,0,0,Collaborators,e3 @ rtdraggable
+1012,GtDiagrammerArrowheadFilledCircleStencil,i create a filled circle arrow head with the border and background equal to the color of the curve,0,0,Collaborators,i create a filled circle arrow head with the border and background equal to the color of the curve
+3204,RTFilterInView,b,0,0,Collaborators,b
+3462,RTLineDecorationExample,element,0,0,Collaborators,element
+2113,MalLatticePatterns,fca model treillis context,0,0,Collaborators,fca model treillis context
+3424,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+403,BlLayout,"a small set of constraints, like padding, margin or minimal and maximum dimensions, are common among all the layouts.",0,0,Collaborators,a small set of constraints like padding margin or minimal and maximum dimensions are common among all the layouts
+2352,PPDebugParser,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time.,0,0,Collaborators,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time
+3836,WABulkReapingCache,i am a cache that reaps all elements at once instead of incrementally.,0,0,Collaborators,i am a cache that reaps all elements at once instead of incrementally
+1623,SpartaCanvas,blur canvas gaussianblurfilter,0,0,Collaborators,blur canvas gaussianblurfilter
+649,BlRectangleShapeWithArrowExplanation,translating the top edge,0,0,Collaborators,translating the top edge
+2349,TOODependencyQueries,a toodependencyqueries defines a vocabulary to compute dependencies of object oriented entities.,0,0,Collaborators,a toodependencyqueries defines a vocabulary to compute dependencies of object oriented entities
+3577,RTRotatedLabel,rtgridlayout on es.,0,0,Collaborators,rtgridlayout on es
+451,BlLayout,applying the layout,0,0,Collaborators,applying the layout
+1498,GtRlNode,i am an abstraction for a type of dependency in the loading configuration of a system.,0,0,Collaborators,i am an abstraction for a type of dependency in the loading configuration of a system
+1782,TSpartaPaint,translateby translate me by a point or a number,0,0,Collaborators,translateby translate me by a point or a number
+1379,GtLibraryInstaller,the following example shows how i am configured for sparta moz2d library.,0,0,Collaborators,the following example shows how i am configured for sparta moz2d library
+960,BrTextEditorExamples,example brtexteditorexamples #neweditor,0,0,Collaborators,example brtexteditorexamples neweditor
+412,BlLayout,"this is done after events and tasks have been executed, but before the drawing phase.",0,0,Collaborators,this is done after events and tasks have been executed but before the drawing phase
+3218,RTFilterInView,b shape box size #numberofmethods.,0,0,Collaborators,b shape box size numberofmethods
+3345,RTHighlightableWithCursor,b boxshape bordercolor color black.,0,0,Collaborators,b boxshape bordercolor color black
+455,BlLayout,measurement top to bottom though all the composition of elements.,0,0,Collaborators,measurement top to bottom though all the composition of elements
+643,BlRectangleShapeWithArrowExplanation,"the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry, for example the size of the arrow or its horizontal position.",0,0,Collaborators,the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry for example the size of the arrow or its horizontal position
+1595,SpartaCanvas,stops 0 color red.,0,0,Collaborators,stops 0 color red
+2436,PPSea,beforewaterparser,0,0,Collaborators,beforewaterparser
+1572,SpartaCanvas,similar to create an empty canvas of size anextent and of the same type and format,0,0,Collaborators,similar to create an empty canvas of size anextent and of the same type and format
+3897,WACookie,https tools^ietf.org html rfc6265,0,0,Collaborators,https tools ietf org html rfc6265
+2292,TDependencyQueries,this symbol will be used to find a moosequeryabstactdirectionstrategy to configure a moosequerycalculator.,0,0,Collaborators,this symbol will be used to find a moosequeryabstactdirectionstrategy to configure a moosequerycalculator
+1766,TSpartaPaint,"a paint is transformable and can be used with one of extend modes, for example repeat, reflect or clamp.",0,0,Collaborators,a paint is transformable and can be used with one of extend modes for example repeat reflect or clamp
+2363,PPInfo,a ppinfo represent the informations around a parsing result and also contain this result.,0,0,Collaborators,a ppinfo represent the informations around a parsing result and also contain this result
+1014,GtDiagrammerArrowheadFilledTriangleStencil,i create a filled triangle arrowhead,0,0,Collaborators,i create a filled triangle arrowhead
+378,BlInfiniteItemAnimationsFinished,"i can be used, for example, to delay an action in a data set until currently running animations are complete.",0,0,Collaborators,i can be used for example to delay an action in a data set until currently running animations are complete
+3792,TROSMShape,make remainder zoom a transform inside the trosmshape.,0,0,Collaborators,make remainder zoom a transform inside the trosmshape
+357,BlInfiniteDataSourceItemRangeMoved,this is a structural change event.,0,0,Collaborators,this is a structural change event
+2110,MalLatticePatterns,context fca with data using #first using #last.,0,0,Collaborators,context fca with data using first using last
+3355,RTHighlightableWithCursor,b interaction showlabel,0,0,Collaborators,b interaction showlabel
+3196,RTFilterInView,here is an example,0,0,Collaborators,here is an example
+3096,RTCalendarExample,b build.,0,0,Collaborators,b build
+1615,SpartaCanvas,width 6,0,0,Collaborators,width 6
+3500,RTLinePathBuilder,an interpolator a way to create lines in svg,0,0,Collaborators,an interpolator a way to create lines in svg
+3452,RTLineDecorationExample,rtlinedecorationexample new installtitle cool,0,0,Collaborators,rtlinedecorationexample new installtitle cool
+452,BlLayout,commiting changes,0,0,Collaborators,commiting changes
+2417,PPSea,c,0,0,Collaborators,c
+1585,SpartaCanvas,lineto 200@200,0,0,Collaborators,lineto 200@200
+1591,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+956,BrTextEditorExamples,10 factorial,0,0,Collaborators,10 factorial
+2776,PMGradient,# 12 9,0,0,Collaborators,12 9
+3457,RTLineDecorationExample,element,0,0,Collaborators,element
+3746,RTWeightedCircleLayout,v addall elements.,0,0,Collaborators,v addall elements
+3891,WACookie,http www^mnot.net blog 2006 10 27 cookie fun,0,0,Collaborators,http www mnot net blog 2006 10 27 cookie fun
+3455,RTLineDecorationExample,b1 rtbox new,0,0,Collaborators,b1 rtbox new
+429,BlLayout,"more technical details can be found in the method method blspace #dolayout , the main entry point for executing the layout phase in a space.",0,0,Collaborators,more technical details can be found in the method method blspace dolayout the main entry point for executing the layout phase in a space
+955,BrTextEditorExamples,show gtprintin,0,0,Collaborators,show gtprintin
+341,BlHostPulseLoop,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum.,0,0,Collaborators,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum
+416,BlLayout,"this has the advantage that if no element request layout, this phase can be skipped.",0,0,Collaborators,this has the advantage that if no element request layout this phase can be skipped
+4240,WAPharoUrlEncoder,i am a pharo specific url encoder.,0,0,Collaborators,i am a pharo specific url encoder
+3334,RTHighlightableWithCursor,"eg,",0,0,Collaborators,eg
+407,BlLayout,layout phase in a frame,0,0,Collaborators,layout phase in a frame
+3693,RTVerticalMultipleData,negative data are not allowed.,0,0,Collaborators,negative data are not allowed
+1,BlAnchorRelativeToElement,relative anchor takes an arbitrary element as a reference an compute its position based on properties of that element.,0,0,Collaborators,relative anchor takes an arbitrary element as a reference an compute its position based on properties of that element
+466,BlLayout,i define an api of a layout.,0,0,Collaborators,i define an api of a layout
+853,BrExamplesShowroom,the content of each tab is defined with the help of a stencil.,0,0,Collaborators,the content of each tab is defined with the help of a stencil
+603,BlMouseMiddleButton,i am a middle mouse button.,0,0,Collaborators,i am a middle mouse button
+2808,PMKolmogorovSmirnov1Sample,FALSE,0,0,Collaborators,FALSE
+467,BlLayout,concrete implementations should focus on measure with and layout in,0,0,Collaborators,concrete implementations should focus on measure with and layout in
+3404,RTLabeled,v add e.,0,0,Collaborators,v add e
+2544,PRDocumentListAnnotation,i can choose the number of files to take and the way to sort them.,0,0,Collaborators,i can choose the number of files to take and the way to sort them
+2201,MooseEntity,"for example, if you have yourentity that subclasses mooseentity, you can extend it with",0,0,Collaborators,for example if you have yourentity that subclasses mooseentity you can extend it with
+4099,WALabelledFormDialog,contact is an inst var,0,0,Collaborators,contact is an inst var
+3793,TROSMShape,"take corners of bounding box, get lat long, get tiles x and y based on previous zoom level.",0,0,Collaborators,take corners of bounding box get lat long get tiles x and y based on previous zoom level
+1808,TSpartaStrokeOptions,stroke options are used in stroking operations.,0,0,Collaborators,stroke options are used in stroking operations
+138,BlDecelerateInterpolator,"f x 1 1 x ^n, where n 2 factor",0,0,Collaborators,f x 1 1 x n where n 2 factor
+1915,FMFutureProperty,"in that case, i ll push my values in real property.",0,0,Collaborators,in that case i ll push my values in real property
+2823,PMLineSearch,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1.,0,0,Collaborators,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1
+2202,MooseEntity,yourentity yourextendingattribute,0,0,Collaborators,yourentity yourextendingattribute
+4253,WAProtectionFilter,"do add this filter to a wasession for example to avoid session hijacking, do not add it to static request handlers such as waapplication or wadispatcher as this might restrict access to the handler if your ip changes.",0,0,Collaborators,do add this filter to a wasession for example to avoid session hijacking do not add it to static request handlers such as waapplication or wadispatcher as this might restrict access to the handler if your ip changes
+3579,RTRotatedLabel,v open,0,0,Collaborators,v open
+741,BlTextElementMeasurementStrategyExamples,text measurement strategies,0,0,Collaborators,text measurement strategies
+1199,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithfourcircles previewshow #gtpreviewfor previewexpanded previewheight 300,0,0,Collaborators,example gtgraphcircleenclosureexamples enclosurewithfourcircles previewshow gtpreviewfor previewexpanded previewheight 300
+2553,PRDocumentListAnnotation,doclist path blogs limit 3 sort date templates # templates docarticle^mustache templates template^mustache,0,0,Collaborators,doclist path blogs limit 3 sort date templates templates docarticle mustache templates template mustache
+716,BlSpaceFramePhase,each phase knows about its start time and send a corresponding event once the phase is completed.,0,0,Collaborators,each phase knows about its start time and send a corresponding event once the phase is completed
+1717,SpartaLine,i represent a line.,0,0,Collaborators,i represent a line
+3203,RTFilterInView,b view @ rtfilterinview.,0,0,Collaborators,b view @ rtfilterinview
+2495,PRAbstractCommand,export,0,0,Collaborators,export
+2112,MalLatticePatterns,for moose models,0,0,Collaborators,for moose models
+1033,GtDiagrammerPicker,i am a scriptable toogle group to display a uniform collection of selectable values.,0,0,Collaborators,i am a scriptable toogle group to display a uniform collection of selectable values
+40,BlChildrenCollection,i provide a data structure independent api for adding and removing children.,0,0,Collaborators,i provide a data structure independent api for adding and removing children
+119,BlClickEvent,mouse down,0,0,Collaborators,mouse down
+2702,PRScreenshotAnnotation,label prfigure label as would be used in a more classic figure inclusion with caption .,0,0,Collaborators,label prfigure label as would be used in a more classic figure inclusion with caption
+3347,RTHighlightableWithCursor,b layout tree.,0,0,Collaborators,b layout tree
+1435,GtProtoTasker,i am an abstract tasker defining mandatory methods for all taskers.,0,0,Collaborators,i am an abstract tasker defining mandatory methods for all taskers
+1826,XdDocumentsExamples,znbase64encoder new,0,0,Collaborators,znbase64encoder new
+831,BrExamplesShowroom,toggles,0,0,Collaborators,toggles
+1598,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+3525,RTPlatformPopup,i am a basic class to have the platform popup instead of the roassal popup rtpopup,0,0,Collaborators,i am a basic class to have the platform popup instead of the roassal popup rtpopup
+753,BlTextElementMeasurementStrategyExamples,a similar measurement strategy which is designed to be used in a text editor computes the width of the element using the #advance property of a text paragraph.,0,0,Collaborators,a similar measurement strategy which is designed to be used in a text editor computes the width of the element using the advance property of a text paragraph
+3967,WAExpiringCache,maximumrelativeage integer,0,0,Collaborators,maximumrelativeage integer
+2432,PPSea,afterwaterparser,0,0,Collaborators,afterwaterparser
+443,BlLayout,each element has real bounds blelement #bounds and measured bounds blelement #measuredbounds .,0,0,Collaborators,each element has real bounds blelement bounds and measured bounds blelement measuredbounds
+2412,PPSea,.,0,0,Collaborators,nan
+827,BrExamplesShowroom,"the following glamorous button reacts to various ui interaction events and changes its style according the state pressed, hovered",0,0,Collaborators,the following glamorous button reacts to various ui interaction events and changes its style according the state pressed hovered
+3978,WAExpiringCache,has to be positive.,0,0,Collaborators,has to be positive
+127,BlCompulsoryCombinationTest,this class contains tests,0,0,Collaborators,this class contains tests
+747,BlTextElementMeasurementStrategyExamples,it means that the height of the text is independent from the content.,0,0,Collaborators,it means that the height of the text is independent from the content
+3656,RTSVGPopup,the click refers to the posibility of activating the popup only when the element is clicked.,0,0,Collaborators,the click refers to the posibility of activating the popup only when the element is clicked
+96,BlChildrenSubset,instances of me are created by calling the factory method method blchildrensubset class #on on a subclass with an instance of class blchildren as parameter.,0,0,Collaborators,instances of me are created by calling the factory method method blchildrensubset class on on a subclass with an instance of class blchildren as parameter
+3632,RTSunburstBuilderExamples,b explore morph using #subclasses.,0,0,Collaborators,b explore morph using subclasses
+1018,GtDiagrammerDummyTool,i am a dummy tool that does nothing,0,0,Collaborators,i am a dummy tool that does nothing
+715,BlSpaceFramePhase,i represent a frame phase.,0,0,Collaborators,i represent a frame phase
+3336,RTHighlightableWithCursor,b rtumlclassbuilder new,0,0,Collaborators,b rtumlclassbuilder new
+2422,PPSea,the input represented by dots is called water and water can appear before and after the island.,0,0,Collaborators,the input represented by dots is called water and water can appear before and after the island
+3007,RTBezier3Line,e1 @ rtdraggable.,0,0,Collaborators,e1 @ rtdraggable
+2934,RTAbstractExample,rtabstractexample subclasses collect #new,0,0,Collaborators,rtabstractexample subclasses collect new
+2592,PRInputFileAnnotation,my tag is inputfile .,0,0,Collaborators,my tag is inputfile
+3949,WAEncoder,i encode everything that is written to myself using #nextput and #nextputall onto the wrapped stream.,0,0,Collaborators,i encode everything that is written to myself using nextput and nextputall onto the wrapped stream
+2869,PMODESolver,the main interface once the solver is set up it has a stepper and a solver is,0,0,Collaborators,the main interface once the solver is set up it has a stepper and a solver is
+1452,GtRemoteInspector,message two,0,0,Collaborators,message two
+394,BlKeyCombinationConverterCNF,i transform composite key combination formula into a cnf https en^wikipedia.org wiki conjunctive normal form,0,0,Collaborators,i transform composite key combination formula into a cnf https en wikipedia org wiki conjunctive normal form
+754,BlTextElementMeasurementStrategyExamples,the height is computed as a sum of ascent and descent.,0,0,Collaborators,the height is computed as a sum of ascent and descent
+1618,SpartaCanvas,restore transformation matrix,0,0,Collaborators,restore transformation matrix
+4043,WAIframeTag,the iframe element allows authors to insert a frame within a block of text.,0,0,Collaborators,the iframe element allows authors to insert a frame within a block of text
+3210,RTFilterInView,b normalizer normalizecolor #numberofmethods.,0,0,Collaborators,b normalizer normalizecolor numberofmethods
+1505,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultreleasebranchname the branch name on which to perform the release.,0,0,Collaborators,method gtrlreleaseconfiguration defaultreleasebranchname the branch name on which to perform the release
+449,BlLayout,they were introduced to avoid changing the real extent of element while layouting of children is still being performed.,0,0,Collaborators,they were introduced to avoid changing the real extent of element while layouting of children is still being performed
+1565,SpartaCanvas,text create a text rendering builder,0,0,Collaborators,text create a text rendering builder
+1722,SpartaLine,spartaline from 10@10 to 20@20,0,0,Collaborators,spartaline from 10@10 to 20@20
+3861,WAComboResponse,self searchresultsdo aresult,0,0,Collaborators,self searchresultsdo aresult
+4252,WAProtectionFilter,the protection filter ensures that the wrapped request handler only accepts requests from the same ip.,0,0,Collaborators,the protection filter ensures that the wrapped request handler only accepts requests from the same ip
+2289,TDependencyQueries,"the scope of the query the receiver, the receiver and its children",0,0,Collaborators,the scope of the query the receiver the receiver and its children
+2026,LANInterface,lan interface comments for testing purposes.,0,0,Collaborators,lan interface comments for testing purposes
+3315,RTGrapherSelectRangeViewContext,ds points rtshape withallsubclasses.,0,0,Collaborators,ds points rtshape withallsubclasses
+1604,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+2762,PMExponentialGenerator,the next method uses the formula,0,0,Collaborators,the next method uses the formula
+2485,PRAbstractCommand,when you type on the command line,0,0,Collaborators,when you type on the command line
+4242,WAPharoXmlEncoder,i am a pharo specific xml encoder.,0,0,Collaborators,i am a pharo specific xml encoder
+2309,TDependencyQueries,afamixclass queryall #in.,0,0,Collaborators,afamixclass queryall in
+2173,ManifestFamixPharoSmalltalkEntities,i store metadata for this package.,0,0,Collaborators,i store metadata for this package
+3673,RTTextWord,text string text,0,0,Collaborators,text string text
+3704,RTVerticalMultipleData,b,0,0,Collaborators,b
+2209,MooseEntity,this is achieved by means of pragmas,0,0,Collaborators,this is achieved by means of pragmas
+2831,PMLineSearch,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate.,0,0,Collaborators,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate
+409,BlLayout,"every frame, the space goes through several phases method blspaceframe #initializephases .",0,0,Collaborators,every frame the space goes through several phases method blspaceframe initializephases
+834,BrExamplesShowroom,labelled toggle,0,0,Collaborators,labelled toggle
+1721,SpartaLine,to get my end point,0,0,Collaborators,to get my end point
+2698,PRScreenshotAnnotation,method the targetted method,0,0,Collaborators,method the targetted method
+567,BlMatrixDecomposition,quaternion,0,0,Collaborators,quaternion
+1778,TSpartaPaint,repeaty repeat only y axis,0,0,Collaborators,repeaty repeat only y axis
+2878,PMQuantileTest,"quantiletest tests mainly #quantile method by calculating quartiles with every method on sortedcollections of size 4, 5, 6 and 11.",0,0,Collaborators,quantiletest tests mainly quantile method by calculating quartiles with every method on sortedcollections of size 4 5 6 and 11
+3778,TROSMShape,principle,0,0,Collaborators,principle
+641,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250,0,0,Collaborators,example blrectangleshapewitharrowexplanation elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250
+253,BlGridLayout,"by default grid layout does not specify how many columns and rows exist, instead it tries to compute necessary amount of columns or rows depending on amount of children.",0,0,Collaborators,by default grid layout does not specify how many columns and rows exist instead it tries to compute necessary amount of columns or rows depending on amount of children
+3502,RTLinkView,i allow to export several views,0,0,Collaborators,i allow to export several views
+437,BlLayout,measuring bounds,0,0,Collaborators,measuring bounds
+1939,FMModel,public api and key messages,0,0,Collaborators,public api and key messages
+3311,RTGrapherSelectRangeViewContext,g rtgrapher new.,0,0,Collaborators,g rtgrapher new
+3981,WAExpiringCache,0 for no limit.,0,0,Collaborators,0 for no limit
+1938,FMModel,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one.,0,0,Collaborators,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one
+2647,PRPhase,this method will return an output.,0,0,Collaborators,this method will return an output
+2197,MooseEntity,this is achieved through mooseentitystate.,0,0,Collaborators,this is achieved through mooseentitystate
+3257,RTForceBasedLayout,a roforcebasedlayout is inspired from the code of d3.,0,0,Collaborators,a roforcebasedlayout is inspired from the code of d3
+2203,MooseEntity,^ self privatestate attributeat #yourextendingattribute,0,0,Collaborators,self privatestate attributeat yourextendingattribute
+2763,PMExponentialGenerator,x beta ln 1 u,0,0,Collaborators,x beta ln 1 u
+3850,WAComboResponse,wacomboresponse is a combination of a buffered and a streaming response.,0,0,Collaborators,wacomboresponse is a combination of a buffered and a streaming response
+4085,WALabelledFormDialog,the symbol is used generate the accessor methods for the data in the model.,0,0,Collaborators,the symbol is used generate the accessor methods for the data in the model
+2829,PMLineSearch,usage,0,0,Collaborators,usage
+2548,PRDocumentListAnnotation,"when no template file is specified, abstracts are generated as documentgroup containing different files elements.",0,0,Collaborators,when no template file is specified abstracts are generated as documentgroup containing different files elements
+251,BlGridLayout,children are allowed to have fitcontent and exact resizing modes.,0,0,Collaborators,children are allowed to have fitcontent and exact resizing modes
+4094,WALabelledFormDialog,see example below.,0,0,Collaborators,see example below
+3412,RTLabeled,offsetonedge object,0,0,Collaborators,offsetonedge object
+3425,RTLabeled,position,0,0,Collaborators,position
+1563,SpartaCanvas,transform create a builder to transform canvas,0,0,Collaborators,transform create a builder to transform canvas
+1584,SpartaCanvas,moveto 100@0,0,0,Collaborators,moveto 100@0
+1914,FMFutureProperty,each time a value is resolved i ll check if i can be resolved.,0,0,Collaborators,each time a value is resolved i ll check if i can be resolved
+77,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #add,0,0,Collaborators,example blchildrenorderedcollectionexamples add
+4278,WASelection,selection,0,0,Collaborators,selection
+2515,PRBookTesterVisitor,i gather all results as prbooktestresult s in alltestsresults.,0,0,Collaborators,i gather all results as prbooktestresult s in alltestsresults
+3088,RTCalendarExample,d value index,0,0,Collaborators,d value index
+2159,MalTerms,terms addstring string using camelcasescanner new.,0,0,Collaborators,terms addstring string using camelcasescanner new
+2355,PPDebugParser,root result of root parser,0,0,Collaborators,root result of root parser
+4191,WAMemoryToolPlugin,i display the memory usage tool.,0,0,Collaborators,i display the memory usage tool
+746,BlTextElementMeasurementStrategyExamples,the height of the text element in this case is a sum of ascent and descent which is given by the font.,0,0,Collaborators,the height of the text element in this case is a sum of ascent and descent which is given by the font
+2423,PPSea,"use it, if you don t want to define all the grammar rules and you want to skip something.",0,0,Collaborators,use it if you don t want to define all the grammar rules and you want to skip something
+4193,WAObjectTag,defines an embedded object.,0,0,Collaborators,defines an embedded object
+1913,FMFutureProperty,i will be useful until all my values are resolved.,0,0,Collaborators,i will be useful until all my values are resolved
+824,BrExamplesShowroom,buttons,0,0,Collaborators,buttons
+1935,FMModel,a fmmetamodel containing instances of fm3elements describing famixstclass.,0,0,Collaborators,a fmmetamodel containing instances of fm3elements describing famixstclass
+1559,SpartaCanvas,stroke create a builder of stroke drawing operation,0,0,Collaborators,stroke create a builder of stroke drawing operation
+3779,TROSMShape,10 in roassal space 1km in osm.,0,0,Collaborators,10 in roassal space 1km in osm
+3047,RTBox,a rtbox is a rectangular box.,0,0,Collaborators,a rtbox is a rectangular box
+53,BlChildrenCollection,class blchildrenorderedcollection stores children using a class orderedcollection,0,0,Collaborators,class blchildrenorderedcollection stores children using a class orderedcollection
+2827,PMLineSearch,g x g 0 alpha g 0,0,0,Collaborators,g x g 0 alpha g 0
+3472,RTLineDecorationExample,add b2,0,0,Collaborators,add b2
+2796,PMKolmogorovSmirnov1Sample,"you can do the last one in two ways, either by specifying a block via #cdf or by specifying a distribution with concrete parameters via #populationdistribution .",0,0,Collaborators,you can do the last one in two ways either by specifying a block via cdf or by specifying a distribution with concrete parameters via populationdistribution
+4247,WAPlugin,"the appearance of all plugins, such as icons, has to be configured using css.",0,0,Collaborators,the appearance of all plugins such as icons has to be configured using css
+2805,PMKolmogorovSmirnov1Sample,ks kolmogorovsmirnov comparedata 1 to 100 collect i nd random withdistribution nd.,0,0,Collaborators,ks kolmogorovsmirnov comparedata 1 to 100 collect i nd random withdistribution nd
+100,BlChildrenSubset,internally the result of method blchildrensubset #subsetfrom is stored into an instance variable.,0,0,Collaborators,internally the result of method blchildrensubset subsetfrom is stored into an instance variable
+259,BlGridLayout,cellspacing anumber to specify spacing between cells,0,0,Collaborators,cellspacing anumber to specify spacing between cells
+1524,GtSnippetRequest,i am sent by snippet widget looks when they request to receive a snippet model from the widget model,0,0,Collaborators,i am sent by snippet widget looks when they request to receive a snippet model from the widget model
+2630,PRParagraph,"i do not contain complex structures such as lists, codeblocks.",0,0,Collaborators,i do not contain complex structures such as lists codeblocks
+3458,RTLineDecorationExample,translateto 0 @ 0,0,0,Collaborators,translateto 0 @ 0
+442,BlLayout,normally layouts follow a top to bottom approach they measure the current element and then asks its children to do the measuring.,0,0,Collaborators,normally layouts follow a top to bottom approach they measure the current element and then asks its children to do the measuring
+3354,RTHighlightableWithCursor,connecttoall #subclasses.,0,0,Collaborators,connecttoall subclasses
+3335,RTHighlightableWithCursor,b,0,0,Collaborators,b
+4054,WAImageButtonTag,"for accessibility reasons, authors should provide alternate text for the image via the alt attribute.",0,0,Collaborators,for accessibility reasons authors should provide alternate text for the image via the alt attribute
+2121,MalLatticePatterns,smalltalk collection class hierarchy,0,0,Collaborators,smalltalk collection class hierarchy
+3360,RTHighlightableWithCursor,b layout radial.,0,0,Collaborators,b layout radial
+3179,RTExperimentalExample,^ b,0,0,Collaborators,b
+47,BlChildrenCollection,a linked list optimize for fast adding and removing.,0,0,Collaborators,a linked list optimize for fast adding and removing
+1509,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #forcenewrelease force a new release in a repository even if there no new changes in that repository and all dependencies did not change.,0,0,Collaborators,method gtrlreleaseconfiguration forcenewrelease force a new release in a repository even if there no new changes in that repository and all dependencies did not change
+3463,RTLineDecorationExample,translateto 400 @ 0,0,0,Collaborators,translateto 400 @ 0
+929,BrMaterialToggleBackgroundLook,i describe how background of a material toggle button changes due to toggle events,0,0,Collaborators,i describe how background of a material toggle button changes due to toggle events
+645,BlRectangleShapeWithArrowExplanation,this is where a class blvectorshape comes in handy.,0,0,Collaborators,this is where a class blvectorshape comes in handy
+1762,TSpartaPaint,tspartapaint,0,0,Collaborators,tspartapaint
+1627,SpartaCanvas,canvas filter,0,0,Collaborators,canvas filter
+3955,WAErrorHandler,"if either method is not implemented, the default implementation will call #handledefault , which can be used to provide common behaviour for both exception types.",0,0,Collaborators,if either method is not implemented the default implementation will call handledefault which can be used to provide common behaviour for both exception types
+851,BrExamplesShowroom,tabs,0,0,Collaborators,tabs
+1440,GtProtoTasker,interesting taskers to explore are class gttaskerorderednonrepetitive and class gtpostponingtasker .,0,0,Collaborators,interesting taskers to explore are class gttaskerorderednonrepetitive and class gtpostponingtasker
+857,BrExamplesShowroom,example brexamplesshowroom #glamoroustoolbar,0,0,Collaborators,example brexamplesshowroom glamoroustoolbar
+1048,GtDiagrammerPicker,c horizontal exact 400.,0,0,Collaborators,c horizontal exact 400
+4218,WAPath,"so when you render a page call wapath currentsegment to get the current object, and generate the page accordingly.",0,0,Collaborators,so when you render a page call wapath currentsegment to get the current object and generate the page accordingly
+3763,TROSMShape,scale point,0,0,Collaborators,scale point
+1558,SpartaCanvas,fill create a builder of fill drawing operation,0,0,Collaborators,fill create a builder of fill drawing operation
+3310,RTGrapherSelectRangeViewContext,define a range for gt,0,0,Collaborators,define a range for gt
+3764,TROSMShape,tiles dictionary of point form,0,0,Collaborators,tiles dictionary of point form
+261,BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,0,0,Collaborators,alignbounds alignment is made between the edges of each component s raw bounds
+3695,RTVerticalMultipleData,b d,0,0,Collaborators,b d
+3200,RTFilterInView,b nodes collection withallsubclasses .,0,0,Collaborators,b nodes collection withallsubclasses
+1190,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithonecircle previewshow #gtpreviewfor previewexpanded previewheight 300,0,0,Collaborators,example gtgraphcircleenclosureexamples enclosurewithonecircle previewshow gtpreviewfor previewexpanded previewheight 300
+3467,RTLineDecorationExample,edges add rtdecoratedline new color color blue width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,0,Collaborators,edges add rtdecoratedline new color color blue width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2
+1897,FamixTParameterType,this is a famixtype.,0,0,Collaborators,this is a famixtype
+3402,RTLabeled,v rtview new.,0,0,Collaborators,v rtview new
+2798,PMKolmogorovSmirnov1Sample,use d max f y i i n .,0,0,Collaborators,use d max f y i i n
+961,BrTextEditorExamples,"then, we attach text to the enditor.",0,0,Collaborators,then we attach text to the enditor
+3356,RTHighlightableWithCursor,highlightobjects #subclasses.,0,0,Collaborators,highlightobjects subclasses
+2549,PRDocumentListAnnotation,with templates the annotation is remplaced by a raw document in html.,0,0,Collaborators,with templates the annotation is remplaced by a raw document in html
+3980,WAExpiringCache,after so many seconds after its creation a session is considered expired no matter when it was last accessed.,0,0,Collaborators,after so many seconds after its creation a session is considered expired no matter when it was last accessed
+565,BlMatrixDecomposition,skew,0,0,Collaborators,skew
+557,BlMatrixDecomposition,for example in case of 2d matrix they are,0,0,Collaborators,for example in case of 2d matrix they are
+2221,MooseEntity,^ self privatestate attributeat #yourextendingattribute,0,0,Collaborators,self privatestate attributeat yourextendingattribute
+275,BlGridLayout,implementation points,0,0,Collaborators,implementation points
+3320,RTGrapherSelectRangeViewContext,g,0,0,Collaborators,g
+398,BlLayout,i am the superclass for layouts in bloc and i define the api that a concrete layout needs to implement.,0,0,Collaborators,i am the superclass for layouts in bloc and i define the api that a concrete layout needs to implement
+4271,WASelection,waselection creates a selectable list.,0,0,Collaborators,waselection creates a selectable list
+3761,TROSMShape,position point,0,0,Collaborators,position point
+1578,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+950,BrTextEditorCursorElementRemovedEvent,i am sent by the text editor element when an element playing a role of the cursor is removed from the editor,0,0,Collaborators,i am sent by the text editor element when an element playing a role of the cursor is removed from the editor
+2930,RTAbstractExample,try to use this script to know the excecution of roassal examples,0,0,Collaborators,try to use this script to know the excecution of roassal examples
+95,BlChildrenSubset,api,0,0,Collaborators,api
+1610,SpartaCanvas,stroke triangle with blue color,0,0,Collaborators,stroke triangle with blue color
+3794,TROSMShape,set clipping rectangle to trosmshape bounds.,0,0,Collaborators,set clipping rectangle to trosmshape bounds
+1846,FamixGenerator,famixcompatibilitygenerator resetmetamodel.,0,0,Collaborators,famixcompatibilitygenerator resetmetamodel
+3647,RTSVGAbstractLine,the decoration refers to the maker of the line.,0,0,Collaborators,the decoration refers to the maker of the line
+2421,PPSea,a^^^^b,0,0,Collaborators,a b
+2192,MooseEntity,mooseentity is an abstract entity.,0,0,Collaborators,mooseentity is an abstract entity
+828,BrExamplesShowroom,example brexamplesshowroom #glamorousbutton,0,0,Collaborators,example brexamplesshowroom glamorousbutton
+418,BlLayout,"hence, in bloc layout is not executed immediately after a property like the width of an element changes.",0,0,Collaborators,hence in bloc layout is not executed immediately after a property like the width of an element changes
+1771,TSpartaPaint,"transformation to get current transformation matrix, can not be mil",0,0,Collaborators,transformation to get current transformation matrix can not be mil
+613,BlMouseProcessor,"from mouse down, mouse up, and mouse move events.",0,0,Collaborators,from mouse down mouse up and mouse move events
+3358,RTHighlightableWithCursor,nodes @ rthighlightablewithcursor.,0,0,Collaborators,nodes @ rthighlightablewithcursor
+3050,RTBox,v rtview new.,0,0,Collaborators,v rtview new
+3757,TROSMShape,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap.,0,0,Collaborators,this shape represent an openstreetmap background object which tracks the camera zoom level and translation to build a view of the corresponding part of the openstreetmap
+1046,GtDiagrammerPicker,label astring .,0,0,Collaborators,label astring
+2802,PMKolmogorovSmirnov1Sample,example,0,0,Collaborators,example
+2693,PRScreenshotAnnotation,i am an annotation used to show a screenshot of a given class and method.,0,0,Collaborators,i am an annotation used to show a screenshot of a given class and method
+842,BrExamplesShowroom,note that the order of looks defines the visual order of the label and icon,0,0,Collaborators,note that the order of looks defines the visual order of the label and icon
+620,BlPerpendicularFractionAnchor,i am a virtual anchor that lays on a perpendicular to a line between two reference anchors.,0,0,Collaborators,i am a virtual anchor that lays on a perpendicular to a line between two reference anchors
+2218,MooseEntity,yourentity yourextendingattribute,0,0,Collaborators,yourentity yourextendingattribute
+3410,RTLabeled,highlightable object,0,0,Collaborators,highlightable object
+724,BlTextBackgroundAttribute,i represent a text background attribute.,0,0,Collaborators,i represent a text background attribute
+3456,RTLineDecorationExample,size 100,0,0,Collaborators,size 100
+640,BlRectangleShapeWithArrowExplanation,"the goal of this tutorial is to create an element with an arrow like pointer in the middle of the top edge, as shown below",0,0,Collaborators,the goal of this tutorial is to create an element with an arrow like pointer in the middle of the top edge as shown below
+3532,RTPopupTest,xxxxx,0,0,Collaborators,xxxxx
+2303,TDependencyQueries,afamixmethod query #out with famixaccess.,0,0,Collaborators,afamixmethod query out with famixaccess
+3428,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+2738,PRWatcher,"each 5 seconds, the website is regenerated",0,0,Collaborators,each 5 seconds the website is regenerated
+1545,SpartaCanvas,spartacanvas,0,0,Collaborators,spartacanvas
+3834,JQLoad,load html from a remote file and inject it into the dom.,0,0,Collaborators,load html from a remote file and inject it into the dom
+846,BrExamplesShowroom,accordion,0,0,Collaborators,accordion
+1041,GtDiagrammerPicker,a .,0,0,Collaborators,a
+4073,WAInvisibleSessionTrackingStrategy,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions.,0,0,Collaborators,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions
+1508,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultversionnumber the version number to use in case there are no previous releases in a repository.,0,0,Collaborators,method gtrlreleaseconfiguration defaultversionnumber the version number to use in case there are no previous releases in a repository
+1425,GtPlotterAxisProjection,then projection of that point on continuous x axis would be 20 and projection on y axis would be 30.,0,0,Collaborators,then projection of that point on continuous x axis would be 20 and projection on y axis would be 30
+450,BlLayout,todo explain why position is sometime changed in the measured bounds,0,0,Collaborators,todo explain why position is sometime changed in the measured bounds
+2364,PPInfo,it is usefull to get parsing evaluation and stream position.,0,0,Collaborators,it is usefull to get parsing evaluation and stream position
+1312,GtGraphTreemapSquarify,in step 4 we add the rectangle with area 4,0,0,Collaborators,in step 4 we add the rectangle with area 4
+2860,PMMatrix,i represent a mathematical matrix.,0,0,Collaborators,i represent a mathematical matrix
+245,BlGridLayout,i layout elements in a rectangular grid.,0,0,Collaborators,i layout elements in a rectangular grid
+996,GlutinResumedEvent,emitted when the application has been resumed.,0,0,Collaborators,emitted when the application has been resumed
+3417,RTLabeled,color,0,0,Collaborators,color
+1506,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultversioncomputation the strategy for computing the next version number in case a version already exists.,0,0,Collaborators,method gtrlreleaseconfiguration defaultversioncomputation the strategy for computing the next version number in case a version already exists
+1619,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+2287,TDependencyQueries,the direction of the navigation incoming outgoing in out,0,0,Collaborators,the direction of the navigation incoming outgoing in out
+2301,TDependencyQueries,afamixclass query #in with famixinheritance.,0,0,Collaborators,afamixclass query in with famixinheritance
+1999,FMRelationSlot,description,0,0,Collaborators,description
+1951,FMModel,metamodel afmmetamodel the meta model describing my entities.,0,0,Collaborators,metamodel afmmetamodel the meta model describing my entities
+3137,RTCircleGeometry,instead i am using in some circle related gemetric computations.,0,0,Collaborators,instead i am using in some circle related gemetric computations
+3785,TROSMShape,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi,0,0,Collaborators,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi
+2115,MalLatticePatterns,fca malformalcontext new.,0,0,Collaborators,fca malformalcontext new
+183,BlElementEffect,i define the default drawing strategy before & after .,0,0,Collaborators,i define the default drawing strategy before after
+447,BlLayout,after the entire layout phase is completed the real bounds and measured bounds will have the same value.,0,0,Collaborators,after the entire layout phase is completed the real bounds and measured bounds will have the same value
+657,BlRectangleShapeWithArrowExplanation,since we want to inject a line right in the middle of the edge we pass 05 as a line location,0,0,Collaborators,since we want to inject a line right in the middle of the edge we pass 05 as a line location
+1625,SpartaCanvas,apply filter on the whole canvas,0,0,Collaborators,apply filter on the whole canvas
+1089,GtExampleFactory,to initialize the subjects of an example i call #gtexamplesubjects on the provider object.,0,0,Collaborators,to initialize the subjects of an example i call gtexamplesubjects on the provider object
+4105,WALabelledFormDialog,cancel,0,0,Collaborators,cancel
+1133,GtGradAbstractTreeLayout,"however, this implementation offers the posibility of choosing the orientation vertical or horizontal.",0,0,Collaborators,however this implementation offers the posibility of choosing the orientation vertical or horizontal
+2837,PMLineSearch,storedmethod evaluate.,0,0,Collaborators,storedmethod evaluate
+3942,WADevelopment,a wadevelopment is a collection of convenience methods for dealing with seaside development in squeak.,0,0,Collaborators,a wadevelopment is a collection of convenience methods for dealing with seaside development in squeak
+3972,WAExpiringCache,when this limit is reached the overflow action is run.,0,0,Collaborators,when this limit is reached the overflow action is run
+1882,FamixTDereferencedInvocation,represents an invocation which function is contained in a pointer.,0,0,Collaborators,represents an invocation which function is contained in a pointer
+1437,GtProtoTasker,mandatory methods are,0,0,Collaborators,mandatory methods are
+3357,RTHighlightableWithCursor,nodes b nodes collection withallsubclasses .,0,0,Collaborators,nodes b nodes collection withallsubclasses
+2285,TDependencyQueries,it includes some generic way to query an entity via its associations.,0,0,Collaborators,it includes some generic way to query an entity via its associations
+2207,MooseEntity,meta descriptions,0,0,Collaborators,meta descriptions
+136,BlDecelerateInterpolator,"increasing factor above 10f makes exaggerates the ease out effect ie, it starts even faster and ends evens slower .",0,0,Collaborators,increasing factor above 10f makes exaggerates the ease out effect ie it starts even faster and ends evens slower
+1531,SpartaCairoTextMetrics,"they will change slightly due to hinting so you can t assume that metrics are independent of the transformation matrix , but otherwise will remain unchanged.",0,0,Collaborators,they will change slightly due to hinting so you can t assume that metrics are independent of the transformation matrix but otherwise will remain unchanged
+793,BlTextUnderlineAttribute,i represent a text underline attribute.,0,0,Collaborators,i represent a text underline attribute
+3416,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+562,BlMatrixDecomposition,3d 4x4 matrices are decomposed as follows,0,0,Collaborators,3d 4x4 matrices are decomposed as follows
+2077,MalHgNode,parent,0,0,Collaborators,parent
+647,BlRectangleShapeWithArrowExplanation,we will start with creation of the rectangle shape class blrectangleshape,0,0,Collaborators,we will start with creation of the rectangle shape class blrectangleshape
+943,BrTextEditor,"i edit text and provide high level abstractions of essential text editor functionality such as selection, cursor, text insertions and deletions.",0,0,Collaborators,i edit text and provide high level abstractions of essential text editor functionality such as selection cursor text insertions and deletions
+923,BrLook,i define how widgets look.,0,0,Collaborators,i define how widgets look
+856,BrExamplesShowroom,the toolbar is a logical set of action buttons either labelled or iconified .,0,0,Collaborators,the toolbar is a logical set of action buttons either labelled or iconified
+2759,PMExponentialGenerator,"a pmexponentialgenerator uses a uniform random variable in 0,1 to sample from an exponential distribution.",0,0,Collaborators,a pmexponentialgenerator uses a uniform random variable in 0 1 to sample from an exponential distribution
+2800,PMKolmogorovSmirnov1Sample,#pvalue returns the probability of getting a d ksstatistic .,0,0,Collaborators,pvalue returns the probability of getting a d ksstatistic
+352,BlInfiniteDataSourceCommandType,for performance and memory reasons i provide a unique instance of me to be shared among my users,0,0,Collaborators,for performance and memory reasons i provide a unique instance of me to be shared among my users
+1580,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 01 empty^png label emptycanvas,0,0,Collaborators,https github com syrel sparta raw master images spartacanvas 01 empty png label emptycanvas
+2651,PRPhase,acollection,0,0,Collaborators,acollection
+1426,GtPlotterAxisProjection,a projection of a domain object on discrete axis is an index of that object in a data set,0,0,Collaborators,a projection of a domain object on discrete axis is an index of that object in a data set
+2554,PRDocumentListAnnotation,doclist path wrongdirectory limit 3 sort date templates # templates docarticle^mustache templates template^mustache should raise an error,0,0,Collaborators,doclist path wrongdirectory limit 3 sort date templates templates docarticle mustache templates template mustache should raise an error
+2590,PRInputFileAnnotation,i include a reference to a pillar file.,0,0,Collaborators,i include a reference to a pillar file
+2230,MooseEntity,moosename returns a symbol that should qualify the current entity.,0,0,Collaborators,moosename returns a symbol that should qualify the current entity
+586,BlMorphicHostSpace,i am a host space created by blmorphichost.,0,0,Collaborators,i am a host space created by blmorphichost
+3895,WACookie,http tools^ietf.org html rfc2109,0,0,Collaborators,http tools ietf org html rfc2109
+1592,SpartaCanvas,lineargradient canvas paint lineargradient,0,0,Collaborators,lineargradient canvas paint lineargradient
+2985,RTAttachPoint,i am the superclass of the class hierarchy describing attach points.,0,0,Collaborators,i am the superclass of the class hierarchy describing attach points
+2210,MooseEntity,"first, on the class side, you should have a method .",0,0,Collaborators,first on the class side you should have a method
+247,BlGridLayout,a grid consists of cells that are separated by invisible lines.,0,0,Collaborators,a grid consists of cells that are separated by invisible lines
+656,BlRectangleShapeWithArrowExplanation,it can be done by sending method bllineshape #injectlineat length to the topedge .,0,0,Collaborators,it can be done by sending method bllineshape injectlineat length to the topedge
+3060,RTBucketColor,the buckets are formed by creating partitions uniformly.,0,0,Collaborators,the buckets are formed by creating partitions uniformly
+1776,TSpartaPaint,repeat repeat in both x and y axis,0,0,Collaborators,repeat repeat in both x and y axis
+3742,RTWeightedCircleLayout,rtweightedcirclelayout is a circle layout that gives more space to big elements and fewer space to small elements.,0,0,Collaborators,rtweightedcirclelayout is a circle layout that gives more space to big elements and fewer space to small elements
+2725,PRShowClassTransformer,i know how to visit a showclass annotation and the way to transform it.,0,0,Collaborators,i know how to visit a showclass annotation and the way to transform it
+410,BlLayout,phases are modeled as subclasses of class blspaceframephase and are executed once per frame.,0,0,Collaborators,phases are modeled as subclasses of class blspaceframephase and are executed once per frame
+2870,PMODESolver,solve system x0 astate t0 starttime t1 endtime,0,0,Collaborators,solve system x0 astate t0 starttime t1 endtime
+2060,MalHgNode,level number,0,0,Collaborators,level number
+2223,MooseEntity,mooseid is an integer that uniquely identifies this entity within the entire moose environment.,0,0,Collaborators,mooseid is an integer that uniquely identifies this entity within the entire moose environment
+1561,SpartaCanvas,"paint create a paint builder linear, radial gradients",0,0,Collaborators,paint create a paint builder linear radial gradients
+2705,PRScreenshotAnnotation,screenshot package kernel class integer method caption the plus method width 50 label aa,0,0,Collaborators,screenshot package kernel class integer method caption the plus method width 50 label aa
+845,BrExamplesShowroom,example brexamplesshowroom #materialreversedtoggle,0,0,Collaborators,example brexamplesshowroom materialreversedtoggle
+2415,PPSea,yet fails on,0,0,Collaborators,yet fails on
+1470,GtRlBaselineTagReleaseStrategy,because of this i do not use metadata to check previous versions it is not reliable .,0,0,Collaborators,because of this i do not use metadata to check previous versions it is not reliable
+963,BrTextEditorExamples,"next, we create an editor element.",0,0,Collaborators,next we create an editor element
+1297,GtGraphTreemapSquarify,the area will be subdivided as follows,0,0,Collaborators,the area will be subdivided as follows
+1552,SpartaCanvas,there is a separate builder for every single operation.,0,0,Collaborators,there is a separate builder for every single operation
+2109,MalLatticePatterns,fca malformalcontext new.,0,0,Collaborators,fca malformalcontext new
+3419,RTLabeled,highlightable,0,0,Collaborators,highlightable
+2428,PPSea,beforewaterparser object,0,0,Collaborators,beforewaterparser object
+658,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtopinjectedline previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Collaborators,example blrectangleshapewitharrowexplanation rectanglewithtopinjectedline previewshow gtlivefor previewexpanded true previewheight 250
+905,BrGlamorousIcons,it imports all png files and creates class methods with the same name.,0,0,Collaborators,it imports all png files and creates class methods with the same name
+2799,PMKolmogorovSmirnov1Sample,see eg http www^itl.nist^gov div898 handbook eda section3 eda35g^htm why this would be wrong.,0,0,Collaborators,see eg http www itl nist gov div898 handbook eda section3 eda35g htm why this would be wrong
+3787,TROSMShape,goal,0,0,Collaborators,goal
+3621,RTSunburstBuilder,"i am a class to create visualizations about rings, center is the root of the tree and arcs are the sub trees.",0,0,Collaborators,i am a class to create visualizations about rings center is the root of the tree and arcs are the sub trees
+2794,PMKolmogorovSmirnov1Sample,does a two sided kolmogorov smirnow test and checks whether sample data are from a population with a given distribution.,0,0,Collaborators,does a two sided kolmogorov smirnow test and checks whether sample data are from a population with a given distribution
+2211,MooseEntity,"for example, yourentity could have",0,0,Collaborators,for example yourentity could have
+148,BlDevScripterCheckFiredEventsStep,i check whether particular class blevent events were fired on a class blelement target.,0,0,Collaborators,i check whether particular class blevent events were fired on a class blelement target
+3094,RTCalendarExample,.,0,0,Collaborators,nan
+1195,GtGraphCircleEnclosure,method gtgraphcircleenclosure class #enclosure and and is responsible for the computation.,0,0,Collaborators,method gtgraphcircleenclosure class enclosure and and is responsible for the computation
+1912,FMFutureProperty,i represent a property of the object currently been imported while it is not yet imported.,0,0,Collaborators,i represent a property of the object currently been imported while it is not yet imported
+408,BlLayout,layouting of elements is a phase executed by a space during every frame.,0,0,Collaborators,layouting of elements is a phase executed by a space during every frame
+3201,RTFilterInView,b layout grid.,0,0,Collaborators,b layout grid
+2937,RTAbstractExample,time dateandtime now.,0,0,Collaborators,time dateandtime now
+2761,PMExponentialGenerator,"the default randomgenerator is pmrandom, but can be modified.",0,0,Collaborators,the default randomgenerator is pmrandom but can be modified
+2748,PMAM3Stepper,an s step adams moulton method can reach order s 1.,0,0,Collaborators,an s step adams moulton method can reach order s 1
+2070,MalHgNode,incoming,0,0,Collaborators,incoming
+2219,MooseEntity,mseproperty #yourextendingattribute type #yourtype,0,0,Collaborators,mseproperty yourextendingattribute type yourtype
+3403,RTLabeled,e rtellipse new size 30 elementon 42.,0,0,Collaborators,e rtellipse new size 30 elementon 42
+3004,RTBezier3Line,lineshape attachpoint rtshorterdistanceattachpoint instance .,0,0,Collaborators,lineshape attachpoint rtshorterdistanceattachpoint instance
+1751,TSpartaCompositeFilter,source filter3,0,0,Collaborators,source filter3
+3634,RTSunburstBuilderExamples,b build.,0,0,Collaborators,b build
+2228,MooseEntity,"each entity belongs to one and only one model, if an entity has not yet been added to a model or if an entity has been removed from a model the moosemodel is undefined, that is it may be nil.",0,0,Collaborators,each entity belongs to one and only one model if an entity has not yet been added to a model or if an entity has been removed from a model the moosemodel is undefined that is it may be nil
+2700,PRScreenshotAnnotation,width prfigure width as would be used in a more classic figure inclusion with caption .,0,0,Collaborators,width prfigure width as would be used in a more classic figure inclusion with caption
+401,BlLayout,layout constraints,0,0,Collaborators,layout constraints
+2419,PPSea,xac,0,0,Collaborators,xac
+1194,GtGraphCircleEnclosure,three circle enclosure is a special case too.,0,0,Collaborators,three circle enclosure is a special case too
+4053,WAImageButtonTag,the value of the src attribute specifies the uri of the image that will decorate the button.,0,0,Collaborators,the value of the src attribute specifies the uri of the image that will decorate the button
+2195,MooseEntity,extension mechanism,0,0,Collaborators,extension mechanism
+3461,RTLineDecorationExample,size 100,0,0,Collaborators,size 100
+2310,TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target,0,0,Collaborators,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target
+1295,GtGraphTreemapSquarify,this is an adapted extract from the paper squarified treemaps mentioned above.,0,0,Collaborators,this is an adapted extract from the paper squarified treemaps mentioned above
+1560,SpartaCanvas,path create a path builder,0,0,Collaborators,path create a path builder
+2411,PPSea,x^^^^^a..,0,0,Collaborators,x a
+3189,RTExploraBuilderTest,a roexplorabuildertest is xxxxxxxxx.,0,0,Collaborators,a roexplorabuildertest is xxxxxxxxx
+2206,MooseEntity,see mooseentitystate for more information,0,0,Collaborators,see mooseentitystate for more information
+1579,SpartaCanvas,canvas spartacanvas extent 400@250.,0,0,Collaborators,canvas spartacanvas extent 400@250
+2939,RTAbstractExample,builder iskindof rtbuilder,0,0,Collaborators,builder iskindof rtbuilder
+3475,RTLineDecorationExample,v,0,0,Collaborators,v
+3005,RTBezier3Line,edge lineshape edgefrom e1 to e2.,0,0,Collaborators,edge lineshape edgefrom e1 to e2
+3595,RTScrollBarBuilder,the bar shape is defined by #barshape #abox or default value #anellipse,0,0,Collaborators,the bar shape is defined by barshape abox or default value anellipse
+666,BlRectangleShapeWithArrowExplanation,to do so we should send method blpointshape #moveby to the connection point of the splitted line in the middle of the topedge .,0,0,Collaborators,to do so we should send method blpointshape moveby to the connection point of the splitted line in the middle of the topedge
+3000,RTBezier3Line,e2 s elementon end .,0,0,Collaborators,e2 s elementon end
+3048,RTBox,"eg,",0,0,Collaborators,eg
+4310,WATagBrush,its main additions are,0,0,Collaborators,its main additions are
+1438,GtProtoTasker,method gtprototasker #addtask expanded true,0,0,Collaborators,method gtprototasker addtask expanded true
+1551,SpartaCanvas,for example if one wants to fill a path with a paint she needs to send #fill message to canvas to get a fill builder painter .,0,0,Collaborators,for example if one wants to fill a path with a paint she needs to send fill message to canvas to get a fill builder painter
+3065,RTCalendarExample,b tab colors dictionary,0,0,Collaborators,b tab colors dictionary
+456,BlLayout,this step find the size of an element and sets measuredextent or position sometimes,0,0,Collaborators,this step find the size of an element and sets measuredextent or position sometimes
+3338,RTHighlightableWithCursor,methodselector #selector,0,0,Collaborators,methodselector selector
+998,Gt4XMLHighlightedToken,this class stores a highlight textcolor and 1 based start end highlight positions.,0,0,Collaborators,this class stores a highlight textcolor and 1 based start end highlight positions
+1314,GtGraphTreemapSquarify,"in the next step, we add area 3.",0,0,Collaborators,in the next step we add area 3
+1590,SpartaCanvas,create a linear gradient,0,0,Collaborators,create a linear gradient
+4302,WAServerAdaptor,codec,0,0,Collaborators,codec
+4064,WAImageStatus,a waimagestatus displays information about the current smalltalk image.,0,0,Collaborators,a waimagestatus displays information about the current smalltalk image
+4056,WAImageButtonTag,"the x value is measured in pixels from the left of the image, and the y value in pixels from the top of the image.",0,0,Collaborators,the x value is measured in pixels from the left of the image and the y value in pixels from the top of the image
+4217,WAPath,your code is not notified when the user clicks on a link in the wapath object.,0,0,Collaborators,your code is not notified when the user clicks on a link in the wapath object
+1898,FamixTParameterType,example,0,0,Collaborators,example
+457,BlLayout,space starts the layout step,0,0,Collaborators,space starts the layout step
+4057,WAImageButtonTag,"the submitted data includes name^x x value and name^y y value where name is the value of the name attribute, and x value and y value are the x and y coordinate values, respectively.",0,0,Collaborators,the submitted data includes name x x value and name y y value where name is the value of the name attribute and x value and y value are the x and y coordinate values respectively
+721,BlSpartaMozSkiaCanvasBuilder,i build sparta canvas using moz2d backend,0,0,Collaborators,i build sparta canvas using moz2d backend
+3550,RTRectangleAttachPoint,l s edgefrom e1 to e2.,0,0,Collaborators,l s edgefrom e1 to e2
+931,BrPagerPagePreviewResizeListener,i update the size of a page preview element in a scroll bar according to the size of a corresponding page,0,0,Collaborators,i update the size of a page preview element in a scroll bar according to the size of a corresponding page
+1555,SpartaCanvas,they can be found in filters protocol.,0,0,Collaborators,they can be found in filters protocol
+2619,PRMarkdownWriter,i am a writer for commonmark,0,0,Collaborators,i am a writer for commonmark
+2547,PRDocumentListAnnotation,then abstracts will alternately change templates if you specified mutliple directories.,0,0,Collaborators,then abstracts will alternately change templates if you specified mutliple directories
+3549,RTRectangleAttachPoint,s attachpoint rtrectangleattachpoint new.,0,0,Collaborators,s attachpoint rtrectangleattachpoint new
+3657,RTSVGPopup,this is disabled by default.,0,0,Collaborators,this is disabled by default
+625,BlPolygon,example,0,0,Collaborators,example
+1302,GtGraphTreemapSquarify,first we add a single rectangle.,0,0,Collaborators,first we add a single rectangle
+4274,WASelection,"returns the item selected by user, not the index nor the text shown the user .",0,0,Collaborators,returns the item selected by user not the index nor the text shown the user
+2804,PMKolmogorovSmirnov1Sample,"normal distribution 0, 1",0,0,Collaborators,normal distribution 0 1
+2511,PRBashScriptLanguage,bash scripting language,0,0,Collaborators,bash scripting language
+463,BlLayout,layout events,0,0,Collaborators,layout events
+1489,GtRlMajorVersionComputation,i increment the major number of a semantic version.,0,0,Collaborators,i increment the major number of a semantic version
+729,BlTextBackgroundAttribute,brtextbackgroundattribute paint color yellow,0,0,Collaborators,brtextbackgroundattribute paint color yellow
+3415,RTLabeled,canvas,0,0,Collaborators,canvas
+1774,TSpartaPaint,clamp do not repeat me,0,0,Collaborators,clamp do not repeat me
+2494,PRAbstractCommand,asdictionary,0,0,Collaborators,asdictionary
+3921,WADatalistTag,input list browsers,0,0,Collaborators,input list browsers
+908,BrGlamorousIcons,here is a list of available icons,0,0,Collaborators,here is a list of available icons
+1597,SpartaCanvas,apply translation to place trangle in the center,0,0,Collaborators,apply translation to place trangle in the center
+2833,PMLineSearch,for repeated use,0,0,Collaborators,for repeated use
+3032,RTBorderAttachPoint,"unline continuousattachpoint & co. you don t need to care about what the end shape is, as long as it is one of the basic shapes.",0,0,Collaborators,unline continuousattachpoint co you don t need to care about what the end shape is as long as it is one of the basic shapes
+2645,PRPhase,this configuration is a the configuration of the export.,0,0,Collaborators,this configuration is a the configuration of the export
+2778,PMGradient,# 2 1,0,0,Collaborators,2 1
+1624,SpartaCanvas,stddeviation 4.,0,0,Collaborators,stddeviation 4
+2477,ChrysalPillarishConfiguration,i m a pillar specific class to manage code not generated for the configuration class.,0,0,Collaborators,i m a pillar specific class to manage code not generated for the configuration class
+3464,RTLineDecorationExample,@ rtdraggable.,0,0,Collaborators,@ rtdraggable
+2196,MooseEntity,the state instance variable provides a mechanism for extending the state of entities.,0,0,Collaborators,the state instance variable provides a mechanism for extending the state of entities
+2941,RTAbstractExample,time dateandtime now time.,0,0,Collaborators,time dateandtime now time
+3147,RTCPQualitative,check it out by executing,0,0,Collaborators,check it out by executing
+2995,RTBezier3Line,describe a cubic bezier spline,0,0,Collaborators,describe a cubic bezier spline
+583,BlMeasurementUnspecifiedMode,for more information see class comment of blmeasurementmode,0,0,Collaborators,for more information see class comment of blmeasurementmode
+727,BlTextBackgroundAttribute,paint set background paint,0,0,Collaborators,paint set background paint
+4031,WAFormTag,where they are positioned.,0,0,Collaborators,where they are positioned
+3314,RTGrapherSelectRangeViewContext,ds dotshape color color blue trans.,0,0,Collaborators,ds dotshape color color blue trans
+440,BlLayout,by default class blelement delegates the measuring to its layout.,0,0,Collaborators,by default class blelement delegates the measuring to its layout
+1557,SpartaCanvas,public api and key messages,0,0,Collaborators,public api and key messages
+1554,SpartaCanvas,i m also responsible for creation of filter primitives filter types that are used with filter operation.,0,0,Collaborators,i m also responsible for creation of filter primitives filter types that are used with filter operation
+3610,RTSmoothLayoutTranslator,move object,0,0,Collaborators,move object
+3783,TROSMShape,remainderzoom 156543034 rzoom 2 ^ zoomlevel,0,0,Collaborators,remainderzoom 156543034 rzoom 2 zoomlevel
+3573,RTRotatedLabel,v shape es,0,0,Collaborators,v shape es
+45,BlChildrenCollection,i allow elements to optimize working with children for different scenarious.,0,0,Collaborators,i allow elements to optimize working with children for different scenarious
+3465,RTLineDecorationExample,edges orderedcollection new.,0,0,Collaborators,edges orderedcollection new
+4066,WAInspector,this is an abstract implementation of a web based object inspector.,0,0,Collaborators,this is an abstract implementation of a web based object inspector
+4214,WAPath,to add to the path use the method wapath pushsegment anobject name lulu .,0,0,Collaborators,to add to the path use the method wapath pushsegment anobject name lulu
+2653,PRPhase,prfileinclusion new,0,0,Collaborators,prfileinclusion new
+4272,WASelection,items can be any object.,0,0,Collaborators,items can be any object
+3063,RTCalendarExample,rtcalendarexample new installtitle visualizationcsv,0,0,Collaborators,rtcalendarexample new installtitle visualizationcsv
+659,BlRectangleShapeWithArrowExplanation,splitting the injected line,0,0,Collaborators,splitting the injected line
+2606,PRLaTeXEnvironment,a latex environment,0,0,Collaborators,a latex environment
+3011,RTBezier3Line,e3 translateby 40 @ 25.,0,0,Collaborators,e3 translateby 40 @ 25
+425,BlLayout,a tipical example is deadling with edges.,0,0,Collaborators,a tipical example is deadling with edges
+361,BlInfiniteDataSourceItemRangeMoved,example,0,0,Collaborators,example
+2935,RTAbstractExample,do example,0,0,Collaborators,do example
+2483,PRAbstractCommand,my main entry point is,0,0,Collaborators,my main entry point is
+3346,RTHighlightableWithCursor,b addobjects collection withallsubclasses .,0,0,Collaborators,b addobjects collection withallsubclasses
+2186,MooseCustomTask,moosecustomtask is a task perform some computation specified as a block.,0,0,Collaborators,moosecustomtask is a task perform some computation specified as a block
+267,BlGridLayout,internal representation and key implementation points.,0,0,Collaborators,internal representation and key implementation points
+761,BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwithtightmeasurement nocode previewshow #gtlivefor previewheight 75,0,0,Collaborators,example bltextelementmeasurementstrategyexamples textelementwithtightmeasurement nocode previewshow gtlivefor previewheight 75
+4090,WALabelledFormDialog,the default form has one button ok .,0,0,Collaborators,the default form has one button ok
+2474,PPXPathFilter,a xpath node applies me to filter xml elements.,0,0,Collaborators,a xpath node applies me to filter xml elements
+3420,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+663,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtoppolylinesplitinhalf previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Collaborators,example blrectangleshapewitharrowexplanation rectanglewithtoppolylinesplitinhalf previewshow gtlivefor previewexpanded true previewheight 250
+1148,GtGradAbstractTreeLayout,"additionally, this implementation supports alignment of nodes top, center, bottom in case of the vertical layout and left, center, right in case of the horizontal layout .",0,0,Collaborators,additionally this implementation supports alignment of nodes top center bottom in case of the vertical layout and left center right in case of the horizontal layout
+1075,GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",0,0,Collaborators,to determine if a message send represents a dependency to a method containing an example i use heuristic defined by subclasses of gtexampledependencyresolver
+3317,RTGrapherSelectRangeViewContext,ds x cls cls numberoflinesofcode 150 .,0,0,Collaborators,ds x cls cls numberoflinesofcode 150
+88,BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",0,0,Collaborators,for example class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included
+1991,FMOne,slots #parenttype fmone type #famixtwithmethods opposite #methods,0,0,Collaborators,slots parenttype fmone type famixtwithmethods opposite methods
+3426,RTLabeled,xxxxx,0,0,Collaborators,xxxxx
+4078,WALabelledFormDialog,walabelledformdialog is an abstract class for generating html forms.,0,0,Collaborators,walabelledformdialog is an abstract class for generating html forms
+3542,RTRectangleAttachPoint,e1 rtbox new size 50 elementon 1.,0,0,Collaborators,e1 rtbox new size 50 elementon 1
+580,BlMatrixTransformation,i am an affine transformation that is directly defined by transformation matrix,0,0,Collaborators,i am an affine transformation that is directly defined by transformation matrix
+3974,WAExpiringCache,has to be positive.,0,0,Collaborators,has to be positive
+3847,WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,0,0,Collaborators,a common superclass for all widgets that want to use wahtmlcanvas as their renderer
+3208,RTFilterInView,b shape box size #numberofmethods.,0,0,Collaborators,b shape box size numberofmethods
+2231,MooseEntity,it does not have to be unique,0,0,Collaborators,it does not have to be unique
+566,BlMatrixDecomposition,perspective,0,0,Collaborators,perspective
+3400,RTLabeled,consider,0,0,Collaborators,consider
+2386,PPNonEmptyParser,"i return failure, if the delegate parser did not consumed any input.",0,0,Collaborators,i return failure if the delegate parser did not consumed any input
+610,BlMouseProcessor,i am an event processor.,0,0,Collaborators,i am an event processor
+3466,RTLineDecorationExample,edges add rtarrowedline new head rtfilleddiamond ashead color color black width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,0,Collaborators,edges add rtarrowedline new head rtfilleddiamond ashead color color black width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2
+4014,WAFormDecoration,the buttons inst var must be set.,0,0,Collaborators,the buttons inst var must be set
+4027,WAFormTag,evaluation order,0,0,Collaborators,evaluation order
+653,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtranslatedtopedge previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Collaborators,example blrectangleshapewitharrowexplanation rectanglewithtranslatedtopedge previewshow gtlivefor previewexpanded true previewheight 250
+1316,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep previewexpanded true nocode,0,0,Collaborators,example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep previewexpanded true nocode
+1492,GtRlMajorVersionComputation,if the symbolic version number on which i am applied has a patch or a minor number i reset them to zero in the created version number.,0,0,Collaborators,if the symbolic version number on which i am applied has a patch or a minor number i reset them to zero in the created version number
+2302,TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass or its children as target,0,0,Collaborators,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass or its children as target
+3786,TROSMShape,remember working limit for lat lon is 8505113,0,0,Collaborators,remember working limit for lat lon is 8505113
+1763,TSpartaPaint,i define an api of a paint.,0,0,Collaborators,i define an api of a paint
+903,BrGlamorousIcons,i am a glamorous icons container.,0,0,Collaborators,i am a glamorous icons container
+4210,WAPath,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz .,0,0,Collaborators,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz
+639,BlRectangleShapeWithArrowExplanation,rectangle geometry with arrow pointer,0,0,Collaborators,rectangle geometry with arrow pointer
+3591,RTScrollBarBuilder,"more than a draggable view, it allows to keep a mark about your position in the view and it scale for large views.",0,0,Collaborators,more than a draggable view it allows to keep a mark about your position in the view and it scale for large views
+3789,TROSMShape,algorithm,0,0,Collaborators,algorithm
+4092,WALabelledFormDialog,override the defaultbutton method to indicate which button is the default.,0,0,Collaborators,override the defaultbutton method to indicate which button is the default
+549,BlMatrix2D,a21 a22 shx sy,0,0,Collaborators,a21 a22 shx sy
+48,BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",0,0,Collaborators,a rope uses a balanced binary tree to support fast adding removing and accessing with the disadvantage of taking more memory
+2764,PMExponentialGenerator,"to generate an exponential sample x from a uniform 0,1 sample u.",0,0,Collaborators,to generate an exponential sample x from a uniform 0 1 sample u
+177,BlElementDynamicTransformation,it means that matrix computation is performed only when requested taking owner element into account.,0,0,Collaborators,it means that matrix computation is performed only when requested taking owner element into account
+432,BlLayout,performing the layout on an element consists in executing three main steps,0,0,Collaborators,performing the layout on an element consists in executing three main steps
+1824,XdDocumentsExamples,adocument gt2documentexamples new documentwithexistingclass.,0,0,Collaborators,adocument gt2documentexamples new documentwithexistingclass
+705,BlScalableFitHeightStrategy,i make sure that content element fits vertically within scalable element.,0,0,Collaborators,i make sure that content element fits vertically within scalable element
+428,BlLayout,"the space only allows layout requests during the layouting phase a limited number of times method blspace #computelayout to avoid blocking rendering due to infinite recursions caused by layout requests, or void spending too much time on layouts in a frame.",0,0,Collaborators,the space only allows layout requests during the layouting phase a limited number of times method blspace computelayout to avoid blocking rendering due to infinite recursions caused by layout requests or void spending too much time on layouts in a frame
+1605,SpartaCanvas,canvas fill,0,0,Collaborators,canvas fill
+2297,TDependencyQueries,#queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children.,0,0,Collaborators,queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children
+627,BlPolygon,10@50.,0,0,Collaborators,10@50
+1042,GtDiagrammerPicker,picker .,0,0,Collaborators,picker
+1780,TSpartaPaint,rotatebyradians rotate me by amount of radians clockwise,0,0,Collaborators,rotatebyradians rotate me by amount of radians clockwise
+3352,RTHighlightableWithCursor,b shape circle size 10.,0,0,Collaborators,b shape circle size 10
+1121,GtExampleProcessor,#canprocess verifies if the processor can execute on the given example.,0,0,Collaborators,canprocess verifies if the processor can execute on the given example
+2431,PPSea,island object,0,0,Collaborators,island object
+3597,RTScrollBarBuilder,size or fixedposition can be defined as blocks.,0,0,Collaborators,size or fixedposition can be defined as blocks
+1899,FamixTParameterType,"public class aclass a,b,c",0,0,Collaborators,public class aclass a b c
+662,BlRectangleShapeWithArrowExplanation,we can do so by sending a method bllineshape #splitat to the now middle section of the topedge which was created by the previous line injection step,0,0,Collaborators,we can do so by sending a method bllineshape splitat to the now middle section of the topedge which was created by the previous line injection step
+1573,SpartaCanvas,asform to rasterize myself and return resulting image as form,0,0,Collaborators,asform to rasterize myself and return resulting image as form
+3575,RTRotatedLabel,"shape rtrotatedlabel new text c class , c name angleindegree c c numberofmethods 360 .",0,0,Collaborators,shape rtrotatedlabel new text c class c name angleindegree c c numberofmethods 360
+982,BrTextEditorLetterInputFilter,i only allow letters,0,0,Collaborators,i only allow letters
+3886,WACookie,"i represent a cookie, a piece of information that is stored on the client and read and writable by the server.",0,0,Collaborators,i represent a cookie a piece of information that is stored on the client and read and writable by the server
+1192,GtGraphCircleEnclosure,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class #enclosure and,0,0,Collaborators,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class enclosure and
+3614,RTSmoothLayoutTranslator,nbcycles,0,0,Collaborators,nbcycles
+962,BrTextEditorExamples,example brtexteditorexamples #editor text,0,0,Collaborators,example brtexteditorexamples editor text
+3409,RTLabeled,color object,0,0,Collaborators,color object
+3661,RTSVGVisitor2Test,i am a simple test class for rtsvgvisitor2,0,0,Collaborators,i am a simple test class for rtsvgvisitor2
+1992,FMOne,package famix traits method,0,0,Collaborators,package famix traits method
+32,BlChicken,how to run,0,0,Collaborators,how to run
+421,BlLayout,"that can be done using the messafe method blelement #forcelayout this should not be used outside of tests, as it bypasses the normal layouting system from bloc.",0,0,Collaborators,that can be done using the messafe method blelement forcelayout this should not be used outside of tests as it bypasses the normal layouting system from bloc
+3092,RTCalendarExample,index 11 iftrue index 11 .,0,0,Collaborators,index 11 iftrue index 11
+4083,WALabelledFormDialog,the rows method returns a collections of symbols.,0,0,Collaborators,the rows method returns a collections of symbols
+3341,RTHighlightableWithCursor,b attributeshape color color black.,0,0,Collaborators,b attributeshape color color black
+2546,PRDocumentListAnnotation,we ahave the possibility of giving multiple templates.,0,0,Collaborators,we ahave the possibility of giving multiple templates
+3652,RTSVGBoxedTextPopup,"this boxing, in svg, supports many features, not included in this class.",0,0,Collaborators,this boxing in svg supports many features not included in this class
+2491,PRAbstractCommand,argdictionary,0,0,Collaborators,argdictionary
+255,BlGridLayout,grid layout supports spacing between cells which can be set sending cellspacing message.,0,0,Collaborators,grid layout supports spacing between cells which can be set sending cellspacing message
+3401,RTLabeled,"eg,",0,0,Collaborators,eg
+2552,PRDocumentListAnnotation,"also for the path, the complete path from the project directory.",0,0,Collaborators,also for the path the complete path from the project directory
+3796,TROSMShape,cache each tile.,0,0,Collaborators,cache each tile
+1743,TSpartaCompositeFilter,i am a composite filter and can have an arbitrary amount of input soures,0,0,Collaborators,i am a composite filter and can have an arbitrary amount of input soures
+3052,RTBox,v open,0,0,Collaborators,v open
+1770,TSpartaPaint,i define an api of an abstract paint.,0,0,Collaborators,i define an api of an abstract paint
+1602,SpartaCanvas,apply.,0,0,Collaborators,apply
+3784,TROSMShape,lon to roassal space l 40075016686 l 360,0,0,Collaborators,lon to roassal space l 40075016686 l 360
+4044,WAIframeTag,"inserting an inline frame within a section of text is much like inserting an object via the object element they both allow you to insert an html document in the middle of another, they may both be aligned with surrounding text, etc",0,0,Collaborators,inserting an inline frame within a section of text is much like inserting an object via the object element they both allow you to insert an html document in the middle of another they may both be aligned with surrounding text etc
+816,BrEditorTextFlowLine,i store reference to the next line in order to avoid unnecessary array of lines creation for a very common case of just one line,0,0,Collaborators,i store reference to the next line in order to avoid unnecessary array of lines creation for a very common case of just one line
+1629,SpartaCanvas,type blue,0,0,Collaborators,type blue
+561,BlMatrixDecomposition,top left 2x2 minor of original matrix,0,0,Collaborators,top left 2x2 minor of original matrix
+3596,RTScrollBarBuilder,"the bar can have a specificity like #scalable, so it give an idea of the size of the view.",0,0,Collaborators,the bar can have a specificity like scalable so it give an idea of the size of the view
+2015,FmxMBPrintVisitor,i m a visitor for instances of #famixmetamodelgenerator and subclasses.,0,0,Collaborators,i m a visitor for instances of famixmetamodelgenerator and subclasses
+1901,FamixTParameterType,"a, b and c are parametertype of aclass.",0,0,Collaborators,a b and c are parametertype of aclass
+2058,MalHgNode,higraph malhierarchicalgraph,0,0,Collaborators,higraph malhierarchicalgraph
+1424,GtPlotterAxisProjection,given a point 20@30 as a domain object and euclidian coordinate system.,0,0,Collaborators,given a point 20@30 as a domain object and euclidian coordinate system
+829,BrExamplesShowroom,button can also be disabled to prevent click events,0,0,Collaborators,button can also be disabled to prevent click events
+1570,SpartaCanvas,filters create a common filters factory,0,0,Collaborators,filters create a common filters factory
+4298,WAServerAdaptor,#codec,0,0,Collaborators,codec
+604,BlMouseMiddleButton,often can be triggered by mouse wheel click,0,0,Collaborators,often can be triggered by mouse wheel click
+1504,GtRlReleaseConfiguration,my main api methods for setting other default options are,0,0,Collaborators,my main api methods for setting other default options are
+311,BlHandlerRegistry,registry,0,0,Collaborators,registry
+1822,XdDocumentsExamples,how to create base64 string,0,0,Collaborators,how to create base64 string
+2493,PRAbstractCommand,defaultexporters latex,0,0,Collaborators,defaultexporters latex
+3470,RTLineDecorationExample,v rtview new,0,0,Collaborators,v rtview new
+2575,PRHeadingLevelOffsetTransformer,"for example, a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html.",0,0,Collaborators,for example a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html
+904,BrGlamorousIcons,you can import new icons using method name brglamorousicons class #importiconsfromdirectory using the script below.,0,0,Collaborators,you can import new icons using method name brglamorousicons class importiconsfromdirectory using the script below
+1468,GtRlBaselineTagReleaseStrategy,as i am passive i do not export any metadata.,0,0,Collaborators,as i am passive i do not export any metadata
+3427,RTLabeled,text,0,0,Collaborators,text
+2910,PMStepper,steppers perform one single step.,0,0,Collaborators,steppers perform one single step
+655,BlRectangleShapeWithArrowExplanation,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge .,0,0,Collaborators,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge
+453,BlLayout,todo,0,0,Collaborators,todo
+240,BlGeometryAnchorMoved,i am sent when anchor s position changed,0,0,Collaborators,i am sent when anchor s position changed
+3066,RTCalendarExample,"tab rttabtable new input http bl^ocks.org mbostock raw 4063318 dji^csv asurl retrievecontents usingdelimiter ,.",0,0,Collaborators,tab rttabtable new input http bl ocks org mbostock raw 4063318 dji csv asurl retrievecontents usingdelimiter
+1749,TSpartaCompositeFilter,source filter1,0,0,Collaborators,source filter1
+1600,SpartaCanvas,push,0,0,Collaborators,push
+2929,RTAbstractExample,i am the super class of all the roassal examples.,0,0,Collaborators,i am the super class of all the roassal examples
+744,BlTextElementMeasurementStrategyExamples,label measurement,0,0,Collaborators,label measurement
+815,BrEditorTextFlowLine,i represent a single line of a flow layout.,0,0,Collaborators,i represent a single line of a flow layout
+3527,RTPopupTest,a roabstractpopuptest is xxxxxxxxx.,0,0,Collaborators,a roabstractpopuptest is xxxxxxxxx
+2579,PRHTMLCanvas,the main method is #tag that allow you to write something like this,0,0,Collaborators,the main method is tag that allow you to write something like this
+548,BlMatrix2D,a11 a12 sx shy,0,0,Collaborators,a11 a12 sx shy
+2212,MooseEntity,yourentity class annotation,0,0,Collaborators,yourentity class annotation
+582,BlMeasurementUnspecifiedMode,i represent a concrete implementation of unspecified measurement mode.,0,0,Collaborators,i represent a concrete implementation of unspecified measurement mode
+3059,RTBucketColor,a scale of elements is discretized into buckets where elements of each bucket is associated to an element.,0,0,Collaborators,a scale of elements is discretized into buckets where elements of each bucket is associated to an element
+3983,WAExpiringCache,overflowaction,0,0,Collaborators,overflowaction
+4102,WALabelledFormDialog,^ contact,0,0,Collaborators,contact
+2880,PMSciKitLearnSVDFlipAlgorithmTest,this is the test class that exercises scikit learn eigenvector flip algorithm,0,0,Collaborators,this is the test class that exercises scikit learn eigenvector flip algorithm
+3408,RTLabeled,canvas object,0,0,Collaborators,canvas object
+4095,WALabelledFormDialog,labelledformdialogexample subclass of walabelledformdialog instance methods,0,0,Collaborators,labelledformdialogexample subclass of walabelledformdialog instance methods
+1576,SpartaCanvas,example,0,0,Collaborators,example
+350,BlInfiniteDataSourceCommandType,i am a type of data source update command.,0,0,Collaborators,i am a type of data source update command
+2999,RTBezier3Line,e1 s elementon begin .,0,0,Collaborators,e1 s elementon begin
+446,BlLayout,the measuring phase changes only the extent in the measured bounds.,0,0,Collaborators,the measuring phase changes only the extent in the measured bounds
+2413,PPSea,b,0,0,Collaborators,b
+2295,TDependencyQueries,#query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children.,0,0,Collaborators,query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children
+1603,SpartaCanvas,fill previously created path fith linear gradient,0,0,Collaborators,fill previously created path fith linear gradient
+3969,WAExpiringCache,overflowaction symbol,0,0,Collaborators,overflowaction symbol
+1085,GtExampleFactory,"if the method is defined on the instance side, the provider consists in a new instance of that class.",0,0,Collaborators,if the method is defined on the instance side the provider consists in a new instance of that class
+1043,GtDiagrammerPicker,picker shape astring brtoggle new,0,0,Collaborators,picker shape astring brtoggle new
+1439,GtProtoTasker,method gtprototasker #flush expanded true,0,0,Collaborators,method gtprototasker flush expanded true
+3222,RTFilterInView,filter rtfilterinview new.,0,0,Collaborators,filter rtfilterinview new
+843,BrExamplesShowroom,example brexamplesshowroom #materialtoggle,0,0,Collaborators,example brexamplesshowroom materialtoggle
+4260,WARequestContext,"it does not matter if this is a request to a static file, an ajax request, a long comet request or a normal seaside requestion.",0,0,Collaborators,it does not matter if this is a request to a static file an ajax request a long comet request or a normal seaside requestion
+3413,RTLabeled,position object,0,0,Collaborators,position object
+664,BlRectangleShapeWithArrowExplanation,moving the top of the triangle,0,0,Collaborators,moving the top of the triangle
+760,BlTextElementMeasurementStrategyExamples,"it may be useful for displaying a short piece of a text, usually a word centered within a larger element.",0,0,Collaborators,it may be useful for displaying a short piece of a text usually a word centered within a larger element
+2486,PRAbstractCommand,pharo ui pillar^image pillar export to latex chapters chapter1 chapter1^pillar,0,0,Collaborators,pharo ui pillar image pillar export to latex chapters chapter1 chapter1 pillar
+249,BlGridLayout,"indices lie in closed interval 1, n 1 .",0,0,Collaborators,indices lie in closed interval 1 n 1
+3594,RTScrollBarBuilder,"the default configuration is #isbasic and #isstatic,",0,0,Collaborators,the default configuration is isbasic and isstatic
+4055,WAImageButtonTag,"when a pointing device is used to click on the image, the form is submitted and the click coordinates passed to the server.",0,0,Collaborators,when a pointing device is used to click on the image the form is submitted and the click coordinates passed to the server
+1091,GtExampleFactory,then i execute those methods with the example as a receiver and the pragma arguments.,0,0,Collaborators,then i execute those methods with the example as a receiver and the pragma arguments
+2695,PRScreenshotAnnotation,my parameters are,0,0,Collaborators,my parameters are
+3795,TROSMShape,display each tile.,0,0,Collaborators,display each tile
+3771,TROSMShape,bounds of the shape,0,0,Collaborators,bounds of the shape
+2797,PMKolmogorovSmirnov1Sample,"#ksstatistic returns kolmogorovs d, calculated as the maximum of d and d , iow it does not !",0,0,Collaborators,ksstatistic returns kolmogorovs d calculated as the maximum of d and d iow it does not
+2699,PRScreenshotAnnotation,caption the caption that will appear under my figure in the final book,0,0,Collaborators,caption the caption that will appear under my figure in the final book
+3503,RTLinkView,"for instance if in your visualization rtview, you have elements that have visualizalitations you can use it to explore it in a web browser",0,0,Collaborators,for instance if in your visualization rtview you have elements that have visualizalitations you can use it to explore it in a web browser
+2050,MalFormalContext,malformalcontext mammals2 computeconcepts,0,0,Collaborators,malformalcontext mammals2 computeconcepts
+1977,FMMSEPrinter,printer fmmseprinter onstring.,0,0,Collaborators,printer fmmseprinter onstring
+3976,WAExpiringCache,after so many seconds of inactivity a session is considered expired.,0,0,Collaborators,after so many seconds of inactivity a session is considered expired
+4089,WALabelledFormDialog,see rendernameon in example below.,0,0,Collaborators,see rendernameon in example below
+1471,GtRlBaselineTagReleaseStrategy,i am a valid release strategy only when all monticello baselines that load this project use the same tag to load it.,0,0,Collaborators,i am a valid release strategy only when all monticello baselines that load this project use the same tag to load it
+1027,GtDiagrammerEllipseStencil,i create an ellipse element,0,0,Collaborators,i create an ellipse element
+3468,RTLineDecorationExample,edges add rtdecoratedline new filleddiamondhead color color green width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,0,Collaborators,edges add rtdecoratedline new filleddiamondhead color color green width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2
+1929,FMModel,i contains real instances of a class representing a concept in the current metamodel.,0,0,Collaborators,i contains real instances of a class representing a concept in the current metamodel
+3918,WACopyHandlerPlugin,i make a copy of an application.,0,0,Collaborators,i make a copy of an application
+629,BlPolygon,150@40.,0,0,Collaborators,150@40
+2623,PRObject,"i hold a dictionary of properties, so that users can easily annotate me with new values.",0,0,Collaborators,i hold a dictionary of properties so that users can easily annotate me with new values
+2038,MalBreadthFirstSearchPath,"it starts at the tree root or some arbitrary node of a graph, sometimes referred to as a search key and explores the neighbor nodes first, before moving to the next level neighbours.",0,0,Collaborators,it starts at the tree root or some arbitrary node of a graph sometimes referred to as a search key and explores the neighbor nodes first before moving to the next level neighbours
+2307,TDependencyQueries,afamixmethod querylocal #out with famixaccess.,0,0,Collaborators,afamixmethod querylocal out with famixaccess
+2056,MalHgNode,attributes dictionary,0,0,Collaborators,attributes dictionary
+1453,GtRemoteInspector,for bonus points how to create instances.,0,0,Collaborators,for bonus points how to create instances
+1888,FamixTPackage,java extractors map java packages to famixnamespaces.,0,0,Collaborators,java extractors map java packages to famixnamespaces
+1530,SpartaCairoTextMetrics,"if you call cairo scale cr, 20, 20 , text will be drawn twice as big, but the reported text extents will not be doubled.",0,0,Collaborators,if you call cairo scale cr 20 20 text will be drawn twice as big but the reported text extents will not be doubled
+1529,SpartaCairoTextMetrics,"because text extents are in user space coordinates, they are mostly, but not entirely, independent of the current transformation matrix.",0,0,Collaborators,because text extents are in user space coordinates they are mostly but not entirely independent of the current transformation matrix
+3592,RTScrollBarBuilder,"it can be static, movable, using #isstatic or #ismovable",0,0,Collaborators,it can be static movable using isstatic or ismovable
+661,BlRectangleShapeWithArrowExplanation,we just need to split an injected line in half in order to create the top corner of the rectangle.,0,0,Collaborators,we just need to split an injected line in half in order to create the top corner of the rectangle
+835,BrExamplesShowroom,to create a toggle button with a label user should the corresponding class brmaterialtogglewithiconlook,0,0,Collaborators,to create a toggle button with a label user should the corresponding class brmaterialtogglewithiconlook
+309,BlHandlerRegistry,i am an event handler registry used by dispatchers in order to manage event handlers.,0,0,Collaborators,i am an event handler registry used by dispatchers in order to manage event handlers
+2596,PRInputFileAnnotation,inputfile myfile^pillar,0,0,Collaborators,inputfile myfile pillar
+4237,WAPharoEncoder,i am the common superclass for pharo encoders.,0,0,Collaborators,i am the common superclass for pharo encoders
+558,BlMatrixDecomposition,translation,0,0,Collaborators,translation
+1549,SpartaCanvas,my main responsibility is to create and provide backend specific builders and various objects.,0,0,Collaborators,my main responsibility is to create and provide backend specific builders and various objects
+2542,PRDocumentListAnnotation,i am class representing a documentlistannotation.,0,0,Collaborators,i am class representing a documentlistannotation
+3963,WAExpiringCache,i am the abstract base class for caches that remove entries.,0,0,Collaborators,i am the abstract base class for caches that remove entries
+3762,TROSMShape,rectangle rectangle,0,0,Collaborators,rectangle rectangle
+3548,RTRectangleAttachPoint,s rtarrowedline new color color black.,0,0,Collaborators,s rtarrowedline new color color black
+2430,PPSea,context object,0,0,Collaborators,context object
+1409,GtPhlowForwarderView,i am useful in situations when the object that has the view definition is expensive to create.,0,0,Collaborators,i am useful in situations when the object that has the view definition is expensive to create
+3851,WAComboResponse,"by default, wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle.",0,0,Collaborators,by default wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle
+3988,WAExpiringCache,#removeabsoluteoldest remove the entry that has been created the longest time ago,0,0,Collaborators,removeabsoluteoldest remove the entry that has been created the longest time ago
+3798,TROSMShape,remove tile if not used in display.,0,0,Collaborators,remove tile if not used in display
+3344,RTHighlightableWithCursor,b lineshape color color black.,0,0,Collaborators,b lineshape color color black
+668,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtoparrow previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Collaborators,example blrectangleshapewitharrowexplanation rectanglewithtoparrow previewshow gtlivefor previewexpanded true previewheight 250
+4029,WAFormTag,appear in the xhtml.,0,0,Collaborators,appear in the xhtml
+3780,TROSMShape,r zoom to osm zoom level base is 1km pixel,0,0,Collaborators,r zoom to osm zoom level base is 1km pixel
+3074,RTCalendarExample,# 166 217 106 # 102 189 99 # 26 152 80 # 0 104 55,0,0,Collaborators,166 217 106 102 189 99 26 152 80 0 104 55
+3674,RTTextWord,interval,0,0,Collaborators,interval
+836,BrExamplesShowroom,example brexamplesshowroom #materiallabeltoggle,0,0,Collaborators,example brexamplesshowroom materiallabeltoggle
+3790,TROSMShape,"from the camera, get the zoom level and offset.",0,0,Collaborators,from the camera get the zoom level and offset
+431,BlLayout,the space starts the layouting process on the root element of that space.,0,0,Collaborators,the space starts the layouting process on the root element of that space
+3989,WAExpiringCache,#signalerror signal wamaximumnumberofsessionsexceedederror,0,0,Collaborators,signalerror signal wamaximumnumberofsessionsexceedederror
+4343,WAUrlAttribute,it converts between text entered on the configuration page and waurl instances.,0,0,Collaborators,it converts between text entered on the configuration page and waurl instances
+2187,MooseCustomTask,the main api is then,0,0,Collaborators,the main api is then
+1553,SpartaCanvas,they can be found in api protocol.,0,0,Collaborators,they can be found in api protocol
+1047,GtDiagrammerPicker,picker constraintsdo c,0,0,Collaborators,picker constraintsdo c
+2903,PMStateTime,"we don t want to use point, since state may be a vector quantity, and the behavior of array @ number is a little off it stores points in an array, what we want is the array itself in state, and the scalar quantity in time .",0,0,Collaborators,we don t want to use point since state may be a vector quantity and the behavior of array @ number is a little off it stores points in an array what we want is the array itself in state and the scalar quantity in time
+3782,TROSMShape,zoomlevel ln 156543034 rzoom ln 2,0,0,Collaborators,zoomlevel ln 156543034 rzoom ln 2
+2750,PMAM3Stepper,a am3 method is implicit.,0,0,Collaborators,a am3 method is implicit
+1546,SpartaCanvas,i represent a sparta canvas and provide an api to perform various drawing operations.,0,0,Collaborators,i represent a sparta canvas and provide an api to perform various drawing operations
+1976,FMMSEPrinter,printer,0,0,Collaborators,printer
+3670,RTTextWord,a rttextword represents one word of an original text.,0,0,Collaborators,a rttextword represents one word of an original text
+1548,SpartaCanvas,overview,0,0,Collaborators,overview
+200,BlElementRemovedEvent,parent blelement new.,0,0,Collaborators,parent blelement new
+411,BlLayout,"one of them, class blspaceframelayoutphase , consists in layouting the elements contained in the space.",0,0,Collaborators,one of them class blspaceframelayoutphase consists in layouting the elements contained in the space
+1582,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+2037,MalBreadthFirstSearchPath,breadth first search bfs is an algorithm for traversing or searching tree or graph data structures.,0,0,Collaborators,breadth first search bfs is an algorithm for traversing or searching tree or graph data structures
+2426,PPSea,afterwaterparser object,0,0,Collaborators,afterwaterparser object
+2226,MooseEntity,moosemodel of an entity is must be an instance of moosemodel.,0,0,Collaborators,moosemodel of an entity is must be an instance of moosemodel
+150,BlDevScripterCheckFiredEventsStep,here you can see how to configure a fire and check a click event on a child element,0,0,Collaborators,here you can see how to configure a fire and check a click event on a child element
+1594,SpartaCanvas,end 150@200,0,0,Collaborators,end 150@200
+1631,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 05 blur^png label blur,0,0,Collaborators,https github com syrel sparta raw master images spartacanvas 05 blur png label blur
+2745,PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",0,0,Collaborators,here are tests that would be in math tests dhb numerical if it could construct random matrices
+3312,RTGrapherSelectRangeViewContext,g view rtview new.,0,0,Collaborators,g view rtview new
+3068,RTCalendarExample,dictionary dictionary new.,0,0,Collaborators,dictionary dictionary new
+3319,RTGrapherSelectRangeViewContext,rtgrapherselectrangeviewcontext ongrapher g callback elements g view attributeat #presentation selection elements .,0,0,Collaborators,rtgrapherselectrangeviewcontext ongrapher g callback elements g view attributeat presentation selection elements
+90,BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",0,0,Collaborators,by having an explicit object for each operation the composition of operations can be inspected
+4299,WAServerAdaptor,#usessmalltalkencoding,0,0,Collaborators,usessmalltalkencoding
+1482,GtRlCommitAndTagReleaseAction,i execute a commit of the current changes staged for commit and push a tag corresponding to the version number of the repository release.,0,0,Collaborators,i execute a commit of the current changes staged for commit and push a tag corresponding to the version number of the repository release
+2442,PPSea,island,0,0,Collaborators,island
+1719,SpartaLine,public api and key messages,0,0,Collaborators,public api and key messages
+1081,GtExampleFactory,users should configure me with a #sourceclass .,0,0,Collaborators,users should configure me with a sourceclass
+2998,RTBezier3Line,s rtellipse new color color red alpha 04 size 30.,0,0,Collaborators,s rtellipse new color color red alpha 04 size 30
+3454,RTLineDecorationExample,v b1 b2 edges,0,0,Collaborators,v b1 b2 edges
+3781,TROSMShape,1000 rzoom 156543034 meters pixel 2 ^ zoomlevel,0,0,Collaborators,1000 rzoom 156543034 meters pixel 2 zoomlevel
+227,BlFocusExamples,2 click one any cell to give it a focus blue border should appear,0,0,Collaborators,2 click one any cell to give it a focus blue border should appear
+2703,PRScreenshotAnnotation,file label aa,0,0,Collaborators,file label aa
+642,BlRectangleShapeWithArrowExplanation,"a traditional way to implement such geometry is to create a subclass of class blgeometry , override method blgeometry #buildpathonspartacanvas and implement quite cumbersome algorithm that computes the location of each point and then connects those points using moveto and lineto commands provided by pathbuilder .",0,0,Collaborators,a traditional way to implement such geometry is to create a subclass of class blgeometry override method blgeometry buildpathonspartacanvas and implement quite cumbersome algorithm that computes the location of each point and then connects those points using moveto and lineto commands provided by pathbuilder
+2304,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod or its children as source,0,0,Collaborators,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod or its children as source
+2188,MooseCustomTask,with ablock description adescription length anumber,0,0,Collaborators,with ablock description adescription length anumber
+4215,WAPath,"the name arguement is the association key, the segment argument is the association value.",0,0,Collaborators,the name arguement is the association key the segment argument is the association value
+650,BlRectangleShapeWithArrowExplanation,in order to give the arrow pointing up enough space we should move the top edge of the rectangle down by the length of the arrow.,0,0,Collaborators,in order to give the arrow pointing up enough space we should move the top edge of the rectangle down by the length of the arrow
+1896,FamixTParameterType,parametertype represents the symbolic type used in parameterizable classes.,0,0,Collaborators,parametertype represents the symbolic type used in parameterizable classes
+2907,PMStepper,basic steppers execute one timestep of a specific order with a given stepsize.,0,0,Collaborators,basic steppers execute one timestep of a specific order with a given stepsize
+764,BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #measurementdifference nocode previewshow #gtlivefor previewheight 220,0,0,Collaborators,example bltextelementmeasurementstrategyexamples measurementdifference nocode previewshow gtlivefor previewheight 220
+1609,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 03 fill path^png label fillpath,0,0,Collaborators,https github com syrel sparta raw master images spartacanvas 03 fill path png label fillpath
+4311,WATagBrush,element name #tag,0,0,Collaborators,element name tag
+3174,RTExperimentalExample,b v,0,0,Collaborators,b v
+3985,WAExpiringCache,only matters when the maximum size is bigger than 0.,0,0,Collaborators,only matters when the maximum size is bigger than 0
+3986,WAExpiringCache,possible values,0,0,Collaborators,possible values
+2773,PMGradient,"example f x,y x^2 y",0,0,Collaborators,example f x y x 2 y
+1568,SpartaCanvas,bitmap create a bitmap factory,0,0,Collaborators,bitmap create a bitmap factory
+708,BlScalableFitWidthStrategy,i make sure that content element fits horizontally within scalable element.,0,0,Collaborators,i make sure that content element fits horizontally within scalable element
+404,BlLayout,"each layout has a dedicated constraint objects, instance of class bllayoutcommonconstraints , that contain these common constraints.",0,0,Collaborators,each layout has a dedicated constraint objects instance of class bllayoutcommonconstraints that contain these common constraints
+1828,XdDocumentsExamples,encode anxdfile streamingstrategy bytes,0,0,Collaborators,encode anxdfile streamingstrategy bytes
+1974,FMMSEPrinter,i am responsible of printing the mse format markup during a model export.,0,0,Collaborators,i am responsible of printing the mse format markup during a model export
+587,BlMorphicHostSpace,i make it possible to embed bloc space within arbitrary morphs.,0,0,Collaborators,i make it possible to embed bloc space within arbitrary morphs
+2106,MalLatticePatterns,we can detect like horizontal decomposition with the algos in the class.,0,0,Collaborators,we can detect like horizontal decomposition with the algos in the class
+3966,WAExpiringCache,maximumsize integer,0,0,Collaborators,maximumsize integer
+3197,RTFilterInView,b,0,0,Collaborators,b
+1928,FMModel,i am a model used in the scope of fame.,0,0,Collaborators,i am a model used in the scope of fame
+2424,PPSea,"i am still an experiment, but if you know how to improve me, please contact jan kurs at kurs@iam^unibe.ch",0,0,Collaborators,i am still an experiment but if you know how to improve me please contact jan kurs at kurs@iam unibe ch
+460,BlLayout,elements announce events for position and extent changed,0,0,Collaborators,elements announce events for position and extent changed
+2414,PPSea,xab,0,0,Collaborators,xab
+1131,GtGradAbstractTreeLayout,it improved the older algorithm s ability to handle non uniform sized nodes.,0,0,Collaborators,it improved the older algorithm s ability to handle non uniform sized nodes
+1975,FMMSEPrinter,examples,0,0,Collaborators,examples
+1002,GtABAddress,i hold all data relevant for an address,0,0,Collaborators,i hold all data relevant for an address
+2551,PRDocumentListAnnotation,you have to specify complete path starting from the project directory.,0,0,Collaborators,you have to specify complete path starting from the project directory
+823,BrExamplesShowroom,i am a collection of showroom examples.,0,0,Collaborators,i am a collection of showroom examples
+438,BlLayout,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element.,0,0,Collaborators,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element
+3049,RTBox,v,0,0,Collaborators,v
+621,BlPerpendicularFractionAnchor,the curvature distance from the line connecting reference anchors is defined as a fraction curvaturefraction of a length between anchors.,0,0,Collaborators,the curvature distance from the line connecting reference anchors is defined as a fraction curvaturefraction of a length between anchors
+1777,TSpartaPaint,repeatx repeat only x axis,0,0,Collaborators,repeatx repeat only x axis
+1973,FMMSEPrinter,description,0,0,Collaborators,description
+1139,GtGradAbstractTreeLayout,"to accomplish that, it uses shapes represented by polyline structures.",0,0,Collaborators,to accomplish that it uses shapes represented by polyline structures
+2155,MalTerms,terms subclasses bag with support for handling stopwords etc,0,0,Collaborators,terms subclasses bag with support for handling stopwords etc
+2271,MooseSystemComplexityLocator,self openon moosemodel root allmodels last allmodelclasses,0,0,Collaborators,self openon moosemodel root allmodels last allmodelclasses
+1940,FMModel,#metadescriptionon allows one to get the meta description of an element.,0,0,Collaborators,metadescriptionon allows one to get the meta description of an element
+36,BlChickenLeg,i am a single red chicken leg with two toes,0,0,Collaborators,i am a single red chicken leg with two toes
+3531,RTPopupTest,popup,0,0,Collaborators,popup
+3544,RTRectangleAttachPoint,v add e1 add e2.,0,0,Collaborators,v add e1 add e2
+2654,PRPhase,configuration self configuration,0,0,Collaborators,configuration self configuration
+4220,WAPath,use watrail to handle breadcrumbs for sequences of call and answers .,0,0,Collaborators,use watrail to handle breadcrumbs for sequences of call and answers
+4088,WALabelledFormDialog,to use other html widgets for input for a datum implement the method renderxxxon where xxx is the symbol for the row.,0,0,Collaborators,to use other html widgets for input for a datum implement the method renderxxxon where xxx is the symbol for the row
+4309,WATagBrush,this is the superclass for all xml element classes.,0,0,Collaborators,this is the superclass for all xml element classes
+1469,GtRlBaselineTagReleaseStrategy,even if the repository has child repositories there will be no metadata exported.,0,0,Collaborators,even if the repository has child repositories there will be no metadata exported
+439,BlLayout,each element can decide how it wants to be measured method blelement #onmeasure .,0,0,Collaborators,each element can decide how it wants to be measured method blelement onmeasure
+1889,FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,0,0,Collaborators,they can also mirror the same information in terms of famixpackage instances
+758,BlTextElementMeasurementStrategyExamples,"however, sometimes we want to know the exact and precise text bounds.",0,0,Collaborators,however sometimes we want to know the exact and precise text bounds
+1087,GtExampleFactory,optionally users can configure the factory with an explicit provider.,0,0,Collaborators,optionally users can configure the factory with an explicit provider
+4113,WALabelledFormDialog,asymbol #phonenumber iftrue ^ phone number .,0,0,Collaborators,asymbol phonenumber iftrue phone number
+2772,PMGradient,computes the gradient of a function of a collection of numbers.,0,0,Collaborators,computes the gradient of a function of a collection of numbers
+2516,PRBookTesterVisitor,visitcodeblock uses executeandreport creating a prbooktestresult with the result of the evaluation of the codeblock.,0,0,Collaborators,visitcodeblock uses executeandreport creating a prbooktestresult with the result of the evaluation of the codeblock
+1135,GtGradAbstractTreeLayout,it calculates left and right subtrees of a tree and merges them.,0,0,Collaborators,it calculates left and right subtrees of a tree and merges them
+1987,FMOne,description,0,0,Collaborators,description
+1039,GtDiagrammerPicker,i .,0,0,Collaborators,i
+3195,RTFilterInView,this interaction adds a set of menu in the view to filter in and out some elements,0,0,Collaborators,this interaction adds a set of menu in the view to filter in and out some elements
+344,BlHostPulseLoop,the opened spaces listen the pulse to be synchronized and to update their state when it is needed.,0,0,Collaborators,the opened spaces listen the pulse to be synchronized and to update their state when it is needed
+2697,PRScreenshotAnnotation,class the targetted class,0,0,Collaborators,class the targetted class
+2643,PRPhase,"a phase takes an input, transforms it and returns an output.",0,0,Collaborators,a phase takes an input transforms it and returns an output
+1449,GtRemoteInspector,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api.,0,0,Collaborators,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api
+1318,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep previewexpanded true nocode,0,0,Collaborators,example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep previewexpanded true nocode
+1191,GtGraphCircleEnclosure,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,0,0,Collaborators,adding a second circle expands the enclosure circle to fit both circles c1 and c2
+1783,TSpartaPaint,internal representation and key implementation points.,0,0,Collaborators,internal representation and key implementation points
+3765,TROSMShape,zoom point,0,0,Collaborators,zoom point
+1016,GtDiagrammerArrowheadNoneStencil,i am used to remove arrow heads,0,0,Collaborators,i am used to remove arrow heads
+3772,TROSMShape,scale,0,0,Collaborators,scale
+756,BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwitheditormeasurement nocode previewshow #gtlivefor previewheight 100,0,0,Collaborators,example bltextelementmeasurementstrategyexamples textelementwitheditormeasurement nocode previewshow gtlivefor previewheight 100
+3423,RTLabeled,offsetonedge,0,0,Collaborators,offsetonedge
+464,BlLayout,todo,0,0,Collaborators,todo
+1180,GtGraphCircleEnclosure,smallest enclosing circle of circles,0,0,Collaborators,smallest enclosing circle of circles
+2683,PRPillarParserOld,i am a parser for a pillar syntax.,0,0,Collaborators,i am a parser for a pillar syntax
+3702,RTVerticalMultipleData,d barchartwithbartitle #first rotation 30.,0,0,Collaborators,d barchartwithbartitle first rotation 30
+2747,PMAM3Stepper,it is stepper for adams moulton method of order 3.,0,0,Collaborators,it is stepper for adams moulton method of order 3
+2123,MalLatticePatterns,treillis mallattice on malformalcontext classhierarchycollection .,0,0,Collaborators,treillis mallattice on malformalcontext classhierarchycollection
+2484,PRAbstractCommand,createconfiguration conffilename basedirectory basedirectory argdictionary arguments,0,0,Collaborators,createconfiguration conffilename basedirectory basedirectory argdictionary arguments
+3010,RTBezier3Line,e2 translateby 80 @ 50.,0,0,Collaborators,e2 translateby 80 @ 50
+2200,MooseEntity,this is an important mechanism to enable extensibility and modularity.,0,0,Collaborators,this is an important mechanism to enable extensibility and modularity
+1188,GtGraphCircleEnclosure,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class #enclosure .,0,0,Collaborators,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class enclosure
+1436,GtProtoTasker,tasker is responsible for collectin class gttaskertask tasks and executing them when requested.,0,0,Collaborators,tasker is responsible for collectin class gttaskertask tasks and executing them when requested
+2701,PRScreenshotAnnotation,file width 50,0,0,Collaborators,file width 50
+1752,TSpartaCompositeFilter,source filter4,0,0,Collaborators,source filter4
+3626,RTSunburstBuilderExamples,rtsunburstbuilderexamples new installtitle basic15,0,0,Collaborators,rtsunburstbuilderexamples new installtitle basic15
+1137,GtGradAbstractTreeLayout,"reignold tilfold s algorithm was originally designed only for binary trees, but later extended to work for non binary ones as well.",0,0,Collaborators,reignold tilfold s algorithm was originally designed only for binary trees but later extended to work for non binary ones as well
+3214,RTFilterInView,b,0,0,Collaborators,b
+1626,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+4096,WALabelledFormDialog,initialize,0,0,Collaborators,initialize
+2284,TDependencyQueries,"this trait provides a common, paradigm agnostic vocabulary to query dependencies of software entities.",0,0,Collaborators,this trait provides a common paradigm agnostic vocabulary to query dependencies of software entities
+217,BlExampleElementWithBrokenOnLayout,i am an element with a broken onlayout method that throws error subscriptoutofbounds,0,0,Collaborators,i am an element with a broken onlayout method that throws error subscriptoutofbounds
+1310,GtGraphTreemapSquarify,"therefore, we decide that we have reached an optimum for the left half in step two, and start processing the right half.",0,0,Collaborators,therefore we decide that we have reached an optimum for the left half in step two and start processing the right half
+4020,WAFormDecoration,buttons,0,0,Collaborators,buttons
+458,BlLayout,as we know the size of each child we compute the actual position for each child,0,0,Collaborators,as we know the size of each child we compute the actual position for each child
+953,BrTextEditorExamples,today we will learn how to compose an editor,0,0,Collaborators,today we will learn how to compose an editor
+2628,PRParagraph,"i m a paragraph of text containing text, line breaks or annotations.",0,0,Collaborators,i m a paragraph of text containing text line breaks or annotations
+2017,FmxMBPrintVisitor,see fmxmbvisitor to see how to use me.,0,0,Collaborators,see fmxmbvisitor to see how to use me
+3547,RTRectangleAttachPoint,e2 @ rtdraggable.,0,0,Collaborators,e2 @ rtdraggable
+258,BlGridLayout,rowcount anumber to specify amount of rows,0,0,Collaborators,rowcount anumber to specify amount of rows
+3459,RTLineDecorationExample,@ rtdraggable.,0,0,Collaborators,@ rtdraggable
+3862,WAComboResponse,self rendersearchresulton acanvas.,0,0,Collaborators,self rendersearchresulton acanvas
+1614,SpartaCanvas,path triangle,0,0,Collaborators,path triangle
+560,BlMatrixDecomposition,rotation angle,0,0,Collaborators,rotation angle
+1813,TSpFontDescriptor,"i am a helper trait that defines basic font properties such as weight, style and stretch",0,0,Collaborators,i am a helper trait that defines basic font properties such as weight style and stretch
+3791,TROSMShape,compute the osm zoom level with the camera zoom value .,0,0,Collaborators,compute the osm zoom level with the camera zoom value
+2416,PPSea,x^^^^a..,0,0,Collaborators,x a
+4080,WALabelledFormDialog,user supplied data is placed in the data model.,0,0,Collaborators,user supplied data is placed in the data model
+6,BlArrowheadSimpleArrow,i am a simple arrow like arrowhead.,0,0,Collaborators,i am a simple arrow like arrowhead
+2807,PMKolmogorovSmirnov1Sample,ks rejectequalityhypothesiswithalpha 005.,0,0,Collaborators,ks rejectequalityhypothesiswithalpha 005
+3893,WACookie,http cgi^netscape.com newsref std cookie spec^html,0,0,Collaborators,http cgi netscape com newsref std cookie spec html
+1129,GtGradAbstractTreeLayout,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically.,0,0,Collaborators,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically
+2489,PRAbstractCommand,createconfiguration pillar^conf,0,0,Collaborators,createconfiguration pillar conf
+3744,RTWeightedCircleLayout,v rtview new.,0,0,Collaborators,v rtview new
+1601,SpartaCanvas,translateby 100@25,0,0,Collaborators,translateby 100@25
+2649,PRPhase,transformerinputfileon acollection,0,0,Collaborators,transformerinputfileon acollection
+1464,GtRlBaselineTagReleaseStrategy,i am a release strategy that uses the current loaded tag for a repository as the version number.,0,0,Collaborators,i am a release strategy that uses the current loaded tag for a repository as the version number
+3342,RTHighlightableWithCursor,b methodshape color color black.,0,0,Collaborators,b methodshape color color black
+1577,SpartaCanvas,create an empty canvas of size 400@250,0,0,Collaborators,create an empty canvas of size 400@250
+3984,WAExpiringCache,what to do when the maximum number of sessions is reached.,0,0,Collaborators,what to do when the maximum number of sessions is reached
+2550,PRDocumentListAnnotation,"for templates values, you can not specify directories, only ^mustache files.",0,0,Collaborators,for templates values you can not specify directories only mustache files
+417,BlLayout,also it does not matter if layout is requeste one or 1000 time only one layout phase is performed improving performance.,0,0,Collaborators,also it does not matter if layout is requeste one or 1000 time only one layout phase is performed improving performance
+4011,WAFormCharEncodingFromHandlerTest,i test that the encoding from the handler is taken if a handler is present but a codec is missing.,0,0,Collaborators,i test that the encoding from the handler is taken if a handler is present but a codec is missing
+4091,WALabelledFormDialog,override the buttons method to change the text or number of submit buttons on the form.,0,0,Collaborators,override the buttons method to change the text or number of submit buttons on the form
+3398,RTLabeled,a rtlabeled adds a label above an element.,0,0,Collaborators,a rtlabeled adds a label above an element
+3864,WAComboResponse,flush after each search result,0,0,Collaborators,flush after each search result
+2308,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source,0,0,Collaborators,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source
+2901,PMStateTime,a statetime class is a generalization of point.,0,0,Collaborators,a statetime class is a generalization of point
+192,BlElementPositionChangeTest,i contain examples of position change logging functionality,0,0,Collaborators,i contain examples of position change logging functionality
+462,BlLayout,for example when nodes change the position edges should be updated.,0,0,Collaborators,for example when nodes change the position edges should be updated
+859,BrExamplesShowroom,list,0,0,Collaborators,list
+2760,PMExponentialGenerator,"the exponential distribution has a single parameter beta, here denoted as mean.",0,0,Collaborators,the exponential distribution has a single parameter beta here denoted as mean
+2118,MalLatticePatterns,transcript clear.,0,0,Collaborators,transcript clear
+2099,MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",0,0,Collaborators,this means it finds a subset of the edges that forms a tree that includes every vertex where the total weight of all the edges in the tree is minimized
+1781,TSpartaPaint,"scaleby scale me by a factor, a point or a number.",0,0,Collaborators,scaleby scale me by a factor a point or a number
+3987,WAExpiringCache,#removerelativeoldest remove the entry that hasn t been accessed for the longest time,0,0,Collaborators,removerelativeoldest remove the entry that hasn t been accessed for the longest time
+2063,MalHgNode,attributes,0,0,Collaborators,attributes
+1773,TSpartaPaint,"if not set, supposed to be identity.",0,0,Collaborators,if not set supposed to be identity
+3552,RTRectangleAttachPoint,v,0,0,Collaborators,v
+3545,RTRectangleAttachPoint,e2 translateby 30 @ 60.,0,0,Collaborators,e2 translateby 30 @ 60
+3202,RTFilterInView,b normalizer normalizecolor #numberofmethods.,0,0,Collaborators,b normalizer normalizecolor numberofmethods
+748,BlTextElementMeasurementStrategyExamples,the width is given by the exact bounds of the element s text.,0,0,Collaborators,the width is given by the exact bounds of the element s text
+1599,SpartaCanvas,canvas transform,0,0,Collaborators,canvas transform
+936,BrSelectionRequest,i am sent by a look to request selection update from the view model,0,0,Collaborators,i am sent by a look to request selection update from the view model
+3768,TROSMShape,position,0,0,Collaborators,position
+120,BlClickEvent,mouse up,0,0,Collaborators,mouse up
+3852,WAComboResponse,"if streaming is desired, the response can be flushed by sending it the #flush message.",0,0,Collaborators,if streaming is desired the response can be flushed by sending it the flush message
+2216,MooseEntity,the pragma mseproperty type must be placed in the getter method to denote a fame property.,0,0,Collaborators,the pragma mseproperty type must be placed in the getter method to denote a fame property
+1807,TSpartaStrokeOptions,i define an api of stroke options object.,0,0,Collaborators,i define an api of stroke options object
+2119,MalLatticePatterns,mallatticepatterns on treillis reportpatterns.,0,0,Collaborators,mallatticepatterns on treillis reportpatterns
+2434,PPSea,awp,0,0,Collaborators,awp
+3359,RTHighlightableWithCursor,b edges movebehind connectfrom #superclass.,0,0,Collaborators,b edges movebehind connectfrom superclass
+1630,SpartaCanvas,draw.,0,0,Collaborators,draw
+2420,PPSea,x^^b..,0,0,Collaborators,x b
+1490,GtRlMajorVersionComputation,i reset both the patch and minor parts of the version number to zero.,0,0,Collaborators,i reset both the patch and minor parts of the version number to zero
+3343,RTHighlightableWithCursor,b classnameshape color color black.,0,0,Collaborators,b classnameshape color color black
+415,BlLayout,"instead, a layout request is issued by the element whose property changed using the message method blelement #requestlayout .",0,0,Collaborators,instead a layout request is issued by the element whose property changed using the message method blelement requestlayout
+4067,WAInspector,"platforms should implement their own subclasses, specifying behaviour for all unimplemented methods.",0,0,Collaborators,platforms should implement their own subclasses specifying behaviour for all unimplemented methods
+388,BlKeyCombination,see blkeycombinationexamples for related examples.,0,0,Collaborators,see blkeycombinationexamples for related examples
+3064,RTCalendarExample,code,0,0,Collaborators,code
+4079,WALabelledFormDialog,given a data model walabelledformdialog displays a label and input field for each instance variable of interest.,0,0,Collaborators,given a data model walabelledformdialog displays a label and input field for each instance variable of interest
+3012,RTBezier3Line,v,0,0,Collaborators,v
+1613,SpartaCanvas,paint color blue,0,0,Collaborators,paint color blue
+958,BrTextEditorExamples,example brtexteditorexamples #newtext,0,0,Collaborators,example brtexteditorexamples newtext
+454,BlLayout,"space starts the measurement process from the root element after measurement it tell children to measure themselves, etc",0,0,Collaborators,space starts the measurement process from the root element after measurement it tell children to measure themselves etc
+1466,GtRlBaselineTagReleaseStrategy,the version number already exists in the repository.,0,0,Collaborators,the version number already exists in the repository
+2117,MalLatticePatterns,treillis mallattice on context .,0,0,Collaborators,treillis mallattice on context
+959,BrTextEditorExamples,"next, we build the editor",0,0,Collaborators,next we build the editor
+441,BlLayout,layouts should override method bllayout #measure with to implement the actual measuring.,0,0,Collaborators,layouts should override method bllayout measure with to implement the actual measuring
+459,BlLayout,changes the real extent to measured extent and the real position to the computed layout position,0,0,Collaborators,changes the real extent to measured extent and the real position to the computed layout position
+757,BlTextElementMeasurementStrategyExamples,precise measurement,0,0,Collaborators,precise measurement
+2098,MalKruskal,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph.,0,0,Collaborators,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph
+2517,PRBookTesterVisitor,checkandreportfilenamed starts the visit in a given file.,0,0,Collaborators,checkandreportfilenamed starts the visit in a given file
+966,BrTextEditorExamples,example brtexteditorexamples #element editortext show gtlivein,0,0,Collaborators,example brtexteditorexamples element editortext show gtlivein
+993,BrTextEditorSelectionUpdateCommand,i do the hard job of visually updating selection by requesting segment holders to partially update themselves,0,0,Collaborators,i do the hard job of visually updating selection by requesting segment holders to partially update themselves
+3067,RTCalendarExample,tab removefirstrow.,0,0,Collaborators,tab removefirstrow
+3533,RTPopupTest,view,0,0,Collaborators,view
+1784,TSpartaPaint,"generally, a paint is not meant to be an external object, however for additional flexibility i am implemented as a trait.",0,0,Collaborators,generally a paint is not meant to be an external object however for additional flexibility i am implemented as a trait
+2543,PRDocumentListAnnotation,i allow users to get abstracts of files located in a directory and specify a link to access these files.,0,0,Collaborators,i allow users to get abstracts of files located in a directory and specify a link to access these files
+4312,WATagBrush,attributes instance of wahtmlattributes,0,0,Collaborators,attributes instance of wahtmlattributes
+2296,TDependencyQueries,#querylocal asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver.,0,0,Collaborators,querylocal asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver
+117,BlClickEvent,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element.,0,0,Collaborators,the click event is fired when a pointing device button a mouse s primary button is pressed and released on a single element
+4045,WAIframeTag,the information to be inserted inline is designated by the src attribute of this element.,0,0,Collaborators,the information to be inserted inline is designated by the src attribute of this element
+1607,SpartaCanvas,path triangle,0,0,Collaborators,path triangle
+3975,WAExpiringCache,maximumrelativeage,0,0,Collaborators,maximumrelativeage
+550,BlMatrix2D,a31 a32 x y,0,0,Collaborators,a31 a32 x y
+1775,TSpartaPaint,reflect mirror the image,0,0,Collaborators,reflect mirror the image
+612,BlMouseProcessor,"for example, i generate events like click, dbl click, drag&drop, .",0,0,Collaborators,for example i generate events like click dbl click drag drop
+2108,MalLatticePatterns,data # # #cat # #fourlegs #hair # #dog # #smart #fourlegs #hair # #dolphin # #smart #marine # #gibbon # #hair #smart #thumbed # #man # #smart #thumbed # #whale # #smart #marine .,0,0,Collaborators,data cat fourlegs hair dog smart fourlegs hair dolphin smart marine gibbon hair smart thumbed man smart thumbed whale smart marine
+3003,RTBezier3Line,lineshape controlelement e3.,0,0,Collaborators,lineshape controlelement e3
+2288,TDependencyQueries,"the kind of association famixacces, famixreference, all.",0,0,Collaborators,the kind of association famixacces famixreference all
+4301,WAServerAdaptor,codec wacodec,0,0,Collaborators,codec wacodec
+2116,MalLatticePatterns,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,0,0,Collaborators,context fca with model allmodelclasses using yourself using cl cl methods collect m m name
+1616,SpartaCanvas,draw.,0,0,Collaborators,draw
+423,BlLayout,"however, often elements need to reach and perform actions, when for example their position or extent changes.",0,0,Collaborators,however often elements need to reach and perform actions when for example their position or extent changes
+1408,GtPhlowForwarderView,i forward a view definition to another object.,0,0,Collaborators,i forward a view definition to another object
+841,BrExamplesShowroom,we can compose label and icon looks to create a toggle button with both label and the icon.,0,0,Collaborators,we can compose label and icon looks to create a toggle button with both label and the icon
+3979,WAExpiringCache,maximumabsoluteage,0,0,Collaborators,maximumabsoluteage
+2490,PRAbstractCommand,basedirectory filesystem workingdirectory,0,0,Collaborators,basedirectory filesystem workingdirectory
+644,BlRectangleShapeWithArrowExplanation,"even more compex would be to implement the support for positioning the arrow on different edges eg left, bottom or an ability to have multiple arrows on separate edges.",0,0,Collaborators,even more compex would be to implement the support for positioning the arrow on different edges eg left bottom or an ability to have multiple arrows on separate edges
+2229,MooseEntity,moosedescription returns the corresponding fm3metadescription instance,0,0,Collaborators,moosedescription returns the corresponding fm3metadescription instance
+2065,MalHgNode,children,0,0,Collaborators,children
+3340,RTHighlightableWithCursor,attributeselector #yourself.,0,0,Collaborators,attributeselector yourself
+2300,TDependencyQueries,examples,0,0,Collaborators,examples
+751,BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwithlabelmeasurement nocode previewshow #gtlivefor previewheight 100,0,0,Collaborators,example bltextelementmeasurementstrategyexamples textelementwithlabelmeasurement nocode previewshow gtlivefor previewheight 100
+1979,FMMSEPrinter,printer stream contents,0,0,Collaborators,printer stream contents
+1611,SpartaCanvas,language smalltalk,0,0,Collaborators,language smalltalk
+3646,RTSVGAbstractLine,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths .,0,0,Collaborators,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths
+4245,WAPlugin,plugins are an easy way to add or remove additional tools without changing the codebase.,0,0,Collaborators,plugins are an easy way to add or remove additional tools without changing the codebase
+825,BrExamplesShowroom,in the example below we show all existing button styles,0,0,Collaborators,in the example below we show all existing button styles
+3630,RTSunburstBuilderExamples,b strategy rtsunburstextentstrategy new extent 800@800 .,0,0,Collaborators,b strategy rtsunburstextentstrategy new extent 800@800
+405,BlLayout,each type of layout can further define its own specific constraints by creating a subclass of class bllayoutconstraints .,0,0,Collaborators,each type of layout can further define its own specific constraints by creating a subclass of class bllayoutconstraints
+3578,RTRotatedLabel,v addall es.,0,0,Collaborators,v addall es
+2059,MalHgNode,incoming orderedcollection,0,0,Collaborators,incoming orderedcollection
+1720,SpartaLine,from get my start point,0,0,Collaborators,from get my start point
+4087,WALabelledFormDialog,a standard text input field is used for each row of data.,0,0,Collaborators,a standard text input field is used for each row of data

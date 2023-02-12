@@ -1,0 +1,360 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3845,WACancelButtonTag,creates a cancel submit button.,1,0,Keyimplementationpoints,creates a cancel submit button
+1121,GtExampleProcessor,#canprocess verifies if the processor can execute on the given example.,1,0,Keyimplementationpoints,canprocess verifies if the processor can execute on the given example
+1889,FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,1,1,Keyimplementationpoints,they can also mirror the same information in terms of famixpackage instances
+3946,WADynamicVariable,i exist for legacy purposes.,1,0,Keyimplementationpoints,i exist for legacy purposes
+2077,MalHgNode,parent,1,0,Keyimplementationpoints,parent
+3,BlArrowheadExamples,i contain examples of different types of blarrowheadelement,1,0,Keyimplementationpoints,i contain examples of different types of blarrowheadelement
+1363,GtGraphTreemapSquarifyLandscapeRectangle,i represent a rectangle.,1,0,Keyimplementationpoints,i represent a rectangle
+550,BlMatrix2D,a31 a32 x y,1,1,Keyimplementationpoints,a31 a32 x y
+2380,PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,1,0,Keyimplementationpoints,abstract literal parser that parses some kind of literal type to be specified by subclasses
+1297,GtGraphTreemapSquarify,the area will be subdivided as follows,1,0,Keyimplementationpoints,the area will be subdivided as follows
+19,BlArrowheadTriangle,my size depends on the width of a curve and hence can not be manually specified.,1,0,Keyimplementationpoints,my size depends on the width of a curve and hence can not be manually specified
+3208,RTFilterInView,b shape box size #numberofmethods.,1,0,Keyimplementationpoints,b shape box size numberofmethods
+4119,WALabelledFormDialog,html select,1,0,Keyimplementationpoints,html select
+3189,RTExploraBuilderTest,a roexplorabuildertest is xxxxxxxxx.,1,0,Keyimplementationpoints,a roexplorabuildertest is xxxxxxxxx
+2057,MalHgNode,children orderedcollection,1,0,Keyimplementationpoints,children orderedcollection
+2830,PMLineSearch,for once off use,1,0,Keyimplementationpoints,for once off use
+3135,RTCircleGeometry,i represent a circle described by its center and a radius .,1,0,Keyimplementationpoints,i represent a circle described by its center and a radius
+1290,GtGraphTreemapSquarify,i split an area into rectangles that are close to squares aspect ratio 1 as much as possible.,1,0,Keyimplementationpoints,i split an area into rectangles that are close to squares aspect ratio 1 as much as possible
+1311,GtGraphTreemapSquarify,"the initial subdivision we choose here is vertical, because the rectangle is higher than wider.",1,0,Keyimplementationpoints,the initial subdivision we choose here is vertical because the rectangle is higher than wider
+2113,MalLatticePatterns,fca model treillis context,1,0,Keyimplementationpoints,fca model treillis context
+2593,PRInputFileAnnotation,i can have in parameter,1,0,Keyimplementationpoints,i can have in parameter
+1366,GtGraphTreemapSquarifyLandscapeRectangle,i am used by class gtgraphtreemapsquarifystep .,1,0,Keyimplementationpoints,i am used by class gtgraphtreemapsquarifystep
+2574,PRHeadingLevelOffsetTransformer,convert from the level of a pillar heading to the level of heading in the exported document.,1,0,Keyimplementationpoints,convert from the level of a pillar heading to the level of heading in the exported document
+2649,PRPhase,transformerinputfileon acollection,1,0,Keyimplementationpoints,transformerinputfileon acollection
+185,BlElementEffect,i can influence the bounds of my owner used to clip my owner .,1,0,Keyimplementationpoints,i can influence the bounds of my owner used to clip my owner
+3611,RTSmoothLayoutTranslator,nbcycles object,1,0,Keyimplementationpoints,nbcycles object
+3901,WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,1,0,Keyimplementationpoints,compared to warequestcookie i represent the information that is sent to the user agent
+1323,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true .,1,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodes nocode codeexpanded false previewexpanded true
+1321,GtGraphTreemapSquarify,these steps are repeated until all rectangles have been processed.,1,0,Keyimplementationpoints,these steps are repeated until all rectangles have been processed
+1196,GtGraphCircleEnclosure,let s add the third circle to our enclosure to see the result,1,0,Keyimplementationpoints,let s add the third circle to our enclosure to see the result
+362,BlInfiniteDataSourceItemRangeMoved,infiniteelement datasource,1,0,Keyimplementationpoints,infiniteelement datasource
+202,BlElementRemovedEvent,parent removechild child,1,0,Keyimplementationpoints,parent removechild child
+3080,RTCalendarExample,comp add rtlabel new text d d year height 20 .,1,0,Keyimplementationpoints,comp add rtlabel new text d d year height 20
+2192,MooseEntity,mooseentity is an abstract entity.,1,0,Keyimplementationpoints,mooseentity is an abstract entity
+2762,PMExponentialGenerator,the next method uses the formula,1,1,Keyimplementationpoints,the next method uses the formula
+1046,GtDiagrammerPicker,label astring .,1,0,Keyimplementationpoints,label astring
+1193,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithtwocircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Keyimplementationpoints,example gtgraphcircleenclosureexamples enclosurewithtwocircles previewshow gtpreviewfor previewexpanded previewheight 300
+3615,RTSmoothLayoutTranslator,xxxxx,1,0,Keyimplementationpoints,xxxxx
+306,BlGridLayoutUsageExamples,i show how different resizing strategies work and how to build advanced layouts with the help of a grid,1,0,Keyimplementationpoints,i show how different resizing strategies work and how to build advanced layouts with the help of a grid
+3093,RTCalendarExample,colors at index.,1,0,Keyimplementationpoints,colors at index
+1218,GtGraphEdgesIterator,i am an abstract iterator over edges connected to a graph element,1,0,Keyimplementationpoints,i am an abstract iterator over edges connected to a graph element
+3742,RTWeightedCircleLayout,rtweightedcirclelayout is a circle layout that gives more space to big elements and fewer space to small elements.,1,0,Keyimplementationpoints,rtweightedcirclelayout is a circle layout that gives more space to big elements and fewer space to small elements
+3081,RTCalendarExample,comp add rtbox new color color transparent .,1,0,Keyimplementationpoints,comp add rtbox new color color transparent
+3588,RTScale,a class to have nice scales checks subclasses,1,0,Keyimplementationpoints,a class to have nice scales checks subclasses
+149,BlDevScripterCheckFiredEventsStep,example,1,0,Keyimplementationpoints,example
+242,BlGeometryElement,i am a root class of geometry elements elements driven by geometry anchors.,1,0,Keyimplementationpoints,i am a root class of geometry elements elements driven by geometry anchors
+3629,RTSunburstBuilderExamples,b rtsunburstbuilder new.,1,0,Keyimplementationpoints,b rtsunburstbuilder new
+2211,MooseEntity,"for example, yourentity could have",1,0,Keyimplementationpoints,for example yourentity could have
+2651,PRPhase,acollection,1,0,Keyimplementationpoints,acollection
+2645,PRPhase,this configuration is a the configuration of the export.,1,0,Keyimplementationpoints,this configuration is a the configuration of the export
+1047,GtDiagrammerPicker,picker constraintsdo c,1,0,Keyimplementationpoints,picker constraintsdo c
+2640,PRParseWarning,i am a warning for the parse of a pillar file.,1,0,Keyimplementationpoints,i am a warning for the parse of a pillar file
+1305,GtGraphTreemapSquarify,"next we add a second rectangle, above the first.",1,0,Keyimplementationpoints,next we add a second rectangle above the first
+560,BlMatrixDecomposition,rotation angle,1,1,Keyimplementationpoints,rotation angle
+1411,GtPhlowForwarderView,i create the object only if someone clicks on my tab view .,1,0,Keyimplementationpoints,i create the object only if someone clicks on my tab view
+2065,MalHgNode,children,1,0,Keyimplementationpoints,children
+3635,RTSunburstBuilderExamples,^ b view,1,0,Keyimplementationpoints,b view
+4123,WALabelledFormDialog,"contact class used above has instance variables name, phonenumber with standard getter and setter methods",1,0,Keyimplementationpoints,contact class used above has instance variables name phonenumber with standard getter and setter methods
+3857,WAComboResponse,render the search page,1,0,Keyimplementationpoints,render the search page
+95,BlChildrenSubset,api,1,0,Keyimplementationpoints,api
+310,BlHandlerRegistry,example,1,0,Keyimplementationpoints,example
+3095,RTCalendarExample,b dateinteraction popup.,1,0,Keyimplementationpoints,b dateinteraction popup
+2824,PMLineSearch,"the method is initialized by g 0 , g 1 and g 0 .",1,0,Keyimplementationpoints,the method is initialized by g 0 g 1 and g 0
+3203,RTFilterInView,b view @ rtfilterinview.,1,0,Keyimplementationpoints,b view @ rtfilterinview
+567,BlMatrixDecomposition,quaternion,1,1,Keyimplementationpoints,quaternion
+3078,RTCalendarExample,b monthshape shape b monthshapepath 150 .,1,0,Keyimplementationpoints,b monthshape shape b monthshapepath 150
+3136,RTCircleGeometry,"i am not a roassal shape, for that use rtellipse.",1,0,Keyimplementationpoints,i am not a roassal shape for that use rtellipse
+3212,RTFilterInView,b layout tree.,1,0,Keyimplementationpoints,b layout tree
+2745,PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",1,0,Keyimplementationpoints,here are tests that would be in math tests dhb numerical if it could construct random matrices
+275,BlGridLayout,implementation points,1,1,Keyimplementationpoints,implementation points
+2655,PRPhase,start each,1,0,Keyimplementationpoints,start each
+3683,RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,1,0,Keyimplementationpoints,a rttimelinesettest is a test class for testing the behavior of rttimelineset
+2063,MalHgNode,attributes,1,0,Keyimplementationpoints,attributes
+2054,MalHgNode,one can also store arbitrary informaition as attributes to a node.,1,0,Keyimplementationpoints,one can also store arbitrary informaition as attributes to a node
+102,BlChildrenSubset,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration.,1,1,Keyimplementationpoints,this decision was taken to allow iterators to perform work when the iterator is created and ensure a faster iteration
+2150,MalRowMatrix,"hapax is distributed under bsd license, see package comment.",1,0,Keyimplementationpoints,hapax is distributed under bsd license see package comment
+3688,RTTreeMapExampleTODELETE,examples of rttreemap,1,0,Keyimplementationpoints,examples of rttreemap
+3608,RTSmoothLayoutTranslator,a rosmoothlayouttranslator is xxxxxxxxx.,1,0,Keyimplementationpoints,a rosmoothlayouttranslator is xxxxxxxxx
+157,BlDevScripterClickStep,example,1,0,Keyimplementationpoints,example
+3200,RTFilterInView,b nodes collection withallsubclasses .,1,0,Keyimplementationpoints,b nodes collection withallsubclasses
+1145,GtGradAbstractTreeLayout,"at that point, the tree is traversed again, but this time from top root to the bottom.",1,0,Keyimplementationpoints,at that point the tree is traversed again but this time from top root to the bottom
+1189,GtGraphCircleEnclosure,"note, that the added circle has a margin set which is taken into account by enclosure",1,0,Keyimplementationpoints,note that the added circle has a margin set which is taken into account by enclosure
+4109,WALabelledFormDialog,buttons,1,0,Keyimplementationpoints,buttons
+1282,GtGraphTreemapSliceHorizontalLayout,example,1,0,Keyimplementationpoints,example
+2356,PPDebugParser,root,1,0,Keyimplementationpoints,root
+2363,PPInfo,a ppinfo represent the informations around a parsing result and also contain this result.,1,0,Keyimplementationpoints,a ppinfo represent the informations around a parsing result and also contain this result
+198,BlElementRemovedEvent,child blelement new.,1,0,Keyimplementationpoints,child blelement new
+9,BlArrowheadSimpleArrow,users can also customise nose angle that tells how wide should the arrow lines be spread.,1,0,Keyimplementationpoints,users can also customise nose angle that tells how wide should the arrow lines be spread
+1075,GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",1,1,Keyimplementationpoints,to determine if a message send represents a dependency to a method containing an example i use heuristic defined by subclasses of gtexampledependencyresolver
+3673,RTTextWord,text string text,1,0,Keyimplementationpoints,text string text
+344,BlHostPulseLoop,the opened spaces listen the pulse to be synchronized and to update their state when it is needed.,1,1,Keyimplementationpoints,the opened spaces listen the pulse to be synchronized and to update their state when it is needed
+200,BlElementRemovedEvent,parent blelement new.,1,0,Keyimplementationpoints,parent blelement new
+2213,MooseEntity,mseclass #yourentity super #mooseentity,1,0,Keyimplementationpoints,mseclass yourentity super mooseentity
+4108,WALabelledFormDialog,^ # name phonenumber,1,0,Keyimplementationpoints,name phonenumber
+4057,WAImageButtonTag,"the submitted data includes name^x x value and name^y y value where name is the value of the name attribute, and x value and y value are the x and y coordinate values, respectively.",1,1,Keyimplementationpoints,the submitted data includes name x x value and name y y value where name is the value of the name attribute and x value and y value are the x and y coordinate values respectively
+3953,WAErrorHandler,handleerror,1,0,Keyimplementationpoints,handleerror
+3222,RTFilterInView,filter rtfilterinview new.,1,0,Keyimplementationpoints,filter rtfilterinview new
+3087,RTCalendarExample,b dateshape if d dictionary includeskey d color,1,0,Keyimplementationpoints,b dateshape if d dictionary includeskey d color
+3201,RTFilterInView,b layout grid.,1,0,Keyimplementationpoints,b layout grid
+197,BlElementRemovedEvent,child parent,1,0,Keyimplementationpoints,child parent
+2643,PRPhase,"a phase takes an input, transforms it and returns an output.",1,0,Keyimplementationpoints,a phase takes an input transforms it and returns an output
+3220,RTFilterInView,b layout grid.,1,0,Keyimplementationpoints,b layout grid
+4054,WAImageButtonTag,"for accessibility reasons, authors should provide alternate text for the image via the alt attribute.",1,1,Keyimplementationpoints,for accessibility reasons authors should provide alternate text for the image via the alt attribute
+4098,WALabelledFormDialog,contact contact new.,1,0,Keyimplementationpoints,contact contact new
+127,BlCompulsoryCombinationTest,this class contains tests,1,0,Keyimplementationpoints,this class contains tests
+2207,MooseEntity,meta descriptions,1,0,Keyimplementationpoints,meta descriptions
+1315,GtGraphTreemapSquarify,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded,1,0,Keyimplementationpoints,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep label worstvaluerounded to example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded
+3631,RTSunburstBuilderExamples,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,1,0,Keyimplementationpoints,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray
+2178,ManifestMooseQuery,i store metadata for this package.,1,0,Keyimplementationpoints,i store metadata for this package
+3214,RTFilterInView,b,1,0,Keyimplementationpoints,b
+2353,PPDebugParser,used by adding enabledebug before parsing.,1,0,Keyimplementationpoints,used by adding enabledebug before parsing
+1307,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep previewexpanded true nocode,1,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep previewexpanded true nocode
+3886,WACookie,"i represent a cookie, a piece of information that is stored on the client and read and writable by the server.",1,0,Keyimplementationpoints,i represent a cookie a piece of information that is stored on the client and read and writable by the server
+2578,PRHTMLCanvas,an html canvas that facilitates writing html to a stream.,1,0,Keyimplementationpoints,an html canvas that facilitates writing html to a stream
+3627,RTSunburstBuilderExamples,code,1,0,Keyimplementationpoints,code
+1048,GtDiagrammerPicker,c horizontal exact 400.,1,0,Keyimplementationpoints,c horizontal exact 400
+3859,WAComboResponse,acanvas flush.,1,0,Keyimplementationpoints,acanvas flush
+1050,GtDiagrammerPicker,picker when brtoggleactivatedevent do anevent self inform anevent model .,1,0,Keyimplementationpoints,picker when brtoggleactivatedevent do anevent self inform anevent model
+3175,RTExperimentalExample,b rtobjectbrowser new.,1,0,Keyimplementationpoints,b rtobjectbrowser new
+2145,MalNodeWithPreviousAndNext,a basic node able to host the model and to represent edges with no additional class.,1,0,Keyimplementationpoints,a basic node able to host the model and to represent edges with no additional class
+2836,PMLineSearch,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1.,1,0,Keyimplementationpoints,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1
+2197,MooseEntity,this is achieved through mooseentitystate.,1,0,Keyimplementationpoints,this is achieved through mooseentitystate
+39,BlChildrenCollection,i am used by a class blelement to store its children.,1,0,Keyimplementationpoints,i am used by a class blelement to store its children
+1073,GtExampleDependenciesResolver,i know how to extract the dependencies of a given example.,1,0,Keyimplementationpoints,i know how to extract the dependencies of a given example
+1402,GtLibraryInstallerLogAnnouncement,i am sent by installer when it tries to log some messages.,1,0,Keyimplementationpoints,i am sent by installer when it tries to log some messages
+2061,MalHgNode,outgoing orderedcollection,1,0,Keyimplementationpoints,outgoing orderedcollection
+85,BlChildrenSubset,i am an abstract class.,1,0,Keyimplementationpoints,i am an abstract class
+2591,PRInputFileAnnotation,with me we can add a transformation to remplace an annotation to a pillar file by his tree.,1,0,Keyimplementationpoints,with me we can add a transformation to remplace an annotation to a pillar file by his tree
+1369,GtGraphTreemapSquarifyLandscapeRectangle,example gtgraphtreemaplayoutexamples #squarifywithfournodesfirstarea nocode,1,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithfournodesfirstarea nocode
+1136,GtGradAbstractTreeLayout,"when doing that, it makes sure that the parents are centered above their children.",1,1,Keyimplementationpoints,when doing that it makes sure that the parents are centered above their children
+3085,RTCalendarExample,b monthlayout month.,1,0,Keyimplementationpoints,b monthlayout month
+3195,RTFilterInView,this interaction adds a set of menu in the view to filter in and out some elements,1,0,Keyimplementationpoints,this interaction adds a set of menu in the view to filter in and out some elements
+4199,WAOptionGroupTag,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options.,1,0,Keyimplementationpoints,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options
+1044,GtDiagrammerPicker,look brmaterialtogglelabelledlook,1,0,Keyimplementationpoints,look brmaterialtogglelabelledlook
+3779,TROSMShape,10 in roassal space 1km in osm.,1,1,Keyimplementationpoints,10 in roassal space 1km in osm
+3210,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Keyimplementationpoints,b normalizer normalizecolor numberofmethods
+3855,WAComboResponse,"for example, a search results page might use something like",1,0,Keyimplementationpoints,for example a search results page might use something like
+226,BlFocusExamples,1 inspect run example,1,0,Keyimplementationpoints,1 inspect run example
+2123,MalLatticePatterns,treillis mallattice on malformalcontext classhierarchycollection .,1,0,Keyimplementationpoints,treillis mallattice on malformalcontext classhierarchycollection
+3178,RTExperimentalExample,b object v.,1,0,Keyimplementationpoints,b object v
+2052,MalHgNode,a malhgnode is a node inside a hierarchical graph.,1,0,Keyimplementationpoints,a malhgnode is a node inside a hierarchical graph
+1117,GtExampleProcessor,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",1,0,Keyimplementationpoints,for example evaluating an example is to be treated differently from a debugging scenario or from a scenario to recorver static dependencies
+1197,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewiththreecircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Keyimplementationpoints,example gtgraphcircleenclosureexamples enclosurewiththreecircles previewshow gtpreviewfor previewexpanded previewheight 300
+1410,GtPhlowForwarderView,"i am also useful in situtions, when the object is created only for the purpose of the view.",1,0,Keyimplementationpoints,i am also useful in situtions when the object is created only for the purpose of the view
+3676,RTTextWord,text,1,0,Keyimplementationpoints,text
+7,BlArrowheadSimpleArrow,both my size and arrow length depend on the curve width.,1,0,Keyimplementationpoints,both my size and arrow length depend on the curve width
+3206,RTFilterInView,b,1,0,Keyimplementationpoints,b
+1319,GtGraphTreemapSquarify,so we reject the previous step and start to fill the right top partition,1,0,Keyimplementationpoints,so we reject the previous step and start to fill the right top partition
+1086,GtExampleFactory,"in the second case, a new instance is created for running each example method.",1,1,Keyimplementationpoints,in the second case a new instance is created for running each example method
+3670,RTTextWord,a rttextword represents one word of an original text.,1,0,Keyimplementationpoints,a rttextword represents one word of an original text
+3173,RTExperimentalExample,gtexample,1,0,Keyimplementationpoints,gtexample
+1132,GtGradAbstractTreeLayout,moen s trees are oriented horizontally.,1,1,Keyimplementationpoints,moen s trees are oriented horizontally
+2068,MalHgNode,higraph,1,0,Keyimplementationpoints,higraph
+2433,PPSea,xxxxx,1,0,Keyimplementationpoints,xxxxx
+2173,ManifestFamixPharoSmalltalkEntities,i store metadata for this package.,1,0,Keyimplementationpoints,i store metadata for this package
+3889,WACookie,i model only a part of the full cookie specification.,1,1,Keyimplementationpoints,i model only a part of the full cookie specification
+1029,GtDiagrammerExamples,diagrammer,1,0,Keyimplementationpoints,diagrammer
+1147,GtGradAbstractTreeLayout,"calculation of positions factors in the mentioned offsets, as well as the positions of the node s parent and the layout s node and level distance properties.",1,0,Keyimplementationpoints,calculation of positions factors in the mentioned offsets as well as the positions of the node s parent and the layout s node and level distance properties
+4055,WAImageButtonTag,"when a pointing device is used to click on the image, the form is submitted and the click coordinates passed to the server.",1,1,Keyimplementationpoints,when a pointing device is used to click on the image the form is submitted and the click coordinates passed to the server
+214,BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,1,0,Keyimplementationpoints,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure
+32,BlChicken,how to run,1,0,Keyimplementationpoints,how to run
+236,BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,1,0,Keyimplementationpoints,i am an event listener that listens anchor moved event send by anchor
+1281,GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,1,0,Keyimplementationpoints,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents
+1415,GtPhlowForwarderView,example,1,0,Keyimplementationpoints,example
+363,BlInfiniteDataSourceItemRangeMoved,addeventhandleron blinfinitedatasourceitemrangemoved,1,0,Keyimplementationpoints,addeventhandleron blinfinitedatasourceitemrangemoved
+4046,WAIframeTag,"the contents of the iframe element, on the other hand, should only be displayed by user agents that do not support frames or are configured not to display frames.",1,1,Keyimplementationpoints,the contents of the iframe element on the other hand should only be displayed by user agents that do not support frames or are configured not to display frames
+1110,GtExampleInstanceSubject,i am the default subject of an example.,1,0,Keyimplementationpoints,i am the default subject of an example
+90,BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",1,0,Keyimplementationpoints,by having an explicit object for each operation the composition of operations can be inspected
+1295,GtGraphTreemapSquarify,this is an adapted extract from the paper squarified treemaps mentioned above.,1,0,Keyimplementationpoints,this is an adapted extract from the paper squarified treemaps mentioned above
+2597,PRInputFileAnnotation,inputfile value directory myfile^pillar,1,0,Keyimplementationpoints,inputfile value directory myfile pillar
+1149,GtGradAbstractTreeLayout,"this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level, as well as the differences in sizes of their parents compared to the largest nodes on the parent level.",1,0,Keyimplementationpoints,this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level as well as the differences in sizes of their parents compared to the largest nodes on the parent level
+3702,RTVerticalMultipleData,d barchartwithbartitle #first rotation 30.,1,0,Keyimplementationpoints,d barchartwithbartitle first rotation 30
+2860,PMMatrix,i represent a mathematical matrix.,1,0,Keyimplementationpoints,i represent a mathematical matrix
+3073,RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,1,0,Keyimplementationpoints,253 174 97 254 224 139 255 255 191 217 239 139
+18,BlArrowheadTriangle,i am a triangular arrow head.,1,0,Keyimplementationpoints,i am a triangular arrow head
+558,BlMatrixDecomposition,translation,1,1,Keyimplementationpoints,translation
+2199,MooseEntity,this extension will only be visible when the package is loaded.,1,0,Keyimplementationpoints,this extension will only be visible when the package is loaded
+2653,PRPhase,prfileinclusion new,1,0,Keyimplementationpoints,prfileinclusion new
+156,BlDevScripterClickStep,"i fire a class blmousedownevent , class blmouseupevent , and class blclickevent .",1,0,Keyimplementationpoints,i fire a class blmousedownevent class blmouseupevent and class blclickevent
+385,BlKeyCombination,i define an event matching api that allows blshortcuthandler to find the most appropriate shortcut for currently pressed keys.,1,0,Keyimplementationpoints,i define an event matching api that allows blshortcuthandler to find the most appropriate shortcut for currently pressed keys
+3920,WADatalistTag,datalist together with the a new list attribute for input is used to make comboboxes,1,0,Keyimplementationpoints,datalist together with the a new list attribute for input is used to make comboboxes
+2862,PMMatrix,pmmatrix rows # 1 2 3 4 5 6 .,1,0,Keyimplementationpoints,pmmatrix rows 1 2 3 4 5 6
+1140,GtGradAbstractTreeLayout,"these shapes are initially formed for each leaf, so that the polyline goes around the node, but leaves the left side open.",1,1,Keyimplementationpoints,these shapes are initially formed for each leaf so that the polyline goes around the node but leaves the left side open
+2647,PRPhase,this method will return an output.,1,0,Keyimplementationpoints,this method will return an output
+2163,MalTerms,this class is part of hapax.,1,0,Keyimplementationpoints,this class is part of hapax
+384,BlKeyCombination,i represent an abstract key combination which is the most important part of blshortcut .,1,0,Keyimplementationpoints,i represent an abstract key combination which is the most important part of blshortcut
+1280,GtGraphTreemapSliceHorizontalLayout,i implement an horizontal slice algorithm.,1,0,Keyimplementationpoints,i implement an horizontal slice algorithm
+3202,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Keyimplementationpoints,b normalizer normalizecolor numberofmethods
+4120,WALabelledFormDialog,list # roger pete,1,0,Keyimplementationpoints,list roger pete
+565,BlMatrixDecomposition,skew,1,1,Keyimplementationpoints,skew
+2441,PPSea,xxxxx,1,0,Keyimplementationpoints,xxxxx
+4198,WAOptionGroupTag,the optgroup element allows authors to group choices logically.,1,0,Keyimplementationpoints,the optgroup element allows authors to group choices logically
+3925,WADatalistTag,option value opera,1,0,Keyimplementationpoints,option value opera
+1380,GtLibraryInstaller,installer,1,0,Keyimplementationpoints,installer
+3704,RTVerticalMultipleData,b,1,0,Keyimplementationpoints,b
+3633,RTSunburstBuilderExamples,b view @ rtdraggableview.,1,0,Keyimplementationpoints,b view @ rtdraggableview
+1115,GtExampleProcessor,i am an abstract class for manipulating examples.,1,0,Keyimplementationpoints,i am an abstract class for manipulating examples
+3854,WAComboResponse,clients can flush the response as often as they want at appropriate points in their response generation everything buffered up to that point will be sent.,1,0,Keyimplementationpoints,clients can flush the response as often as they want at appropriate points in their response generation everything buffered up to that point will be sent
+4107,WALabelledFormDialog,rows,1,0,Keyimplementationpoints,rows
+1045,GtDiagrammerPicker,margin blinsets all 3,1,0,Keyimplementationpoints,margin blinsets all 3
+220,BlExperimentalExamples,i contain experimental examples that only work in manually prepared laboratory environments.,1,0,Keyimplementationpoints,i contain experimental examples that only work in manually prepared laboratory environments
+168,BlDragDelegate,drag gesture fails if there are no drag items,1,0,Keyimplementationpoints,drag gesture fails if there are no drag items
+228,BlFocusExamples,3 navigate with keyboard arrows arrow up down left right,1,0,Keyimplementationpoints,3 navigate with keyboard arrows arrow up down left right
+3922,WADatalistTag,datalist id browsers,1,0,Keyimplementationpoints,datalist id browsers
+1317,GtGraphTreemapSquarify,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep label #worstvaluerounded,1,0,Keyimplementationpoints,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded to example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep label worstvaluerounded
+2070,MalHgNode,incoming,1,0,Keyimplementationpoints,incoming
+1038,GtDiagrammerPicker,world .,1,0,Keyimplementationpoints,world
+3089,RTCalendarExample,value dictionary at d 005.,1,0,Keyimplementationpoints,value dictionary at d 005
+3657,RTSVGPopup,this is disabled by default.,1,0,Keyimplementationpoints,this is disabled by default
+3936,WADelayedAnswerDecoration,wadelayedanswerdecoration adds a delay in displaying a component.,1,0,Keyimplementationpoints,wadelayedanswerdecoration adds a delay in displaying a component
+1143,GtGradAbstractTreeLayout,"when merging contours, minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated",1,0,Keyimplementationpoints,when merging contours minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated
+1292,GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,1,0,Keyimplementationpoints,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends
+3666,RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,1,0,Keyimplementationpoints,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal
+2187,MooseCustomTask,the main api is then,1,0,Keyimplementationpoints,the main api is then
+3783,TROSMShape,remainderzoom 156543034 rzoom 2 ^ zoomlevel,1,1,Keyimplementationpoints,remainderzoom 156543034 rzoom 2 zoomlevel
+121,BlClickEvent,click,1,1,Keyimplementationpoints,click
+3787,TROSMShape,goal,1,1,Keyimplementationpoints,goal
+3218,RTFilterInView,b shape box size #numberofmethods.,1,0,Keyimplementationpoints,b shape box size numberofmethods
+3656,RTSVGPopup,the click refers to the posibility of activating the popup only when the element is clicked.,1,0,Keyimplementationpoints,the click refers to the posibility of activating the popup only when the element is clicked
+3198,RTFilterInView,b rtmondrian new.,1,0,Keyimplementationpoints,b rtmondrian new
+4272,WASelection,items can be any object.,1,1,Keyimplementationpoints,items can be any object
+1299,GtGraphTreemapSquarify,the first step of our algorithm is to split the initial rectangle.,1,0,Keyimplementationpoints,the first step of our algorithm is to split the initial rectangle
+1377,GtLibraryInstaller,i am the installer of shared libraries along side image or vm.,1,0,Keyimplementationpoints,i am the installer of shared libraries along side image or vm
+182,BlElementEffect,i am the abstract root class for effects.,1,0,Keyimplementationpoints,i am the abstract root class for effects
+3079,RTCalendarExample,b yearshape composite comp,1,0,Keyimplementationpoints,b yearshape composite comp
+2121,MalLatticePatterns,smalltalk collection class hierarchy,1,0,Keyimplementationpoints,smalltalk collection class hierarchy
+1040,GtDiagrammerPicker,am .,1,0,Keyimplementationpoints,am
+3084,RTCalendarExample,b datelayout gapsize 0.,1,0,Keyimplementationpoints,b datelayout gapsize 0
+2832,PMLineSearch,"where funblock is the implementation of g x , g0 g 0 , dg0 g 0 and g1 g 0 .",1,0,Keyimplementationpoints,where funblock is the implementation of g x g0 g 0 dg0 g 0 and g1 g 0
+46,BlChildrenCollection,"for example, an array for storing children optimises for accessing fast accesses at any position.",1,0,Keyimplementationpoints,for example an array for storing children optimises for accessing fast accesses at any position
+3091,RTCalendarExample,index 1 iftrue index 1 .,1,0,Keyimplementationpoints,index 1 iftrue index 1
+88,BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",1,0,Keyimplementationpoints,for example class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included
+2115,MalLatticePatterns,fca malformalcontext new.,1,0,Keyimplementationpoints,fca malformalcontext new
+2201,MooseEntity,"for example, if you have yourentity that subclasses mooseentity, you can extend it with",1,0,Keyimplementationpoints,for example if you have yourentity that subclasses mooseentity you can extend it with
+2622,PRObject,i am a superclass of most objects within pier.,1,0,Keyimplementationpoints,i am a superclass of most objects within pier
+3216,RTFilterInView,b,1,0,Keyimplementationpoints,b
+2834,PMLineSearch,storedmethod dhblinesearch new.,1,0,Keyimplementationpoints,storedmethod dhblinesearch new
+4121,WALabelledFormDialog,selected roger,1,0,Keyimplementationpoints,selected roger
+2624,PRObject,i am visitable.,1,0,Keyimplementationpoints,i am visitable
+3781,TROSMShape,1000 rzoom 156543034 meters pixel 2 ^ zoomlevel,1,1,Keyimplementationpoints,1000 rzoom 156543034 meters pixel 2 zoomlevel
+3082,RTCalendarExample,.,1,0,Keyimplementationpoints,nan
+2274,MooseVisualLocator,it is meant to be subclassed.,1,1,Keyimplementationpoints,it is meant to be subclassed
+4185,WAMemoryInput,this is a seaside internal class.,1,0,Keyimplementationpoints,this is a seaside internal class
+1141,GtGradAbstractTreeLayout,"during the first phase of the algorithm s execution bottom up traversal , these shapes are merged shapes of parents are merged with shapes of children.",1,1,Keyimplementationpoints,during the first phase of the algorithm s execution bottom up traversal these shapes are merged shapes of parents are merged with shapes of children
+2107,MalLatticePatterns,data fca context lattice,1,0,Keyimplementationpoints,data fca context lattice
+360,BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,1,0,Keyimplementationpoints,blinfinitedatasource
+2443,PPSea,xxxxx,1,0,Keyimplementationpoints,xxxxx
+352,BlInfiniteDataSourceCommandType,for performance and memory reasons i provide a unique instance of me to be shared among my users,1,1,Keyimplementationpoints,for performance and memory reasons i provide a unique instance of me to be shared among my users
+2183,MooseAbstractImporter,i m the root for the new importer.,1,0,Keyimplementationpoints,i m the root for the new importer
+3785,TROSMShape,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi,1,1,Keyimplementationpoints,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi
+96,BlChildrenSubset,instances of me are created by calling the factory method method blchildrensubset class #on on a subclass with an instance of class blchildren as parameter.,1,0,Keyimplementationpoints,instances of me are created by calling the factory method method blchildrensubset class on on a subclass with an instance of class blchildren as parameter
+358,BlInfiniteDataSourceItemRangeMoved,"representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.",1,0,Keyimplementationpoints,representations of other existing items in the data set are still considered up to date and will not be rebound though their positions may be altered
+1071,GtDiagrammerStarStencil,i create a star element,1,0,Keyimplementationpoints,i create a star element
+171,BlElementBoundsExamples,i contain examples of element bounds api,1,0,Keyimplementationpoints,i contain examples of element bounds api
+1133,GtGradAbstractTreeLayout,"however, this implementation offers the posibility of choosing the orientation vertical or horizontal.",1,0,Keyimplementationpoints,however this implementation offers the posibility of choosing the orientation vertical or horizontal
+4122,WALabelledFormDialog,callback v contact name v,1,0,Keyimplementationpoints,callback v contact name v
+4206,WAPainterVisitor,an implementation of the visitor pattern for painter subclasses.,1,0,Keyimplementationpoints,an implementation of the visitor pattern for painter subclasses
+158,BlDevScripterClickStep,here you can see how to configure a fire and check a click event on a child element,1,0,Keyimplementationpoints,here you can see how to configure a fire and check a click event on a child element
+119,BlClickEvent,mouse down,1,1,Keyimplementationpoints,mouse down
+3695,RTVerticalMultipleData,b d,1,0,Keyimplementationpoints,b d
+3674,RTTextWord,interval,1,0,Keyimplementationpoints,interval
+10,BlArrowheadSimpleArrow,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead.,1,0,Keyimplementationpoints,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead
+3613,RTSmoothLayoutTranslator,xxxxx,1,0,Keyimplementationpoints,xxxxx
+2474,PPXPathFilter,a xpath node applies me to filter xml elements.,1,0,Keyimplementationpoints,a xpath node applies me to filter xml elements
+1185,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #emptyenclosure previewshow #gtpreviewfor previewheight 300,1,0,Keyimplementationpoints,example gtgraphcircleenclosureexamples emptyenclosure previewshow gtpreviewfor previewheight 300
+100,BlChildrenSubset,internally the result of method blchildrensubset #subsetfrom is stored into an instance variable.,1,1,Keyimplementationpoints,internally the result of method blchildrensubset subsetfrom is stored into an instance variable
+3691,RTVerticalMultipleData,rtverticalmultipledata represents a group of data points that are vertically located.,1,0,Keyimplementationpoints,rtverticalmultipledata represents a group of data points that are vertically located
+136,BlDecelerateInterpolator,"increasing factor above 10f makes exaggerates the ease out effect ie, it starts even faster and ends evens slower .",1,1,Keyimplementationpoints,increasing factor above 10f makes exaggerates the ease out effect ie it starts even faster and ends evens slower
+192,BlElementPositionChangeTest,i contain examples of position change logging functionality,1,0,Keyimplementationpoints,i contain examples of position change logging functionality
+2119,MalLatticePatterns,mallatticepatterns on treillis reportpatterns.,1,0,Keyimplementationpoints,mallatticepatterns on treillis reportpatterns
+2203,MooseEntity,^ self privatestate attributeat #yourextendingattribute,1,0,Keyimplementationpoints,self privatestate attributeat yourextendingattribute
+129,BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,1,0,Keyimplementationpoints,i am a special iterator used to iterate over concatenation rope
+3196,RTFilterInView,here is an example,1,0,Keyimplementationpoints,here is an example
+2763,PMExponentialGenerator,x beta ln 1 u,1,1,Keyimplementationpoints,x beta ln 1 u
+3098,RTCalendarExample,^ b view,1,0,Keyimplementationpoints,b view
+2195,MooseEntity,extension mechanism,1,0,Keyimplementationpoints,extension mechanism
+1090,GtExampleFactory,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword .,1,1,Keyimplementationpoints,to initialize various properties of an example i detect all pragmas from the example method for which a method exists in class of the example the method should have the same name as the pragma keyword
+2614,PRList,"i represent the abstraction over ordered, unordered html or latex list.",1,0,Keyimplementationpoints,i represent the abstraction over ordered unordered html or latex list
+4118,WALabelledFormDialog,show how to specily special input instead of using simple text field.,1,0,Keyimplementationpoints,show how to specily special input instead of using simple text field
+3697,RTVerticalMultipleData,d rtverticalmultipledata new.,1,0,Keyimplementationpoints,d rtverticalmultipledata new
+1082,GtExampleFactory,this is the class used to look for methods defining examples.,1,1,Keyimplementationpoints,this is the class used to look for methods defining examples
+1320,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesseventhstep previewexpanded true nocode,1,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodesseventhstep previewexpanded true nocode
+2109,MalLatticePatterns,fca malformalcontext new.,1,0,Keyimplementationpoints,fca malformalcontext new
+380,BlInfiniteSmoothScrollerAction,i hold information about a smooth scroll request by a smoothscroller.,1,0,Keyimplementationpoints,i hold information about a smooth scroll request by a smoothscroller
+2437,PPSea,xxxxx,1,0,Keyimplementationpoints,xxxxx
+3927,WADatalistTag,datalist,1,0,Keyimplementationpoints,datalist
+3083,RTCalendarExample,b dates year year 1990 to year year 2010 .,1,0,Keyimplementationpoints,b dates year year 1990 to year year 2010
+548,BlMatrix2D,a11 a12 sx shy,1,1,Keyimplementationpoints,a11 a12 sx shy
+4103,WALabelledFormDialog,ok,1,0,Keyimplementationpoints,ok
+2629,PRParagraph,i m close to a latex or html paragraph.,1,0,Keyimplementationpoints,i m close to a latex or html paragraph
+134,BlDecelerateInterpolator,i am configurable using factor a degree to which the animation should be eased.,1,0,Keyimplementationpoints,i am configurable using factor a degree to which the animation should be eased
+562,BlMatrixDecomposition,3d 4x4 matrices are decomposed as follows,1,1,Keyimplementationpoints,3d 4x4 matrices are decomposed as follows
+73,BlChildrenOrderedCollectionExamples,i define examples for the class class blchildrenorderedcollection .,1,0,Keyimplementationpoints,i define examples for the class class blchildrenorderedcollection
+3199,RTFilterInView,b shape box size #numberofmethods.,1,0,Keyimplementationpoints,b shape box size numberofmethods
+1130,GtGradAbstractTreeLayout,it is an extension of the well known reingold tilfold algorithm.,1,1,Keyimplementationpoints,it is an extension of the well known reingold tilfold algorithm
+41,BlChildrenCollection,i assume an index based way of working with children.,1,0,Keyimplementationpoints,i assume an index based way of working with children
+4104,WALabelledFormDialog,self answer contact,1,0,Keyimplementationpoints,self answer contact
+2111,MalLatticePatterns,mallatticepatterns on mallattice on context reportpatterns,1,0,Keyimplementationpoints,mallatticepatterns on mallattice on context reportpatterns
+2742,PMAccuracy,accuracy is a framework for testing the numerical accuracy of the results of methods.,1,0,Keyimplementationpoints,accuracy is a framework for testing the numerical accuracy of the results of methods
+2105,MalLatticePatterns,the class implements the identification of patterns in fca lattices.,1,0,Keyimplementationpoints,the class implements the identification of patterns in fca lattices
+2569,PRFootnote,noted astring,1,0,Keyimplementationpoints,noted astring
+1309,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep previewexpanded true nocode,1,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep previewexpanded true nocode
+78,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #remove,1,0,Keyimplementationpoints,example blchildrenorderedcollectionexamples remove
+2588,PRHTMLScriptLanguage,hypertext markup language,1,0,Keyimplementationpoints,hypertext markup language
+1313,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep previewexpanded true nocode,1,0,Keyimplementationpoints,example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep previewexpanded true nocode
+1817,TSpTextRun,"note that textrun is optimised for the case of simple ascii string all chars are 8 bit , simple multilanguage string all chars are 16 bit and complex scripts characters have various length of 8 32 bits .",1,1,Keyimplementationpoints,note that textrun is optimised for the case of simple ascii string all chars are 8 bit simple multilanguage string all chars are 16 bit and complex scripts characters have various length of 8 32 bits
+3856,WAComboResponse,rendercontenton acanvas,1,0,Keyimplementationpoints,rendercontenton acanvas
+3699,RTVerticalMultipleData,d addmetric #second.,1,0,Keyimplementationpoints,d addmetric second
+2074,MalHgNode,"the larger the number, the deeper down in the hierarchy the node is located.",1,0,Keyimplementationpoints,the larger the number the deeper down in the hierarchy the node is located
+1364,GtGraphTreemapSquarifyLandscapeRectangle,my height is smaller than my width.,1,0,Keyimplementationpoints,my height is smaller than my width
+1303,GtGraphTreemapSquarify,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep label #worstvaluerounded .,1,0,Keyimplementationpoints,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep label worstvaluerounded
+3086,RTCalendarExample,b yearlayout horizontalline.,1,0,Keyimplementationpoints,b yearlayout horizontalline
+1301,GtGraphTreemapSquarify,we next fill the left half.,1,0,Keyimplementationpoints,we next fill the left half
+2209,MooseEntity,this is achieved by means of pragmas,1,0,Keyimplementationpoints,this is achieved by means of pragmas
+2439,PPSea,xxxxx,1,0,Keyimplementationpoints,xxxxx
+2059,MalHgNode,incoming orderedcollection,1,0,Keyimplementationpoints,incoming orderedcollection
+11,BlArrowheadSimpleArrow,i support both background and border paint and can have hollow inner triangle.,1,0,Keyimplementationpoints,i support both background and border paint and can have hollow inner triangle
+4106,WALabelledFormDialog,self answer,1,0,Keyimplementationpoints,self answer
+2435,PPSea,xxxxx,1,0,Keyimplementationpoints,xxxxx
+3204,RTFilterInView,b,1,0,Keyimplementationpoints,b
+1088,GtExampleFactory,"if this is done, this provider will be used for all examples created by the factory.",1,1,Keyimplementationpoints,if this is done this provider will be used for all examples created by the factory
+2159,MalTerms,terms addstring string using camelcasescanner new.,1,0,Keyimplementationpoints,terms addstring string using camelcasescanner new
+51,BlChildrenCollection,class blchildrenarray stores children using an class array,1,0,Keyimplementationpoints,class blchildrenarray stores children using an class array
+4056,WAImageButtonTag,"the x value is measured in pixels from the left of the image, and the y value in pixels from the top of the image.",1,1,Keyimplementationpoints,the x value is measured in pixels from the left of the image and the y value in pixels from the top of the image
+36,BlChickenLeg,i am a single red chicken leg with two toes,1,0,Keyimplementationpoints,i am a single red chicken leg with two toes
+374,BlInfiniteExampleClassesDataSource,i am a data source of the collection of all classes in the image,1,0,Keyimplementationpoints,i am a data source of the collection of all classes in the image
+53,BlChildrenCollection,class blchildrenorderedcollection stores children using a class orderedcollection,1,0,Keyimplementationpoints,class blchildrenorderedcollection stores children using a class orderedcollection
+2634,PRParameter,i represent a key and value pair.,1,0,Keyimplementationpoints,i represent a key and value pair
+1134,GtGradAbstractTreeLayout,"the reingold tilfold algorithm, and thus moen s also, starts with a bottom up traversal of the tree.",1,1,Keyimplementationpoints,the reingold tilfold algorithm and thus moen s also starts with a bottom up traversal of the tree
+3168,RTEllipseTest,a rtellipsetest is a test class for testing the behavior of rtellipse,1,0,Keyimplementationpoints,a rtellipsetest is a test class for testing the behavior of rtellipse
+1187,GtGraphCircleEnclosure,a circle enclosure is represented by a cyan circle.,1,0,Keyimplementationpoints,a circle enclosure is represented by a cyan circle
+3197,RTFilterInView,b,1,0,Keyimplementationpoints,b
+3622,RTSunburstBuilder,"you can customize the angle of the arc, and play with the with radius and width of each arc.",1,0,Keyimplementationpoints,you can customize the angle of the arc and play with the with radius and width of each arc
+2764,PMExponentialGenerator,"to generate an exponential sample x from a uniform 0,1 sample u.",1,1,Keyimplementationpoints,to generate an exponential sample x from a uniform 0 1 sample u
+3141,RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,1,0,Keyimplementationpoints,i am a class helper to do the layout in rtcirculartreemapbuilder
+3224,RTFilterInView,b view @ filter.,1,0,Keyimplementationpoints,b view @ filter
+3075,RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,1,0,Keyimplementationpoints,collect ar color r ar first g ar second b ar third range 255
+2868,PMODESolver,an ode solver uses a stepper to solve a system.,1,0,Keyimplementationpoints,an ode solver uses a stepper to solve a system
+2215,MooseEntity,msecomment the yourentity smalltalk class has a correspondent yourentity meta entity in the fame world,1,0,Keyimplementationpoints,msecomment the yourentity smalltalk class has a correspondent yourentity meta entity in the fame world
+260,BlGridLayout,"alignmargins bounds of each element are extended outwards, according to their margins, before the edges of the resulting rectangle are aligned.",1,0,Keyimplementationpoints,alignmargins bounds of each element are extended outwards according to their margins before the edges of the resulting rectangle are aligned
+336,BlHeadlessHost,i am a fallback host that is chosen if there are no other available and supported hosts.,1,0,Keyimplementationpoints,i am a fallback host that is chosen if there are no other available and supported hosts
+3890,WACookie,browser support,1,1,Keyimplementationpoints,browser support
+1084,GtExampleFactory,"if the example method is defined on the class side, the provider is the class object.",1,1,Keyimplementationpoints,if the example method is defined on the class side the provider is the class object
+2748,PMAM3Stepper,an s step adams moulton method can reach order s 1.,1,0,Keyimplementationpoints,an s step adams moulton method can reach order s 1
+2117,MalLatticePatterns,treillis mallattice on context .,1,0,Keyimplementationpoints,treillis mallattice on context
+4180,WAListAttribute,walistattribute is an attribute that is restricted to a list of values.,1,0,Keyimplementationpoints,walistattribute is an attribute that is restricted to a list of values
+1199,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithfourcircles previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Keyimplementationpoints,example gtgraphcircleenclosureexamples enclosurewithfourcircles previewshow gtpreviewfor previewexpanded previewheight 300
+3651,RTSVGBoxedTextPopup,"a rtsvgboxedtextpopup is a text popup, contained in a square box.",1,0,Keyimplementationpoints,a rtsvgboxedtextpopup is a text popup contained in a square box
+2607,PRLaTeXEnvironment,to emit,1,0,Keyimplementationpoints,to emit
+341,BlHostPulseLoop,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum.,1,1,Keyimplementationpoints,a pulse is fired every 16ms if possible to obtain 60 frames per second fps maximum
+3147,RTCPQualitative,check it out by executing,1,0,Keyimplementationpoints,check it out by executing
+167,BlDragDelegate,drag delegate provides drag items when a visual element lifts.,1,0,Keyimplementationpoints,drag delegate provides drag items when a visual element lifts
+2595,PRInputFileAnnotation,examples,1,0,Keyimplementationpoints,examples
+2099,MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",1,0,Keyimplementationpoints,this means it finds a subset of the edges that forms a tree that includes every vertex where the total weight of all the edges in the tree is minimized
+3661,RTSVGVisitor2Test,i am a simple test class for rtsvgvisitor2,1,0,Keyimplementationpoints,i am a simple test class for rtsvgvisitor2
+1138,GtGradAbstractTreeLayout,"while reignold tilfold s algorithm produces a compact tree layout, moen s strives to make a tighter one.",1,1,Keyimplementationpoints,while reignold tilfold s algorithm produces a compact tree layout moen s strives to make a tighter one
+4117,WALabelledFormDialog,rendernameon html,1,0,Keyimplementationpoints,rendernameon html
+4100,WALabelledFormDialog,self addmessage please enter the followning information .,1,0,Keyimplementationpoints,self addmessage please enter the followning information
+1274,GtGraphTreemapLayoutConstraints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout.,1,0,Keyimplementationpoints,i am a class bllayoutconstraints for class gtgraphtreemapsquarifiedlayout layout

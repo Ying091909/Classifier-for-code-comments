@@ -1,0 +1,358 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+148,BlDevScripterCheckFiredEventsStep,i check whether particular class blevent events were fired on a class blelement target.,1,0,Example,i check whether particular class blevent events were fired on a class blelement target
+2413,PPSea,b,1,1,Example,b
+2064,MalHgNode,dictionary to attach arbitrary information to a node,1,0,Example,dictionary to attach arbitrary information to a node
+3085,RTCalendarExample,b monthlayout month.,1,1,Example,b monthlayout month
+657,BlRectangleShapeWithArrowExplanation,since we want to inject a line right in the middle of the edge we pass 05 as a line location,1,1,Example,since we want to inject a line right in the middle of the edge we pass 05 as a line location
+1851,FamixJavaEntity,file argouml 034^mse asfilereference readstream.,1,1,Example,file argouml 034 mse asfilereference readstream
+1364,GtGraphTreemapSquarifyLandscapeRectangle,my height is smaller than my width.,1,0,Example,my height is smaller than my width
+3214,RTFilterInView,b,1,1,Example,b
+1629,SpartaCanvas,type blue,1,1,Example,type blue
+38,BlChildrenCollection,i am an abstract collection of bloc elements that can be mutated.,1,0,Example,i am an abstract collection of bloc elements that can be mutated
+1592,SpartaCanvas,lineargradient canvas paint lineargradient,1,1,Example,lineargradient canvas paint lineargradient
+3199,RTFilterInView,b shape box size #numberofmethods.,1,1,Example,b shape box size numberofmethods
+1617,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 04 stroke path^png label strokepath,1,1,Example,https github com syrel sparta raw master images spartacanvas 04 stroke path png label strokepath
+651,BlRectangleShapeWithArrowExplanation,first of all we should ask the rectangle shape to give us its top edge method blrectangleshape #topedge .,1,1,Example,first of all we should ask the rectangle shape to give us its top edge method blrectangleshape topedge
+3400,RTLabeled,consider,1,0,Example,consider
+630,BlPolygon,180@150.,1,1,Example,180@150
+653,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtranslatedtopedge previewshow #gtlivefor previewexpanded true previewheight 250,1,1,Example,example blrectangleshapewitharrowexplanation rectanglewithtranslatedtopedge previewshow gtlivefor previewexpanded true previewheight 250
+3949,WAEncoder,i encode everything that is written to myself using #nextput and #nextputall onto the wrapped stream.,1,0,Example,i encode everything that is written to myself using nextput and nextputall onto the wrapped stream
+1844,FamixGenerator,g famixgenerator new.,1,1,Example,g famixgenerator new
+3210,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,1,Example,b normalizer normalizecolor numberofmethods
+1896,FamixTParameterType,parametertype represents the symbolic type used in parameterizable classes.,1,0,Example,parametertype represents the symbolic type used in parameterizable classes
+4216,WAPath,the method wapath currentsegment returns object associated with the current page .,1,0,Example,the method wapath currentsegment returns object associated with the current page
+3396,RTHorizontalData,rtdata renders bars and dots in vertical way,1,0,Example,rtdata renders bars and dots in vertical way
+1602,SpartaCanvas,apply.,1,1,Example,apply
+305,BlGridLayoutUsageExamples,i contain examples of a grid layout,1,0,Example,i contain examples of a grid layout
+3596,RTScrollBarBuilder,"the bar can have a specificity like #scalable, so it give an idea of the size of the view.",1,0,Example,the bar can have a specificity like scalable so it give an idea of the size of the view
+3626,RTSunburstBuilderExamples,rtsunburstbuilderexamples new installtitle basic15,1,1,Example,rtsunburstbuilderexamples new installtitle basic15
+3666,RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,1,0,Example,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal
+4108,WALabelledFormDialog,^ # name phonenumber,1,1,Example,name phonenumber
+1221,GtGraphForceBasedLayout,a roforcebasedlayout is inspired from the code of d3.,1,0,Example,a roforcebasedlayout is inspired from the code of d3
+1118,GtExampleProcessor,i maintain a context that can be accessed from within the examples being processed during the execution of the processor.,1,0,Example,i maintain a context that can be accessed from within the examples being processed during the execution of the processor
+1406,GtLibraryInstallerMorph,top most container of the whole installer,1,0,Example,top most container of the whole installer
+1855,FamixJavaEntity,famix.,1,1,Example,famix
+1609,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 03 fill path^png label fillpath,1,1,Example,https github com syrel sparta raw master images spartacanvas 03 fill path png label fillpath
+2591,PRInputFileAnnotation,with me we can add a transformation to remplace an annotation to a pillar file by his tree.,1,0,Example,with me we can add a transformation to remplace an annotation to a pillar file by his tree
+1085,GtExampleFactory,"if the method is defined on the instance side, the provider consists in a new instance of that class.",1,0,Example,if the method is defined on the instance side the provider consists in a new instance of that class
+3420,RTLabeled,xxxxx,1,0,Example,xxxxx
+3173,RTExperimentalExample,gtexample,1,1,Example,gtexample
+3141,RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,1,0,Example,i am a class helper to do the layout in rtcirculartreemapbuilder
+1908,FamixTTrait,famixtrait models a trait as it can be found in pharo or php.,1,0,Example,famixtrait models a trait as it can be found in pharo or php
+2834,PMLineSearch,storedmethod dhblinesearch new.,1,1,Example,storedmethod dhblinesearch new
+1363,GtGraphTreemapSquarifyLandscapeRectangle,i represent a rectangle.,1,0,Example,i represent a rectangle
+3968,WAExpiringCache,maximumabsoluteage integer,1,0,Example,maximumabsoluteage integer
+1050,GtDiagrammerPicker,picker when brtoggleactivatedevent do anevent self inform anevent model .,1,1,Example,picker when brtoggleactivatedevent do anevent self inform anevent model
+3865,WAComboResponse,"after a response has been flushed once, header modifications are no longer possible and will raise a waillegalstateexception.",1,0,Example,after a response has been flushed once header modifications are no longer possible and will raise a waillegalstateexception
+3886,WACookie,"i represent a cookie, a piece of information that is stored on the client and read and writable by the server.",1,0,Example,i represent a cookie a piece of information that is stored on the client and read and writable by the server
+1600,SpartaCanvas,push,1,1,Example,push
+1631,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 05 blur^png label blur,1,1,Example,https github com syrel sparta raw master images spartacanvas 05 blur png label blur
+643,BlRectangleShapeWithArrowExplanation,"the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry, for example the size of the arrow or its horizontal position.",1,1,Example,the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry for example the size of the arrow or its horizontal position
+3220,RTFilterInView,b layout grid.,1,1,Example,b layout grid
+48,BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",1,0,Example,a rope uses a balanced binary tree to support fast adding removing and accessing with the disadvantage of taking more memory
+24,BlArrowheadTriangle,it is possible to specify different paints for border and background,1,0,Example,it is possible to specify different paints for border and background
+183,BlElementEffect,i define the default drawing strategy before & after .,1,0,Example,i define the default drawing strategy before after
+22,BlArrowheadTriangle,for hollow arrowhead let background be transparent.,1,0,Example,for hollow arrowhead let background be transparent
+1083,GtExampleFactory,"to create an example, a method defining an example is executed having a provider as a receiver.",1,0,Example,to create an example a method defining an example is executed having a provider as a receiver
+168,BlDragDelegate,drag gesture fails if there are no drag items,1,0,Example,drag gesture fails if there are no drag items
+3646,RTSVGAbstractLine,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths .,1,0,Example,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths
+4104,WALabelledFormDialog,self answer contact,1,1,Example,self answer contact
+1132,GtGradAbstractTreeLayout,moen s trees are oriented horizontally.,1,0,Example,moen s trees are oriented horizontally
+1149,GtGradAbstractTreeLayout,"this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level, as well as the differences in sizes of their parents compared to the largest nodes on the parent level.",1,0,Example,this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level as well as the differences in sizes of their parents compared to the largest nodes on the parent level
+3393,RTHistogramSet,frequency on y and a collection of values per bars on x.,1,0,Example,frequency on y and a collection of values per bars on x
+1039,GtDiagrammerPicker,i .,1,1,Example,i
+194,BlElementRemovedEvent,is sent by an element after it is removed from the parent.,1,0,Example,is sent by an element after it is removed from the parent
+2724,PRShowClassTransformer,i am a transformer for the showclass annotation.,1,0,Example,i am a transformer for the showclass annotation
+2655,PRPhase,start each,1,1,Example,start each
+2308,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source,1,1,Example,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod as source
+358,BlInfiniteDataSourceItemRangeMoved,"representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.",1,0,Example,representations of other existing items in the data set are still considered up to date and will not be rebound though their positions may be altered
+99,BlChildrenSubset,implementation details,1,0,Example,implementation details
+2411,PPSea,x^^^^^a..,1,1,Example,x a
+3612,RTSmoothLayoutTranslator,move,1,0,Example,move
+1138,GtGradAbstractTreeLayout,"while reignold tilfold s algorithm produces a compact tree layout, moen s strives to make a tighter one.",1,0,Example,while reignold tilfold s algorithm produces a compact tree layout moen s strives to make a tighter one
+2705,PRScreenshotAnnotation,screenshot package kernel class integer method caption the plus method width 50 label aa,1,1,Example,screenshot package kernel class integer method caption the plus method width 50 label aa
+3594,RTScrollBarBuilder,"the default configuration is #isbasic and #isstatic,",1,0,Example,the default configuration is isbasic and isstatic
+127,BlCompulsoryCombinationTest,this class contains tests,1,0,Example,this class contains tests
+4180,WAListAttribute,walistattribute is an attribute that is restricted to a list of values.,1,0,Example,walistattribute is an attribute that is restricted to a list of values
+3208,RTFilterInView,b shape box size #numberofmethods.,1,1,Example,b shape box size numberofmethods
+3204,RTFilterInView,b,1,1,Example,b
+645,BlRectangleShapeWithArrowExplanation,this is where a class blvectorshape comes in handy.,1,1,Example,this is where a class blvectorshape comes in handy
+3621,RTSunburstBuilder,"i am a class to create visualizations about rings, center is the root of the tree and arcs are the sub trees.",1,0,Example,i am a class to create visualizations about rings center is the root of the tree and arcs are the sub trees
+1141,GtGradAbstractTreeLayout,"during the first phase of the algorithm s execution bottom up traversal , these shapes are merged shapes of parents are merged with shapes of children.",1,0,Example,during the first phase of the algorithm s execution bottom up traversal these shapes are merged shapes of parents are merged with shapes of children
+2823,PMLineSearch,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1.,1,0,Example,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1
+3175,RTExperimentalExample,b rtobjectbrowser new.,1,1,Example,b rtobjectbrowser new
+45,BlChildrenCollection,i allow elements to optimize working with children for different scenarious.,1,0,Example,i allow elements to optimize working with children for different scenarious
+2305,TDependencyQueries,afamixclass querylocal #in with famixinheritance.,1,1,Example,afamixclass querylocal in with famixinheritance
+350,BlInfiniteDataSourceCommandType,i am a type of data source update command.,1,0,Example,i am a type of data source update command
+1110,GtExampleInstanceSubject,i am the default subject of an example.,1,0,Example,i am the default subject of an example
+1580,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 01 empty^png label emptycanvas,1,1,Example,https github com syrel sparta raw master images spartacanvas 01 empty png label emptycanvas
+1145,GtGradAbstractTreeLayout,"at that point, the tree is traversed again, but this time from top root to the bottom.",1,0,Example,at that point the tree is traversed again but this time from top root to the bottom
+2826,PMLineSearch,"in this case, this method finds such an x that this function is minimized in the sense",1,0,Example,in this case this method finds such an x that this function is minimized in the sense
+3610,RTSmoothLayoutTranslator,move object,1,0,Example,move object
+3598,RTScrollBarBuilder,width to set a static size of width.,1,0,Example,width to set a static size of width
+1838,FAMIXAnnotationTypeGroup,famixannotationtypegroup is a moosegroup containing only famix enities of type famixannotationtype.,1,0,Example,famixannotationtypegroup is a moosegroup containing only famix enities of type famixannotationtype
+647,BlRectangleShapeWithArrowExplanation,we will start with creation of the rectangle shape class blrectangleshape,1,1,Example,we will start with creation of the rectangle shape class blrectangleshape
+4198,WAOptionGroupTag,the optgroup element allows authors to group choices logically.,1,0,Example,the optgroup element allows authors to group choices logically
+4211,WAPath,"wapath maintains a stack of associations, one for each location or page in the path.",1,0,Example,wapath maintains a stack of associations one for each location or page in the path
+3212,RTFilterInView,b layout tree.,1,1,Example,b layout tree
+3201,RTFilterInView,b layout grid.,1,1,Example,b layout grid
+2443,PPSea,xxxxx,1,0,Example,xxxxx
+90,BlChildrenSubset,"by having an explicit object for each operation, the composition of operations can be inspected.",1,1,Example,by having an explicit object for each operation the composition of operations can be inspected
+1292,GtGraphTreemapSquarify,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends.,1,0,Example,i use class gtgraphtreemapsquarifystep to split area into sub areas and measure class gtgraphtreemapnode positions and extends
+2306,TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target,1,1,Example,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target
+2058,MalHgNode,higraph malhierarchicalgraph,1,0,Example,higraph malhierarchicalgraph
+1366,GtGraphTreemapSquarifyLandscapeRectangle,i am used by class gtgraphtreemapsquarifystep .,1,0,Example,i am used by class gtgraphtreemapsquarifystep
+360,BlInfiniteDataSourceItemRangeMoved,blinfinitedatasource,1,0,Example,blinfinitedatasource
+40,BlChildrenCollection,i provide a data structure independent api for adding and removing children.,1,0,Example,i provide a data structure independent api for adding and removing children
+1603,SpartaCanvas,fill previously created path fith linear gradient,1,1,Example,fill previously created path fith linear gradient
+2433,PPSea,xxxxx,1,0,Example,xxxxx
+1877,FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,1,0,Example,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace
+3695,RTVerticalMultipleData,b d,1,1,Example,b d
+3952,WAErrorHandler,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception,1,0,Example,waerrorhandler catches errors and warnings and provides two methods for handling each type of exception
+3077,RTCalendarExample,b dateshape rectangle size 15 color color white bordercolor color lightgray.,1,1,Example,b dateshape rectangle size 15 color color white bordercolor color lightgray
+2145,MalNodeWithPreviousAndNext,a basic node able to host the model and to represent edges with no additional class.,1,0,Example,a basic node able to host the model and to represent edges with no additional class
+8,BlArrowheadSimpleArrow,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,1,0,Example,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle
+352,BlInfiniteDataSourceCommandType,for performance and memory reasons i provide a unique instance of me to be shared among my users,1,0,Example,for performance and memory reasons i provide a unique instance of me to be shared among my users
+2069,MalHgNode,the malhierarchicalgraph this node belongs to.,1,0,Example,the malhierarchicalgraph this node belongs to
+89,BlChildrenSubset,the example below shows a scenario of combining multiple ways to iterate over children.,1,1,Example,the example below shows a scenario of combining multiple ways to iterate over children
+1143,GtGradAbstractTreeLayout,"when merging contours, minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated",1,0,Example,when merging contours minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated
+1130,GtGradAbstractTreeLayout,it is an extension of the well known reingold tilfold algorithm.,1,0,Example,it is an extension of the well known reingold tilfold algorithm
+3222,RTFilterInView,filter rtfilterinview new.,1,1,Example,filter rtfilterinview new
+3697,RTVerticalMultipleData,d rtverticalmultipledata new.,1,1,Example,d rtverticalmultipledata new
+9,BlArrowheadSimpleArrow,users can also customise nose angle that tells how wide should the arrow lines be spread.,1,1,Example,users can also customise nose angle that tells how wide should the arrow lines be spread
+1365,GtGraphTreemapSquarifyLandscapeRectangle,i layout class gtgraphtreemapnode along my shorter side height .,1,0,Example,i layout class gtgraphtreemapnode along my shorter side height
+378,BlInfiniteItemAnimationsFinished,"i can be used, for example, to delay an action in a data set until currently running animations are complete.",1,0,Example,i can be used for example to delay an action in a data set until currently running animations are complete
+1619,SpartaCanvas,language smalltalk,1,1,Example,language smalltalk
+1861,FamixJavaEntity,model silentlyaddall repo elements.,1,1,Example,model silentlyaddall repo elements
+1180,GtGraphCircleEnclosure,smallest enclosing circle of circles,1,0,Example,smallest enclosing circle of circles
+20,BlArrowheadTriangle,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead.,1,0,Example,it is possible to have a border around triangle by specifying a border width of a triangle arrowhead
+129,BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,1,0,Example,i am a special iterator used to iterate over concatenation rope
+3699,RTVerticalMultipleData,d addmetric #second.,1,1,Example,d addmetric second
+1590,SpartaCanvas,create a linear gradient,1,1,Example,create a linear gradient
+3891,WACookie,http www^mnot.net blog 2006 10 27 cookie fun,1,0,Example,http www mnot net blog 2006 10 27 cookie fun
+101,BlChildrenSubset,this result is then used when accessing or iterating over elements.,1,0,Example,this result is then used when accessing or iterating over elements
+1120,GtExampleProcessor,"can return a value, depending on the processor.",1,0,Example,can return a value depending on the processor
+3672,RTTextWord,interval interval,1,0,Example,interval interval
+3200,RTFilterInView,b nodes collection withallsubclasses .,1,1,Example,b nodes collection withallsubclasses
+3218,RTFilterInView,b shape box size #numberofmethods.,1,1,Example,b shape box size numberofmethods
+3198,RTFilterInView,b rtmondrian new.,1,1,Example,b rtmondrian new
+4185,WAMemoryInput,this is a seaside internal class.,1,0,Example,this is a seaside internal class
+1140,GtGradAbstractTreeLayout,"these shapes are initially formed for each leaf, so that the polyline goes around the node, but leaves the left side open.",1,0,Example,these shapes are initially formed for each leaf so that the polyline goes around the node but leaves the left side open
+2647,PRPhase,this method will return an output.,1,1,Example,this method will return an output
+628,BlPolygon,50@20.,1,1,Example,50@20
+2699,PRScreenshotAnnotation,caption the caption that will appear under my figure in the final book,1,0,Example,caption the caption that will appear under my figure in the final book
+4113,WALabelledFormDialog,asymbol #phonenumber iftrue ^ phone number .,1,1,Example,asymbol phonenumber iftrue phone number
+3899,WACookie,http msdn2^microsoft.com en us library ms533046^aspx,1,0,Example,http msdn2 microsoft com en us library ms533046 aspx
+3399,RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,1,0,Example,the label may be particularized using text in the default string representation is not sufficient
+4102,WALabelledFormDialog,^ contact,1,1,Example,contact
+3614,RTSmoothLayoutTranslator,nbcycles,1,0,Example,nbcycles
+1147,GtGradAbstractTreeLayout,"calculation of positions factors in the mentioned offsets, as well as the positions of the node s parent and the layout s node and level distance properties.",1,0,Example,calculation of positions factors in the mentioned offsets as well as the positions of the node s parent and the layout s node and level distance properties
+2386,PPNonEmptyParser,"i return failure, if the delegate parser did not consumed any input.",1,0,Example,i return failure if the delegate parser did not consumed any input
+1582,SpartaCanvas,language smalltalk,1,1,Example,language smalltalk
+3197,RTFilterInView,b,1,1,Example,b
+2105,MalLatticePatterns,the class implements the identification of patterns in fca lattices.,1,0,Example,the class implements the identification of patterns in fca lattices
+655,BlRectangleShapeWithArrowExplanation,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge .,1,1,Example,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge
+177,BlElementDynamicTransformation,it means that matrix computation is performed only when requested taking owner element into account.,1,0,Example,it means that matrix computation is performed only when requested taking owner element into account
+3145,RTCPQualitative,"qualitative schemes do not imply magnitude differences between legend classes, and hues are used to create the primary visual differences between classes.",1,0,Example,qualitative schemes do not imply magnitude differences between legend classes and hues are used to create the primary visual differences between classes
+2314,TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target,1,1,Example,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target
+641,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250,1,1,Example,example blrectangleshapewitharrowexplanation elementwithtoparrowgeometry nocode previewshow gtlivefor previewheight 250
+1588,SpartaCanvas,finish.,1,1,Example,finish
+3936,WADelayedAnswerDecoration,wadelayedanswerdecoration adds a delay in displaying a component.,1,0,Example,wadelayedanswerdecoration adds a delay in displaying a component
+2651,PRPhase,acollection,1,1,Example,acollection
+1611,SpartaCanvas,language smalltalk,1,1,Example,language smalltalk
+3901,WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,1,0,Example,compared to warequestcookie i represent the information that is sent to the user agent
+1128,GtGradAbstractTreeLayout,this an implementation of a moen s tree layout algorithm.,1,0,Example,this an implementation of a moen s tree layout algorithm
+1044,GtDiagrammerPicker,look brmaterialtogglelabelledlook,1,1,Example,look brmaterialtogglelabelledlook
+1408,GtPhlowForwarderView,i forward a view definition to another object.,1,0,Example,i forward a view definition to another object
+3075,RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,1,1,Example,collect ar color r ar first g ar second b ar third range 255
+1087,GtExampleFactory,optionally users can configure the factory with an explicit provider.,1,0,Example,optionally users can configure the factory with an explicit provider
+138,BlDecelerateInterpolator,"f x 1 1 x ^n, where n 2 factor",1,0,Example,f x 1 1 x n where n 2 factor
+2833,PMLineSearch,for repeated use,1,1,Example,for repeated use
+639,BlRectangleShapeWithArrowExplanation,rectangle geometry with arrow pointer,1,1,Example,rectangle geometry with arrow pointer
+236,BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,1,0,Example,i am an event listener that listens anchor moved event send by anchor
+3972,WAExpiringCache,when this limit is reached the overflow action is run.,1,0,Example,when this limit is reached the overflow action is run
+1622,SpartaCanvas,language smalltalk,1,1,Example,language smalltalk
+2593,PRInputFileAnnotation,i can have in parameter,1,0,Example,i can have in parameter
+47,BlChildrenCollection,a linked list optimize for fast adding and removing.,1,0,Example,a linked list optimize for fast adding and removing
+2649,PRPhase,transformerinputfileon acollection,1,1,Example,transformerinputfileon acollection
+2695,PRScreenshotAnnotation,my parameters are,1,0,Example,my parameters are
+3095,RTCalendarExample,b dateinteraction popup.,1,1,Example,b dateinteraction popup
+2570,PRFootnote,it create a footnote with note specified in parameter.,1,0,Example,it create a footnote with note specified in parameter
+1858,FamixJavaEntity,dictionary at famix^javasourcelanguage put famixjava entities^sourcelanguage .,1,1,Example,dictionary at famix javasourcelanguage put famixjava entities sourcelanguage
+4212,WAPath,the association key is the text that is displayed in the breadcrimb.,1,0,Example,the association key is the text that is displayed in the breadcrimb
+2075,MalHgNode,outgoing,1,0,Example,outgoing
+3409,RTLabeled,color object,1,0,Example,color object
+3091,RTCalendarExample,index 1 iftrue index 1 .,1,1,Example,index 1 iftrue index 1
+2828,PMLineSearch,for some small alpha defaults to 1e 4 .,1,0,Example,for some small alpha defaults to 1e 4
+3889,WACookie,i model only a part of the full cookie specification.,1,0,Example,i model only a part of the full cookie specification
+3897,WACookie,https tools^ietf.org html rfc6265,1,0,Example,https tools ietf org html rfc6265
+2696,PRScreenshotAnnotation,package the targetted package,1,0,Example,package the targetted package
+4112,WALabelledFormDialog,asymbol #name iftrue ^ your name .,1,1,Example,asymbol name iftrue your name
+10,BlArrowheadSimpleArrow,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead.,1,0,Example,the with of the outer arrows can be specified by changing border width of a simple arrow arrowhead
+2437,PPSea,xxxxx,1,0,Example,xxxxx
+3705,RTVerticalMultipleData,here another example,1,1,Example,here another example
+3414,RTLabeled,text object,1,0,Example,text object
+1859,FamixJavaEntity,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,1,1,Example,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary
+250,BlGridLayout,"grid layout supports fitcontent, matchparent and exact resizing mode of the owner.",1,0,Example,grid layout supports fitcontent matchparent and exact resizing mode of the owner
+2726,PRShowClassTransformer,i create a prcodeblock with the class definition within it.,1,0,Example,i create a prcodeblock with the class definition within it
+3415,RTLabeled,canvas,1,0,Example,canvas
+1628,SpartaCanvas,area canvas bounds,1,1,Example,area canvas bounds
+1119,GtExampleProcessor,#value execute the processor.,1,0,Example,value execute the processor
+626,BlPolygon,blpolygon vertices,1,1,Example,blpolygon vertices
+2415,PPSea,yet fails on,1,1,Example,yet fails on
+3628,RTSunburstBuilderExamples,b,1,1,Example,b
+1607,SpartaCanvas,path triangle,1,1,Example,path triangle
+1075,GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",1,0,Example,to determine if a message send represents a dependency to a method containing an example i use heuristic defined by subclasses of gtexampledependencyresolver
+85,BlChildrenSubset,i am an abstract class.,1,0,Example,i am an abstract class
+613,BlMouseProcessor,"from mouse down, mouse up, and mouse move events.",1,1,Example,from mouse down mouse up and mouse move events
+246,BlGridLayout,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently.,1,0,Example,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently
+3083,RTCalendarExample,b dates year year 1990 to year year 2010 .,1,1,Example,b dates year year 1990 to year year 2010
+3146,RTCPQualitative,qualitative schemes are best suited to representing nominal or categorical data.,1,0,Example,qualitative schemes are best suited to representing nominal or categorical data
+3179,RTExperimentalExample,^ b,1,1,Example,b
+3966,WAExpiringCache,maximumsize integer,1,0,Example,maximumsize integer
+1836,FameOppositeClassNotExistRule,check if the opposite class declared in a pragma #mseproperty type opposite is defined.,1,0,Example,check if the opposite class declared in a pragma mseproperty type opposite is defined
+2062,MalHgNode,parent malhgnode,1,0,Example,parent malhgnode
+1852,FamixJavaEntity,dictionary dictionary newfrom,1,1,Example,dictionary dictionary newfrom
+1281,GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,1,0,Example,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents
+1037,GtDiagrammerPicker,picker display hello .,1,1,Example,picker display hello
+1857,FamixJavaEntity,", cn .",1,1,Example,cn
+32,BlChicken,how to run,1,1,Example,how to run
+2825,PMLineSearch,"the step from x 0 to x 1 suppose to minimize g x i^eg 0 0 , but due to nonlinearity of g x might fail to do so.",1,0,Example,the step from x 0 to x 1 suppose to minimize g x i eg 0 0 but due to nonlinearity of g x might fail to do so
+1594,SpartaCanvas,end 150@200,1,1,Example,end 150@200
+1598,SpartaCanvas,language smalltalk,1,1,Example,language smalltalk
+3963,WAExpiringCache,i am the abstract base class for caches that remove entries.,1,0,Example,i am the abstract base class for caches that remove entries
+3632,RTSunburstBuilderExamples,b explore morph using #subclasses.,1,1,Example,b explore morph using subclasses
+3,BlArrowheadExamples,i contain examples of different types of blarrowheadelement,1,0,Example,i contain examples of different types of blarrowheadelement
+3893,WACookie,http cgi^netscape.com newsref std cookie spec^html,1,0,Example,http cgi netscape com newsref std cookie spec html
+2310,TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target,1,1,Example,will return a mooseincomingqueryresult containing the famixassociation having afamixclass or its children as target
+1074,GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,1,0,Example,the dependencies of a given example consists in message sends to other method constructing an example
+3224,RTFilterInView,b view @ filter.,1,1,Example,b view @ filter
+2578,PRHTMLCanvas,an html canvas that facilitates writing html to a stream.,1,0,Example,an html canvas that facilitates writing html to a stream
+2072,MalHgNode,level,1,0,Example,level
+2060,MalHgNode,level number,1,0,Example,level number
+189,BlElementPositionChangedEvent,is sent when element s position within its parent changes.,1,0,Example,is sent when element s position within its parent changes
+1887,FamixTPackage,"famixpackage represents a package in the source language, meaning that it provides a means to group entities without any baring on lexical scoping.",1,0,Example,famixpackage represents a package in the source language meaning that it provides a means to group entities without any baring on lexical scoping
+78,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #remove,1,1,Example,example blchildrenorderedcollectionexamples remove
+2902,PMStateTime,it holds both a state and a time.,1,0,Example,it holds both a state and a time
+214,BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,1,0,Example,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure
+259,BlGridLayout,cellspacing anumber to specify spacing between cells,1,0,Example,cellspacing anumber to specify spacing between cells
+1596,SpartaCanvas,1 color blue .,1,1,Example,1 color blue
+1048,GtDiagrammerPicker,c horizontal exact 400.,1,1,Example,c horizontal exact 400
+2067,MalHgNode,empty collection if the node is a leaf in the hierarchy.,1,0,Example,empty collection if the node is a leaf in the hierarchy
+2056,MalHgNode,attributes dictionary,1,0,Example,attributes dictionary
+3196,RTFilterInView,here is an example,1,1,Example,here is an example
+3147,RTCPQualitative,check it out by executing,1,1,Example,check it out by executing
+2702,PRScreenshotAnnotation,label prfigure label as would be used in a more classic figure inclusion with caption .,1,0,Example,label prfigure label as would be used in a more classic figure inclusion with caption
+1578,SpartaCanvas,language smalltalk,1,1,Example,language smalltalk
+3413,RTLabeled,position object,1,0,Example,position object
+2827,PMLineSearch,g x g 0 alpha g 0,1,0,Example,g x g 0 alpha g 0
+4111,WALabelledFormDialog,labelforselector asymbol,1,1,Example,labelforselector asymbol
+3392,RTHistogramSet,the histogram gives you a distribution frequency over the points given.,1,0,Example,the histogram gives you a distribution frequency over the points given
+4098,WALabelledFormDialog,contact contact new.,1,1,Example,contact contact new
+3093,RTCalendarExample,colors at index.,1,1,Example,colors at index
+77,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #add,1,1,Example,example blchildrenorderedcollectionexamples add
+73,BlChildrenOrderedCollectionExamples,i define examples for the class class blchildrenorderedcollection .,1,0,Example,i define examples for the class class blchildrenorderedcollection
+3970,WAExpiringCache,maximumsize,1,0,Example,maximumsize
+3202,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,1,Example,b normalizer normalizecolor numberofmethods
+1134,GtGradAbstractTreeLayout,"the reingold tilfold algorithm, and thus moen s also, starts with a bottom up traversal of the tree.",1,0,Example,the reingold tilfold algorithm and thus moen s also starts with a bottom up traversal of the tree
+2149,MalRowMatrix,this class is part of hapax.,1,0,Example,this class is part of hapax
+1115,GtExampleProcessor,i am an abstract class for manipulating examples.,1,0,Example,i am an abstract class for manipulating examples
+2606,PRLaTeXEnvironment,a latex environment,1,0,Example,a latex environment
+173,BlElementCenterLeftAnchor,my position is equal to the left center of a reference element,1,0,Example,my position is equal to the left center of a reference element
+3408,RTLabeled,canvas object,1,0,Example,canvas object
+2830,PMLineSearch,for once off use,1,1,Example,for once off use
+3216,RTFilterInView,b,1,1,Example,b
+3171,RTExperimentalExample,rtexperimentalexample new installtitle boxselectionforedges,1,1,Example,rtexperimentalexample new installtitle boxselectionforedges
+296,BlGridLayoutArc,"i represent an association of span interval, associated value and validity flag.",1,0,Example,i represent an association of span interval associated value and validity flag
+1142,GtGradAbstractTreeLayout,"in this implementation, we call the polylines contours.",1,0,Example,in this implementation we call the polylines contours
+2099,MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",1,0,Example,this means it finds a subset of the edges that forms a tree that includes every vertex where the total weight of all the edges in the tree is minimized
+3073,RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,1,1,Example,253 174 97 254 224 139 255 255 191 217 239 139
+1042,GtDiagrammerPicker,picker .,1,1,Example,picker
+2824,PMLineSearch,"the method is initialized by g 0 , g 1 and g 0 .",1,0,Example,the method is initialized by g 0 g 1 and g 0
+3206,RTFilterInView,b,1,1,Example,b
+1136,GtGradAbstractTreeLayout,"when doing that, it makes sure that the parents are centered above their children.",1,0,Example,when doing that it makes sure that the parents are centered above their children
+2829,PMLineSearch,usage,1,1,Example,usage
+2693,PRScreenshotAnnotation,i am an annotation used to show a screenshot of a given class and method.,1,0,Example,i am an annotation used to show a screenshot of a given class and method
+1081,GtExampleFactory,users should configure me with a #sourceclass .,1,0,Example,users should configure me with a sourceclass
+134,BlDecelerateInterpolator,i am configurable using factor a degree to which the animation should be eased.,1,0,Example,i am configurable using factor a degree to which the animation should be eased
+4123,WALabelledFormDialog,"contact class used above has instance variables name, phonenumber with standard getter and setter methods",1,0,Example,contact class used above has instance variables name phonenumber with standard getter and setter methods
+3701,RTVerticalMultipleData,d addmetric #fourth.,1,1,Example,d addmetric fourth
+2053,MalHgNode,"it knows the graph it belongs to, its children and its parent, on which level in the graph it resides and its outgoing ind incoming edges.",1,0,Example,it knows the graph it belongs to its children and its parent on which level in the graph it resides and its outgoing ind incoming edges
+3647,RTSVGAbstractLine,the decoration refers to the maker of the line.,1,0,Example,the decoration refers to the maker of the line
+1182,GtGraphCircleEnclosure,the enclosing circle is computed using the matou ek sharir welzl http www^inf.ethz^ch personal emo publfiles subexlinprog alg16 96^pdf algorithm.,1,0,Example,the enclosing circle is computed using the matou ek sharir welzl http www inf ethz ch personal emo publfiles subexlinprog alg16 96 pdf algorithm
+3847,WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,1,0,Example,a common superclass for all widgets that want to use wahtmlcanvas as their renderer
+3673,RTTextWord,text string text,1,0,Example,text string text
+4218,WAPath,"so when you render a page call wapath currentsegment to get the current object, and generate the page accordingly.",1,0,Example,so when you render a page call wapath currentsegment to get the current object and generate the page accordingly
+1586,SpartaCanvas,lineto 0@200,1,1,Example,lineto 0@200
+261,BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,1,0,Example,alignbounds alignment is made between the edges of each component s raw bounds
+3634,RTSunburstBuilderExamples,b build.,1,1,Example,b build
+4210,WAPath,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz .,1,0,Example,wapath represents a path navigation breadcrumbs for a web page and displays standard breadcrumbs xxx yyy zzz
+251,BlGridLayout,children are allowed to have fitcontent and exact resizing modes.,1,0,Example,children are allowed to have fitcontent and exact resizing modes
+136,BlDecelerateInterpolator,"increasing factor above 10f makes exaggerates the ease out effect ie, it starts even faster and ends evens slower .",1,0,Example,increasing factor above 10f makes exaggerates the ease out effect ie it starts even faster and ends evens slower
+4199,WAOptionGroupTag,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options.,1,0,Example,this is particularly helpful when the user must choose from a long list of options groups of related choices are easier to grasp and remember than a single long list of options
+2653,PRPhase,prfileinclusion new,1,1,Example,prfileinclusion new
+2588,PRHTMLScriptLanguage,hypertext markup language,1,0,Example,hypertext markup language
+649,BlRectangleShapeWithArrowExplanation,translating the top edge,1,1,Example,translating the top edge
+1601,SpartaCanvas,translateby 100@25,1,1,Example,translateby 100@25
+3081,RTCalendarExample,comp add rtbox new color color transparent .,1,1,Example,comp add rtbox new color color transparent
+2435,PPSea,xxxxx,1,0,Example,xxxxx
+2477,ChrysalPillarishConfiguration,i m a pillar specific class to manage code not generated for the configuration class.,1,0,Example,i m a pillar specific class to manage code not generated for the configuration class
+3089,RTCalendarExample,value dictionary at d 005.,1,1,Example,value dictionary at d 005
+2701,PRScreenshotAnnotation,file width 50,1,0,Example,file width 50
+2312,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source,1,1,Example,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source
+3853,WAComboResponse,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections .,1,0,Example,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections
+2163,MalTerms,this class is part of hapax.,1,0,Example,this class is part of hapax
+1576,SpartaCanvas,example,1,1,Example,example
+88,BlChildrenSubset,"for example, class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included.",1,1,Example,for example class blchildrenreversed indicates that the user wants to explicitly iterate over elements in reverse order class blchildrenaccountedbylayout indicates that only should children taken into account by layout should be included
+248,BlGridLayout,"each line is assigned to an index, meaning that a grid with n columns would have n 1 line.",1,0,Example,each line is assigned to an index meaning that a grid with n columns would have n 1 line
+220,BlExperimentalExamples,i contain experimental examples that only work in manually prepared laboratory environments.,1,0,Example,i contain experimental examples that only work in manually prepared laboratory environments
+253,BlGridLayout,"by default grid layout does not specify how many columns and rows exist, instead it tries to compute necessary amount of columns or rows depending on amount of children.",1,0,Example,by default grid layout does not specify how many columns and rows exist instead it tries to compute necessary amount of columns or rows depending on amount of children
+2831,PMLineSearch,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate.,1,1,Example,pmlinesearch function funblock valueatzero g0 derivativeatzero dg0 valueatone g1 evaluate
+4214,WAPath,to add to the path use the method wapath pushsegment anobject name lulu .,1,0,Example,to add to the path use the method wapath pushsegment anobject name lulu
+3097,RTCalendarExample,b view elements select e e model iskindof month pushfront.,1,1,Example,b view elements select e e model iskindof month pushfront
+3203,RTFilterInView,b view @ rtfilterinview.,1,1,Example,b view @ rtfilterinview
+3418,RTLabeled,xxxxx,1,0,Example,xxxxx
+2316,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod as source,1,1,Example,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod as source
+3895,WACookie,http tools^ietf.org html rfc2109,1,0,Example,http tools ietf org html rfc2109
+1605,SpartaCanvas,canvas fill,1,1,Example,canvas fill
+336,BlHeadlessHost,i am a fallback host that is chosen if there are no other available and supported hosts.,1,0,Example,i am a fallback host that is chosen if there are no other available and supported hosts
+255,BlGridLayout,grid layout supports spacing between cells which can be set sending cellspacing message.,1,0,Example,grid layout supports spacing between cells which can be set sending cellspacing message
+3419,RTLabeled,highlightable,1,0,Example,highlightable
+3592,RTScrollBarBuilder,"it can be static, movable, using #isstatic or #ismovable",1,0,Example,it can be static movable using isstatic or ismovable
+18,BlArrowheadTriangle,i am a triangular arrow head.,1,0,Example,i am a triangular arrow head
+1854,FamixJavaEntity,cn c name withoutprefix #famixjava.,1,1,Example,cn c name withoutprefix famixjava
+53,BlChildrenCollection,class blchildrenorderedcollection stores children using a class orderedcollection,1,0,Example,class blchildrenorderedcollection stores children using a class orderedcollection
+2155,MalTerms,terms subclasses bag with support for handling stopwords etc,1,0,Example,terms subclasses bag with support for handling stopwords etc
+2392,PPPluggableParser,a pluggable parser that passes the parser stream into a block.,1,0,Example,a pluggable parser that passes the parser stream into a block
+1856,FamixJavaEntity,", cn famixjava entities.",1,1,Example,cn famixjava entities
+1280,GtGraphTreemapSliceHorizontalLayout,i implement an horizontal slice algorithm.,1,0,Example,i implement an horizontal slice algorithm
+4100,WALabelledFormDialog,self addmessage please enter the followning information .,1,1,Example,self addmessage please enter the followning information
+3590,RTScrollBarBuilder,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view.,1,0,Example,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view
+3588,RTScale,a class to have nice scales checks subclasses,1,0,Example,a class to have nice scales checks subclasses
+2575,PRHeadingLevelOffsetTransformer,"for example, a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html.",1,1,Example,for example a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html
+267,BlGridLayout,internal representation and key implementation points.,1,0,Example,internal representation and key implementation points
+3087,RTCalendarExample,b dateshape if d dictionary includeskey d color,1,1,Example,b dateshape if d dictionary includeskey d color
+91,BlChildrenSubset,example blchildrensubsetexamples #childrenwithmultiplecombinedsubsets,1,1,Example,example blchildrensubsetexamples childrenwithmultiplecombinedsubsets
+1046,GtDiagrammerPicker,label astring .,1,1,Example,label astring
+3630,RTSunburstBuilderExamples,b strategy rtsunburstextentstrategy new extent 800@800 .,1,1,Example,b strategy rtsunburstextentstrategy new extent 800@800
+242,BlGeometryElement,i am a root class of geometry elements elements driven by geometry anchors.,1,0,Example,i am a root class of geometry elements elements driven by geometry anchors
+2441,PPSea,xxxxx,1,0,Example,xxxxx
+1403,GtLibraryInstallerLogAnnouncement,the ui may want to display them in a transcript,1,0,Example,the ui may want to display them in a transcript
+1853,FamixJavaEntity,famixjavaentity withallsubclasses collect c,1,1,Example,famixjavaentity withallsubclasses collect c
+1846,FamixGenerator,famixcompatibilitygenerator resetmetamodel.,1,1,Example,famixcompatibilitygenerator resetmetamodel
+4106,WALabelledFormDialog,self answer,1,1,Example,self answer
+1144,GtGradAbstractTreeLayout,"once the bottom up traversal is finished, calculation of offsets is finished as well.",1,0,Example,once the bottom up traversal is finished calculation of offsets is finished as well
+3851,WAComboResponse,"by default, wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle.",1,0,Example,by default wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle
+2901,PMStateTime,a statetime class is a generalization of point.,1,0,Example,a statetime class is a generalization of point
+2439,PPSea,xxxxx,1,0,Example,xxxxx
+1615,SpartaCanvas,width 6,1,1,Example,width 6
+3703,RTVerticalMultipleData,b add d.,1,1,Example,b add d
+2754,PMBernoulliGeneratorTest,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator,1,0,Example,a bernoulligeneratortest is a test class for testing the behavior of bernoulligenerator
+3860,WAComboResponse,flush before starting search to give immediate feedback,1,1,Example,flush before starting search to give immediate feedback
+3079,RTCalendarExample,b yearshape composite comp,1,1,Example,b yearshape composite comp
+1584,SpartaCanvas,moveto 100@0,1,1,Example,moveto 100@0
+3177,RTExperimentalExample,v addelement rtbox element.,1,1,Example,v addelement rtbox element
+3858,WAComboResponse,self rendersearchlabelon acanvas.,1,1,Example,self rendersearchlabelon acanvas
+1040,GtDiagrammerPicker,am .,1,1,Example,am
+1860,FamixJavaEntity,model moosemodel new.,1,1,Example,model moosemodel new
+6,BlArrowheadSimpleArrow,i am a simple arrow like arrowhead.,1,0,Example,i am a simple arrow like arrowhead

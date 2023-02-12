@@ -1,0 +1,359 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+1141,GtGradAbstractTreeLayout,"during the first phase of the algorithm s execution bottom up traversal , these shapes are merged shapes of parents are merged with shapes of children.",1,0,Keymessages,during the first phase of the algorithm s execution bottom up traversal these shapes are merged shapes of parents are merged with shapes of children
+1836,FameOppositeClassNotExistRule,check if the opposite class declared in a pragma #mseproperty type opposite is defined.,1,0,Keymessages,check if the opposite class declared in a pragma mseproperty type opposite is defined
+1134,GtGradAbstractTreeLayout,"the reingold tilfold algorithm, and thus moen s also, starts with a bottom up traversal of the tree.",1,0,Keymessages,the reingold tilfold algorithm and thus moen s also starts with a bottom up traversal of the tree
+1087,GtExampleFactory,optionally users can configure the factory with an explicit provider.,1,0,Keymessages,optionally users can configure the factory with an explicit provider
+1042,GtDiagrammerPicker,picker .,1,0,Keymessages,picker
+3078,RTCalendarExample,b monthshape shape b monthshapepath 150 .,1,0,Keymessages,b monthshape shape b monthshapepath 150
+1144,GtGradAbstractTreeLayout,"once the bottom up traversal is finished, calculation of offsets is finished as well.",1,0,Keymessages,once the bottom up traversal is finished calculation of offsets is finished as well
+2116,MalLatticePatterns,context fca with model allmodelclasses using #yourself using cl cl methods collect m m name .,1,0,Keymessages,context fca with model allmodelclasses using yourself using cl cl methods collect m m name
+1029,GtDiagrammerExamples,diagrammer,1,0,Keymessages,diagrammer
+2113,MalLatticePatterns,fca model treillis context,1,0,Keymessages,fca model treillis context
+3197,RTFilterInView,b,1,0,Keymessages,b
+3098,RTCalendarExample,^ b view,1,0,Keymessages,b view
+2830,PMLineSearch,for once off use,1,0,Keymessages,for once off use
+1147,GtGradAbstractTreeLayout,"calculation of positions factors in the mentioned offsets, as well as the positions of the node s parent and the layout s node and level distance properties.",1,0,Keymessages,calculation of positions factors in the mentioned offsets as well as the positions of the node s parent and the layout s node and level distance properties
+1109,GtExampleInstanceSubject,i indicate that the subject of an example is an object.,1,0,Keymessages,i indicate that the subject of an example is an object
+3900,WACookie,https bugzilla^mozilla.org show bug^cgi?id 178993,1,0,Keymessages,https bugzilla mozilla org show bug cgi id 178993
+3178,RTExperimentalExample,b object v.,1,0,Keymessages,b object v
+1323,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true .,1,0,Keymessages,example gtgraphtreemaplayoutexamples squarifywithsevennodes nocode codeexpanded false previewexpanded true
+1313,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep previewexpanded true nocode,1,0,Keymessages,example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep previewexpanded true nocode
+3892,WACookie,netscape spec,1,0,Keymessages,netscape spec
+99,BlChildrenSubset,implementation details,1,0,Keymessages,implementation details
+4120,WALabelledFormDialog,list # roger pete,1,0,Keymessages,list roger pete
+1290,GtGraphTreemapSquarify,i split an area into rectangles that are close to squares aspect ratio 1 as much as possible.,1,0,Keymessages,i split an area into rectangles that are close to squares aspect ratio 1 as much as possible
+3204,RTFilterInView,b,1,0,Keymessages,b
+3656,RTSVGPopup,the click refers to the posibility of activating the popup only when the element is clicked.,1,0,Keymessages,the click refers to the posibility of activating the popup only when the element is clicked
+2473,PPXPathFilter,i m a node filter.,1,0,Keymessages,i m a node filter
+1085,GtExampleFactory,"if the method is defined on the instance side, the provider consists in a new instance of that class.",1,0,Keymessages,if the method is defined on the instance side the provider consists in a new instance of that class
+3218,RTFilterInView,b shape box size #numberofmethods.,1,0,Keymessages,b shape box size numberofmethods
+202,BlElementRemovedEvent,parent removechild child,1,0,Keymessages,parent removechild child
+3141,RTCircleTree,i am a class helper to do the layout in rtcirculartreemapbuilder,1,0,Keymessages,i am a class helper to do the layout in rtcirculartreemapbuilder
+3887,WACookie,i am basically a key value pair of strings.,1,0,Keymessages,i am basically a key value pair of strings
+1190,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithonecircle previewshow #gtpreviewfor previewexpanded previewheight 300,1,0,Keymessages,example gtgraphcircleenclosureexamples enclosurewithonecircle previewshow gtpreviewfor previewexpanded previewheight 300
+228,BlFocusExamples,3 navigate with keyboard arrows arrow up down left right,1,0,Keymessages,3 navigate with keyboard arrows arrow up down left right
+1882,FamixTDereferencedInvocation,represents an invocation which function is contained in a pointer.,1,0,Keymessages,represents an invocation which function is contained in a pointer
+84,BlChildrenSubset,i capture a subset of children from a class blelement instance.,1,0,Keymessages,i capture a subset of children from a class blelement instance
+2838,PMLineSearch,optimization tip!!!,1,0,Keymessages,optimization tip
+4103,WALabelledFormDialog,ok,1,1,Keymessages,ok
+2309,TDependencyQueries,afamixclass queryall #in.,1,0,Keymessages,afamixclass queryall in
+394,BlKeyCombinationConverterCNF,i transform composite key combination formula into a cnf https en^wikipedia.org wiki conjunctive normal form,1,1,Keymessages,i transform composite key combination formula into a cnf https en wikipedia org wiki conjunctive normal form
+2392,PPPluggableParser,a pluggable parser that passes the parser stream into a block.,1,0,Keymessages,a pluggable parser that passes the parser stream into a block
+3969,WAExpiringCache,overflowaction symbol,1,1,Keymessages,overflowaction symbol
+173,BlElementCenterLeftAnchor,my position is equal to the left center of a reference element,1,0,Keymessages,my position is equal to the left center of a reference element
+1073,GtExampleDependenciesResolver,i know how to extract the dependencies of a given example.,1,0,Keymessages,i know how to extract the dependencies of a given example
+2606,PRLaTeXEnvironment,a latex environment,1,0,Keymessages,a latex environment
+1438,GtProtoTasker,method gtprototasker #addtask expanded true,1,1,Keymessages,method gtprototasker addtask expanded true
+3203,RTFilterInView,b view @ rtfilterinview.,1,0,Keymessages,b view @ rtfilterinview
+2826,PMLineSearch,"in this case, this method finds such an x that this function is minimized in the sense",1,0,Keymessages,in this case this method finds such an x that this function is minimized in the sense
+4117,WALabelledFormDialog,rendernameon html,1,0,Keymessages,rendernameon html
+2109,MalLatticePatterns,fca malformalcontext new.,1,0,Keymessages,fca malformalcontext new
+192,BlElementPositionChangeTest,i contain examples of position change logging functionality,1,0,Keymessages,i contain examples of position change logging functionality
+3200,RTFilterInView,b nodes collection withallsubclasses .,1,0,Keymessages,b nodes collection withallsubclasses
+1560,SpartaCanvas,path create a path builder,1,1,Keymessages,path create a path builder
+2120,MalLatticePatterns,mallattice new viewlattice treillis .,1,0,Keymessages,mallattice new viewlattice treillis
+1044,GtDiagrammerPicker,look brmaterialtogglelabelledlook,1,0,Keymessages,look brmaterialtogglelabelledlook
+4119,WALabelledFormDialog,html select,1,0,Keymessages,html select
+214,BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,1,0,Keymessages,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure
+3697,RTVerticalMultipleData,d rtverticalmultipledata new.,1,0,Keymessages,d rtverticalmultipledata new
+1181,GtGraphCircleEnclosure,i compute the smallest circle that encloses the specified array of circles.,1,0,Keymessages,i compute the smallest circle that encloses the specified array of circles
+3224,RTFilterInView,b view @ filter.,1,0,Keymessages,b view @ filter
+1191,GtGraphCircleEnclosure,adding a second circle expands the enclosure circle to fit both circles c1 and c2 .,1,0,Keymessages,adding a second circle expands the enclosure circle to fit both circles c1 and c2
+198,BlElementRemovedEvent,child blelement new.,1,0,Keymessages,child blelement new
+1132,GtGradAbstractTreeLayout,moen s trees are oriented horizontally.,1,0,Keymessages,moen s trees are oriented horizontally
+1363,GtGraphTreemapSquarifyLandscapeRectangle,i represent a rectangle.,1,0,Keymessages,i represent a rectangle
+2570,PRFootnote,it create a footnote with note specified in parameter.,1,0,Keymessages,it create a footnote with note specified in parameter
+4104,WALabelledFormDialog,self answer contact,1,1,Keymessages,self answer contact
+1188,GtGraphCircleEnclosure,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class #enclosure .,1,0,Keymessages,an enclosure of a single circle is a special case and can be computed directly by method gtgraphcircleenclosure class enclosure
+1888,FamixTPackage,java extractors map java packages to famixnamespaces.,1,0,Keymessages,java extractors map java packages to famixnamespaces
+1140,GtGradAbstractTreeLayout,"these shapes are initially formed for each leaf, so that the polyline goes around the node, but leaves the left side open.",1,0,Keymessages,these shapes are initially formed for each leaf so that the polyline goes around the node but leaves the left side open
+91,BlChildrenSubset,example blchildrensubsetexamples #childrenwithmultiplecombinedsubsets,1,0,Keymessages,example blchildrensubsetexamples childrenwithmultiplecombinedsubsets
+1039,GtDiagrammerPicker,i .,1,0,Keymessages,i
+1046,GtDiagrammerPicker,label astring .,1,0,Keymessages,label astring
+2117,MalLatticePatterns,treillis mallattice on context .,1,0,Keymessages,treillis mallattice on context
+3147,RTCPQualitative,check it out by executing,1,0,Keymessages,check it out by executing
+350,BlInfiniteDataSourceCommandType,i am a type of data source update command.,1,0,Keymessages,i am a type of data source update command
+197,BlElementRemovedEvent,child parent,1,0,Keymessages,child parent
+2111,MalLatticePatterns,mallatticepatterns on mallattice on context reportpatterns,1,0,Keymessages,mallatticepatterns on mallattice on context reportpatterns
+220,BlExperimentalExamples,i contain experimental examples that only work in manually prepared laboratory environments.,1,0,Keymessages,i contain experimental examples that only work in manually prepared laboratory environments
+310,BlHandlerRegistry,example,1,0,Keymessages,example
+1080,GtExampleFactory,i am a factory that can create class gtexample instances.,1,0,Keymessages,i am a factory that can create class gtexample instances
+3162,RTDualAttachPoint,i am a new class to combine attach points,1,0,Keymessages,i am a new class to combine attach points
+3657,RTSVGPopup,this is disabled by default.,1,0,Keymessages,this is disabled by default
+3983,WAExpiringCache,overflowaction,1,1,Keymessages,overflowaction
+3222,RTFilterInView,filter rtfilterinview new.,1,0,Keymessages,filter rtfilterinview new
+3898,WACookie,httponly,1,0,Keymessages,httponly
+3763,TROSMShape,scale point,1,1,Keymessages,scale point
+4108,WALabelledFormDialog,^ # name phonenumber,1,1,Keymessages,name phonenumber
+236,BlGeometryAnchorListener,i am an event listener that listens anchor moved event send by anchor,1,0,Keymessages,i am an event listener that listens anchor moved event send by anchor
+1198,GtGraphCircleEnclosure,"starting with four circles, an enclosure should be computed recursively by building and updating a basis enclosure consisting of one to three circles method gtgraphcircleenclosure class #enclosureall .",1,0,Keymessages,starting with four circles an enclosure should be computed recursively by building and updating a basis enclosure consisting of one to three circles method gtgraphcircleenclosure class enclosureall
+1041,GtDiagrammerPicker,a .,1,0,Keymessages,a
+1321,GtGraphTreemapSquarify,these steps are repeated until all rectangles have been processed.,1,0,Keymessages,these steps are repeated until all rectangles have been processed
+1048,GtDiagrammerPicker,c horizontal exact 400.,1,0,Keymessages,c horizontal exact 400
+1564,SpartaCanvas,font create a font build helper,1,1,Keymessages,font create a font build helper
+2441,PPSea,xxxxx,1,1,Keymessages,xxxxx
+1309,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep previewexpanded true nocode,1,0,Keymessages,example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep previewexpanded true nocode
+2439,PPSea,xxxxx,1,1,Keymessages,xxxxx
+3214,RTFilterInView,b,1,0,Keymessages,b
+1180,GtGraphCircleEnclosure,smallest enclosing circle of circles,1,0,Keymessages,smallest enclosing circle of circles
+2861,PMMatrix,i can be build from rows as follows,1,0,Keymessages,i can be build from rows as follows
+129,BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,1,0,Keymessages,i am a special iterator used to iterate over concatenation rope
+2435,PPSea,xxxxx,1,1,Keymessages,xxxxx
+2596,PRInputFileAnnotation,inputfile myfile^pillar,1,0,Keymessages,inputfile myfile pillar
+2118,MalLatticePatterns,transcript clear.,1,0,Keymessages,transcript clear
+3693,RTVerticalMultipleData,negative data are not allowed.,1,0,Keymessages,negative data are not allowed
+3702,RTVerticalMultipleData,d barchartwithbartitle #first rotation 30.,1,0,Keymessages,d barchartwithbartitle first rotation 30
+3084,RTCalendarExample,b datelayout gapsize 0.,1,0,Keymessages,b datelayout gapsize 0
+2575,PRHeadingLevelOffsetTransformer,"for example, a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html.",1,0,Keymessages,for example a headingleveloffset of 3 converts a 1st level pillar heading to an h4 in html
+1296,GtGraphTreemapSquarify,"suppose we have a rectangle with width example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #width and height example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #height , and furthermore suppose that this rectangle must be subdivided in seven rectangles with areas example gtgraphtreemaplayoutexamples #squarifywithsevennodes label #nodevalues .",1,0,Keymessages,suppose we have a rectangle with width example gtgraphtreemaplayoutexamples squarifywithsevennodes label width and height example gtgraphtreemaplayoutexamples squarifywithsevennodes label height and furthermore suppose that this rectangle must be subdivided in seven rectangles with areas example gtgraphtreemaplayoutexamples squarifywithsevennodes label nodevalues
+3896,WACookie,cookie 2 spec,1,0,Keymessages,cookie 2 spec
+2801,PMKolmogorovSmirnov1Sample,#rejectequalityhypothesiswithalpha does what its name says of course.,1,1,Keymessages,rejectequalityhypothesiswithalpha does what its name says of course
+2433,PPSea,xxxxx,1,1,Keymessages,xxxxx
+1386,GtLibraryInstaller,extension .,1,0,Keymessages,extension
+3853,WAComboResponse,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections .,1,0,Keymessages,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections
+2593,PRInputFileAnnotation,i can have in parameter,1,1,Keymessages,i can have in parameter
+2607,PRLaTeXEnvironment,to emit,1,0,Keymessages,to emit
+87,BlChildrenSubset,i exist to explicitly capture and combine various ways of filtering and iterating over children.,1,0,Keymessages,i exist to explicitly capture and combine various ways of filtering and iterating over children
+2695,PRScreenshotAnnotation,my parameters are,1,1,Keymessages,my parameters are
+361,BlInfiniteDataSourceItemRangeMoved,example,1,0,Keymessages,example
+2597,PRInputFileAnnotation,inputfile value directory myfile^pillar,1,0,Keymessages,inputfile value directory myfile pillar
+2872,PMODESolver,announcements are made when a step is taken.,1,0,Keymessages,announcements are made when a step is taken
+2052,MalHgNode,a malhgnode is a node inside a hierarchical graph.,1,0,Keymessages,a malhgnode is a node inside a hierarchical graph
+3196,RTFilterInView,here is an example,1,0,Keymessages,here is an example
+2150,MalRowMatrix,"hapax is distributed under bsd license, see package comment.",1,0,Keymessages,hapax is distributed under bsd license see package comment
+3926,WADatalistTag,option value firefox,1,0,Keymessages,option value firefox
+1838,FAMIXAnnotationTypeGroup,famixannotationtypegroup is a moosegroup containing only famix enities of type famixannotationtype.,1,0,Keymessages,famixannotationtypegroup is a moosegroup containing only famix enities of type famixannotationtype
+3608,RTSmoothLayoutTranslator,a rosmoothlayouttranslator is xxxxxxxxx.,1,1,Keymessages,a rosmoothlayouttranslator is xxxxxxxxx
+3782,TROSMShape,zoomlevel ln 156543034 rzoom ln 2,1,1,Keymessages,zoomlevel ln 156543034 rzoom ln 2
+2824,PMLineSearch,"the method is initialized by g 0 , g 1 and g 0 .",1,0,Keymessages,the method is initialized by g 0 g 1 and g 0
+1301,GtGraphTreemapSquarify,we next fill the left half.,1,0,Keymessages,we next fill the left half
+2110,MalLatticePatterns,context fca with data using #first using #last.,1,0,Keymessages,context fca with data using first using last
+2832,PMLineSearch,"where funblock is the implementation of g x , g0 g 0 , dg0 g 0 and g1 g 0 .",1,0,Keymessages,where funblock is the implementation of g x g0 g 0 dg0 g 0 and g1 g 0
+2834,PMLineSearch,storedmethod dhblinesearch new.,1,0,Keymessages,storedmethod dhblinesearch new
+2306,TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target,1,0,Keymessages,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass as target
+352,BlInfiniteDataSourceCommandType,for performance and memory reasons i provide a unique instance of me to be shared among my users,1,0,Keymessages,for performance and memory reasons i provide a unique instance of me to be shared among my users
+3208,RTFilterInView,b shape box size #numberofmethods.,1,0,Keymessages,b shape box size numberofmethods
+3168,RTEllipseTest,a rtellipsetest is a test class for testing the behavior of rtellipse,1,0,Keymessages,a rtellipsetest is a test class for testing the behavior of rtellipse
+1138,GtGradAbstractTreeLayout,"while reignold tilfold s algorithm produces a compact tree layout, moen s strives to make a tighter one.",1,0,Keymessages,while reignold tilfold s algorithm produces a compact tree layout moen s strives to make a tighter one
+2869,PMODESolver,the main interface once the solver is set up it has a stepper and a solver is,1,1,Keymessages,the main interface once the solver is set up it has a stepper and a solver is
+1808,TSpartaStrokeOptions,stroke options are used in stroking operations.,1,1,Keymessages,stroke options are used in stroking operations
+1558,SpartaCanvas,fill create a builder of fill drawing operation,1,1,Keymessages,fill create a builder of fill drawing operation
+41,BlChildrenCollection,i assume an index based way of working with children.,1,0,Keymessages,i assume an index based way of working with children
+909,BrGlamorousIcons,class brglamorousicons show gticonsfor expanded,1,1,Keymessages,class brglamorousicons show gticonsfor expanded
+2313,TDependencyQueries,afamixclass queryalllocal #in.,1,0,Keymessages,afamixclass queryalllocal in
+51,BlChildrenCollection,class blchildrenarray stores children using an class array,1,0,Keymessages,class blchildrenarray stores children using an class array
+2114,MalLatticePatterns,model moosemodel root allmodels second.,1,0,Keymessages,model moosemodel root allmodels second
+1195,GtGraphCircleEnclosure,method gtgraphcircleenclosure class #enclosure and and is responsible for the computation.,1,0,Keymessages,method gtgraphcircleenclosure class enclosure and and is responsible for the computation
+1047,GtDiagrammerPicker,picker constraintsdo c,1,0,Keymessages,picker constraintsdo c
+1043,GtDiagrammerPicker,picker shape astring brtoggle new,1,0,Keymessages,picker shape astring brtoggle new
+1089,GtExampleFactory,to initialize the subjects of an example i call #gtexamplesubjects on the provider object.,1,0,Keymessages,to initialize the subjects of an example i call gtexamplesubjects on the provider object
+1364,GtGraphTreemapSquarifyLandscapeRectangle,my height is smaller than my width.,1,0,Keymessages,my height is smaller than my width
+3666,RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,1,0,Keymessages,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal
+1071,GtDiagrammerStarStencil,i create a star element,1,0,Keymessages,i create a star element
+1311,GtGraphTreemapSquarify,"the initial subdivision we choose here is vertical, because the rectangle is higher than wider.",1,0,Keymessages,the initial subdivision we choose here is vertical because the rectangle is higher than wider
+3088,RTCalendarExample,d value index,1,0,Keymessages,d value index
+3615,RTSmoothLayoutTranslator,xxxxx,1,1,Keymessages,xxxxx
+1845,FamixGenerator,g generatewithoutcleaning.,1,0,Keymessages,g generatewithoutcleaning
+1194,GtGraphCircleEnclosure,three circle enclosure is a special case too.,1,0,Keymessages,three circle enclosure is a special case too
+3851,WAComboResponse,"by default, wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle.",1,0,Keymessages,by default wacomboresponse will buffer the entire response to be sent at the end of the request processing cycle
+3613,RTSmoothLayoutTranslator,xxxxx,1,1,Keymessages,xxxxx
+2568,PRFootnote,"i am a footnote, you can create me with",1,0,Keymessages,i am a footnote you can create me with
+250,BlGridLayout,"grid layout supports fitcontent, matchparent and exact resizing mode of the owner.",1,0,Keymessages,grid layout supports fitcontent matchparent and exact resizing mode of the owner
+261,BlGridLayout,alignbounds alignment is made between the edges of each component s raw bounds,1,1,Keymessages,alignbounds alignment is made between the edges of each component s raw bounds
+3695,RTVerticalMultipleData,b d,1,0,Keymessages,b d
+378,BlInfiniteItemAnimationsFinished,"i can be used, for example, to delay an action in a data set until currently running animations are complete.",1,0,Keymessages,i can be used for example to delay an action in a data set until currently running animations are complete
+3651,RTSVGBoxedTextPopup,"a rtsvgboxedtextpopup is a text popup, contained in a square box.",1,0,Keymessages,a rtsvgboxedtextpopup is a text popup contained in a square box
+182,BlElementEffect,i am the abstract root class for effects.,1,0,Keymessages,i am the abstract root class for effects
+3770,TROSMShape,rectangle,1,1,Keymessages,rectangle
+2413,PPSea,b,1,0,Keymessages,b
+4098,WALabelledFormDialog,contact contact new.,1,0,Keymessages,contact contact new
+259,BlGridLayout,cellspacing anumber to specify spacing between cells,1,1,Keymessages,cellspacing anumber to specify spacing between cells
+4118,WALabelledFormDialog,show how to specily special input instead of using simple text field.,1,0,Keymessages,show how to specily special input instead of using simple text field
+1033,GtDiagrammerPicker,i am a scriptable toogle group to display a uniform collection of selectable values.,1,0,Keymessages,i am a scriptable toogle group to display a uniform collection of selectable values
+3173,RTExperimentalExample,gtexample,1,0,Keymessages,gtexample
+2868,PMODESolver,an ode solver uses a stepper to solve a system.,1,0,Keymessages,an ode solver uses a stepper to solve a system
+3691,RTVerticalMultipleData,rtverticalmultipledata represents a group of data points that are vertically located.,1,0,Keymessages,rtverticalmultipledata represents a group of data points that are vertically located
+3195,RTFilterInView,this interaction adds a set of menu in the view to filter in and out some elements,1,0,Keymessages,this interaction adds a set of menu in the view to filter in and out some elements
+3774,TROSMShape,tiles,1,1,Keymessages,tiles
+2068,MalHgNode,higraph,1,1,Keymessages,higraph
+2484,PRAbstractCommand,createconfiguration conffilename basedirectory basedirectory argdictionary arguments,1,0,Keymessages,createconfiguration conffilename basedirectory basedirectory argdictionary arguments
+253,BlGridLayout,"by default grid layout does not specify how many columns and rows exist, instead it tries to compute necessary amount of columns or rows depending on amount of children.",1,0,Keymessages,by default grid layout does not specify how many columns and rows exist instead it tries to compute necessary amount of columns or rows depending on amount of children
+1294,GtGraphTreemapSquarify,algorithm explanation,1,0,Keymessages,algorithm explanation
+3220,RTFilterInView,b layout grid.,1,0,Keymessages,b layout grid
+1366,GtGraphTreemapSquarifyLandscapeRectangle,i am used by class gtgraphtreemapsquarifystep .,1,0,Keymessages,i am used by class gtgraphtreemapsquarifystep
+3923,WADatalistTag,option value safari,1,0,Keymessages,option value safari
+3189,RTExploraBuilderTest,a roexplorabuildertest is xxxxxxxxx.,1,0,Keymessages,a roexplorabuildertest is xxxxxxxxx
+3859,WAComboResponse,acanvas flush.,1,0,Keymessages,acanvas flush
+4105,WALabelledFormDialog,cancel,1,1,Keymessages,cancel
+3210,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Keymessages,b normalizer normalizecolor numberofmethods
+1136,GtGradAbstractTreeLayout,"when doing that, it makes sure that the parents are centered above their children.",1,0,Keymessages,when doing that it makes sure that the parents are centered above their children
+3082,RTCalendarExample,.,1,0,Keymessages,nan
+2057,MalHgNode,children orderedcollection,1,1,Keymessages,children orderedcollection
+1889,FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,1,0,Keymessages,they can also mirror the same information in terms of famixpackage instances
+3855,WAComboResponse,"for example, a search results page might use something like",1,0,Keymessages,for example a search results page might use something like
+3136,RTCircleGeometry,"i am not a roassal shape, for that use rtellipse.",1,0,Keymessages,i am not a roassal shape for that use rtellipse
+1182,GtGraphCircleEnclosure,the enclosing circle is computed using the matou ek sharir welzl http www^inf.ethz^ch personal emo publfiles subexlinprog alg16 96^pdf algorithm.,1,0,Keymessages,the enclosing circle is computed using the matou ek sharir welzl http www inf ethz ch personal emo publfiles subexlinprog alg16 96 pdf algorithm
+2065,MalHgNode,children,1,1,Keymessages,children
+1305,GtGraphTreemapSquarify,"next we add a second rectangle, above the first.",1,0,Keymessages,next we add a second rectangle above the first
+1142,GtGradAbstractTreeLayout,"in this implementation, we call the polylines contours.",1,0,Keymessages,in this implementation we call the polylines contours
+3629,RTSunburstBuilderExamples,b rtsunburstbuilder new.,1,0,Keymessages,b rtsunburstbuilder new
+3622,RTSunburstBuilder,"you can customize the angle of the arc, and play with the with radius and width of each arc.",1,0,Keymessages,you can customize the angle of the arc and play with the with radius and width of each arc
+1291,GtGraphTreemapSquarify,i use method gtgraphtreemapnode #weight node values to split an area into.,1,0,Keymessages,i use method gtgraphtreemapnode weight node values to split an area into
+4106,WALabelledFormDialog,self answer,1,1,Keymessages,self answer
+3588,RTScale,a class to have nice scales checks subclasses,1,0,Keymessages,a class to have nice scales checks subclasses
+3090,RTCalendarExample,index value 11 01 1.,1,0,Keymessages,index value 11 01 1
+2737,PRWatcher,a class to watch served sites.,1,0,Keymessages,a class to watch served sites
+2401,PPRelativePositionStream,a pprelativepositionstream is a specialized stream to get the relative position according to another stream.,1,0,Keymessages,a pprelativepositionstream is a specialized stream to get the relative position according to another stream
+3199,RTFilterInView,b shape box size #numberofmethods.,1,0,Keymessages,b shape box size numberofmethods
+246,BlGridLayout,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently.,1,0,Keymessages,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently
+3847,WACanvasWidget,a common superclass for all widgets that want to use wahtmlcanvas as their renderer.,1,0,Keymessages,a common superclass for all widgets that want to use wahtmlcanvas as their renderer
+46,BlChildrenCollection,"for example, an array for storing children optimises for accessing fast accesses at any position.",1,0,Keymessages,for example an array for storing children optimises for accessing fast accesses at any position
+2315,TDependencyQueries,afamixmethod queryalllocal #out.,1,0,Keymessages,afamixmethod queryalllocal out
+1117,GtExampleProcessor,"for example, evaluating an example is to be treated differently from a debugging scenario, or from a scenario to recorver static dependencies.",1,0,Keymessages,for example evaluating an example is to be treated differently from a debugging scenario or from a scenario to recorver static dependencies
+2477,ChrysalPillarishConfiguration,i m a pillar specific class to manage code not generated for the configuration class.,1,0,Keymessages,i m a pillar specific class to manage code not generated for the configuration class
+2488,PRAbstractCommand,prexportbuilder new,1,0,Keymessages,prexportbuilder new
+1307,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep previewexpanded true nocode,1,0,Keymessages,example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep previewexpanded true nocode
+2726,PRShowClassTransformer,i create a prcodeblock with the class definition within it.,1,0,Keymessages,i create a prcodeblock with the class definition within it
+89,BlChildrenSubset,the example below shows a scenario of combining multiple ways to iterate over children.,1,0,Keymessages,the example below shows a scenario of combining multiple ways to iterate over children
+2305,TDependencyQueries,afamixclass querylocal #in with famixinheritance.,1,0,Keymessages,afamixclass querylocal in with famixinheritance
+1298,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow #gtpreviewfor,1,0,Keymessages,example gtgraphtreemaplayoutexamples squarifywithsevennodes nocode codeexpanded false previewexpanded true previewshow gtpreviewfor
+3201,RTFilterInView,b layout grid.,1,0,Keymessages,b layout grid
+3073,RTCalendarExample,# 253 174 97 # 254 224 139 # 255 255 191 # 217 239 139,1,0,Keymessages,253 174 97 254 224 139 255 255 191 217 239 139
+3094,RTCalendarExample,.,1,0,Keymessages,nan
+3867,WAComboResponse,an uncommitted response should be handled as usual by the server adapter.,1,0,Keymessages,an uncommitted response should be handled as usual by the server adapter
+127,BlCompulsoryCombinationTest,this class contains tests,1,0,Keymessages,this class contains tests
+1083,GtExampleFactory,"to create an example, a method defining an example is executed having a provider as a receiver.",1,0,Keymessages,to create an example a method defining an example is executed having a provider as a receiver
+148,BlDevScripterCheckFiredEventsStep,i check whether particular class blevent events were fired on a class blelement target.,1,0,Keymessages,i check whether particular class blevent events were fired on a class blelement target
+1037,GtDiagrammerPicker,picker display hello .,1,0,Keymessages,picker display hello
+1299,GtGraphTreemapSquarify,the first step of our algorithm is to split the initial rectangle.,1,0,Keymessages,the first step of our algorithm is to split the initial rectangle
+3765,TROSMShape,zoom point,1,1,Keymessages,zoom point
+2613,PRList,i am an abstract list.,1,0,Keymessages,i am an abstract list
+3212,RTFilterInView,b layout tree.,1,0,Keymessages,b layout tree
+3079,RTCalendarExample,b yearshape composite comp,1,0,Keymessages,b yearshape composite comp
+4107,WALabelledFormDialog,rows,1,1,Keymessages,rows
+2099,MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",1,0,Keymessages,this means it finds a subset of the edges that forms a tree that includes every vertex where the total weight of all the edges in the tree is minimized
+52,BlChildrenCollection,class blchildrenlinkedlist stores children using a class linkedlist,1,0,Keymessages,class blchildrenlinkedlist stores children using a class linkedlist
+2054,MalHgNode,one can also store arbitrary informaition as attributes to a node.,1,1,Keymessages,one can also store arbitrary informaition as attributes to a node
+39,BlChildrenCollection,i am used by a class blelement to store its children.,1,0,Keymessages,i am used by a class blelement to store its children
+3080,RTCalendarExample,comp add rtlabel new text d d year height 20 .,1,0,Keymessages,comp add rtlabel new text d d year height 20
+3918,WACopyHandlerPlugin,i make a copy of an application.,1,0,Keymessages,i make a copy of an application
+7,BlArrowheadSimpleArrow,both my size and arrow length depend on the curve width.,1,0,Keymessages,both my size and arrow length depend on the curve width
+1091,GtExampleFactory,then i execute those methods with the example as a receiver and the pragma arguments.,1,0,Keymessages,then i execute those methods with the example as a receiver and the pragma arguments
+1050,GtDiagrammerPicker,picker when brtoggleactivatedevent do anevent self inform anevent model .,1,0,Keymessages,picker when brtoggleactivatedevent do anevent self inform anevent model
+2060,MalHgNode,level number,1,1,Keymessages,level number
+2614,PRList,"i represent the abstraction over ordered, unordered html or latex list.",1,0,Keymessages,i represent the abstraction over ordered unordered html or latex list
+2124,MalLatticePatterns,mallatticepatterns on treillis reportmodules.,1,0,Keymessages,mallatticepatterns on treillis reportmodules
+357,BlInfiniteDataSourceItemRangeMoved,this is a structural change event.,1,0,Keymessages,this is a structural change event
+3092,RTCalendarExample,index 11 iftrue index 11 .,1,0,Keymessages,index 11 iftrue index 11
+257,BlGridLayout,columncount anumber to specify amount of columns,1,1,Keymessages,columncount anumber to specify amount of columns
+2059,MalHgNode,incoming orderedcollection,1,1,Keymessages,incoming orderedcollection
+3611,RTSmoothLayoutTranslator,nbcycles object,1,1,Keymessages,nbcycles object
+3,BlArrowheadExamples,i contain examples of different types of blarrowheadelement,1,0,Keymessages,i contain examples of different types of blarrowheadelement
+2100,MalKruskal,"if the graph is not connected, then it finds a minimum spanning forest a minimum spanning tree for each connected component .",1,0,Keymessages,if the graph is not connected then it finds a minimum spanning forest a minimum spanning tree for each connected component
+2836,PMLineSearch,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1.,1,0,Keymessages,storedmethod setvalueatzero g0 derivativeatzero dg0 valueatone g1
+3635,RTSunburstBuilderExamples,^ b view,1,0,Keymessages,b view
+1315,GtGraphTreemapSquarify,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfourthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded,1,0,Keymessages,the worst aspect ratio decreases from example gtgraphtreemaplayoutexamples squarifywithsevennodesfourthstep label worstvaluerounded to example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded
+150,BlDevScripterCheckFiredEventsStep,here you can see how to configure a fire and check a click event on a child element,1,0,Keymessages,here you can see how to configure a fire and check a click event on a child element
+2411,PPSea,x^^^^^a..,1,0,Keymessages,x a
+101,BlChildrenSubset,this result is then used when accessing or iterating over elements.,1,0,Keymessages,this result is then used when accessing or iterating over elements
+3627,RTSunburstBuilderExamples,code,1,0,Keymessages,code
+1319,GtGraphTreemapSquarify,so we reject the previous step and start to fill the right top partition,1,0,Keymessages,so we reject the previous step and start to fill the right top partition
+176,BlElementDynamicTransformation,i am dynamic element transformation in the sense that my transformation matrix may actually depend on some element properties such as #extent or #position.,1,0,Keymessages,i am dynamic element transformation in the sense that my transformation matrix may actually depend on some element properties such as extent or position
+1128,GtGradAbstractTreeLayout,this an implementation of a moen s tree layout algorithm.,1,0,Keymessages,this an implementation of a moen s tree layout algorithm
+1145,GtGradAbstractTreeLayout,"at that point, the tree is traversed again, but this time from top root to the bottom.",1,0,Keymessages,at that point the tree is traversed again but this time from top root to the bottom
+3857,WAComboResponse,render the search page,1,0,Keymessages,render the search page
+3890,WACookie,browser support,1,0,Keymessages,browser support
+3971,WAExpiringCache,number of sessions supported.,1,1,Keymessages,number of sessions supported
+2693,PRScreenshotAnnotation,i am an annotation used to show a screenshot of a given class and method.,1,0,Keymessages,i am an annotation used to show a screenshot of a given class and method
+359,BlInfiniteDataSourceItemRangeMoved,sent by,1,0,Keymessages,sent by
+3198,RTFilterInView,b rtmondrian new.,1,0,Keymessages,b rtmondrian new
+2705,PRScreenshotAnnotation,screenshot package kernel class integer method caption the plus method width 50 label aa,1,0,Keymessages,screenshot package kernel class integer method caption the plus method width 50 label aa
+251,BlGridLayout,children are allowed to have fitcontent and exact resizing modes.,1,0,Keymessages,children are allowed to have fitcontent and exact resizing modes
+364,BlInfiniteDataSourceItemRangeMoved,"do event self inform item was moved from , event from asstring, to , event to asstring",1,0,Keymessages,do event self inform item was moved from event from asstring to event to asstring
+1143,GtGradAbstractTreeLayout,"when merging contours, minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated",1,0,Keymessages,when merging contours minimum horizontal vertical offsets at which siblings can be placed with resepct to their upper left sibling depending of the layout s orientation are calculated
+4109,WALabelledFormDialog,buttons,1,1,Keymessages,buttons
+1045,GtDiagrammerPicker,margin blinsets all 3,1,0,Keymessages,margin blinsets all 3
+4100,WALabelledFormDialog,self addmessage please enter the followning information .,1,0,Keymessages,self addmessage please enter the followning information
+4191,WAMemoryToolPlugin,i display the memory usage tool.,1,0,Keymessages,i display the memory usage tool
+4121,WALabelledFormDialog,selected roger,1,0,Keymessages,selected roger
+1379,GtLibraryInstaller,the following example shows how i am configured for sparta moz2d library.,1,0,Keymessages,the following example shows how i am configured for sparta moz2d library
+3593,RTScrollBarBuilder,aving an orientation #vertical or #horizontal.,1,1,Keymessages,aving an orientation vertical or horizontal
+3683,RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,1,0,Keymessages,a rttimelinesettest is a test class for testing the behavior of rttimelineset
+36,BlChickenLeg,i am a single red chicken leg with two toes,1,0,Keymessages,i am a single red chicken leg with two toes
+2840,PMLineSearch,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations.,1,0,Keymessages,see dhbnewtonzerofinder pmnewtonzerofinder that uses this to minimize the number of function evaluations
+1562,SpartaCanvas,clip create a builder to clip canvas by path or rectangle,1,1,Keymessages,clip create a builder to clip canvas by path or rectangle
+138,BlDecelerateInterpolator,"f x 1 1 x ^n, where n 2 factor",1,0,Keymessages,f x 1 1 x n where n 2 factor
+3772,TROSMShape,scale,1,1,Keymessages,scale
+3096,RTCalendarExample,b build.,1,0,Keymessages,b build
+32,BlChicken,how to run,1,0,Keymessages,how to run
+3595,RTScrollBarBuilder,the bar shape is defined by #barshape #abox or default value #anellipse,1,1,Keymessages,the bar shape is defined by barshape abox or default value anellipse
+2437,PPSea,xxxxx,1,1,Keymessages,xxxxx
+1192,GtGraphCircleEnclosure,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class #enclosure and,1,0,Keymessages,two circle enclosure is also a special case and can be derived directly by method gtgraphcircleenclosure class enclosure and
+2115,MalLatticePatterns,fca malformalcontext new.,1,0,Keymessages,fca malformalcontext new
+1281,GtGraphTreemapSliceHorizontalLayout,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents.,1,0,Keymessages,i use class gtgraphtreemapslicehorizontal to compute class blelement children positions and extents
+3921,WADatalistTag,input list browsers,1,0,Keymessages,input list browsers
+3688,RTTreeMapExampleTODELETE,examples of rttreemap,1,0,Keymessages,examples of rttreemap
+1569,SpartaCanvas,"shape create a common shapes factory ellipse, rounded rectangle, etc",1,1,Keymessages,shape create a common shapes factory ellipse rounded rectangle etc
+1034,GtDiagrammerPicker,picker,1,0,Keymessages,picker
+1365,GtGraphTreemapSquarifyLandscapeRectangle,i layout class gtgraphtreemapnode along my shorter side height .,1,0,Keymessages,i layout class gtgraphtreemapnode along my shorter side height
+2112,MalLatticePatterns,for moose models,1,0,Keymessages,for moose models
+3597,RTScrollBarBuilder,size or fixedposition can be defined as blocks.,1,1,Keymessages,size or fixedposition can be defined as blocks
+3075,RTCalendarExample,collect ar color r ar first g ar second b ar third range 255 .,1,0,Keymessages,collect ar color r ar first g ar second b ar third range 255
+1218,GtGraphEdgesIterator,i am an abstract iterator over edges connected to a graph element,1,0,Keymessages,i am an abstract iterator over edges connected to a graph element
+2386,PPNonEmptyParser,"i return failure, if the delegate parser did not consumed any input.",1,0,Keymessages,i return failure if the delegate parser did not consumed any input
+77,BlChildrenOrderedCollectionExamples,example blchildrenorderedcollectionexamples #add,1,0,Keymessages,example blchildrenorderedcollectionexamples add
+3216,RTFilterInView,b,1,0,Keymessages,b
+3982,WAExpiringCache,has to be positive.,1,1,Keymessages,has to be positive
+4102,WALabelledFormDialog,^ contact,1,1,Keymessages,contact
+3761,TROSMShape,position point,1,1,Keymessages,position point
+136,BlDecelerateInterpolator,"increasing factor above 10f makes exaggerates the ease out effect ie, it starts even faster and ends evens slower .",1,0,Keymessages,increasing factor above 10f makes exaggerates the ease out effect ie it starts even faster and ends evens slower
+2311,TDependencyQueries,afamixmethod queryall #out.,1,0,Keymessages,afamixmethod queryall out
+1437,GtProtoTasker,mandatory methods are,1,1,Keymessages,mandatory methods are
+3206,RTFilterInView,b,1,0,Keymessages,b
+3633,RTSunburstBuilderExamples,b view @ rtdraggableview.,1,0,Keymessages,b view @ rtdraggableview
+2063,MalHgNode,attributes,1,1,Keymessages,attributes
+2738,PRWatcher,"each 5 seconds, the website is regenerated",1,0,Keymessages,each 5 seconds the website is regenerated
+2119,MalLatticePatterns,mallatticepatterns on treillis reportpatterns.,1,0,Keymessages,mallatticepatterns on treillis reportpatterns
+242,BlGeometryElement,i am a root class of geometry elements elements driven by geometry anchors.,1,0,Keymessages,i am a root class of geometry elements elements driven by geometry anchors
+3631,RTSunburstBuilderExamples,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,1,0,Keymessages,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray
+4101,WALabelledFormDialog,model,1,1,Keymessages,model
+3086,RTCalendarExample,b yearlayout horizontalline.,1,0,Keymessages,b yearlayout horizontalline
+1571,SpartaCanvas,extent get my size width@height,1,1,Keymessages,extent get my size width@height
+185,BlElementEffect,i can influence the bounds of my owner used to clip my owner .,1,0,Keymessages,i can influence the bounds of my owner used to clip my owner
+336,BlHeadlessHost,i am a fallback host that is chosen if there are no other available and supported hosts.,1,0,Keymessages,i am a fallback host that is chosen if there are no other available and supported hosts
+4122,WALabelledFormDialog,callback v contact name v,1,0,Keymessages,callback v contact name v
+3704,RTVerticalMultipleData,b,1,0,Keymessages,b
+1130,GtGradAbstractTreeLayout,it is an extension of the well known reingold tilfold algorithm.,1,0,Keymessages,it is an extension of the well known reingold tilfold algorithm
+2122,MalLatticePatterns,fca model treillis context,1,0,Keymessages,fca model treillis context
+3699,RTVerticalMultipleData,d addmetric #second.,1,0,Keymessages,d addmetric second
+255,BlGridLayout,grid layout supports spacing between cells which can be set sending cellspacing message.,1,0,Keymessages,grid layout supports spacing between cells which can be set sending cellspacing message
+134,BlDecelerateInterpolator,i am configurable using factor a degree to which the animation should be eased.,1,0,Keymessages,i am configurable using factor a degree to which the animation should be eased
+2105,MalLatticePatterns,the class implements the identification of patterns in fca lattices.,1,0,Keymessages,the class implements the identification of patterns in fca lattices
+2067,MalHgNode,empty collection if the node is a leaf in the hierarchy.,1,1,Keymessages,empty collection if the node is a leaf in the hierarchy
+4184,WAMemoryInput,a wamemoryinput is a dialog that allows the user to enter an amount of memory.,1,0,Keymessages,a wamemoryinput is a dialog that allows the user to enter an amount of memory
+1186,GtGraphCircleEnclosure,"and add circles one by one, starting with a larger one.",1,0,Keymessages,and add circles one by one starting with a larger one
+3202,RTFilterInView,b normalizer normalizecolor #numberofmethods.,1,0,Keymessages,b normalizer normalizecolor numberofmethods
+3780,TROSMShape,r zoom to osm zoom level base is 1km pixel,1,1,Keymessages,r zoom to osm zoom level base is 1km pixel
+3175,RTExperimentalExample,b rtobjectbrowser new.,1,0,Keymessages,b rtobjectbrowser new
+3924,WADatalistTag,option value internet explorer,1,0,Keymessages,option value internet explorer
+306,BlGridLayoutUsageExamples,i show how different resizing strategies work and how to build advanced layouts with the help of a grid,1,0,Keymessages,i show how different resizing strategies work and how to build advanced layouts with the help of a grid
+2591,PRInputFileAnnotation,with me we can add a transformation to remplace an annotation to a pillar file by his tree.,1,0,Keymessages,with me we can add a transformation to remplace an annotation to a pillar file by his tree
+2828,PMLineSearch,for some small alpha defaults to 1e 4 .,1,0,Keymessages,for some small alpha defaults to 1e 4
+1320,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodesseventhstep previewexpanded true nocode,1,0,Keymessages,example gtgraphtreemaplayoutexamples squarifywithsevennodesseventhstep previewexpanded true nocode
+2697,PRScreenshotAnnotation,class the targetted class,1,1,Keymessages,class the targetted class
+3984,WAExpiringCache,what to do when the maximum number of sessions is reached.,1,1,Keymessages,what to do when the maximum number of sessions is reached
+2108,MalLatticePatterns,data # # #cat # #fourlegs #hair # #dog # #smart #fourlegs #hair # #dolphin # #smart #marine # #gibbon # #hair #smart #thumbed # #man # #smart #thumbed # #whale # #smart #marine .,1,0,Keymessages,data cat fourlegs hair dog smart fourlegs hair dolphin smart marine gibbon hair smart thumbed man smart thumbed whale smart marine
+1439,GtProtoTasker,method gtprototasker #flush expanded true,1,1,Keymessages,method gtprototasker flush expanded true
+226,BlFocusExamples,1 inspect run example,1,0,Keymessages,1 inspect run example
+1317,GtGraphTreemapSquarify,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples #squarifywithsevennodesfifthstep label #worstvaluerounded to example gtgraphtreemaplayoutexamples #squarifywithsevennodessixthstep label #worstvaluerounded,1,0,Keymessages,addition of the next area 2 however does not improve the result as the worst aspect ratio increases from example gtgraphtreemaplayoutexamples squarifywithsevennodesfifthstep label worstvaluerounded to example gtgraphtreemaplayoutexamples squarifywithsevennodessixthstep label worstvaluerounded
+248,BlGridLayout,"each line is assigned to an index, meaning that a grid with n columns would have n 1 line.",1,0,Keymessages,each line is assigned to an index meaning that a grid with n columns would have n 1 line
+3135,RTCircleGeometry,i represent a circle described by its center and a radius .,1,0,Keymessages,i represent a circle described by its center and a radius
+3661,RTSVGVisitor2Test,i am a simple test class for rtsvgvisitor2,1,0,Keymessages,i am a simple test class for rtsvgvisitor2
+200,BlElementRemovedEvent,parent blelement new.,1,0,Keymessages,parent blelement new
+1149,GtGradAbstractTreeLayout,"this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level, as well as the differences in sizes of their parents compared to the largest nodes on the parent level.",1,0,Keymessages,this is done through calculation of differences in sizes of nodes compared to the largest nodes on the same level as well as the differences in sizes of their parents compared to the largest nodes on the parent level
+2107,MalLatticePatterns,data fca context lattice,1,0,Keymessages,data fca context lattice
+2061,MalHgNode,outgoing orderedcollection,1,1,Keymessages,outgoing orderedcollection
+344,BlHostPulseLoop,the opened spaces listen the pulse to be synchronized and to update their state when it is needed.,1,0,Keymessages,the opened spaces listen the pulse to be synchronized and to update their state when it is needed
+1303,GtGraphTreemapSquarify,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesfirststep label #worstvaluerounded .,1,0,Keymessages,the aspect ratio of this first rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesfirststep label worstvaluerounded
+3894,WACookie,cookie spec,1,0,Keymessages,cookie spec
+2588,PRHTMLScriptLanguage,hypertext markup language,1,0,Keymessages,hypertext markup language

@@ -1,0 +1,242 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3771,TROSMShape,bounds of the shape,0,1,Keymessages,bounds of the shape
+2295,TDependencyQueries,#query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children.,0,1,Keymessages,query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children
+4322,WAUpTimeTracker,access the duration how long ago the image booted as follows,0,1,Keymessages,access the duration how long ago the image booted as follows
+96,BlChildrenSubset,instances of me are created by calling the factory method method blchildrensubset class #on on a subclass with an instance of class blchildren as parameter.,0,1,Keymessages,instances of me are created by calling the factory method method blchildrensubset class on on a subclass with an instance of class blchildren as parameter
+1508,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultversionnumber the version number to use in case there are no previous releases in a repository.,0,1,Keymessages,method gtrlreleaseconfiguration defaultversionnumber the version number to use in case there are no previous releases in a repository
+2069,MalHgNode,the malhierarchicalgraph this node belongs to.,0,1,Keymessages,the malhierarchicalgraph this node belongs to
+3399,RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,0,1,Keymessages,the label may be particularized using text in the default string representation is not sufficient
+3762,TROSMShape,rectangle rectangle,0,1,Keymessages,rectangle rectangle
+1119,GtExampleProcessor,#value execute the processor.,0,1,Keymessages,value execute the processor
+3420,RTLabeled,xxxxx,0,1,Keymessages,xxxxx
+2058,MalHgNode,higraph malhierarchicalgraph,0,1,Keymessages,higraph malhierarchicalgraph
+2594,PRInputFileAnnotation,"a path to a file with the key value required, you can write it without the key",0,1,Keymessages,a path to a file with the key value required you can write it without the key
+258,BlGridLayout,rowcount anumber to specify amount of rows,0,1,Keymessages,rowcount anumber to specify amount of rows
+1561,SpartaCanvas,"paint create a paint builder linear, radial gradients",0,1,Keymessages,paint create a paint builder linear radial gradients
+2355,PPDebugParser,root result of root parser,0,1,Keymessages,root result of root parser
+2297,TDependencyQueries,#queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children.,0,1,Keymessages,queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children
+2863,PMMatrix,i understand the usual matrix operations.,0,1,Keymessages,i understand the usual matrix operations
+1773,TSpartaPaint,"if not set, supposed to be identity.",0,1,Keymessages,if not set supposed to be identity
+3413,RTLabeled,position object,0,1,Keymessages,position object
+3768,TROSMShape,position,0,1,Keymessages,position
+3976,WAExpiringCache,after so many seconds of inactivity a session is considered expired.,0,1,Keymessages,after so many seconds of inactivity a session is considered expired
+2286,TDependencyQueries,the api offer the possibility to query an entity with three parameters,0,1,Keymessages,the api offer the possibility to query an entity with three parameters
+3783,TROSMShape,remainderzoom 156543034 rzoom 2 ^ zoomlevel,0,1,Keymessages,remainderzoom 156543034 rzoom 2 zoomlevel
+3979,WAExpiringCache,maximumabsoluteage,0,1,Keymessages,maximumabsoluteage
+2800,PMKolmogorovSmirnov1Sample,#pvalue returns the probability of getting a d ksstatistic .,0,1,Keymessages,pvalue returns the probability of getting a d ksstatistic
+4014,WAFormDecoration,the buttons inst var must be set.,0,1,Keymessages,the buttons inst var must be set
+3594,RTScrollBarBuilder,"the default configuration is #isbasic and #isstatic,",0,1,Keymessages,the default configuration is isbasic and isstatic
+4123,WALabelledFormDialog,"contact class used above has instance variables name, phonenumber with standard getter and setter methods",0,1,Keymessages,contact class used above has instance variables name phonenumber with standard getter and setter methods
+1778,TSpartaPaint,repeaty repeat only y axis,0,1,Keymessages,repeaty repeat only y axis
+3792,TROSMShape,make remainder zoom a transform inside the trosmshape.,0,1,Keymessages,make remainder zoom a transform inside the trosmshape
+3416,RTLabeled,xxxxx,0,1,Keymessages,xxxxx
+3954,WAErrorHandler,handlewarning,0,1,Keymessages,handlewarning
+3793,TROSMShape,"take corners of bounding box, get lat long, get tiles x and y based on previous zoom level.",0,1,Keymessages,take corners of bounding box get lat long get tiles x and y based on previous zoom level
+3414,RTLabeled,text object,0,1,Keymessages,text object
+4321,WAUpTimeTracker,wauptimetracker imageboottime.,0,1,Keymessages,wauptimetracker imageboottime
+3764,TROSMShape,tiles dictionary of point form,0,1,Keymessages,tiles dictionary of point form
+2075,MalHgNode,outgoing,0,1,Keymessages,outgoing
+3978,WAExpiringCache,has to be positive.,0,1,Keymessages,has to be positive
+3986,WAExpiringCache,possible values,0,1,Keymessages,possible values
+4112,WALabelledFormDialog,asymbol #name iftrue ^ your name .,0,1,Keymessages,asymbol name iftrue your name
+3988,WAExpiringCache,#removeabsoluteoldest remove the entry that has been created the longest time ago,0,1,Keymessages,removeabsoluteoldest remove the entry that has been created the longest time ago
+3085,RTCalendarExample,b monthlayout month.,0,0,Keymessages,b monthlayout month
+3097,RTCalendarExample,b view elements select e e model iskindof month pushfront.,0,0,Keymessages,b view elements select e e model iskindof month pushfront
+158,BlDevScripterClickStep,here you can see how to configure a fire and check a click event on a child element,0,0,Keymessages,here you can see how to configure a fire and check a click event on a child element
+1627,SpartaCanvas,canvas filter,0,0,Keymessages,canvas filter
+836,BrExamplesShowroom,example brexamplesshowroom #materiallabeltoggle,0,0,Keymessages,example brexamplesshowroom materiallabeltoggle
+1556,SpartaCanvas,i am polymorphic with spartasurface .,0,0,Keymessages,i am polymorphic with spartasurface
+4201,WAOptionGroupTag,see wainputtest #renderoptiongroupon for examples.,0,0,Keymessages,see wainputtest renderoptiongroupon for examples
+3067,RTCalendarExample,tab removefirstrow.,0,0,Keymessages,tab removefirstrow
+3576,RTRotatedLabel,es shape elementson collection withallsubclasses.,0,0,Keymessages,es shape elementson collection withallsubclasses
+2179,ManifestMooseQuery,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser,0,0,Keymessages,these meta data are used by other tools such as the smalllintmanifestchecker and the critics browser
+742,BlTextElementMeasurementStrategyExamples,"class bltextelement provides different text measurement strategies, each suitable for a specific use case.",0,0,Keymessages,class bltextelement provides different text measurement strategies each suitable for a specific use case
+2312,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source,0,0,Keymessages,will return a mooseoutgoingqueryresult containing the famixassociation having afamixmethod or its children as source
+2000,FMRelationSlot,i am an abstract slot used to declare fame properties for a class.,0,0,Keymessages,i am an abstract slot used to declare fame properties for a class
+3059,RTBucketColor,a scale of elements is discretized into buckets where elements of each bucket is associated to an element.,0,0,Keymessages,a scale of elements is discretized into buckets where elements of each bucket is associated to an element
+2935,RTAbstractExample,do example,0,0,Keymessages,do example
+1549,SpartaCanvas,my main responsibility is to create and provide backend specific builders and various objects.,0,0,Keymessages,my main responsibility is to create and provide backend specific builders and various objects
+1823,XdDocumentsExamples,adocument anxdfile,0,0,Keymessages,adocument anxdfile
+3707,RTVerticalMultipleData,classes collection withallsubclasses reversesortedas #numberofmethods first 10.,0,0,Keymessages,classes collection withallsubclasses reversesortedas numberofmethods first 10
+2645,PRPhase,this configuration is a the configuration of the export.,0,0,Keymessages,this configuration is a the configuration of the export
+1282,GtGraphTreemapSliceHorizontalLayout,example,0,0,Keymessages,example
+1410,GtPhlowForwarderView,"i am also useful in situtions, when the object is created only for the purpose of the view.",0,0,Keymessages,i am also useful in situtions when the object is created only for the purpose of the view
+2775,PMGradient,g value # 3 2 .,0,0,Keymessages,g value 3 2
+3646,RTSVGAbstractLine,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths .,0,0,Keymessages,a rtsvgabstractline refers to the common interface for both regular svg lines and bezier lines as paths
+3549,RTRectangleAttachPoint,s attachpoint rtrectangleattachpoint new.,0,0,Keymessages,s attachpoint rtrectangleattachpoint new
+454,BlLayout,"space starts the measurement process from the root element after measurement it tell children to measure themselves, etc",0,0,Keymessages,space starts the measurement process from the root element after measurement it tell children to measure themselves etc
+3709,RTVerticalMultipleData,d rtverticalmultipledata new.,0,0,Keymessages,d rtverticalmultipledata new
+996,GlutinResumedEvent,emitted when the application has been resumed.,0,0,Keymessages,emitted when the application has been resumed
+1151,GtGradAbstractTreeLayout,"generally, the differences between the implementations of the hozitonal and vertical variants are really small, revolving around one using or setting the x and the other y coordinates.",0,0,Keymessages,generally the differences between the implementations of the hozitonal and vertical variants are really small revolving around one using or setting the x and the other y coordinates
+1110,GtExampleInstanceSubject,i am the default subject of an example.,0,0,Keymessages,i am the default subject of an example
+2213,MooseEntity,mseclass #yourentity super #mooseentity,0,0,Keymessages,mseclass yourentity super mooseentity
+3692,RTVerticalMultipleData,each group has the same x value.,0,0,Keymessages,each group has the same x value
+4312,WATagBrush,attributes instance of wahtmlattributes,0,0,Keymessages,attributes instance of wahtmlattributes
+3747,RTWeightedCircleLayout,rtweightedcirclelayout on elements.,0,0,Keymessages,rtweightedcirclelayout on elements
+1937,FMModel,i include a system of caches in case my users want to store informations to speed up an application.,0,0,Keymessages,i include a system of caches in case my users want to store informations to speed up an application
+3901,WACookie,compared to warequestcookie i represent the information that is sent to the user agent.,0,0,Keymessages,compared to warequestcookie i represent the information that is sent to the user agent
+3748,RTWeightedCircleLayout,v,0,0,Keymessages,v
+665,BlRectangleShapeWithArrowExplanation,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow.,0,0,Keymessages,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow
+1604,SpartaCanvas,language smalltalk,0,0,Keymessages,language smalltalk
+3068,RTCalendarExample,dictionary dictionary new.,0,0,Keymessages,dictionary dictionary new
+4088,WALabelledFormDialog,to use other html widgets for input for a datum implement the method renderxxxon where xxx is the symbol for the row.,0,0,Keymessages,to use other html widgets for input for a datum implement the method renderxxxon where xxx is the symbol for the row
+1612,SpartaCanvas,canvas stroke,0,0,Keymessages,canvas stroke
+1989,FMOne,examples,0,0,Keymessages,examples
+640,BlRectangleShapeWithArrowExplanation,"the goal of this tutorial is to create an element with an arrow like pointer in the middle of the top edge, as shown below",0,0,Keymessages,the goal of this tutorial is to create an element with an arrow like pointer in the middle of the top edge as shown below
+428,BlLayout,"the space only allows layout requests during the layouting phase a limited number of times method blspace #computelayout to avoid blocking rendering due to infinite recursions caused by layout requests, or void spending too much time on layouts in a frame.",0,0,Keymessages,the space only allows layout requests during the layouting phase a limited number of times method blspace computelayout to avoid blocking rendering due to infinite recursions caused by layout requests or void spending too much time on layouts in a frame
+2363,PPInfo,a ppinfo represent the informations around a parsing result and also contain this result.,0,0,Keymessages,a ppinfo represent the informations around a parsing result and also contain this result
+1625,SpartaCanvas,apply filter on the whole canvas,0,0,Keymessages,apply filter on the whole canvas
+225,BlFocusExamples,how to,0,0,Keymessages,how to
+120,BlClickEvent,mouse up,0,0,Keymessages,mouse up
+1501,GtRlReleaseConfiguration,i model options for configuring how releases are performed.,0,0,Keymessages,i model options for configuring how releases are performed
+156,BlDevScripterClickStep,"i fire a class blmousedownevent , class blmouseupevent , and class blclickevent .",0,0,Keymessages,i fire a class blmousedownevent class blmouseupevent and class blclickevent
+2304,TDependencyQueries,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod or its children as source,0,0,Keymessages,will return a mooseoutgoingqueryresult containing the famixaccess associations having afamixmethod or its children as source
+2380,PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,0,0,Keymessages,abstract literal parser that parses some kind of literal type to be specified by subclasses
+4313,WATagBrush,"common events onxxx , this is a hack and would better be solved with traits",0,0,Keymessages,common events onxxx this is a hack and would better be solved with traits
+40,BlChildrenCollection,i provide a data structure independent api for adding and removing children.,0,0,Keymessages,i provide a data structure independent api for adding and removing children
+1853,FamixJavaEntity,famixjavaentity withallsubclasses collect c,0,0,Keymessages,famixjavaentity withallsubclasses collect c
+1999,FMRelationSlot,description,0,0,Keymessages,description
+844,BrExamplesShowroom,thus being said by swapping the label and icon look we can move the icon to the right from the label,0,0,Keymessages,thus being said by swapping the label and icon look we can move the icon to the right from the label
+2676,PRPillarParserMain,"if possible, i will use a compiled version of prpillarparser.",0,0,Keymessages,if possible i will use a compiled version of prpillarparser
+2945,RTAbstractExample,displayingprogress running examples .,0,0,Keymessages,displayingprogress running examples
+3568,RTResizeCanceled,dcrtresizable,0,0,Keymessages,dcrtresizable
+4342,WAUrlAttribute,waurlattribute represents a url attribute.,0,0,Keymessages,waurlattribute represents a url attribute
+3355,RTHighlightableWithCursor,b interaction showlabel,0,0,Keymessages,b interaction showlabel
+3795,TROSMShape,display each tile.,0,0,Keymessages,display each tile
+403,BlLayout,"a small set of constraints, like padding, margin or minimal and maximum dimensions, are common among all the layouts.",0,0,Keymessages,a small set of constraints like padding margin or minimal and maximum dimensions are common among all the layouts
+380,BlInfiniteSmoothScrollerAction,i hold information about a smooth scroll request by a smoothscroller.,0,0,Keymessages,i hold information about a smooth scroll request by a smoothscroller
+1825,XdDocumentsExamples,anxdfile adocument savetoxdoc.,0,0,Keymessages,anxdfile adocument savetoxdoc
+845,BrExamplesShowroom,example brexamplesshowroom #materialreversedtoggle,0,0,Keymessages,example brexamplesshowroom materialreversedtoggle
+1630,SpartaCanvas,draw.,0,0,Keymessages,draw
+2623,PRObject,"i hold a dictionary of properties, so that users can easily annotate me with new values.",0,0,Keymessages,i hold a dictionary of properties so that users can easily annotate me with new values
+1863,FamixJavaEntity,model.,0,0,Keymessages,model
+1310,GtGraphTreemapSquarify,"therefore, we decide that we have reached an optimum for the left half in step two, and start processing the right half.",0,0,Keymessages,therefore we decide that we have reached an optimum for the left half in step two and start processing the right half
+1308,GtGraphTreemapSquarify,"however, if we add the next area 4 above these original rectangles, the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples #squarifywithsevennodesthirdstep label #worstvaluerounded .",0,0,Keymessages,however if we add the next area 4 above these original rectangles the aspect ratio of this rectangle is example gtgraphtreemaplayoutexamples squarifywithsevennodesthirdstep label worstvaluerounded
+1602,SpartaCanvas,apply.,0,0,Keymessages,apply
+661,BlRectangleShapeWithArrowExplanation,we just need to split an injected line in half in order to create the top corner of the rectangle.,0,0,Keymessages,we just need to split an injected line in half in order to create the top corner of the rectangle
+2203,MooseEntity,^ self privatestate attributeat #yourextendingattribute,0,0,Keymessages,self privatestate attributeat yourextendingattribute
+1547,SpartaCanvas,i define an abstract api of sparta canvas that all concrete implementations must have.,0,0,Keymessages,i define an abstract api of sparta canvas that all concrete implementations must have
+2283,TDependencyQueries,description,0,0,Keymessages,description
+1490,GtRlMajorVersionComputation,i reset both the patch and minor parts of the version number to zero.,0,0,Keymessages,i reset both the patch and minor parts of the version number to zero
+2635,PRParameter,my key is instance of prparameterkey and its associated vaue is an instance of prparametervalue.,0,0,Keymessages,my key is instance of prparameterkey and its associated vaue is an instance of prparametervalue
+3165,RTEditableLabel,"i am a class to create editable label shapes, but do not forget that roassal is for visualizations not to build morphs",0,0,Keymessages,i am a class to create editable label shapes but do not forget that roassal is for visualizations not to build morphs
+4045,WAIframeTag,the information to be inserted inline is designated by the src attribute of this element.,0,0,Keymessages,the information to be inserted inline is designated by the src attribute of this element
+3548,RTRectangleAttachPoint,s rtarrowedline new color color black.,0,0,Keymessages,s rtarrowedline new color color black
+4319,WAUpTimeTracker,wauptimetracker is used to track the timestamp when the image last booted.,0,0,Keymessages,wauptimetracker is used to track the timestamp when the image last booted
+744,BlTextElementMeasurementStrategyExamples,label measurement,0,0,Keymessages,label measurement
+2314,TDependencyQueries,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target,0,0,Keymessages,will return a mooseincomingqueryresult containing the famixassociation having afamixclass as target
+3567,RTResizeCanceled,collaborators,0,0,Keymessages,collaborators
+6,BlArrowheadSimpleArrow,i am a simple arrow like arrowhead.,0,0,Keymessages,i am a simple arrow like arrowhead
+2284,TDependencyQueries,"this trait provides a common, paradigm agnostic vocabulary to query dependencies of software entities.",0,0,Keymessages,this trait provides a common paradigm agnostic vocabulary to query dependencies of software entities
+2823,PMLineSearch,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1.,0,0,Keymessages,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1
+2903,PMStateTime,"we don t want to use point, since state may be a vector quantity, and the behavior of array @ number is a little off it stores points in an array, what we want is the array itself in state, and the scalar quantity in time .",0,0,Keymessages,we don t want to use point since state may be a vector quantity and the behavior of array @ number is a little off it stores points in an array what we want is the array itself in state and the scalar quantity in time
+1074,GtExampleDependenciesResolver,the dependencies of a given example consists in message sends to other method constructing an example.,0,0,Keymessages,the dependencies of a given example consists in message sends to other method constructing an example
+1900,FamixTParameterType,where aclass is a parameterizableclass.,0,0,Keymessages,where aclass is a parameterizableclass
+1146,GtGradAbstractTreeLayout,"during this second traversal, positions of the tree s nodes are set.",0,0,Keymessages,during this second traversal positions of the tree s nodes are set
+4310,WATagBrush,its main additions are,0,0,Keymessages,its main additions are
+1746,TSpartaCompositeFilter,merge filter primitive is just a composite filter with over composion mode.,0,0,Keymessages,merge filter primitive is just a composite filter with over composion mode
+757,BlTextElementMeasurementStrategyExamples,precise measurement,0,0,Keymessages,precise measurement
+2549,PRDocumentListAnnotation,with templates the annotation is remplaced by a raw document in html.,0,0,Keymessages,with templates the annotation is remplaced by a raw document in html
+1546,SpartaCanvas,i represent a sparta canvas and provide an api to perform various drawing operations.,0,0,Keymessages,i represent a sparta canvas and provide an api to perform various drawing operations
+2745,PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",0,0,Keymessages,here are tests that would be in math tests dhb numerical if it could construct random matrices
+967,BrTextEditorExamples,done,0,0,Keymessages,done
+2938,RTAbstractExample,builder example perform met selector.,0,0,Keymessages,builder example perform met selector
+1312,GtGraphTreemapSquarify,in step 4 we add the rectangle with area 4,0,0,Keymessages,in step 4 we add the rectangle with area 4
+1765,TSpartaPaint,overview,0,0,Keymessages,overview
+3077,RTCalendarExample,b dateshape rectangle size 15 color color white bordercolor color lightgray.,0,0,Keymessages,b dateshape rectangle size 15 color color white bordercolor color lightgray
+653,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtranslatedtopedge previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Keymessages,example blrectangleshapewitharrowexplanation rectanglewithtranslatedtopedge previewshow gtlivefor previewexpanded true previewheight 250
+625,BlPolygon,example,0,0,Keymessages,example
+1314,GtGraphTreemapSquarify,"in the next step, we add area 3.",0,0,Keymessages,in the next step we add area 3
+4053,WAImageButtonTag,the value of the src attribute specifies the uri of the image that will decorate the button.,0,0,Keymessages,the value of the src attribute specifies the uri of the image that will decorate the button
+3469,RTLineDecorationExample,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,0,Keymessages,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2
+587,BlMorphicHostSpace,i make it possible to embed bloc space within arbitrary morphs.,0,0,Keymessages,i make it possible to embed bloc space within arbitrary morphs
+800,BlTime,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action.,0,0,Keymessages,i encapsulate a concept of time and play a role of a time provider for animations or other parts of the system that compute durations or how much time passed since some action
+1129,GtGradAbstractTreeLayout,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically.,0,0,Keymessages,moen s algorithm attempts to create a tree with a triangular shape and place nodes somewhat simetrically
+3353,RTHighlightableWithCursor,b interaction showedge,0,0,Keymessages,b interaction showedge
+430,BlLayout,performing a layout,0,0,Keymessages,performing a layout
+18,BlArrowheadTriangle,i am a triangular arrow head.,0,0,Keymessages,i am a triangular arrow head
+409,BlLayout,"every frame, the space goes through several phases method blspaceframe #initializephases .",0,0,Keymessages,every frame the space goes through several phases method blspaceframe initializephases
+550,BlMatrix2D,a31 a32 x y,0,0,Keymessages,a31 a32 x y
+924,BrLook,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets,0,0,Keymessages,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets
+85,BlChildrenSubset,i am an abstract class.,0,0,Keymessages,i am an abstract class
+3708,RTVerticalMultipleData,b rtgrapher new.,0,0,Keymessages,b rtgrapher new
+2044,MalDendrogramNode,this class is part of hapax.,0,0,Keymessages,this class is part of hapax
+2198,MooseEntity,"using this mechanism, a package can extend an entity to add more state.",0,0,Keymessages,using this mechanism a package can extend an entity to add more state
+4066,WAInspector,this is an abstract implementation of a web based object inspector.,0,0,Keymessages,this is an abstract implementation of a web based object inspector
+3001,RTBezier3Line,e3 s elementon middle .,0,0,Keymessages,e3 s elementon middle
+1605,SpartaCanvas,canvas fill,0,0,Keymessages,canvas fill
+296,BlGridLayoutArc,"i represent an association of span interval, associated value and validity flag.",0,0,Keymessages,i represent an association of span interval associated value and validity flag
+1594,SpartaCanvas,end 150@200,0,0,Keymessages,end 150@200
+2990,RTAxisRenderer,it simply render in a view an axis configuration,0,0,Keymessages,it simply render in a view an axis configuration
+2393,PPPluggableParser,this enables users to perform manual parsing or to embed other parser frameworks into petitparser.,0,0,Keymessages,this enables users to perform manual parsing or to embed other parser frameworks into petitparser
+4246,WAPlugin,to add a new plugin make sure you choose the right superclass so that the tool can detect your code.,0,0,Keymessages,to add a new plugin make sure you choose the right superclass so that the tool can detect your code
+3860,WAComboResponse,flush before starting search to give immediate feedback,0,0,Keymessages,flush before starting search to give immediate feedback
+2412,PPSea,.,0,0,Keymessages,nan
+2016,FmxMBPrintVisitor,"i just visit each node in the builder, and print it on the transcript.",0,0,Keymessages,i just visit each node in the builder and print it on the transcript
+2145,MalNodeWithPreviousAndNext,a basic node able to host the model and to represent edges with no additional class.,0,0,Keymessages,a basic node able to host the model and to represent edges with no additional class
+432,BlLayout,performing the layout on an element consists in executing three main steps,0,0,Keymessages,performing the layout on an element consists in executing three main steps
+715,BlSpaceFramePhase,i represent a frame phase.,0,0,Keymessages,i represent a frame phase
+3590,RTScrollBarBuilder,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view.,0,0,Keymessages,a rtscrollbarbuilder is a scroll bar that you can add to navigate in your view
+1075,GtExampleDependenciesResolver,"to determine if a message send represents a dependency to a method containing an example, i use heuristic defined by subclasses of gtexampledependencyresolver .",0,0,Keymessages,to determine if a message send represents a dependency to a method containing an example i use heuristic defined by subclasses of gtexampledependencyresolver
+961,BrTextEditorExamples,"then, we attach text to the enditor.",0,0,Keymessages,then we attach text to the enditor
+23,BlArrowheadTriangle,for solid arrowhead make background paint be the same as border paint.,0,0,Keymessages,for solid arrowhead make background paint be the same as border paint
+4261,WARequestContext,the request context is valid only during the request that caused it.,0,0,Keymessages,the request context is valid only during the request that caused it
+3796,TROSMShape,cache each tile.,0,0,Keymessages,cache each tile
+837,BrExamplesShowroom,iconified toggle,0,0,Keymessages,iconified toggle
+549,BlMatrix2D,a21 a22 shx sy,0,0,Keymessages,a21 a22 shx sy
+1528,SpartaCairoTextMetrics,i store the extents of a single glyph or a string of glyphs in user space coordinates.,0,0,Keymessages,i store the extents of a single glyph or a string of glyphs in user space coordinates
+4027,WAFormTag,evaluation order,0,0,Keymessages,evaluation order
+2944,RTAbstractExample,on error do errors add met,0,0,Keymessages,on error do errors add met
+2972,RTAbstractTreeBuilder,rtcirculartreemapbuilder,0,0,Keymessages,rtcirculartreemapbuilder
+2415,PPSea,yet fails on,0,0,Keymessages,yet fails on
+3076,RTCalendarExample,b rtcalendarbuilder new.,0,0,Keymessages,b rtcalendarbuilder new
+725,BlTextBackgroundAttribute,i am used together with brtext and brtextstyler to style text.,0,0,Keymessages,i am used together with brtext and brtextstyler to style text
+1877,FAMIXNamespaceGroup,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace.,0,0,Keymessages,famixnamespacegroup is a moosegroup containing only famix enities of type famixnamespace
+2543,PRDocumentListAnnotation,i allow users to get abstracts of files located in a directory and specify a link to access these files.,0,0,Keymessages,i allow users to get abstracts of files located in a directory and specify a link to access these files
+2670,PRPillarParser,i use the prpillargrammar and i build a prdocument.,0,0,Keymessages,i use the prpillargrammar and i build a prdocument
+1322,GtGraphTreemapSquarify,the final result is the following,0,0,Keymessages,the final result is the following
+3942,WADevelopment,a wadevelopment is a collection of convenience methods for dealing with seaside development in squeak.,0,0,Keymessages,a wadevelopment is a collection of convenience methods for dealing with seaside development in squeak
+3217,RTFilterInView,b rtmondrian new.,0,0,Keymessages,b rtmondrian new
+4073,WAInvisibleSessionTrackingStrategy,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions.,0,0,Keymessages,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions
+645,BlRectangleShapeWithArrowExplanation,this is where a class blvectorshape comes in handy.,0,0,Keymessages,this is where a class blvectorshape comes in handy
+825,BrExamplesShowroom,in the example below we show all existing button styles,0,0,Keymessages,in the example below we show all existing button styles
+3543,RTRectangleAttachPoint,e2 rtellipse new size 50 elementon 2.,0,0,Keymessages,e2 rtellipse new size 50 elementon 2
+557,BlMatrixDecomposition,for example in case of 2d matrix they are,0,0,Keymessages,for example in case of 2d matrix they are
+3004,RTBezier3Line,lineshape attachpoint rtshorterdistanceattachpoint instance .,0,0,Keymessages,lineshape attachpoint rtshorterdistanceattachpoint instance
+3360,RTHighlightableWithCursor,b layout radial.,0,0,Keymessages,b layout radial
+756,BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwitheditormeasurement nocode previewshow #gtlivefor previewheight 100,0,0,Keymessages,example bltextelementmeasurementstrategyexamples textelementwitheditormeasurement nocode previewshow gtlivefor previewheight 100
+2694,PRScreenshotAnnotation,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder.,0,0,Keymessages,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder
+965,BrTextEditorExamples,"and finally, build everything together",0,0,Keymessages,and finally build everything together
+1553,SpartaCanvas,they can be found in api protocol.,0,0,Keymessages,they can be found in api protocol
+3866,WAComboResponse,"server adaptors need to be aware that a committed response must be closed, when complete.",0,0,Keymessages,server adaptors need to be aware that a committed response must be closed when complete
+3223,RTFilterInView,filter spawnblock el rtview new addall el copy yourself .,0,0,Keymessages,filter spawnblock el rtview new addall el copy yourself
+3787,TROSMShape,goal,0,0,Keymessages,goal
+149,BlDevScripterCheckFiredEventsStep,example,0,0,Keymessages,example
+2217,MooseEntity,for example,0,0,Keymessages,for example
+1613,SpartaCanvas,paint color blue,0,0,Keymessages,paint color blue
+3083,RTCalendarExample,b dates year year 1990 to year year 2010 .,0,0,Keymessages,b dates year year 1990 to year year 2010
+2121,MalLatticePatterns,smalltalk collection class hierarchy,0,0,Keymessages,smalltalk collection class hierarchy
+3205,RTFilterInView,with edges,0,0,Keymessages,with edges
+1593,SpartaCanvas,begin 50@100,0,0,Keymessages,begin 50@100
+1150,GtGradAbstractTreeLayout,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine.,0,0,Keymessages,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine
+2021,KGBForMetricsTestResource,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests.,0,0,Keymessages,i am a test resource building a famixstmodel with some of kgb packages used for metrics tests
+3500,RTLinePathBuilder,an interpolator a way to create lines in svg,0,0,Keymessages,an interpolator a way to create lines in svg
+987,BrTextEditorSelectionRecorder,i am used to record text selection intervals while user drags mouse over the text editor.,0,0,Keymessages,i am used to record text selection intervals while user drags mouse over the text editor
+2750,PMAM3Stepper,a am3 method is implicit.,0,0,Keymessages,a am3 method is implicit
+1859,FamixJavaEntity,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,0,0,Keymessages,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary
+48,BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",0,0,Keymessages,a rope uses a balanced binary tree to support fast adding removing and accessing with the disadvantage of taking more memory
+2416,PPSea,x^^^^a..,0,0,Keymessages,x a
+1976,FMMSEPrinter,printer,0,0,Keymessages,printer
+1049,GtDiagrammerPicker,c vertical fitcontent .,0,0,Keymessages,c vertical fitcontent
+3743,RTWeightedCircleLayout,here is an example,0,0,Keymessages,here is an example
+2303,TDependencyQueries,afamixmethod query #out with famixaccess.,0,0,Keymessages,afamixmethod query out with famixaccess
+1297,GtGraphTreemapSquarify,the area will be subdivided as follows,0,0,Keymessages,the area will be subdivided as follows
+856,BrExamplesShowroom,the toolbar is a logical set of action buttons either labelled or iconified .,0,0,Keymessages,the toolbar is a logical set of action buttons either labelled or iconified
+3005,RTBezier3Line,edge lineshape edgefrom e1 to e2.,0,0,Keymessages,edge lineshape edgefrom e1 to e2
+3834,JQLoad,load html from a remote file and inject it into the dom.,0,0,Keymessages,load html from a remote file and inject it into the dom
+938,BrTabAddedEvent,i am sent when a new tab is added to class brtabgroupmodel,0,0,Keymessages,i am sent when a new tab is added to class brtabgroupmodel
+3211,RTFilterInView,b edges connectfrom #superclass.,0,0,Keymessages,b edges connectfrom superclass
+984,BrTextEditorLineSplitter,i split a piece of text into line segments class brtexteditorlinesegment,0,0,Keymessages,i split a piece of text into line segments class brtexteditorlinesegment
+3093,RTCalendarExample,colors at index.,0,0,Keymessages,colors at index
+1498,GtRlNode,i am an abstraction for a type of dependency in the loading configuration of a system.,0,0,Keymessages,i am an abstraction for a type of dependency in the loading configuration of a system
+3091,RTCalendarExample,index 1 iftrue index 1 .,0,0,Keymessages,index 1 iftrue index 1

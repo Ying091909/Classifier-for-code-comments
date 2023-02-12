@@ -1,0 +1,267 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3591,RTScrollBarBuilder,"more than a draggable view, it allows to keep a mark about your position in the view and it scale for large views.",0,1,Responsibilities,more than a draggable view it allows to keep a mark about your position in the view and it scale for large views
+3666,RTTextPath,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal,0,1,Responsibilities,i am a simple class to generate text in roassal with athens cairo that uses the textpathcommand from roassal
+1012,GtDiagrammerArrowheadFilledCircleStencil,i create a filled circle arrow head with the border and background equal to the color of the curve,0,1,Responsibilities,i create a filled circle arrow head with the border and background equal to the color of the curve
+3392,RTHistogramSet,the histogram gives you a distribution frequency over the points given.,0,1,Responsibilities,the histogram gives you a distribution frequency over the points given
+725,BlTextBackgroundAttribute,i am used together with brtext and brtextstyler to style text.,0,1,Responsibilities,i am used together with brtext and brtextstyler to style text
+1740,TBlEventTarget,i implement a basic infrastructure of event management.,0,1,Responsibilities,i implement a basic infrastructure of event management
+297,BlGridLayoutArc,i am used by grid layout instead of dictionary of span value key value pair for performance reasons.,0,1,Responsibilities,i am used by grid layout instead of dictionary of span value key value pair for performance reasons
+2106,MalLatticePatterns,we can detect like horizontal decomposition with the algos in the class.,0,1,Responsibilities,we can detect like horizontal decomposition with the algos in the class
+4064,WAImageStatus,a waimagestatus displays information about the current smalltalk image.,0,1,Responsibilities,a waimagestatus displays information about the current smalltalk image
+1118,GtExampleProcessor,i maintain a context that can be accessed from within the examples being processed during the execution of the processor.,0,1,Responsibilities,i maintain a context that can be accessed from within the examples being processed during the execution of the processor
+1482,GtRlCommitAndTagReleaseAction,i execute a commit of the current changes staged for commit and push a tag corresponding to the version number of the repository release.,0,1,Responsibilities,i execute a commit of the current changes staged for commit and push a tag corresponding to the version number of the repository release
+996,GlutinResumedEvent,emitted when the application has been resumed.,0,1,Responsibilities,emitted when the application has been resumed
+1501,GtRlReleaseConfiguration,i model options for configuring how releases are performed.,0,1,Responsibilities,i model options for configuring how releases are performed
+2823,PMLineSearch,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1.,0,1,Responsibilities,i implement line search algorithm to find the minimum of a function g x 0 on the interval 0 x 1
+1449,GtRemoteInspector,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api.,0,1,Responsibilities,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api
+1836,FameOppositeClassNotExistRule,check if the opposite class declared in a pragma #mseproperty type opposite is defined.,0,1,Responsibilities,check if the opposite class declared in a pragma mseproperty type opposite is defined
+1528,SpartaCairoTextMetrics,i store the extents of a single glyph or a string of glyphs in user space coordinates.,0,1,Responsibilities,i store the extents of a single glyph or a string of glyphs in user space coordinates
+2990,RTAxisRenderer,it simply render in a view an axis configuration,0,1,Responsibilities,it simply render in a view an axis configuration
+48,BlChildrenCollection,"a rope uses a balanced binary tree to support fast adding, removing and accessing, with the disadvantage of taking more memory.",0,1,Responsibilities,a rope uses a balanced binary tree to support fast adding removing and accessing with the disadvantage of taking more memory
+716,BlSpaceFramePhase,each phase knows about its start time and send a corresponding event once the phase is completed.,0,1,Responsibilities,each phase knows about its start time and send a corresponding event once the phase is completed
+4067,WAInspector,"platforms should implement their own subclasses, specifying behaviour for all unimplemented methods.",0,1,Responsibilities,platforms should implement their own subclasses specifying behaviour for all unimplemented methods
+129,BlConcatenationRopeIterator,i am a special iterator used to iterate over concatenation rope,0,1,Responsibilities,i am a special iterator used to iterate over concatenation rope
+3195,RTFilterInView,this interaction adds a set of menu in the view to filter in and out some elements,0,1,Responsibilities,this interaction adds a set of menu in the view to filter in and out some elements
+4321,WAUpTimeTracker,wauptimetracker imageboottime.,0,1,Responsibilities,wauptimetracker imageboottime
+2745,PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",0,1,Responsibilities,here are tests that would be in math tests dhb numerical if it could construct random matrices
+2100,MalKruskal,"if the graph is not connected, then it finds a minimum spanning forest a minimum spanning tree for each connected component .",0,1,Responsibilities,if the graph is not connected then it finds a minimum spanning forest a minimum spanning tree for each connected component
+214,BlExampleCustomEventTarget,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure,0,1,Responsibilities,i am an example of a custom non element event target that can be nicely integrated in bloc infrastructure
+2670,PRPillarParser,i use the prpillargrammar and i build a prdocument.,0,1,Responsibilities,i use the prpillargrammar and i build a prdocument
+2591,PRInputFileAnnotation,with me we can add a transformation to remplace an annotation to a pillar file by his tree.,0,1,Responsibilities,with me we can add a transformation to remplace an annotation to a pillar file by his tree
+87,BlChildrenSubset,i exist to explicitly capture and combine various ways of filtering and iterating over children.,0,1,Responsibilities,i exist to explicitly capture and combine various ways of filtering and iterating over children
+4089,WALabelledFormDialog,see rendernameon in example below.,0,1,Responsibilities,see rendernameon in example below
+1554,SpartaCanvas,i m also responsible for creation of filter primitives filter types that are used with filter operation.,0,1,Responsibilities,i m also responsible for creation of filter primitives filter types that are used with filter operation
+127,BlCompulsoryCombinationTest,this class contains tests,0,1,Responsibilities,this class contains tests
+3834,JQLoad,load html from a remote file and inject it into the dom.,0,1,Responsibilities,load html from a remote file and inject it into the dom
+2643,PRPhase,"a phase takes an input, transforms it and returns an output.",0,1,Responsibilities,a phase takes an input transforms it and returns an output
+905,BrGlamorousIcons,it imports all png files and creates class methods with the same name.,0,1,Responsibilities,it imports all png files and creates class methods with the same name
+3060,RTBucketColor,the buckets are formed by creating partitions uniformly.,0,1,Responsibilities,the buckets are formed by creating partitions uniformly
+936,BrSelectionRequest,i am sent by a look to request selection update from the view model,0,1,Responsibilities,i am sent by a look to request selection update from the view model
+4073,WAInvisibleSessionTrackingStrategy,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions.,0,1,Responsibilities,i am the abstract base class for classes that that use some request attribute that is present on every request for tracking sessions
+4026,WAFormTag,the form element acts as a container for input elements and buttons.,0,1,Responsibilities,the form element acts as a container for input elements and buttons
+2408,PPSea,a ppisland allows for imprecise parsing.,0,1,Responsibilities,a ppisland allows for imprecise parsing
+1808,TSpartaStrokeOptions,stroke options are used in stroking operations.,0,1,Responsibilities,stroke options are used in stroking operations
+2922,MorphicRoassalAdapter,i am bridging roassalmodel and rtview,0,1,Responsibilities,i am bridging roassalmodel and rtview
+1073,GtExampleDependenciesResolver,i know how to extract the dependencies of a given example.,0,1,Responsibilities,i know how to extract the dependencies of a given example
+705,BlScalableFitHeightStrategy,i make sure that content element fits vertically within scalable element.,0,1,Responsibilities,i make sure that content element fits vertically within scalable element
+1765,TSpartaPaint,overview,0,1,Responsibilities,overview
+919,BrInteractiveModel,"i am a composite interaction model responsible for managing widget state such as pressed, hovered, focused.",0,1,Responsibilities,i am a composite interaction model responsible for managing widget state such as pressed hovered focused
+987,BrTextEditorSelectionRecorder,i am used to record text selection intervals while user drags mouse over the text editor.,0,1,Responsibilities,i am used to record text selection intervals while user drags mouse over the text editor
+2694,PRScreenshotAnnotation,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder.,0,1,Responsibilities,i am used in a prdocument to include a prpicture and add a png file to the figures chapter subfolder
+3168,RTEllipseTest,a rtellipsetest is a test class for testing the behavior of rtellipse,0,1,Responsibilities,a rtellipsetest is a test class for testing the behavior of rtellipse
+4099,WALabelledFormDialog,contact is an inst var,0,0,Responsibilities,contact is an inst var
+4055,WAImageButtonTag,"when a pointing device is used to click on the image, the form is submitted and the click coordinates passed to the server.",0,0,Responsibilities,when a pointing device is used to click on the image the form is submitted and the click coordinates passed to the server
+1617,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 04 stroke path^png label strokepath,0,0,Responsibilities,https github com syrel sparta raw master images spartacanvas 04 stroke path png label strokepath
+3966,WAExpiringCache,maximumsize integer,0,0,Responsibilities,maximumsize integer
+462,BlLayout,for example when nodes change the position edges should be updated.,0,0,Responsibilities,for example when nodes change the position edges should be updated
+3070,RTCalendarExample,value ar fifth asnumber ar second asnumber ar second asnumber.,0,0,Responsibilities,value ar fifth asnumber ar second asnumber ar second asnumber
+3470,RTLineDecorationExample,v rtview new,0,0,Responsibilities,v rtview new
+3967,WAExpiringCache,maximumrelativeage integer,0,0,Responsibilities,maximumrelativeage integer
+4272,WASelection,items can be any object.,0,0,Responsibilities,items can be any object
+3091,RTCalendarExample,index 1 iftrue index 1 .,0,0,Responsibilities,index 1 iftrue index 1
+3923,WADatalistTag,option value safari,0,0,Responsibilities,option value safari
+647,BlRectangleShapeWithArrowExplanation,we will start with creation of the rectangle shape class blrectangleshape,0,0,Responsibilities,we will start with creation of the rectangle shape class blrectangleshape
+2297,TDependencyQueries,#queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children.,0,0,Responsibilities,queryall asymbol looks for the associations in the direction described by the symbol in the receiver and its children
+665,BlRectangleShapeWithArrowExplanation,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow.,0,0,Responsibilities,once we have everything we need for the arrow triangle we can move it s top up by the length of the arrow
+4311,WATagBrush,element name #tag,0,0,Responsibilities,element name tag
+2295,TDependencyQueries,#query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children.,0,0,Responsibilities,query asymbol with afamixassociation looks for the associations of the kind afamixassociation in the direction described by the symbol in the receiver and its children
+2929,RTAbstractExample,i am the super class of all the roassal examples.,0,0,Responsibilities,i am the super class of all the roassal examples
+2676,PRPillarParserMain,"if possible, i will use a compiled version of prpillarparser.",0,0,Responsibilities,if possible i will use a compiled version of prpillarparser
+3031,RTBorderAttachPoint,i am an attach point that will end the line on the border of the end shapes.,0,0,Responsibilities,i am an attach point that will end the line on the border of the end shapes
+1889,FamixTPackage,they can also mirror the same information in terms of famixpackage instances.,0,0,Responsibilities,they can also mirror the same information in terms of famixpackage instances
+655,BlRectangleShapeWithArrowExplanation,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge .,0,0,Responsibilities,next step on our way to the arrow is to inject a line segment equal to the length of the arrow in the middle of the topedge
+2202,MooseEntity,yourentity yourextendingattribute,0,0,Responsibilities,yourentity yourextendingattribute
+1859,FamixJavaEntity,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary.,0,0,Responsibilities,repo moosemodel importfrom file withmetamodel famixjavagenerator metamodel translationdictionary dictionary
+2199,MooseEntity,this extension will only be visible when the package is loaded.,0,0,Responsibilities,this extension will only be visible when the package is loaded
+1862,FamixJavaEntity,model entitystorage forruntime.,0,0,Responsibilities,model entitystorage forruntime
+2920,GLMRoassal2MorphicTest,a glmroassalmorphictest is xxxxxxxxx.,0,0,Responsibilities,a glmroassalmorphictest is xxxxxxxxx
+1626,SpartaCanvas,language smalltalk,0,0,Responsibilities,language smalltalk
+1470,GtRlBaselineTagReleaseStrategy,because of this i do not use metadata to check previous versions it is not reliable .,0,0,Responsibilities,because of this i do not use metadata to check previous versions it is not reliable
+1366,GtGraphTreemapSquarifyLandscapeRectangle,i am used by class gtgraphtreemapsquarifystep .,0,0,Responsibilities,i am used by class gtgraphtreemapsquarifystep
+2911,PMStepper,the most general stepper type is described by the stepper concept.,0,0,Responsibilities,the most general stepper type is described by the stepper concept
+2060,MalHgNode,level number,0,0,Responsibilities,level number
+2640,PRParseWarning,i am a warning for the parse of a pillar file.,0,0,Responsibilities,i am a warning for the parse of a pillar file
+3463,RTLineDecorationExample,translateto 400 @ 0,0,0,Responsibilities,translateto 400 @ 0
+3415,RTLabeled,canvas,0,0,Responsibilities,canvas
+844,BrExamplesShowroom,thus being said by swapping the label and icon look we can move the icon to the right from the label,0,0,Responsibilities,thus being said by swapping the label and icon look we can move the icon to the right from the label
+4085,WALabelledFormDialog,the symbol is used generate the accessor methods for the data in the model.,0,0,Responsibilities,the symbol is used generate the accessor methods for the data in the model
+3333,RTHighlightableWithCursor,it changes the cursor aspect,0,0,Responsibilities,it changes the cursor aspect
+2429,PPSea,bwp object,0,0,Responsibilities,bwp object
+3401,RTLabeled,"eg,",0,0,Responsibilities,eg
+4014,WAFormDecoration,the buttons inst var must be set.,0,0,Responsibilities,the buttons inst var must be set
+3064,RTCalendarExample,code,0,0,Responsibilities,code
+387,BlKeyCombination,see blkeycombinationvisitor,0,0,Responsibilities,see blkeycombinationvisitor
+4045,WAIframeTag,the information to be inserted inline is designated by the src attribute of this element.,0,0,Responsibilities,the information to be inserted inline is designated by the src attribute of this element
+1780,TSpartaPaint,rotatebyradians rotate me by amount of radians clockwise,0,0,Responsibilities,rotatebyradians rotate me by amount of radians clockwise
+1863,FamixJavaEntity,model.,0,0,Responsibilities,model
+275,BlGridLayout,implementation points,0,0,Responsibilities,implementation points
+1579,SpartaCanvas,canvas spartacanvas extent 400@250.,0,0,Responsibilities,canvas spartacanvas extent 400@250
+760,BlTextElementMeasurementStrategyExamples,"it may be useful for displaying a short piece of a text, usually a word centered within a larger element.",0,0,Responsibilities,it may be useful for displaying a short piece of a text usually a word centered within a larger element
+2654,PRPhase,configuration self configuration,0,0,Responsibilities,configuration self configuration
+2353,PPDebugParser,used by adding enabledebug before parsing.,0,0,Responsibilities,used by adding enabledebug before parsing
+1827,XdDocumentsExamples,breaklines,0,0,Responsibilities,breaklines
+2945,RTAbstractExample,displayingprogress running examples .,0,0,Responsibilities,displayingprogress running examples
+1606,SpartaCanvas,paint lineargradient,0,0,Responsibilities,paint lineargradient
+3574,RTRotatedLabel,v rtview new.,0,0,Responsibilities,v rtview new
+2931,RTAbstractExample,examples errors,0,0,Responsibilities,examples errors
+746,BlTextElementMeasurementStrategyExamples,the height of the text element in this case is a sum of ascent and descent which is given by the font.,0,0,Responsibilities,the height of the text element in this case is a sum of ascent and descent which is given by the font
+2434,PPSea,awp,0,0,Responsibilities,awp
+3051,RTBox,v add rtbox new width 10 height 20 element.,0,0,Responsibilities,v add rtbox new width 10 height 20 element
+2943,RTAbstractExample,iftrue examples add met time,0,0,Responsibilities,iftrue examples add met time
+1992,FMOne,package famix traits method,0,0,Responsibilities,package famix traits method
+2224,MooseEntity,it should not change nor be nil.,0,0,Responsibilities,it should not change nor be nil
+2222,MooseEntity,important api,0,0,Responsibilities,important api
+428,BlLayout,"the space only allows layout requests during the layouting phase a limited number of times method blspace #computelayout to avoid blocking rendering due to infinite recursions caused by layout requests, or void spending too much time on layouts in a frame.",0,0,Responsibilities,the space only allows layout requests during the layouting phase a limited number of times method blspace computelayout to avoid blocking rendering due to infinite recursions caused by layout requests or void spending too much time on layouts in a frame
+668,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectanglewithtoparrow previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Responsibilities,example blrectangleshapewitharrowexplanation rectanglewithtoparrow previewshow gtlivefor previewexpanded true previewheight 250
+250,BlGridLayout,"grid layout supports fitcontent, matchparent and exact resizing mode of the owner.",0,0,Responsibilities,grid layout supports fitcontent matchparent and exact resizing mode of the owner
+3527,RTPopupTest,a roabstractpopuptest is xxxxxxxxx.,0,0,Responsibilities,a roabstractpopuptest is xxxxxxxxx
+2414,PPSea,xab,0,0,Responsibilities,xab
+4312,WATagBrush,attributes instance of wahtmlattributes,0,0,Responsibilities,attributes instance of wahtmlattributes
+2495,PRAbstractCommand,export,0,0,Responsibilities,export
+2614,PRList,"i represent the abstraction over ordered, unordered html or latex list.",0,0,Responsibilities,i represent the abstraction over ordered unordered html or latex list
+2775,PMGradient,g value # 3 2 .,0,0,Responsibilities,g value 3 2
+2196,MooseEntity,the state instance variable provides a mechanism for extending the state of entities.,0,0,Responsibilities,the state instance variable provides a mechanism for extending the state of entities
+202,BlElementRemovedEvent,parent removechild child,0,0,Responsibilities,parent removechild child
+1853,FamixJavaEntity,famixjavaentity withallsubclasses collect c,0,0,Responsibilities,famixjavaentity withallsubclasses collect c
+3464,RTLineDecorationExample,@ rtdraggable.,0,0,Responsibilities,@ rtdraggable
+2197,MooseEntity,this is achieved through mooseentitystate.,0,0,Responsibilities,this is achieved through mooseentitystate
+4106,WALabelledFormDialog,self answer,0,0,Responsibilities,self answer
+1721,SpartaLine,to get my end point,0,0,Responsibilities,to get my end point
+1440,GtProtoTasker,interesting taskers to explore are class gttaskerorderednonrepetitive and class gtpostponingtasker .,0,0,Responsibilities,interesting taskers to explore are class gttaskerorderednonrepetitive and class gtpostponingtasker
+956,BrTextEditorExamples,10 factorial,0,0,Responsibilities,10 factorial
+2808,PMKolmogorovSmirnov1Sample,FALSE,0,0,Responsibilities,FALSE
+1625,SpartaCanvas,apply filter on the whole canvas,0,0,Responsibilities,apply filter on the whole canvas
+1581,SpartaCanvas,create a triangle vector path,0,0,Responsibilities,create a triangle vector path
+1571,SpartaCanvas,extent get my size width@height,0,0,Responsibilities,extent get my size width@height
+3459,RTLineDecorationExample,@ rtdraggable.,0,0,Responsibilities,@ rtdraggable
+3314,RTGrapherSelectRangeViewContext,ds dotshape color color blue trans.,0,0,Responsibilities,ds dotshape color color blue trans
+2903,PMStateTime,"we don t want to use point, since state may be a vector quantity, and the behavior of array @ number is a little off it stores points in an array, what we want is the array itself in state, and the scalar quantity in time .",0,0,Responsibilities,we don t want to use point since state may be a vector quantity and the behavior of array @ number is a little off it stores points in an array what we want is the array itself in state and the scalar quantity in time
+3223,RTFilterInView,filter spawnblock el rtview new addall el copy yourself .,0,0,Responsibilities,filter spawnblock el rtview new addall el copy yourself
+3578,RTRotatedLabel,v addall es.,0,0,Responsibilities,v addall es
+727,BlTextBackgroundAttribute,paint set background paint,0,0,Responsibilities,paint set background paint
+2776,PMGradient,# 12 9,0,0,Responsibilities,12 9
+1087,GtExampleFactory,optionally users can configure the factory with an explicit provider.,0,0,Responsibilities,optionally users can configure the factory with an explicit provider
+3413,RTLabeled,position object,0,0,Responsibilities,position object
+1314,GtGraphTreemapSquarify,"in the next step, we add area 3.",0,0,Responsibilities,in the next step we add area 3
+311,BlHandlerRegistry,registry,0,0,Responsibilities,registry
+440,BlLayout,by default class blelement delegates the measuring to its layout.,0,0,Responsibilities,by default class blelement delegates the measuring to its layout
+1150,GtGradAbstractTreeLayout,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine.,0,0,Responsibilities,gtgradtreelayout is a superclass of gtgradhorizontaltreelayout and gtgradverticaltreelayout classes and contains generic tree layout methods and definitions of methods the two subclasses need to redefine
+1931,FMModel,i have a meta model containing descriptions of my content.,0,0,Responsibilities,i have a meta model containing descriptions of my content
+1439,GtProtoTasker,method gtprototasker #flush expanded true,0,0,Responsibilities,method gtprototasker flush expanded true
+3797,TROSMShape,"when displaying, check if tile exists.",0,0,Responsibilities,when displaying check if tile exists
+3402,RTLabeled,v rtview new.,0,0,Responsibilities,v rtview new
+3986,WAExpiringCache,possible values,0,0,Responsibilities,possible values
+4219,WAPath,see wainspector for example use.,0,0,Responsibilities,see wainspector for example use
+757,BlTextElementMeasurementStrategyExamples,precise measurement,0,0,Responsibilities,precise measurement
+1046,GtDiagrammerPicker,label astring .,0,0,Responsibilities,label astring
+4215,WAPath,"the name arguement is the association key, the segment argument is the association value.",0,0,Responsibilities,the name arguement is the association key the segment argument is the association value
+4028,WAFormTag,the input fields callbacks will be evaluated in the order they,0,0,Responsibilities,the input fields callbacks will be evaluated in the order they
+3313,RTGrapherSelectRangeViewContext,ds rtdata new.,0,0,Responsibilities,ds rtdata new
+1631,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 05 blur^png label blur,0,0,Responsibilities,https github com syrel sparta raw master images spartacanvas 05 blur png label blur
+582,BlMeasurementUnspecifiedMode,i represent a concrete implementation of unspecified measurement mode.,0,0,Responsibilities,i represent a concrete implementation of unspecified measurement mode
+3715,RTVerticalMultipleData,b,0,0,Responsibilities,b
+453,BlLayout,todo,0,0,Responsibilities,todo
+586,BlMorphicHostSpace,i am a host space created by blmorphichost.,0,0,Responsibilities,i am a host space created by blmorphichost
+3838,WABulkReapingCache,a background process should send #reap to me.,0,0,Responsibilities,a background process should send reap to me
+815,BrEditorTextFlowLine,i represent a single line of a flow layout.,0,0,Responsibilities,i represent a single line of a flow layout
+227,BlFocusExamples,2 click one any cell to give it a focus blue border should appear,0,0,Responsibilities,2 click one any cell to give it a focus blue border should appear
+2440,PPSea,context,0,0,Responsibilities,context
+2597,PRInputFileAnnotation,inputfile value directory myfile^pillar,0,0,Responsibilities,inputfile value directory myfile pillar
+3532,RTPopupTest,xxxxx,0,0,Responsibilities,xxxxx
+3551,RTRectangleAttachPoint,v add l.,0,0,Responsibilities,v add l
+2568,PRFootnote,"i am a footnote, you can create me with",0,0,Responsibilities,i am a footnote you can create me with
+1770,TSpartaPaint,i define an api of an abstract paint.,0,0,Responsibilities,i define an api of an abstract paint
+4281,WASelection,self inform result printstring,0,0,Responsibilities,self inform result printstring
+3472,RTLineDecorationExample,add b2,0,0,Responsibilities,add b2
+3886,WACookie,"i represent a cookie, a piece of information that is stored on the client and read and writable by the server.",0,0,Responsibilities,i represent a cookie a piece of information that is stored on the client and read and writable by the server
+1747,TSpartaCompositeFilter,merge canvas compositefilter,0,0,Responsibilities,merge canvas compositefilter
+3530,RTPopupTest,view object,0,0,Responsibilities,view object
+3173,RTExperimentalExample,gtexample,0,0,Responsibilities,gtexample
+3001,RTBezier3Line,e3 s elementon middle .,0,0,Responsibilities,e3 s elementon middle
+2164,MalTerms,"hapax is distributed under bsd license, see package comment.",0,0,Responsibilities,hapax is distributed under bsd license see package comment
+4078,WALabelledFormDialog,walabelledformdialog is an abstract class for generating html forms.,0,0,Responsibilities,walabelledformdialog is an abstract class for generating html forms
+1038,GtDiagrammerPicker,world .,0,0,Responsibilities,world
+2223,MooseEntity,mooseid is an integer that uniquely identifies this entity within the entire moose environment.,0,0,Responsibilities,mooseid is an integer that uniquely identifies this entity within the entire moose environment
+451,BlLayout,applying the layout,0,0,Responsibilities,applying the layout
+400,BlLayout,"tipically this includes the position of child elements within the parent, or the size of the parent element.",0,0,Responsibilities,tipically this includes the position of child elements within the parent or the size of the parent element
+96,BlChildrenSubset,instances of me are created by calling the factory method method blchildrensubset class #on on a subclass with an instance of class blchildren as parameter.,0,0,Responsibilities,instances of me are created by calling the factory method method blchildrensubset class on on a subclass with an instance of class blchildren as parameter
+3631,RTSunburstBuilderExamples,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray .,0,0,Responsibilities,b shape colorelement el el model subclasses isempty iftrue color purple iffalse color lightgray
+1602,SpartaCanvas,apply.,0,0,Responsibilities,apply
+960,BrTextEditorExamples,example brtexteditorexamples #neweditor,0,0,Responsibilities,example brtexteditorexamples neweditor
+3318,RTGrapherSelectRangeViewContext,g add ds.,0,0,Responsibilities,g add ds
+3178,RTExperimentalExample,b object v.,0,0,Responsibilities,b object v
+824,BrExamplesShowroom,buttons,0,0,Responsibilities,buttons
+3087,RTCalendarExample,b dateshape if d dictionary includeskey d color,0,0,Responsibilities,b dateshape if d dictionary includeskey d color
+728,BlTextBackgroundAttribute,example,0,0,Responsibilities,example
+1977,FMMSEPrinter,printer fmmseprinter onstring.,0,0,Responsibilities,printer fmmseprinter onstring
+1483,GtRlCommitAndTagReleaseAction,i only work with strategies of type class gtrlsemantictagreleasestrategy .,0,0,Responsibilities,i only work with strategies of type class gtrlsemantictagreleasestrategy
+39,BlChildrenCollection,i am used by a class blelement to store its children.,0,0,Responsibilities,i am used by a class blelement to store its children
+2422,PPSea,the input represented by dots is called water and water can appear before and after the island.,0,0,Responsibilities,the input represented by dots is called water and water can appear before and after the island
+2933,RTAbstractExample,errors orderedcollection new.,0,0,Responsibilities,errors orderedcollection new
+3358,RTHighlightableWithCursor,nodes @ rthighlightablewithcursor.,0,0,Responsibilities,nodes @ rthighlightablewithcursor
+1615,SpartaCanvas,width 6,0,0,Responsibilities,width 6
+2827,PMLineSearch,g x g 0 alpha g 0,0,0,Responsibilities,g x g 0 alpha g 0
+1609,SpartaCanvas,https github^com syrel sparta raw master images spartacanvas 03 fill path^png label fillpath,0,0,Responsibilities,https github com syrel sparta raw master images spartacanvas 03 fill path png label fillpath
+842,BrExamplesShowroom,note that the order of looks defines the visual order of the label and icon,0,0,Responsibilities,note that the order of looks defines the visual order of the label and icon
+1190,GtGraphCircleEnclosure,example gtgraphcircleenclosureexamples #enclosurewithonecircle previewshow #gtpreviewfor previewexpanded previewheight 300,0,0,Responsibilities,example gtgraphcircleenclosureexamples enclosurewithonecircle previewshow gtpreviewfor previewexpanded previewheight 300
+1975,FMMSEPrinter,examples,0,0,Responsibilities,examples
+32,BlChicken,how to run,0,0,Responsibilities,how to run
+661,BlRectangleShapeWithArrowExplanation,we just need to split an injected line in half in order to create the top corner of the rectangle.,0,0,Responsibilities,we just need to split an injected line in half in order to create the top corner of the rectangle
+4107,WALabelledFormDialog,rows,0,0,Responsibilities,rows
+2998,RTBezier3Line,s rtellipse new color color red alpha 04 size 30.,0,0,Responsibilities,s rtellipse new color color red alpha 04 size 30
+439,BlLayout,each element can decide how it wants to be measured method blelement #onmeasure .,0,0,Responsibilities,each element can decide how it wants to be measured method blelement onmeasure
+3785,TROSMShape,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi,0,0,Responsibilities,lat to roassal space l float pi 4 l degreestoradians 2 tan ln 40075016686 20 float pi
+1583,SpartaCanvas,triangle canvas path,0,0,Responsibilities,triangle canvas path
+426,BlLayout,an edge can be layouted only after the position of the elements that it connects is known.,0,0,Responsibilities,an edge can be layouted only after the position of the elements that it connects is known
+2481,PRAbstractCommand,i m an object managing configuration.,0,0,Responsibilities,i m an object managing configuration
+4054,WAImageButtonTag,"for accessibility reasons, authors should provide alternate text for the image via the alt attribute.",0,0,Responsibilities,for accessibility reasons authors should provide alternate text for the image via the alt attribute
+1594,SpartaCanvas,end 150@200,0,0,Responsibilities,end 150@200
+2063,MalHgNode,attributes,0,0,Responsibilities,attributes
+448,BlLayout,the measured bounds act like a temporary cache for the new bounds of an element.,0,0,Responsibilities,the measured bounds act like a temporary cache for the new bounds of an element
+1437,GtProtoTasker,mandatory methods are,0,0,Responsibilities,mandatory methods are
+418,BlLayout,"hence, in bloc layout is not executed immediately after a property like the width of an element changes.",0,0,Responsibilities,hence in bloc layout is not executed immediately after a property like the width of an element changes
+36,BlChickenLeg,i am a single red chicken leg with two toes,0,0,Responsibilities,i am a single red chicken leg with two toes
+2426,PPSea,afterwaterparser object,0,0,Responsibilities,afterwaterparser object
+445,BlLayout,the measured bounds are used during layouting to hold the new extent of an element.,0,0,Responsibilities,the measured bounds are used during layouting to hold the new extent of an element
+907,BrGlamorousIcons,gt icons asfilereference,0,0,Responsibilities,gt icons asfilereference
+1451,GtRemoteInspector,message one,0,0,Responsibilities,message one
+1622,SpartaCanvas,language smalltalk,0,0,Responsibilities,language smalltalk
+2300,TDependencyQueries,examples,0,0,Responsibilities,examples
+1587,SpartaCanvas,close,0,0,Responsibilities,close
+3453,RTLineDecorationExample,code,0,0,Responsibilities,code
+4302,WAServerAdaptor,codec,0,0,Responsibilities,codec
+1044,GtDiagrammerPicker,look brmaterialtogglelabelledlook,0,0,Responsibilities,look brmaterialtogglelabelledlook
+467,BlLayout,concrete implementations should focus on measure with and layout in,0,0,Responsibilities,concrete implementations should focus on measure with and layout in
+851,BrExamplesShowroom,tabs,0,0,Responsibilities,tabs
+3789,TROSMShape,algorithm,0,0,Responsibilities,algorithm
+3424,RTLabeled,xxxxx,0,0,Responsibilities,xxxxx
+438,BlLayout,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element.,0,0,Responsibilities,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element
+3474,RTLineDecorationExample,edges do each each update .,0,0,Responsibilities,edges do each each update
+1121,GtExampleProcessor,#canprocess verifies if the processor can execute on the given example.,0,0,Responsibilities,canprocess verifies if the processor can execute on the given example
+452,BlLayout,commiting changes,0,0,Responsibilities,commiting changes
+3974,WAExpiringCache,has to be positive.,0,0,Responsibilities,has to be positive
+1748,TSpartaCompositeFilter,over,0,0,Responsibilities,over
+1624,SpartaCanvas,stddeviation 4.,0,0,Responsibilities,stddeviation 4
+95,BlChildrenSubset,api,0,0,Responsibilities,api
+4030,WAFormTag,"buttons will always be evaluated last, no matter",0,0,Responsibilities,buttons will always be evaluated last no matter
+583,BlMeasurementUnspecifiedMode,for more information see class comment of blmeasurementmode,0,0,Responsibilities,for more information see class comment of blmeasurementmode
+753,BlTextElementMeasurementStrategyExamples,a similar measurement strategy which is designed to be used in a text editor computes the width of the element using the #advance property of a text paragraph.,0,0,Responsibilities,a similar measurement strategy which is designed to be used in a text editor computes the width of the element using the advance property of a text paragraph
+3340,RTHighlightableWithCursor,attributeselector #yourself.,0,0,Responsibilities,attributeselector yourself
+3979,WAExpiringCache,maximumabsoluteage,0,0,Responsibilities,maximumabsoluteage
+1852,FamixJavaEntity,dictionary dictionary newfrom,0,0,Responsibilities,dictionary dictionary newfrom
+1297,GtGraphTreemapSquarify,the area will be subdivided as follows,0,0,Responsibilities,the area will be subdivided as follows
+267,BlGridLayout,internal representation and key implementation points.,0,0,Responsibilities,internal representation and key implementation points
+2227,MooseEntity,it may be nil if the entity is not part of a model.,0,0,Responsibilities,it may be nil if the entity is not part of a model
+1505,GtRlReleaseConfiguration,method gtrlreleaseconfiguration #defaultreleasebranchname the branch name on which to perform the release.,0,0,Responsibilities,method gtrlreleaseconfiguration defaultreleasebranchname the branch name on which to perform the release
+965,BrTextEditorExamples,"and finally, build everything together",0,0,Responsibilities,and finally build everything together
+3613,RTSmoothLayoutTranslator,xxxxx,0,0,Responsibilities,xxxxx
+1085,GtExampleFactory,"if the method is defined on the instance side, the provider consists in a new instance of that class.",0,0,Responsibilities,if the method is defined on the instance side the provider consists in a new instance of that class
+3346,RTHighlightableWithCursor,b addobjects collection withallsubclasses .,0,0,Responsibilities,b addobjects collection withallsubclasses
+2778,PMGradient,# 2 1,0,0,Responsibilities,2 1
+3579,RTRotatedLabel,v open,0,0,Responsibilities,v open
+3473,RTLineDecorationExample,addall edges.,0,0,Responsibilities,addall edges
+2044,MalDendrogramNode,this class is part of hapax.,0,0,Responsibilities,this class is part of hapax
+3344,RTHighlightableWithCursor,b lineshape color color black.,0,0,Responsibilities,b lineshape color color black
+3356,RTHighlightableWithCursor,highlightobjects #subclasses.,0,0,Responsibilities,highlightobjects subclasses
+361,BlInfiniteDataSourceItemRangeMoved,example,0,0,Responsibilities,example
+3334,RTHighlightableWithCursor,"eg,",0,0,Responsibilities,eg

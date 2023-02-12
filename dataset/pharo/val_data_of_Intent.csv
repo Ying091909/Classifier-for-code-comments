@@ -1,0 +1,173 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+719,BlSpartaMozSkiaCanvasBuilder,i am a copy of class blspartamozcanvasbuilder.,0,1,Intent,i am a copy of class blspartamozcanvasbuilder
+724,BlTextBackgroundAttribute,i represent a text background attribute.,0,1,Intent,i represent a text background attribute
+2380,PPLiteralParser,abstract literal parser that parses some kind of literal type to be specified by subclasses .,0,1,Intent,abstract literal parser that parses some kind of literal type to be specified by subclasses
+418,BlLayout,"hence, in bloc layout is not executed immediately after a property like the width of an element changes.",0,1,Intent,hence in bloc layout is not executed immediately after a property like the width of an element changes
+2880,PMSciKitLearnSVDFlipAlgorithmTest,this is the test class that exercises scikit learn eigenvector flip algorithm,0,1,Intent,this is the test class that exercises scikit learn eigenvector flip algorithm
+1549,SpartaCanvas,my main responsibility is to create and provide backend specific builders and various objects.,0,0,Intent,my main responsibility is to create and provide backend specific builders and various objects
+1927,FMModel,description,0,1,Intent,description
+3683,RTTimelineSetTest,a rttimelinesettest is a test class for testing the behavior of rttimelineset,0,1,Intent,a rttimelinesettest is a test class for testing the behavior of rttimelineset
+3621,RTSunburstBuilder,"i am a class to create visualizations about rings, center is the root of the tree and arcs are the sub trees.",0,1,Intent,i am a class to create visualizations about rings center is the root of the tree and arcs are the sub trees
+2352,PPDebugParser,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time.,0,1,Intent,a ppdebugparser is a parser that traces all the progress and returns special object that can be browsed to see how the parsing advanced over a time
+2622,PRObject,i am a superclass of most objects within pier.,0,1,Intent,i am a superclass of most objects within pier
+217,BlExampleElementWithBrokenOnLayout,i am an element with a broken onlayout method that throws error subscriptoutofbounds,0,1,Intent,i am an element with a broken onlayout method that throws error subscriptoutofbounds
+336,BlHeadlessHost,i am a fallback host that is chosen if there are no other available and supported hosts.,0,1,Intent,i am a fallback host that is chosen if there are no other available and supported hosts
+3836,WABulkReapingCache,i am a cache that reaps all elements at once instead of incrementally.,0,1,Intent,i am a cache that reaps all elements at once instead of incrementally
+711,BlSelection,i represent a text selection defined as interval from^^^to,0,1,Intent,i represent a text selection defined as interval from to
+2860,PMMatrix,i represent a mathematical matrix.,0,1,Intent,i represent a mathematical matrix
+1988,FMOne,i am a relation slot representing a property containing only one element.,0,1,Intent,i am a relation slot representing a property containing only one element
+3165,RTEditableLabel,"i am a class to create editable label shapes, but do not forget that roassal is for visualizations not to build morphs",0,1,Intent,i am a class to create editable label shapes but do not forget that roassal is for visualizations not to build morphs
+2907,PMStepper,basic steppers execute one timestep of a specific order with a given stepsize.,0,1,Intent,basic steppers execute one timestep of a specific order with a given stepsize
+2511,PRBashScriptLanguage,bash scripting language,0,1,Intent,bash scripting language
+2724,PRShowClassTransformer,i am a transformer for the showclass annotation.,0,1,Intent,i am a transformer for the showclass annotation
+1592,SpartaCanvas,lineargradient canvas paint lineargradient,0,0,Intent,lineargradient canvas paint lineargradient
+3896,WACookie,cookie 2 spec,0,0,Intent,cookie 2 spec
+2164,MalTerms,"hapax is distributed under bsd license, see package comment.",0,0,Intent,hapax is distributed under bsd license see package comment
+361,BlInfiniteDataSourceItemRangeMoved,example,0,0,Intent,example
+3552,RTRectangleAttachPoint,v,0,0,Intent,v
+4027,WAFormTag,evaluation order,0,0,Intent,evaluation order
+2487,PRAbstractCommand,you can obtain the same doing,0,0,Intent,you can obtain the same doing
+548,BlMatrix2D,a11 a12 sx shy,0,0,Intent,a11 a12 sx shy
+4102,WALabelledFormDialog,^ contact,0,0,Intent,contact
+426,BlLayout,an edge can be layouted only after the position of the elements that it connects is known.,0,0,Intent,an edge can be layouted only after the position of the elements that it connects is known
+3408,RTLabeled,canvas object,0,0,Intent,canvas object
+460,BlLayout,elements announce events for position and extent changed,0,0,Intent,elements announce events for position and extent changed
+2423,PPSea,"use it, if you don t want to define all the grammar rules and you want to skip something.",0,0,Intent,use it if you don t want to define all the grammar rules and you want to skip something
+3867,WAComboResponse,an uncommitted response should be handled as usual by the server adapter.,0,0,Intent,an uncommitted response should be handled as usual by the server adapter
+3088,RTCalendarExample,d value index,0,0,Intent,d value index
+3072,RTCalendarExample,colors # # 165 0 38 # 215 48 38 # 244 109 67,0,0,Intent,colors 165 0 38 215 48 38 244 109 67
+1762,TSpartaPaint,tspartapaint,0,0,Intent,tspartapaint
+4343,WAUrlAttribute,it converts between text entered on the configuration page and waurl instances.,0,0,Intent,it converts between text entered on the configuration page and waurl instances
+1625,SpartaCanvas,apply filter on the whole canvas,0,0,Intent,apply filter on the whole canvas
+1550,SpartaCanvas,in order to create and perform a drawing operation users should rely on corresponding builder.,0,0,Intent,in order to create and perform a drawing operation users should rely on corresponding builder
+3314,RTGrapherSelectRangeViewContext,ds dotshape color color blue trans.,0,0,Intent,ds dotshape color color blue trans
+438,BlLayout,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element.,0,0,Intent,this is the first step when performing a layout on an element and consists in determening the measured bounds of that element
+839,BrExamplesShowroom,example brexamplesshowroom #materialicontoggle,0,0,Intent,example brexamplesshowroom materialicontoggle
+458,BlLayout,as we know the size of each child we compute the actual position for each child,0,0,Intent,as we know the size of each child we compute the actual position for each child
+996,GlutinResumedEvent,emitted when the application has been resumed.,0,0,Intent,emitted when the application has been resumed
+1502,GtRlReleaseConfiguration,i am used by a class gtrlreleasebuilder to create a new release.,0,0,Intent,i am used by a class gtrlreleasebuilder to create a new release
+2099,MalKruskal,"this means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized.",0,0,Intent,this means it finds a subset of the edges that forms a tree that includes every vertex where the total weight of all the edges in the tree is minimized
+3092,RTCalendarExample,index 11 iftrue index 11 .,0,0,Intent,index 11 iftrue index 11
+2064,MalHgNode,dictionary to attach arbitrary information to a node,0,0,Intent,dictionary to attach arbitrary information to a node
+1807,TSpartaStrokeOptions,i define an api of stroke options object.,0,0,Intent,i define an api of stroke options object
+439,BlLayout,each element can decide how it wants to be measured method blelement #onmeasure .,0,0,Intent,each element can decide how it wants to be measured method blelement onmeasure
+449,BlLayout,they were introduced to avoid changing the real extent of element while layouting of children is still being performed.,0,0,Intent,they were introduced to avoid changing the real extent of element while layouting of children is still being performed
+2547,PRDocumentListAnnotation,then abstracts will alternately change templates if you specified mutliple directories.,0,0,Intent,then abstracts will alternately change templates if you specified mutliple directories
+2913,PMStepper,the class method onsystem will assign the system to the stepper.,0,0,Intent,the class method onsystem will assign the system to the stepper
+2646,PRPhase,to create a new phase you have to define its prority as a class method then to define the action of the phase with a method actionon aninput.,0,0,Intent,to create a new phase you have to define its prority as a class method then to define the action of the phase with a method actionon aninput
+1595,SpartaCanvas,stops 0 color red.,0,0,Intent,stops 0 color red
+924,BrLook,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets,0,0,Intent,in addition to the brviewmodel i listen to ui events and update decoration non meaningful elements of the widgets
+3361,RTHighlightableWithCursor,b,0,0,Intent,b
+1307,GtGraphTreemapSquarify,example gtgraphtreemaplayoutexamples #squarifywithsevennodessecondstep previewexpanded true nocode,0,0,Intent,example gtgraphtreemaplayoutexamples squarifywithsevennodessecondstep previewexpanded true nocode
+3713,RTVerticalMultipleData,d barchartwithbartitle #name rotation 30.,0,0,Intent,d barchartwithbartitle name rotation 30
+4026,WAFormTag,the form element acts as a container for input elements and buttons.,0,0,Intent,the form element acts as a container for input elements and buttons
+3549,RTRectangleAttachPoint,s attachpoint rtrectangleattachpoint new.,0,0,Intent,s attachpoint rtrectangleattachpoint new
+756,BlTextElementMeasurementStrategyExamples,example bltextelementmeasurementstrategyexamples #textelementwitheditormeasurement nocode previewshow #gtlivefor previewheight 100,0,0,Intent,example bltextelementmeasurementstrategyexamples textelementwitheditormeasurement nocode previewshow gtlivefor previewheight 100
+959,BrTextEditorExamples,"next, we build the editor",0,0,Intent,next we build the editor
+4044,WAIframeTag,"inserting an inline frame within a section of text is much like inserting an object via the object element they both allow you to insert an html document in the middle of another, they may both be aligned with surrounding text, etc",0,0,Intent,inserting an inline frame within a section of text is much like inserting an object via the object element they both allow you to insert an html document in the middle of another they may both be aligned with surrounding text etc
+2684,PRPillarParserOld,i use the prpillargrammar and i build a prdocument.,0,0,Intent,i use the prpillargrammar and i build a prdocument
+448,BlLayout,the measured bounds act like a temporary cache for the new bounds of an element.,0,0,Intent,the measured bounds act like a temporary cache for the new bounds of an element
+441,BlLayout,layouts should override method bllayout #measure with to implement the actual measuring.,0,0,Intent,layouts should override method bllayout measure with to implement the actual measuring
+1449,GtRemoteInspector,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api.,0,0,Intent,gtremoteinspector provides a mechanism for remote viewing of objects over a rest json api
+87,BlChildrenSubset,i exist to explicitly capture and combine various ways of filtering and iterating over children.,0,0,Intent,i exist to explicitly capture and combine various ways of filtering and iterating over children
+2909,PMStepper,"solving ordinary differential equation numerically is usually done iteratively, that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt .",0,0,Intent,solving ordinary differential equation numerically is usually done iteratively that is a given state of an ordinary differential equation is iterated forward x t x t dt x t 2dt
+943,BrTextEditor,"i edit text and provide high level abstractions of essential text editor functionality such as selection, cursor, text insertions and deletions.",0,0,Intent,i edit text and provide high level abstractions of essential text editor functionality such as selection cursor text insertions and deletions
+89,BlChildrenSubset,the example below shows a scenario of combining multiple ways to iterate over children.,0,0,Intent,the example below shows a scenario of combining multiple ways to iterate over children
+3066,RTCalendarExample,"tab rttabtable new input http bl^ocks.org mbostock raw 4063318 dji^csv asurl retrievecontents usingdelimiter ,.",0,0,Intent,tab rttabtable new input http bl ocks org mbostock raw 4063318 dji csv asurl retrievecontents usingdelimiter
+404,BlLayout,"each layout has a dedicated constraint objects, instance of class bllayoutcommonconstraints , that contain these common constraints.",0,0,Intent,each layout has a dedicated constraint objects instance of class bllayoutcommonconstraints that contain these common constraints
+656,BlRectangleShapeWithArrowExplanation,it can be done by sending method bllineshape #injectlineat length to the topedge .,0,0,Intent,it can be done by sending method bllineshape injectlineat length to the topedge
+2428,PPSea,beforewaterparser object,0,0,Intent,beforewaterparser object
+430,BlLayout,performing a layout,0,0,Intent,performing a layout
+643,BlRectangleShapeWithArrowExplanation,"the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry, for example the size of the arrow or its horizontal position.",0,0,Intent,the problem with such solution is its exponential increase in compolexity each time we would like to parametrize and customize the resulting geometry for example the size of the arrow or its horizontal position
+3457,RTLineDecorationExample,element,0,0,Intent,element
+982,BrTextEditorLetterInputFilter,i only allow letters,0,0,Intent,i only allow letters
+2271,MooseSystemComplexityLocator,self openon moosemodel root allmodels last allmodelclasses,0,0,Intent,self openon moosemodel root allmodels last allmodelclasses
+2198,MooseEntity,"using this mechanism, a package can extend an entity to add more state.",0,0,Intent,using this mechanism a package can extend an entity to add more state
+4054,WAImageButtonTag,"for accessibility reasons, authors should provide alternate text for the image via the alt attribute.",0,0,Intent,for accessibility reasons authors should provide alternate text for the image via the alt attribute
+2933,RTAbstractExample,errors orderedcollection new.,0,0,Intent,errors orderedcollection new
+1492,GtRlMajorVersionComputation,if the symbolic version number on which i am applied has a patch or a minor number i reset them to zero in the created version number.,0,0,Intent,if the symbolic version number on which i am applied has a patch or a minor number i reset them to zero in the created version number
+2808,PMKolmogorovSmirnov1Sample,FALSE,0,0,Intent,FALSE
+3976,WAExpiringCache,after so many seconds of inactivity a session is considered expired.,0,0,Intent,after so many seconds of inactivity a session is considered expired
+3469,RTLineDecorationExample,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2 .,0,0,Intent,edges add rtdecoratedline new filleddiamondhead emptycircletail color color red width 2 attachpoint rtrectangleattachpoint new offset 15 edgefrom b1 to b2
+2302,TDependencyQueries,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass or its children as target,0,0,Intent,will return a mooseincomingqueryresult containing the famixinheritance associations having afamixclass or its children as target
+1979,FMMSEPrinter,printer stream contents,0,0,Intent,printer stream contents
+4324,WAUpTimeTracker,at system startup the imageboottime is re set automatically.,0,0,Intent,at system startup the imageboottime is re set automatically
+743,BlTextElementMeasurementStrategyExamples,"there is no perfect strategy, therefore understanding the differences between them is an important step in learning how to work with text in bloc.",0,0,Intent,there is no perfect strategy therefore understanding the differences between them is an important step in learning how to work with text in bloc
+851,BrExamplesShowroom,tabs,0,0,Intent,tabs
+2209,MooseEntity,this is achieved by means of pragmas,0,0,Intent,this is achieved by means of pragmas
+2301,TDependencyQueries,afamixclass query #in with famixinheritance.,0,0,Intent,afamixclass query in with famixinheritance
+8,BlArrowheadSimpleArrow,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle.,0,0,Intent,it is possible hovewer to customize a length fraction how long should be the outer arrow compared to the length of the side of a nose triangle
+2098,MalKruskal,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph.,0,0,Intent,kruskal s algorithm is a greedy algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph
+2804,PMKolmogorovSmirnov1Sample,"normal distribution 0, 1",0,0,Intent,normal distribution 0 1
+3005,RTBezier3Line,edge lineshape edgefrom e1 to e2.,0,0,Intent,edge lineshape edgefrom e1 to e2
+907,BrGlamorousIcons,gt icons asfilereference,0,0,Intent,gt icons asfilereference
+3090,RTCalendarExample,index value 11 01 1.,0,0,Intent,index value 11 01 1
+2593,PRInputFileAnnotation,i can have in parameter,0,0,Intent,i can have in parameter
+2200,MooseEntity,this is an important mechanism to enable extensibility and modularity.,0,0,Intent,this is an important mechanism to enable extensibility and modularity
+431,BlLayout,the space starts the layouting process on the root element of that space.,0,0,Intent,the space starts the layouting process on the root element of that space
+825,BrExamplesShowroom,in the example below we show all existing button styles,0,0,Intent,in the example below we show all existing button styles
+2207,MooseEntity,meta descriptions,0,0,Intent,meta descriptions
+2100,MalKruskal,"if the graph is not connected, then it finds a minimum spanning forest a minimum spanning tree for each connected component .",0,0,Intent,if the graph is not connected then it finds a minimum spanning forest a minimum spanning tree for each connected component
+3890,WACookie,browser support,0,0,Intent,browser support
+3399,RTLabeled,the label may be particularized using #text in the default string representation is not sufficient.,0,0,Intent,the label may be particularized using text in the default string representation is not sufficient
+3171,RTExperimentalExample,rtexperimentalexample new installtitle boxselectionforedges,0,0,Intent,rtexperimentalexample new installtitle boxselectionforedges
+3048,RTBox,"eg,",0,0,Intent,eg
+4275,WASelection,selection,0,0,Intent,selection
+1599,SpartaCanvas,canvas transform,0,0,Intent,canvas transform
+1426,GtPlotterAxisProjection,a projection of a domain object on discrete axis is an index of that object in a data set,0,0,Intent,a projection of a domain object on discrete axis is an index of that object in a data set
+1749,TSpartaCompositeFilter,source filter1,0,0,Intent,source filter1
+91,BlChildrenSubset,example blchildrensubsetexamples #childrenwithmultiplecombinedsubsets,0,0,Intent,example blchildrensubsetexamples childrenwithmultiplecombinedsubsets
+1603,SpartaCanvas,fill previously created path fith linear gradient,0,0,Intent,fill previously created path fith linear gradient
+2903,PMStateTime,"we don t want to use point, since state may be a vector quantity, and the behavior of array @ number is a little off it stores points in an array, what we want is the array itself in state, and the scalar quantity in time .",0,0,Intent,we don t want to use point since state may be a vector quantity and the behavior of array @ number is a little off it stores points in an array what we want is the array itself in state and the scalar quantity in time
+2745,PMAdditionalTest,"here are tests that would be in math tests dhb numerical, if it could construct random matrices",0,0,Intent,here are tests that would be in math tests dhb numerical if it could construct random matrices
+95,BlChildrenSubset,api,0,0,Intent,api
+562,BlMatrixDecomposition,3d 4x4 matrices are decomposed as follows,0,0,Intent,3d 4x4 matrices are decomposed as follows
+3500,RTLinePathBuilder,an interpolator a way to create lines in svg,0,0,Intent,an interpolator a way to create lines in svg
+246,BlGridLayout,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently.,0,0,Intent,all children of an element with gridlayout must use gridconstraints that allows users to configure how children are located within grid independently
+613,BlMouseProcessor,"from mouse down, mouse up, and mouse move events.",0,0,Intent,from mouse down mouse up and mouse move events
+3406,RTLabeled,v,0,0,Intent,v
+1585,SpartaCanvas,lineto 200@200,0,0,Intent,lineto 200@200
+2440,PPSea,context,0,0,Intent,context
+198,BlElementRemovedEvent,child blelement new.,0,0,Intent,child blelement new
+1596,SpartaCanvas,1 color blue .,0,0,Intent,1 color blue
+3008,RTBezier3Line,e2 @ rtdraggable.,0,0,Intent,e2 @ rtdraggable
+4030,WAFormTag,"buttons will always be evaluated last, no matter",0,0,Intent,buttons will always be evaluated last no matter
+1604,SpartaCanvas,language smalltalk,0,0,Intent,language smalltalk
+3357,RTHighlightableWithCursor,nodes b nodes collection withallsubclasses .,0,0,Intent,nodes b nodes collection withallsubclasses
+3744,RTWeightedCircleLayout,v rtview new.,0,0,Intent,v rtview new
+1436,GtProtoTasker,tasker is responsible for collectin class gttaskertask tasks and executing them when requested.,0,0,Intent,tasker is responsible for collectin class gttaskertask tasks and executing them when requested
+2651,PRPhase,acollection,0,0,Intent,acollection
+1140,GtGradAbstractTreeLayout,"these shapes are initially formed for each leaf, so that the polyline goes around the node, but leaves the left side open.",0,0,Intent,these shapes are initially formed for each leaf so that the polyline goes around the node but leaves the left side open
+2761,PMExponentialGenerator,"the default randomgenerator is pmrandom, but can be modified.",0,0,Intent,the default randomgenerator is pmrandom but can be modified
+1826,XdDocumentsExamples,znbase64encoder new,0,0,Intent,znbase64encoder new
+1750,TSpartaCompositeFilter,source filter2,0,0,Intent,source filter2
+2419,PPSea,xac,0,0,Intent,xac
+3068,RTCalendarExample,dictionary dictionary new.,0,0,Intent,dictionary dictionary new
+4112,WALabelledFormDialog,asymbol #name iftrue ^ your name .,0,0,Intent,asymbol name iftrue your name
+652,BlRectangleShapeWithArrowExplanation,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape #moveby to the topedge,0,0,Intent,by default the topedge of the rectangle is an instance of class bllineshape which can be translated by sending method bllineshape moveby to the topedge
+760,BlTextElementMeasurementStrategyExamples,"it may be useful for displaying a short piece of a text, usually a word centered within a larger element.",0,0,Intent,it may be useful for displaying a short piece of a text usually a word centered within a larger element
+4095,WALabelledFormDialog,labelledformdialogexample subclass of walabelledformdialog instance methods,0,0,Intent,labelledformdialogexample subclass of walabelledformdialog instance methods
+3474,RTLineDecorationExample,edges do each each update .,0,0,Intent,edges do each each update
+1938,FMModel,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one.,0,0,Intent,i will initialize myself with a new fmmetamodel but this one can be replaced by an existing one
+1484,GtRlCommitAndTagReleaseAction,see method gtrlsemantictagreleasestrategy #commitandtagrelease for more implementation details.,0,0,Intent,see method gtrlsemantictagreleasestrategy commitandtagrelease for more implementation details
+2650,PRPhase,pillartransformer 1 the parameter is the priority of the transformation,0,0,Intent,pillartransformer 1 the parameter is the priority of the transformation
+3550,RTRectangleAttachPoint,l s edgefrom e1 to e2.,0,0,Intent,l s edgefrom e1 to e2
+729,BlTextBackgroundAttribute,brtextbackgroundattribute paint color yellow,0,0,Intent,brtextbackgroundattribute paint color yellow
+2214,MooseEntity,package yourpackage,0,0,Intent,package yourpackage
+648,BlRectangleShapeWithArrowExplanation,example blrectangleshapewitharrowexplanation #rectangleshape previewshow #gtlivefor previewexpanded true previewheight 250,0,0,Intent,example blrectangleshapewitharrowexplanation rectangleshape previewshow gtlivefor previewexpanded true previewheight 250
+1602,SpartaCanvas,apply.,0,0,Intent,apply
+931,BrPagerPagePreviewResizeListener,i update the size of a page preview element in a scroll bar according to the size of a corresponding page,0,0,Intent,i update the size of a page preview element in a scroll bar according to the size of a corresponding page
+3063,RTCalendarExample,rtcalendarexample new installtitle visualizationcsv,0,0,Intent,rtcalendarexample new installtitle visualizationcsv
+3392,RTHistogramSet,the histogram gives you a distribution frequency over the points given.,0,0,Intent,the histogram gives you a distribution frequency over the points given
+297,BlGridLayoutArc,i am used by grid layout instead of dictionary of span value key value pair for performance reasons.,0,0,Intent,i am used by grid layout instead of dictionary of span value key value pair for performance reasons
+3768,TROSMShape,position,0,0,Intent,position
+1282,GtGraphTreemapSliceHorizontalLayout,example,0,0,Intent,example
+3784,TROSMShape,lon to roassal space l 40075016686 l 360,0,0,Intent,lon to roassal space l 40075016686 l 360
+1501,GtRlReleaseConfiguration,i model options for configuring how releases are performed.,0,0,Intent,i model options for configuring how releases are performed
+1450,GtRemoteInspector,public api and key messages,0,0,Intent,public api and key messages
+3853,WAComboResponse,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections .,0,0,Intent,flushing a response will sent all previously buffered data using chunked transfer encoding which preserves persistent connections
+1751,TSpartaCompositeFilter,source filter3,0,0,Intent,source filter3
+1827,XdDocumentsExamples,breaklines,0,0,Intent,breaklines
+3708,RTVerticalMultipleData,b rtgrapher new.,0,0,Intent,b rtgrapher new
+3579,RTRotatedLabel,v open,0,0,Intent,v open
+1610,SpartaCanvas,stroke triangle with blue color,0,0,Intent,stroke triangle with blue color
