@@ -1,0 +1,986 @@
+02/12/2023 01:10:26 - INFO - __main__ -   Namespace(adam_epsilon=1e-08, beam_size=10, config_name='', dev_filename='final_final_dataset/java/val_data_of_Expand.jsonl', do_eval=True, do_lower_case=False, do_test=True, do_train=True, eval_batch_size=8, eval_steps=-1, gradient_accumulation_steps=1, learning_rate=5e-05, load_model_path=None, local_rank=1, max_grad_norm=1.0, max_source_length=256, max_steps=-1, max_target_length=32, model_name_or_path=None, model_type=None, no_cuda=False, num_train_epochs=120, output_dir='java_Expand_output', seed=42, test_filename='final_final_dataset/java/test_data_of_Expand.jsonl', tokenizer_name='', train_batch_size=8, train_filename='final_final_dataset/java/train_data_of_Expand.jsonl', train_log_filename='java_Expand', train_steps=-1, visible_gpu='0, 1', warmup_steps=0, weight_decay=0.0)
+02/12/2023 01:10:27 - INFO - torch.distributed.distributed_c10d -   Added key: store_based_barrier_key:1 to store for rank: 1
+02/12/2023 01:10:27 - INFO - torch.distributed.distributed_c10d -   Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 2 nodes.
+02/12/2023 01:10:27 - WARNING - __main__ -   Process rank: 0, device: cuda:0, n_gpu: 1, distributed training: True
+02/12/2023 01:10:31 - INFO - __main__ -   model loaded!
+02/12/2023 01:10:31 - INFO - __main__ -   *** Example ***
+02/12/2023 01:10:31 - INFO - __main__ -   idx: 0
+02/12/2023 01:10:31 - INFO - __main__ -   source_tokens: ['<s>', 'Classification', ':', '_meta', '_inf', '_services', '_com', '_va', 'adin', '_server', '_va', 'adin', 'service', 'init', 'listener', '_file', '_present', '_in', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   source_ids: 1 19168 30 2191 8286 4028 532 14162 25422 1438 14162 25422 3278 2738 12757 585 3430 316 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   source_mask: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_tokens: ['<s>', 'true', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   target_ids: 1 3767 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_mask: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   *** Example ***
+02/12/2023 01:10:31 - INFO - __main__ -   idx: 1
+02/12/2023 01:10:31 - INFO - __main__ -   source_tokens: ['<s>', 'Classification', ':', '_portlet', '_request', '_for', '_webs', 'phere', '_portal', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   source_ids: 1 19168 30 13114 590 364 6670 9346 11899 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   source_mask: 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_tokens: ['<s>', 'true', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   target_ids: 1 3767 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_mask: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   *** Example ***
+02/12/2023 01:10:31 - INFO - __main__ -   idx: 2
+02/12/2023 01:10:31 - INFO - __main__ -   source_tokens: ['<s>', 'Classification', ':', '_this', '_is', '_important', '_when', '_the', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   source_ids: 1 19168 30 333 353 10802 1347 326 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   source_mask: 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_tokens: ['<s>', 'true', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   target_ids: 1 3767 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_mask: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   *** Example ***
+02/12/2023 01:10:31 - INFO - __main__ -   idx: 3
+02/12/2023 01:10:31 - INFO - __main__ -   source_tokens: ['<s>', 'Classification', ':', '_p', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   source_ids: 1 19168 30 293 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   source_mask: 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_tokens: ['<s>', 'true', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   target_ids: 1 3767 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_mask: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   *** Example ***
+02/12/2023 01:10:31 - INFO - __main__ -   idx: 4
+02/12/2023 01:10:31 - INFO - __main__ -   source_tokens: ['<s>', 'Classification', ':', '_non', '_javadoc', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   source_ids: 1 19168 30 1661 30829 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   source_mask: 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_tokens: ['<s>', 'true', '</s>']
+02/12/2023 01:10:31 - INFO - __main__ -   target_ids: 1 3767 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:31 - INFO - __main__ -   target_mask: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+02/12/2023 01:10:32 - INFO - __main__ -   ***** Running training *****
+02/12/2023 01:10:32 - INFO - __main__ -     Num examples = 1427
+02/12/2023 01:10:32 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:10:32 - INFO - __main__ -     Num epoch = 120
+02/12/2023 01:10:33 - INFO - torch.nn.parallel.distributed -   Reducer buckets have been rebuilt in this iteration.
+02/12/2023 01:10:59 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:10:59 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:10:59 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:11:03 - INFO - __main__ -     eval_ppl = 1.41829
+02/12/2023 01:11:03 - INFO - __main__ -     global_step = 91
+02/12/2023 01:11:03 - INFO - __main__ -     train_loss = 9.8387
+02/12/2023 01:11:03 - INFO - __main__ -     ********************
+02/12/2023 01:11:05 - INFO - __main__ -     Best ppl:1.41829
+02/12/2023 01:11:05 - INFO - __main__ -     ********************
+02/12/2023 01:11:17 - INFO - __main__ -   Epoch 0, the accuracy is 0.0
+02/12/2023 01:11:43 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:11:43 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:11:43 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:11:47 - INFO - __main__ -     eval_ppl = 1.00849
+02/12/2023 01:11:47 - INFO - __main__ -     global_step = 181
+02/12/2023 01:11:47 - INFO - __main__ -     train_loss = 1.9096
+02/12/2023 01:11:47 - INFO - __main__ -     ********************
+02/12/2023 01:11:49 - INFO - __main__ -     Best ppl:1.00849
+02/12/2023 01:11:49 - INFO - __main__ -     ********************
+02/12/2023 01:11:57 - INFO - __main__ -   Epoch 1, the accuracy is 0.7361111111111112
+02/12/2023 01:12:23 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:12:23 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:12:23 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:12:27 - INFO - __main__ -     eval_ppl = 1.0078
+02/12/2023 01:12:27 - INFO - __main__ -     global_step = 271
+02/12/2023 01:12:27 - INFO - __main__ -     train_loss = 0.2084
+02/12/2023 01:12:27 - INFO - __main__ -     ********************
+02/12/2023 01:12:29 - INFO - __main__ -     Best ppl:1.0078
+02/12/2023 01:12:29 - INFO - __main__ -     ********************
+02/12/2023 01:12:36 - INFO - __main__ -   Epoch 2, the accuracy is 0.7380952380952381
+02/12/2023 01:13:02 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:13:02 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:13:02 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:13:06 - INFO - __main__ -     eval_ppl = 1.00758
+02/12/2023 01:13:06 - INFO - __main__ -     global_step = 361
+02/12/2023 01:13:06 - INFO - __main__ -     train_loss = 0.1923
+02/12/2023 01:13:06 - INFO - __main__ -     ********************
+02/12/2023 01:13:07 - INFO - __main__ -     Best ppl:1.00758
+02/12/2023 01:13:07 - INFO - __main__ -     ********************
+02/12/2023 01:13:15 - INFO - __main__ -   Epoch 3, the accuracy is 0.7380952380952381
+02/12/2023 01:13:41 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:13:41 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:13:41 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:13:45 - INFO - __main__ -     eval_ppl = 1.00731
+02/12/2023 01:13:45 - INFO - __main__ -     global_step = 451
+02/12/2023 01:13:45 - INFO - __main__ -     train_loss = 0.1854
+02/12/2023 01:13:45 - INFO - __main__ -     ********************
+02/12/2023 01:13:47 - INFO - __main__ -     Best ppl:1.00731
+02/12/2023 01:13:47 - INFO - __main__ -     ********************
+02/12/2023 01:13:54 - INFO - __main__ -   Epoch 4, the accuracy is 0.751984126984127
+02/12/2023 01:14:20 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:14:20 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:14:20 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:14:25 - INFO - __main__ -     eval_ppl = 1.00685
+02/12/2023 01:14:25 - INFO - __main__ -     global_step = 541
+02/12/2023 01:14:25 - INFO - __main__ -     train_loss = 0.1707
+02/12/2023 01:14:25 - INFO - __main__ -     ********************
+02/12/2023 01:14:26 - INFO - __main__ -     Best ppl:1.00685
+02/12/2023 01:14:26 - INFO - __main__ -     ********************
+02/12/2023 01:14:33 - INFO - __main__ -   Epoch 5, the accuracy is 0.7678571428571429
+02/12/2023 01:14:59 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:14:59 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:14:59 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:15:03 - INFO - __main__ -     eval_ppl = 1.00654
+02/12/2023 01:15:03 - INFO - __main__ -     global_step = 631
+02/12/2023 01:15:03 - INFO - __main__ -     train_loss = 0.1615
+02/12/2023 01:15:03 - INFO - __main__ -     ********************
+02/12/2023 01:15:04 - INFO - __main__ -     Best ppl:1.00654
+02/12/2023 01:15:04 - INFO - __main__ -     ********************
+02/12/2023 01:15:11 - INFO - __main__ -   Epoch 6, the accuracy is 0.7936507936507936
+02/12/2023 01:15:37 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:15:37 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:15:37 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:15:42 - INFO - __main__ -     eval_ppl = 1.00641
+02/12/2023 01:15:42 - INFO - __main__ -     global_step = 721
+02/12/2023 01:15:42 - INFO - __main__ -     train_loss = 0.1523
+02/12/2023 01:15:42 - INFO - __main__ -     ********************02/12/2023 01:15:43 - INFO - __main__ -     Best ppl:1.00641
+02/12/2023 01:15:43 - INFO - __main__ -     ********************
+002/12/2023 01:15:50 - INFO - __main__ -   Epoch 7, the accuracy is 0.805555555555555602/12/2023 01:16:16 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:16:16 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:16:16 - INFO - __main__ -     Batch size = 8
+002/12/2023 01:16:20 - INFO - __main__ -     eval_ppl = 1.00639
+02/12/2023 01:16:20 - INFO - __main__ -     global_step = 811
+02/12/2023 01:16:20 - INFO - __main__ -     train_loss = 0.1287
+02/12/2023 01:16:20 - INFO - __main__ -     ********************02/12/2023 01:16:22 - INFO - __main__ -     Best ppl:1.00639
+02/12/2023 01:16:22 - INFO - __main__ -     ********************
+02/12/2023 01:16:29 - INFO - __main__ -   Epoch 8, the accuracy is 0.7976190476190477
+02/12/2023 01:16:55 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:16:55 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:16:55 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:17:00 - INFO - __main__ -     eval_ppl = 1.00614
+02/12/2023 01:17:00 - INFO - __main__ -     global_step = 901
+02/12/2023 01:17:00 - INFO - __main__ -     train_loss = 0.1108
+02/12/2023 01:17:00 - INFO - __main__ -     ********************
+02/12/2023 01:17:01 - INFO - __main__ -     Best ppl:1.00614
+02/12/2023 01:17:01 - INFO - __main__ -     ********************
+002/12/2023 01:17:08 - INFO - __main__ -   Epoch 9, the accuracy is 0.813492063492063502/12/2023 01:17:34 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:17:34 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:17:34 - INFO - __main__ -     Batch size = 8
+002/12/2023 01:17:38 - INFO - __main__ -     eval_ppl = 1.0067
+02/12/2023 01:17:38 - INFO - __main__ -     global_step = 991
+02/12/2023 01:17:38 - INFO - __main__ -     train_loss = 0.0861
+02/12/2023 01:17:38 - INFO - __main__ -     ********************002/12/2023 01:17:45 - INFO - __main__ -   Epoch 10, the accuracy is 0.7916666666666666002/12/2023 01:18:11 - INFO - __main__ -   
+***** Running evaluation *****002/12/2023 01:18:11 - INFO - __main__ -     Num examples = 504002/12/2023 01:18:11 - INFO - __main__ -     Batch size = 8002/12/2023 01:18:15 - INFO - __main__ -     eval_ppl = 1.00755
+02/12/2023 01:18:15 - INFO - __main__ -     global_step = 1081
+02/12/2023 01:18:15 - INFO - __main__ -     train_loss = 0.0695
+02/12/2023 01:18:15 - INFO - __main__ -     ********************02/12/2023 01:18:23 - INFO - __main__ -   Epoch 11, the accuracy is 0.8353174603174603
+02/12/2023 01:18:49 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:18:49 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:18:49 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:18:53 - INFO - __main__ -     eval_ppl = 1.01113
+02/12/2023 01:18:53 - INFO - __main__ -     global_step = 1171
+02/12/2023 01:18:53 - INFO - __main__ -     train_loss = 0.0545
+02/12/2023 01:18:53 - INFO - __main__ -     ********************
+002/12/2023 01:19:00 - INFO - __main__ -   Epoch 12, the accuracy is 0.8194444444444444002/12/2023 01:19:26 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:19:26 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:19:26 - INFO - __main__ -     Batch size = 8002/12/2023 01:19:30 - INFO - __main__ -     eval_ppl = 1.01157
+02/12/2023 01:19:30 - INFO - __main__ -     global_step = 1261
+02/12/2023 01:19:30 - INFO - __main__ -     train_loss = 0.0526
+02/12/2023 01:19:30 - INFO - __main__ -     ********************002/12/2023 01:19:37 - INFO - __main__ -   Epoch 13, the accuracy is 0.831349206349206402/12/2023 01:20:03 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:20:03 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:20:03 - INFO - __main__ -     Batch size = 8
+002/12/2023 01:20:07 - INFO - __main__ -     eval_ppl = 1.01274
+02/12/2023 01:20:07 - INFO - __main__ -     global_step = 1351
+02/12/2023 01:20:07 - INFO - __main__ -     train_loss = 0.0438
+02/12/2023 01:20:07 - INFO - __main__ -     ********************02/12/2023 01:20:14 - INFO - __main__ -   Epoch 14, the accuracy is 0.8273809523809523
+02/12/2023 01:20:41 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:20:41 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:20:41 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:20:45 - INFO - __main__ -     eval_ppl = 1.0173
+02/12/2023 01:20:45 - INFO - __main__ -     global_step = 1441
+02/12/2023 01:20:45 - INFO - __main__ -     train_loss = 0.03
+02/12/2023 01:20:45 - INFO - __main__ -     ********************
+02/12/2023 01:20:52 - INFO - __main__ -   Epoch 15, the accuracy is 0.8333333333333334
+02/12/2023 01:21:18 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:21:18 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:21:18 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:21:23 - INFO - __main__ -     eval_ppl = 1.01214
+02/12/2023 01:21:23 - INFO - __main__ -     global_step = 1531
+02/12/2023 01:21:23 - INFO - __main__ -     train_loss = 0.028
+02/12/2023 01:21:23 - INFO - __main__ -     ********************
+02/12/2023 01:21:30 - INFO - __main__ -   Epoch 16, the accuracy is 0.8293650793650794
+02/12/2023 01:21:56 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:21:56 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:21:56 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:22:00 - INFO - __main__ -     eval_ppl = 1.01314
+02/12/2023 01:22:00 - INFO - __main__ -     global_step = 1621
+02/12/2023 01:22:00 - INFO - __main__ -     train_loss = 0.0222
+02/12/2023 01:22:00 - INFO - __main__ -     ******************02/02/12/2023 01:22:07 - INFO - __main__ -   Epoch 17, the accuracy is 0.8412698412698402/12/2023 01:22:33 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:22:33 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:22:33 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:22:37 - INFO - __main__ -     eval_ppl = 1.01358
+02/12/2023 01:22:37 - INFO - __main__ -     global_step = 1711
+02/12/2023 01:22:37 - INFO - __main__ -     train_loss = 0.0185
+02/12/2023 01:22:37 - INFO - __main__ -     ******************02/12/2023 01:22:44 - INFO - __main__ -   Epoch 18, the accuracy is 0.8253968253968254
+02/12/2023 01:23:11 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:23:11 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:23:11 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:23:15 - INFO - __main__ -     eval_ppl = 1.01394
+02/12/2023 01:23:15 - INFO - __main__ -     global_step = 1801
+02/12/2023 01:23:15 - INFO - __main__ -     train_loss = 0.0197
+02/12/2023 01:23:15 - INFO - __main__ -     ********************
+02/02/12/2023 01:23:22 - INFO - __main__ -   Epoch 19, the accuracy is 0.8174603174603102/12/2023 01:23:48 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:23:48 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:23:48 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:23:52 - INFO - __main__ -     eval_ppl = 1.0164
+02/12/2023 01:23:52 - INFO - __main__ -     global_step = 1891
+02/12/2023 01:23:52 - INFO - __main__ -     train_loss = 0.0186
+02/12/2023 01:23:52 - INFO - __main__ -     *****************02/12/2023 01:23:59 - INFO - __main__ -   Epoch 20, the accuracy is 0.8333333333333334
+02/12/2023 01:24:25 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:24:25 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:24:25 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:24:30 - INFO - __main__ -     eval_ppl = 1.0141
+02/12/2023 01:24:30 - INFO - __main__ -     global_step = 1981
+02/12/2023 01:24:30 - INFO - __main__ -     train_loss = 0.0271
+02/12/2023 01:24:30 - INFO - __main__ -     ********************
+02/12/2023 01:24:37 - INFO - __main__ -   Epoch 21, the accuracy is 0.8095238095238095
+02/12/2023 01:25:03 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:25:03 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:25:03 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:25:08 - INFO - __main__ -     eval_ppl = 1.01489
+02/12/2023 01:25:08 - INFO - __main__ -     global_step = 2071
+02/12/2023 01:25:08 - INFO - __main__ -     train_loss = 0.0212
+02/12/2023 01:25:08 - INFO - __main__ -     ********************
+02/12/2023 01:25:15 - INFO - __main__ -   Epoch 22, the accuracy is 0.7956349206349206
+02/12/2023 01:25:41 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:25:41 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:25:41 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:25:46 - INFO - __main__ -     eval_ppl = 1.01459
+02/12/2023 01:25:46 - INFO - __main__ -     global_step = 2161
+02/12/2023 01:25:46 - INFO - __main__ -     train_loss = 0.0216
+02/12/2023 01:25:46 - INFO - __main__ -     ********************
+02/12/2023 01:25:53 - INFO - __main__ -   Epoch 23, the accuracy is 0.7896825396825397
+02/12/2023 01:26:19 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:26:19 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:26:19 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:26:23 - INFO - __main__ -     eval_ppl = 1.01507
+02/12/2023 01:26:23 - INFO - __main__ -     global_step = 2251
+02/12/2023 01:26:23 - INFO - __main__ -     train_loss = 0.0203
+02/12/2023 01:26:23 - INFO - __main__ -     ********************
+02/12/2023 01:26:31 - INFO - __main__ -   Epoch 24, the accuracy is 0.8055555555555556
+02/12/2023 01:26:57 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:26:57 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:26:57 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:27:01 - INFO - __main__ -     eval_ppl = 1.01586
+02/12/2023 01:27:01 - INFO - __main__ -     global_step = 2341
+02/12/2023 01:27:01 - INFO - __main__ -     train_loss = 0.0176
+02/12/2023 01:27:01 - INFO - __main__ -     *****************02/102/12/2023 01:27:08 - INFO - __main__ -   Epoch 25, the accuracy is 0.805555555555502/12/2023 01:27:34 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:27:34 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:27:34 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:27:38 - INFO - __main__ -     eval_ppl = 1.01661
+02/12/2023 01:27:38 - INFO - __main__ -     global_step = 2431
+02/12/2023 01:27:38 - INFO - __main__ -     train_loss = 0.015
+02/12/2023 01:27:38 - INFO - __main__ -     ******************02/02/12/2023 01:27:45 - INFO - __main__ -   Epoch 26, the accuracy is 0.8234126984126902/02/12/2023 01:28:11 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:28:11 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:28:11 - INFO - __main__ -     Batch size =02/02/12/2023 01:28:15 - INFO - __main__ -     eval_ppl = 1.01708
+02/12/2023 01:28:15 - INFO - __main__ -     global_step = 2521
+02/12/2023 01:28:15 - INFO - __main__ -     train_loss = 0.0154
+02/12/2023 01:28:15 - INFO - __main__ -     ******************02/02/12/2023 01:28:22 - INFO - __main__ -   Epoch 27, the accuracy is 0.8154761904761902/12/2023 01:28:48 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:28:48 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:28:48 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:28:52 - INFO - __main__ -     eval_ppl = 1.0169
+02/12/2023 01:28:52 - INFO - __main__ -     global_step = 2611
+02/12/2023 01:28:52 - INFO - __main__ -     train_loss = 0.0158
+02/12/2023 01:28:52 - INFO - __main__ -     ******************02/02/12/2023 01:28:58 - INFO - __main__ -   Epoch 28, the accuracy is 0.8035714285714202/02/12/2023 01:29:24 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:29:24 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:29:24 - INFO - __main__ -     Batch size =02/02/12/2023 01:29:29 - INFO - __main__ -     eval_ppl = 1.01596
+02/12/2023 01:29:29 - INFO - __main__ -     global_step = 2701
+02/12/2023 01:29:29 - INFO - __main__ -     train_loss = 0.0152
+02/12/2023 01:29:29 - INFO - __main__ -     *****************02/102/12/2023 01:29:35 - INFO - __main__ -   Epoch 29, the accuracy is 0.817460317460302/102/12/2023 01:30:01 - INFO - __main__ -   
+***** Running evaluation **02/102/12/2023 01:30:01 - INFO - __main__ -     Num examples = 02/102/12/2023 01:30:01 - INFO - __main__ -     Batch size 02/102/12/2023 01:30:06 - INFO - __main__ -     eval_ppl = 1.01773
+02/12/2023 01:30:06 - INFO - __main__ -     global_step = 2791
+02/12/2023 01:30:06 - INFO - __main__ -     train_loss = 0.0155
+02/12/2023 01:30:06 - INFO - __main__ -     *****************02/102/12/2023 01:30:12 - INFO - __main__ -   Epoch 30, the accuracy is 0.803571428571402/102/12/2023 01:30:38 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:30:38 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:30:38 - INFO - __main__ -     Batch size 02/102/12/2023 01:30:42 - INFO - __main__ -     eval_ppl = 1.01641
+02/12/2023 01:30:42 - INFO - __main__ -     global_step = 2881
+02/12/2023 01:30:42 - INFO - __main__ -     train_loss = 0.0191
+02/12/2023 01:30:42 - INFO - __main__ -     *****************02/12/2023 01:30:49 - INFO - __main__ -   Epoch 31, the accuracy is 0.7956349206349206
+02/12/2023 01:31:15 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:31:15 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:31:15 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:31:19 - INFO - __main__ -     eval_ppl = 1.01758
+02/12/2023 01:31:19 - INFO - __main__ -     global_step = 2971
+02/12/2023 01:31:19 - INFO - __main__ -     train_loss = 0.018
+02/12/2023 01:31:19 - INFO - __main__ -     ******************02/12/2023 01:31:27 - INFO - __main__ -   Epoch 32, the accuracy is 0.8214285714285714
+02/12/2023 01:31:53 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:31:53 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:31:53 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:31:57 - INFO - __main__ -     eval_ppl = 1.01777
+02/12/2023 01:31:57 - INFO - __main__ -     global_step = 3061
+02/12/2023 01:31:57 - INFO - __main__ -     train_loss = 0.0196
+02/12/2023 01:31:57 - INFO - __main__ -     ********************
+02/12/2023 01:32:04 - INFO - __main__ -   Epoch 33, the accuracy is 0.8253968253968254
+02/12/2023 01:32:30 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:32:30 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:32:30 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:32:34 - INFO - __main__ -     eval_ppl = 1.01609
+02/12/2023 01:32:34 - INFO - __main__ -     global_step = 3151
+02/12/2023 01:32:34 - INFO - __main__ -     train_loss = 0.0168
+02/12/2023 01:32:34 - INFO - __main__ -     ******************02/02/12/2023 01:32:41 - INFO - __main__ -   Epoch 34, the accuracy is 0.8095238095238002/02/12/2023 01:33:07 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:33:07 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:33:07 - INFO - __main__ -     Batch size =02/02/12/2023 01:33:11 - INFO - __main__ -     eval_ppl = 1.01547
+02/12/2023 01:33:11 - INFO - __main__ -     global_step = 3241
+02/12/2023 01:33:11 - INFO - __main__ -     train_loss = 0.0185
+02/12/2023 01:33:11 - INFO - __main__ -     ******************02/02/12/2023 01:33:18 - INFO - __main__ -   Epoch 35, the accuracy is 0.8194444444444402/12/2023 01:33:44 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:33:44 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:33:44 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:33:48 - INFO - __main__ -     eval_ppl = 1.01665
+02/12/2023 01:33:48 - INFO - __main__ -     global_step = 3331
+02/12/2023 01:33:48 - INFO - __main__ -     train_loss = 0.0165
+02/12/2023 01:33:48 - INFO - __main__ -     ******************02/02/12/2023 01:33:55 - INFO - __main__ -   Epoch 36, the accuracy is 0.8055555555555502/02/12/2023 01:34:20 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:34:20 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:34:20 - INFO - __main__ -     Batch size =02/02/12/2023 01:34:25 - INFO - __main__ -     eval_ppl = 1.01943
+02/12/2023 01:34:25 - INFO - __main__ -     global_step = 3421
+02/12/2023 01:34:25 - INFO - __main__ -     train_loss = 0.0145
+02/12/2023 01:34:25 - INFO - __main__ -     ******************02/12/2023 01:34:32 - INFO - __main__ -   Epoch 37, the accuracy is 0.8333333333333334
+02/12/2023 01:34:58 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:34:58 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:34:58 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:35:03 - INFO - __main__ -     eval_ppl = 1.01818
+02/12/2023 01:35:03 - INFO - __main__ -     global_step = 3511
+02/12/2023 01:35:03 - INFO - __main__ -     train_loss = 0.0208
+02/12/2023 01:35:03 - INFO - __main__ -     ********************
+02/02/12/2023 01:35:09 - INFO - __main__ -   Epoch 38, the accuracy is 0.8154761904761902/02/12/2023 01:35:35 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:35:35 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:35:35 - INFO - __main__ -     Batch size =02/02/12/2023 01:35:39 - INFO - __main__ -     eval_ppl = 1.01914
+02/12/2023 01:35:39 - INFO - __main__ -     global_step = 3601
+02/12/2023 01:35:39 - INFO - __main__ -     train_loss = 0.0148
+02/12/2023 01:35:39 - INFO - __main__ -     ******************02/02/12/2023 01:35:46 - INFO - __main__ -   Epoch 39, the accuracy is 0.8214285714285702/12/2023 01:36:12 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:36:12 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:36:12 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:36:16 - INFO - __main__ -     eval_ppl = 1.01923
+02/12/2023 01:36:16 - INFO - __main__ -     global_step = 3691
+02/12/2023 01:36:16 - INFO - __main__ -     train_loss = 0.0149
+02/12/2023 01:36:16 - INFO - __main__ -     ******************02/02/12/2023 01:36:23 - INFO - __main__ -   Epoch 40, the accuracy is 0.8055555555555502/02/12/2023 01:36:49 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:36:49 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:36:49 - INFO - __main__ -     Batch size =02/02/12/2023 01:36:53 - INFO - __main__ -     eval_ppl = 1.01951
+02/12/2023 01:36:53 - INFO - __main__ -     global_step = 3781
+02/12/2023 01:36:53 - INFO - __main__ -     train_loss = 0.0147
+02/12/2023 01:36:53 - INFO - __main__ -     ******************02/12/2023 01:37:00 - INFO - __main__ -   Epoch 41, the accuracy is 0.8174603174603174
+02/12/2023 01:37:27 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:37:27 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:37:27 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:37:31 - INFO - __main__ -     eval_ppl = 1.01761
+02/12/2023 01:37:31 - INFO - __main__ -     global_step = 3871
+02/12/2023 01:37:31 - INFO - __main__ -     train_loss = 0.0206
+02/12/2023 01:37:31 - INFO - __main__ -     ********************
+02/02/12/2023 01:37:38 - INFO - __main__ -   Epoch 42, the accuracy is 0.8234126984126902/12/2023 01:38:03 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:38:03 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:38:03 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:38:08 - INFO - __main__ -     eval_ppl = 1.01436
+02/12/2023 01:38:08 - INFO - __main__ -     global_step = 3961
+02/12/2023 01:38:08 - INFO - __main__ -     train_loss = 0.02
+02/12/2023 01:38:08 - INFO - __main__ -     *******************0202/12/2023 01:38:14 - INFO - __main__ -   Epoch 43, the accuracy is 0.84126984126984102/12/2023 01:38:40 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:38:40 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:38:40 - INFO - __main__ -     Batch size = 8
+0202/12/2023 01:38:45 - INFO - __main__ -     eval_ppl = 1.01534
+02/12/2023 01:38:45 - INFO - __main__ -     global_step = 4051
+02/12/2023 01:38:45 - INFO - __main__ -     train_loss = 0.0157
+02/12/2023 01:38:45 - INFO - __main__ -     *******************0202/12/2023 01:38:51 - INFO - __main__ -   Epoch 44, the accuracy is 0.81349206349206302/12/2023 01:39:17 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:39:17 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:39:17 - INFO - __main__ -     Batch size = 8
+0202/12/2023 01:39:21 - INFO - __main__ -     eval_ppl = 1.01631
+02/12/2023 01:39:21 - INFO - __main__ -     global_step = 4141
+02/12/2023 01:39:21 - INFO - __main__ -     train_loss = 0.0149
+02/12/2023 01:39:21 - INFO - __main__ -     *******************02/12/2023 01:39:29 - INFO - __main__ -   Epoch 45, the accuracy is 0.8194444444444444
+02/12/2023 01:39:55 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:39:55 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:39:55 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:39:59 - INFO - __main__ -     eval_ppl = 1.01613
+02/12/2023 01:39:59 - INFO - __main__ -     global_step = 4231
+02/12/2023 01:39:59 - INFO - __main__ -     train_loss = 0.0175
+02/12/2023 01:39:59 - INFO - __main__ -     ********************
+02/12/2023 01:40:06 - INFO - __main__ -   Epoch 46, the accuracy is 0.8095238095238095
+0202/12/2023 01:40:32 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:40:32 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:40:32 - INFO - __main__ -     Batch size = 0202/12/2023 01:40:36 - INFO - __main__ -     eval_ppl = 1.01613
+02/12/2023 01:40:36 - INFO - __main__ -     global_step = 4321
+02/12/2023 01:40:36 - INFO - __main__ -     train_loss = 0.0151
+02/12/2023 01:40:36 - INFO - __main__ -     *******************0202/12/2023 01:40:43 - INFO - __main__ -   Epoch 47, the accuracy is 0.81944444444444402/12/2023 01:41:09 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:41:09 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:41:09 - INFO - __main__ -     Batch size = 8
+0202/12/2023 01:41:13 - INFO - __main__ -     eval_ppl = 1.01699
+02/12/2023 01:41:13 - INFO - __main__ -     global_step = 4411
+02/12/2023 01:41:13 - INFO - __main__ -     train_loss = 0.0138
+02/12/2023 01:41:13 - INFO - __main__ -     *******************02/12/2023 01:41:20 - INFO - __main__ -   Epoch 48, the accuracy is 0.8313492063492064
+02/12/2023 01:41:47 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:41:47 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:41:47 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:41:51 - INFO - __main__ -     eval_ppl = 1.01786
+02/12/2023 01:41:51 - INFO - __main__ -     global_step = 4501
+02/12/2023 01:41:51 - INFO - __main__ -     train_loss = 0.0176
+02/12/2023 01:41:51 - INFO - __main__ -     ********************
+02/12/2023 01:41:58 - INFO - __main__ -   Epoch 49, the accuracy is 0.8234126984126984
+02/12/2023 01:42:25 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:42:25 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:42:25 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:42:29 - INFO - __main__ -     eval_ppl = 1.01854
+02/12/2023 01:42:29 - INFO - __main__ -     global_step = 4591
+02/12/2023 01:42:29 - INFO - __main__ -     train_loss = 0.0171
+02/12/2023 01:42:29 - INFO - __main__ -     ********************
+0202/12/2023 01:42:35 - INFO - __main__ -   Epoch 50, the accuracy is 0.83730158730158702/12/2023 01:43:01 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:43:01 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:43:01 - INFO - __main__ -     Batch size = 8
+0202/12/2023 01:43:06 - INFO - __main__ -     eval_ppl = 1.01917
+02/12/2023 01:43:06 - INFO - __main__ -     global_step = 4681
+02/12/2023 01:43:06 - INFO - __main__ -     train_loss = 0.0148
+02/12/2023 01:43:06 - INFO - __main__ -     *******************0202/12/2023 01:43:12 - INFO - __main__ -   Epoch 51, the accuracy is 0.83134920634920602/12/2023 01:43:38 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:43:38 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:43:38 - INFO - __main__ -     Batch size = 8
+0202/12/2023 01:43:43 - INFO - __main__ -     eval_ppl = 1.01949
+02/12/2023 01:43:43 - INFO - __main__ -     global_step = 4771
+02/12/2023 01:43:43 - INFO - __main__ -     train_loss = 0.0144
+02/12/2023 01:43:43 - INFO - __main__ -     ******************02/02/12/2023 01:43:49 - INFO - __main__ -   Epoch 52, the accuracy is 0.8392857142857102/12/2023 01:44:15 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:44:15 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:44:15 - INFO - __main__ -     Batch size = 8
+02/02/12/2023 01:44:20 - INFO - __main__ -     eval_ppl = 1.02097
+02/12/2023 01:44:20 - INFO - __main__ -     global_step = 4861
+02/12/2023 01:44:20 - INFO - __main__ -     train_loss = 0.0149
+02/12/2023 01:44:20 - INFO - __main__ -     *****************02/102/12/2023 01:44:26 - INFO - __main__ -   Epoch 53, the accuracy is 0.831349206349202/12/2023 01:44:52 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:44:52 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:44:52 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:44:56 - INFO - __main__ -     eval_ppl = 1.02005
+02/12/2023 01:44:56 - INFO - __main__ -     global_step = 4951
+02/12/2023 01:44:56 - INFO - __main__ -     train_loss = 0.0143
+02/12/2023 01:44:56 - INFO - __main__ -     *****************02/12/2023 01:45:03 - INFO - __main__ -   Epoch 54, the accuracy is 0.8353174603174603
+02/102/12/2023 01:45:29 - INFO - __main__ -   
+***** Running evaluation **02/102/12/2023 01:45:29 - INFO - __main__ -     Num examples = 02/102/12/2023 01:45:29 - INFO - __main__ -     Batch size 02/102/12/2023 01:45:33 - INFO - __main__ -     eval_ppl = 1.02033
+02/12/2023 01:45:33 - INFO - __main__ -     global_step = 5041
+02/12/2023 01:45:33 - INFO - __main__ -     train_loss = 0.0149
+02/12/2023 01:45:33 - INFO - __main__ -     *****************02/12/2023 01:45:41 - INFO - __main__ -   Epoch 55, the accuracy is 0.8293650793650794
+02/12/2023 01:46:07 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:46:07 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:46:07 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:46:11 - INFO - __main__ -     eval_ppl = 1.02044
+02/12/2023 01:46:11 - INFO - __main__ -     global_step = 5131
+02/12/2023 01:46:11 - INFO - __main__ -     train_loss = 0.0162
+02/12/2023 01:46:11 - INFO - __main__ -     ********************
+02/12/2023 01:46:18 - INFO - __main__ -   Epoch 56, the accuracy is 0.8313492063492064
+02/12/2023 01:46:44 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:46:44 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:46:44 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:46:48 - INFO - __main__ -     eval_ppl = 1.02009
+02/12/2023 01:46:48 - INFO - __main__ -     global_step = 5221
+02/12/2023 01:46:48 - INFO - __main__ -     train_loss = 0.0135
+02/12/2023 01:46:48 - INFO - __main__ -     *****************02/102/12/2023 01:46:55 - INFO - __main__ -   Epoch 57, the accuracy is 0.829365079365002/12/2023 01:47:21 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:47:21 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:47:21 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:47:25 - INFO - __main__ -     eval_ppl = 1.02022
+02/12/2023 01:47:25 - INFO - __main__ -     global_step = 5311
+02/12/2023 01:47:25 - INFO - __main__ -     train_loss = 0.0134
+02/12/2023 01:47:25 - INFO - __main__ -     ****************02/1202/12/2023 01:47:32 - INFO - __main__ -   Epoch 58, the accuracy is 0.83333333333302/1202/12/2023 01:47:57 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:47:57 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:47:57 - INFO - __main__ -     Batch size02/1202/12/2023 01:48:02 - INFO - __main__ -     eval_ppl = 1.02116
+02/12/2023 01:48:02 - INFO - __main__ -     global_step = 5401
+02/12/2023 01:48:02 - INFO - __main__ -     train_loss = 0.0136
+02/12/2023 01:48:02 - INFO - __main__ -     ****************02/1202/12/2023 01:48:09 - INFO - __main__ -   Epoch 59, the accuracy is 0.82936507936502/12/2023 01:48:34 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:48:34 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:48:34 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 01:48:39 - INFO - __main__ -     eval_ppl = 1.02138
+02/12/2023 01:48:39 - INFO - __main__ -     global_step = 5491
+02/12/2023 01:48:39 - INFO - __main__ -     train_loss = 0.0148
+02/12/2023 01:48:39 - INFO - __main__ -     ****************02/12/2023 01:48:46 - INFO - __main__ -   Epoch 60, the accuracy is 0.8293650793650794
+02/1202/12/2023 01:49:12 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:49:12 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:49:12 - INFO - __main__ -     Batch size02/1202/12/2023 01:49:16 - INFO - __main__ -     eval_ppl = 1.02279
+02/12/2023 01:49:16 - INFO - __main__ -     global_step = 5581
+02/12/2023 01:49:16 - INFO - __main__ -     train_loss = 0.0143
+02/12/2023 01:49:16 - INFO - __main__ -     ****************02/1202/12/2023 01:49:23 - INFO - __main__ -   Epoch 61, the accuracy is 0.80753968253902/12/2023 01:49:49 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:49:49 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:49:49 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 01:49:53 - INFO - __main__ -     eval_ppl = 1.02149
+02/12/2023 01:49:53 - INFO - __main__ -     global_step = 5671
+02/12/2023 01:49:53 - INFO - __main__ -     train_loss = 0.0145
+02/12/2023 01:49:53 - INFO - __main__ -     ****************02/12/2023 01:50:00 - INFO - __main__ -   Epoch 62, the accuracy is 0.8353174603174603
+02/12/2023 01:50:27 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:50:27 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:50:27 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 01:50:31 - INFO - __main__ -     eval_ppl = 1.01809
+02/12/2023 01:50:31 - INFO - __main__ -     global_step = 5761
+02/12/2023 01:50:31 - INFO - __main__ -     train_loss = 0.0221
+02/12/2023 01:50:31 - INFO - __main__ -     ****************02/1202/12/2023 01:50:37 - INFO - __main__ -   Epoch 63, the accuracy is 0.78571428571402/12/2023 01:51:03 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:51:03 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:51:03 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 01:51:08 - INFO - __main__ -     eval_ppl = 1.01425
+02/12/2023 01:51:08 - INFO - __main__ -     global_step = 5851
+02/12/2023 01:51:08 - INFO - __main__ -     train_loss = 0.0178
+02/12/2023 01:51:08 - INFO - __main__ -     ****************02/1202/12/2023 01:51:14 - INFO - __main__ -   Epoch 64, the accuracy is 0.81944444444402/1202/12/2023 01:51:40 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:51:40 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:51:40 - INFO - __main__ -     Batch size02/1202/12/2023 01:51:45 - INFO - __main__ -     eval_ppl = 1.01603
+02/12/2023 01:51:45 - INFO - __main__ -     global_step = 5941
+02/12/2023 01:51:45 - INFO - __main__ -     train_loss = 0.0162
+02/12/2023 01:51:45 - INFO - __main__ -     ****************02/12/2023 01:51:51 - INFO - __main__ -   Epoch 65, the accuracy is 0.8214285714285714
+02/12/2023 01:52:17 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:52:17 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:52:17 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 01:52:21 - INFO - __main__ -     eval_ppl = 1.01652
+02/12/2023 01:52:21 - INFO - __main__ -     global_step = 6031
+02/12/2023 01:52:21 - INFO - __main__ -     train_loss = 0.014
+02/12/2023 01:52:21 - INFO - __main__ -     *****************02/102/12/2023 01:52:28 - INFO - __main__ -   Epoch 66, the accuracy is 0.821428571428502/102/12/2023 01:52:54 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:52:54 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:52:54 - INFO - __main__ -     Batch size 02/102/12/2023 01:52:58 - INFO - __main__ -     eval_ppl = 1.01692
+02/12/2023 01:52:58 - INFO - __main__ -     global_step = 6121
+02/12/2023 01:52:58 - INFO - __main__ -     train_loss = 0.0144
+02/12/2023 01:52:58 - INFO - __main__ -     *****************02/12/2023 01:53:06 - INFO - __main__ -   Epoch 67, the accuracy is 0.8234126984126984
+02/12/2023 01:53:32 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:53:32 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:53:32 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:53:36 - INFO - __main__ -     eval_ppl = 1.01769
+02/12/2023 01:53:36 - INFO - __main__ -     global_step = 6211
+02/12/2023 01:53:36 - INFO - __main__ -     train_loss = 0.0137
+02/12/2023 01:53:36 - INFO - __main__ -     *****************02/12/2023 01:53:43 - INFO - __main__ -   Epoch 68, the accuracy is 0.8253968253968254
+02/12/2023 01:54:09 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:54:09 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:54:09 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:54:13 - INFO - __main__ -     eval_ppl = 1.01767
+02/12/2023 01:54:13 - INFO - __main__ -     global_step = 6301
+02/12/2023 01:54:13 - INFO - __main__ -     train_loss = 0.014
+02/12/2023 01:54:13 - INFO - __main__ -     ******************02/12/2023 01:54:20 - INFO - __main__ -   Epoch 69, the accuracy is 0.8234126984126984
+02/12/2023 01:54:47 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:54:47 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:54:47 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:54:51 - INFO - __main__ -     eval_ppl = 1.01796
+02/12/2023 01:54:51 - INFO - __main__ -     global_step = 6391
+02/12/2023 01:54:51 - INFO - __main__ -     train_loss = 0.016
+02/12/2023 01:54:51 - INFO - __main__ -     ********************
+02/12/2023 01:54:58 - INFO - __main__ -   Epoch 70, the accuracy is 0.8253968253968254
+02/12/2023 01:55:24 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:55:24 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:55:24 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:55:29 - INFO - __main__ -     eval_ppl = 1.01851
+02/12/2023 01:55:29 - INFO - __main__ -     global_step = 6481
+02/12/2023 01:55:29 - INFO - __main__ -     train_loss = 0.0142
+02/12/2023 01:55:29 - INFO - __main__ -     *****************02/102/12/2023 01:55:35 - INFO - __main__ -   Epoch 71, the accuracy is 0.823412698412602/12/2023 01:56:01 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:56:01 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:56:01 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:56:06 - INFO - __main__ -     eval_ppl = 1.01893
+02/12/2023 01:56:06 - INFO - __main__ -     global_step = 6571
+02/12/2023 01:56:06 - INFO - __main__ -     train_loss = 0.0138
+02/12/2023 01:56:06 - INFO - __main__ -     *****************02/12/2023 01:56:13 - INFO - __main__ -   Epoch 72, the accuracy is 0.8253968253968254
+02/102/12/2023 01:56:39 - INFO - __main__ -   
+***** Running evaluation **02/102/12/2023 01:56:39 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:56:39 - INFO - __main__ -     Batch size 02/12/2023 01:56:44 - INFO - __main__ -     eval_ppl = 1.01884
+02/12/2023 01:56:44 - INFO - __main__ -     global_step = 6661
+02/12/2023 01:56:44 - INFO - __main__ -     train_loss = 0.0172
+02/12/2023 01:56:44 - INFO - __main__ -     ********************
+02/12/2023 01:56:51 - INFO - __main__ -   Epoch 73, the accuracy is 0.8313492063492064
+02/12/2023 01:57:17 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:57:17 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:57:17 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:57:21 - INFO - __main__ -     eval_ppl = 1.01885
+02/12/2023 01:57:21 - INFO - __main__ -     global_step = 6751
+02/12/2023 01:57:21 - INFO - __main__ -     train_loss = 0.0162
+02/12/2023 01:57:21 - INFO - __main__ -     ********************
+02/12/2023 01:57:29 - INFO - __main__ -   Epoch 74, the accuracy is 0.8293650793650794
+02/12/2023 01:57:55 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:57:55 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:57:55 - INFO - __main__ -     Batch size = 8
+02/12/2023 01:57:59 - INFO - __main__ -     eval_ppl = 1.0186
+02/12/2023 01:57:59 - INFO - __main__ -     global_step = 6841
+02/12/2023 01:57:59 - INFO - __main__ -     train_loss = 0.0162
+02/12/2023 01:57:59 - INFO - __main__ -     ********************
+02/102/12/2023 01:58:06 - INFO - __main__ -   Epoch 75, the accuracy is 0.807539682539602/12/2023 01:58:32 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:58:32 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:58:32 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 01:58:36 - INFO - __main__ -     eval_ppl = 1.0195
+02/12/2023 01:58:36 - INFO - __main__ -     global_step = 6931
+02/12/2023 01:58:36 - INFO - __main__ -     train_loss = 0.0141
+02/12/2023 01:58:36 - INFO - __main__ -     *****************02/102/12/2023 01:58:43 - INFO - __main__ -   Epoch 76, the accuracy is 0.841269841269802/102/12/2023 01:59:09 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:59:09 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:59:09 - INFO - __main__ -     Batch size 02/102/12/2023 01:59:13 - INFO - __main__ -     eval_ppl = 1.01958
+02/12/2023 01:59:13 - INFO - __main__ -     global_step = 7021
+02/12/2023 01:59:13 - INFO - __main__ -     train_loss = 0.0138
+02/12/2023 01:59:13 - INFO - __main__ -     ****************02/12/2023 01:59:20 - INFO - __main__ -   Epoch 77, the accuracy is 0.8392857142857143
+02/12/2023 01:59:46 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 01:59:46 - INFO - __main__ -     Num examples = 504
+02/12/2023 01:59:46 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 01:59:50 - INFO - __main__ -     eval_ppl = 1.01953
+02/12/2023 01:59:50 - INFO - __main__ -     global_step = 7111
+02/12/2023 01:59:50 - INFO - __main__ -     train_loss = 0.0133
+02/12/2023 01:59:50 - INFO - __main__ -     ****************02/1202/12/2023 01:59:57 - INFO - __main__ -   Epoch 78, the accuracy is 0.84325396825302/1202/12/2023 02:00:23 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:00:23 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:00:23 - INFO - __main__ -     Batch size02/1202/12/2023 02:00:27 - INFO - __main__ -     eval_ppl = 1.01933
+02/12/2023 02:00:27 - INFO - __main__ -     global_step = 7201
+02/12/2023 02:00:27 - INFO - __main__ -     train_loss = 0.0142
+02/12/2023 02:00:27 - INFO - __main__ -     ****************02/1202/12/2023 02:00:34 - INFO - __main__ -   Epoch 79, the accuracy is 0.82539682539602/12/2023 02:01:00 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:01:00 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:01:00 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:01:04 - INFO - __main__ -     eval_ppl = 1.01895
+02/12/2023 02:01:04 - INFO - __main__ -     global_step = 7291
+02/12/2023 02:01:04 - INFO - __main__ -     train_loss = 0.0137
+02/12/2023 02:01:04 - INFO - __main__ -     ****************02/1202/12/2023 02:01:11 - INFO - __main__ -   Epoch 80, the accuracy is 0.82936507936502/1202/12/2023 02:01:36 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:01:36 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:01:36 - INFO - __main__ -     Batch size02/1202/12/2023 02:01:41 - INFO - __main__ -     eval_ppl = 1.01896
+02/12/2023 02:01:41 - INFO - __main__ -     global_step = 7381
+02/12/2023 02:01:41 - INFO - __main__ -     train_loss = 0.0133
+02/12/2023 02:01:41 - INFO - __main__ -     ****************02/12/2023 02:01:48 - INFO - __main__ -   Epoch 81, the accuracy is 0.8273809523809523
+02/12/2023 02:02:14 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:02:14 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:02:14 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:02:18 - INFO - __main__ -     eval_ppl = 1.0192
+02/12/2023 02:02:18 - INFO - __main__ -     global_step = 7471
+02/12/2023 02:02:18 - INFO - __main__ -     train_loss = 0.0137
+02/12/2023 02:02:18 - INFO - __main__ -     ****************02/12/2023 02:02:26 - INFO - __main__ -   Epoch 82, the accuracy is 0.8392857142857143
+02/12/2023 02:02:52 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:02:52 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:02:52 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:02:56 - INFO - __main__ -     eval_ppl = 1.0193
+02/12/2023 02:02:56 - INFO - __main__ -     global_step = 7561
+02/12/2023 02:02:56 - INFO - __main__ -     train_loss = 0.0146
+02/12/2023 02:02:56 - INFO - __main__ -     ****************02/12/2023 02:03:03 - INFO - __main__ -   Epoch 83, the accuracy is 0.8333333333333334
+02/12/2023 02:03:29 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:03:29 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:03:29 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:03:34 - INFO - __main__ -     eval_ppl = 1.02014
+02/12/2023 02:03:34 - INFO - __main__ -     global_step = 7651
+02/12/2023 02:03:34 - INFO - __main__ -     train_loss = 0.0169
+02/12/2023 02:03:34 - INFO - __main__ -     ********************
+02/12/2023 02:03:41 - INFO - __main__ -   Epoch 84, the accuracy is 0.8373015873015873
+02/1202/12/2023 02:04:07 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:04:07 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:04:07 - INFO - __main__ -     Batch size02/12/2023 02:04:12 - INFO - __main__ -     eval_ppl = 1.01674
+02/12/2023 02:04:12 - INFO - __main__ -     global_step = 7741
+02/12/2023 02:04:12 - INFO - __main__ -     train_loss = 0.0229
+02/12/2023 02:04:12 - INFO - __main__ -     ********************
+02/12/2023 02:04:19 - INFO - __main__ -   Epoch 85, the accuracy is 0.8234126984126984
+02/12/2023 02:04:45 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:04:45 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:04:45 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:04:50 - INFO - __main__ -     eval_ppl = 1.01604
+02/12/2023 02:04:50 - INFO - __main__ -     global_step = 7831
+02/12/2023 02:04:50 - INFO - __main__ -     train_loss = 0.0151
+02/12/2023 02:04:50 - INFO - __main__ -     ****************02/1202/12/2023 02:04:56 - INFO - __main__ -   Epoch 86, the accuracy is 0.82341269841202/12/2023 02:05:22 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:05:22 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:05:22 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:05:26 - INFO - __main__ -     eval_ppl = 1.01651
+02/12/2023 02:05:26 - INFO - __main__ -     global_step = 7921
+02/12/2023 02:05:26 - INFO - __main__ -     train_loss = 0.0139
+02/12/2023 02:05:26 - INFO - __main__ -     ****************02/1202/12/2023 02:05:33 - INFO - __main__ -   Epoch 87, the accuracy is 0.82738095238002/12/2023 02:05:59 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:05:59 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:05:59 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:06:03 - INFO - __main__ -     eval_ppl = 1.0167
+02/12/2023 02:06:03 - INFO - __main__ -     global_step = 8011
+02/12/2023 02:06:03 - INFO - __main__ -     train_loss = 0.0144
+02/12/2023 02:06:03 - INFO - __main__ -     ****************02/12/2023 02:06:11 - INFO - __main__ -   Epoch 88, the accuracy is 0.8273809523809523
+02/12/2023 02:06:37 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:06:37 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:06:37 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:06:41 - INFO - __main__ -     eval_ppl = 1.01733
+02/12/2023 02:06:41 - INFO - __main__ -     global_step = 8101
+02/12/2023 02:06:41 - INFO - __main__ -     train_loss = 0.016
+02/12/2023 02:06:41 - INFO - __main__ -     ********************
+02/12/2023 02:06:49 - INFO - __main__ -   Epoch 89, the accuracy is 0.8273809523809523
+02/12/2023 02:07:15 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:07:15 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:07:15 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:07:19 - INFO - __main__ -     eval_ppl = 1.01883
+02/12/2023 02:07:19 - INFO - __main__ -     global_step = 8191
+02/12/2023 02:07:19 - INFO - __main__ -     train_loss = 0.0177
+02/12/2023 02:07:19 - INFO - __main__ -     ********************
+02/12/2023 02:07:26 - INFO - __main__ -   Epoch 90, the accuracy is 0.7936507936507936
+02/12/2023 02:07:53 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:07:53 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:07:53 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:07:57 - INFO - __main__ -     eval_ppl = 1.0165
+02/12/2023 02:07:57 - INFO - __main__ -     global_step = 8281
+02/12/2023 02:07:57 - INFO - __main__ -     train_loss = 0.0166
+02/12/2023 02:07:57 - INFO - __main__ -     ********************
+02/12/2023 02:08:04 - INFO - __main__ -   Epoch 91, the accuracy is 0.8234126984126984
+02/12/2023 02:08:31 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:08:31 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:08:31 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:08:35 - INFO - __main__ -     eval_ppl = 1.01714
+02/12/2023 02:08:35 - INFO - __main__ -     global_step = 8371
+02/12/2023 02:08:35 - INFO - __main__ -     train_loss = 0.0166
+02/12/2023 02:08:35 - INFO - __main__ -     ********************
+02/12/2023 02:08:42 - INFO - __main__ -   Epoch 92, the accuracy is 0.8253968253968254
+02/1202/12/2023 02:09:08 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:09:08 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:09:08 - INFO - __main__ -     Batch size02/1202/12/2023 02:09:13 - INFO - __main__ -     eval_ppl = 1.01723
+02/12/2023 02:09:13 - INFO - __main__ -     global_step = 8461
+02/12/2023 02:09:13 - INFO - __main__ -     train_loss = 0.0143
+02/12/2023 02:09:13 - INFO - __main__ -     ****************02/12/2023 02:09:20 - INFO - __main__ -   Epoch 93, the accuracy is 0.8293650793650794
+02/12/2023 02:09:46 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:09:46 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:09:46 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:09:51 - INFO - __main__ -     eval_ppl = 1.01748
+02/12/2023 02:09:51 - INFO - __main__ -     global_step = 8551
+02/12/2023 02:09:51 - INFO - __main__ -     train_loss = 0.0158
+02/12/2023 02:09:51 - INFO - __main__ -     ********************
+02/12/2023 02:09:58 - INFO - __main__ -   Epoch 94, the accuracy is 0.8313492063492064
+02/12/2023 02:10:24 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:10:24 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:10:24 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:10:28 - INFO - __main__ -     eval_ppl = 1.01785
+02/12/2023 02:10:28 - INFO - __main__ -     global_step = 8641
+02/12/2023 02:10:28 - INFO - __main__ -     train_loss = 0.014
+02/12/2023 02:10:28 - INFO - __main__ -     *****************02/102/12/2023 02:10:35 - INFO - __main__ -   Epoch 95, the accuracy is 0.821428571428502/12/2023 02:11:01 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:11:01 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:11:01 - INFO - __main__ -     Batch size = 8
+02/102/12/2023 02:11:05 - INFO - __main__ -     eval_ppl = 1.01797
+02/12/2023 02:11:05 - INFO - __main__ -     global_step = 8731
+02/12/2023 02:11:05 - INFO - __main__ -     train_loss = 0.0142
+02/12/2023 02:11:05 - INFO - __main__ -     *****************02/12/2023 02:11:12 - INFO - __main__ -   Epoch 96, the accuracy is 0.8234126984126984
+02/12/2023 02:11:39 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:11:39 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:11:39 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:11:43 - INFO - __main__ -     eval_ppl = 1.01807
+02/12/2023 02:11:43 - INFO - __main__ -     global_step = 8821
+02/12/2023 02:11:43 - INFO - __main__ -     train_loss = 0.015
+02/12/2023 02:11:43 - INFO - __main__ -     ********************
+02/12/2023 02:11:50 - INFO - __main__ -   Epoch 97, the accuracy is 0.8214285714285714
+02/12/2023 02:12:17 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:12:17 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:12:17 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:12:21 - INFO - __main__ -     eval_ppl = 1.01803
+02/12/2023 02:12:21 - INFO - __main__ -     global_step = 8911
+02/12/2023 02:12:21 - INFO - __main__ -     train_loss = 0.0156
+02/12/2023 02:12:21 - INFO - __main__ -     ********************
+02/12/2023 02:12:28 - INFO - __main__ -   Epoch 98, the accuracy is 0.8214285714285714
+02/12/2023 02:12:54 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:12:54 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:12:54 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:12:59 - INFO - __main__ -     eval_ppl = 1.0181
+02/12/2023 02:12:59 - INFO - __main__ -     global_step = 9001
+02/12/2023 02:12:59 - INFO - __main__ -     train_loss = 0.0158
+02/12/2023 02:12:59 - INFO - __main__ -     ********************
+02/1202/12/2023 02:13:05 - INFO - __main__ -   Epoch 99, the accuracy is 0.82936507936502/12/2023 02:13:31 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:13:31 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:13:31 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:13:36 - INFO - __main__ -     eval_ppl = 1.01817
+02/12/2023 02:13:36 - INFO - __main__ -     global_step = 9091
+02/12/2023 02:13:36 - INFO - __main__ -     train_loss = 0.0132
+02/12/2023 02:13:36 - INFO - __main__ -     ****************02/1202/12/2023 02:13:43 - INFO - __main__ -   Epoch 100, the accuracy is 0.82738095238002/1202/12/2023 02:14:09 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:14:09 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:14:09 - INFO - __main__ -     Batch size02/1202/12/2023 02:14:13 - INFO - __main__ -     eval_ppl = 1.01828
+02/12/2023 02:14:13 - INFO - __main__ -     global_step = 9181
+02/12/2023 02:14:13 - INFO - __main__ -     train_loss = 0.0132
+02/12/2023 02:14:13 - INFO - __main__ -     ****************02/1202/12/2023 02:14:19 - INFO - __main__ -   Epoch 101, the accuracy is 0.82142857142802/12/2023 02:14:45 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:14:45 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:14:45 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:14:50 - INFO - __main__ -     eval_ppl = 1.01833
+02/12/2023 02:14:50 - INFO - __main__ -     global_step = 9271
+02/12/2023 02:14:50 - INFO - __main__ -     train_loss = 0.014
+02/12/2023 02:14:50 - INFO - __main__ -     ****************02/1202/12/2023 02:14:56 - INFO - __main__ -   Epoch 102, the accuracy is 0.82142857142802/1202/12/2023 02:15:22 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:15:22 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:15:22 - INFO - __main__ -     Batch size02/1202/12/2023 02:15:27 - INFO - __main__ -     eval_ppl = 1.0185
+02/12/2023 02:15:27 - INFO - __main__ -     global_step = 9361
+02/12/2023 02:15:27 - INFO - __main__ -     train_loss = 0.0132
+02/12/2023 02:15:27 - INFO - __main__ -     ****************02/1202/12/2023 02:15:33 - INFO - __main__ -   Epoch 103, the accuracy is 0.82539682539602/12/2023 02:15:59 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:15:59 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:15:59 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:16:04 - INFO - __main__ -     eval_ppl = 1.01851
+02/12/2023 02:16:04 - INFO - __main__ -     global_step = 9451
+02/12/2023 02:16:04 - INFO - __main__ -     train_loss = 0.0135
+02/12/2023 02:16:04 - INFO - __main__ -     ****************02/12/2023 02:16:11 - INFO - __main__ -   Epoch 104, the accuracy is 0.8273809523809523
+02/12/2023 02:16:37 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:16:37 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:16:37 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:16:42 - INFO - __main__ -     eval_ppl = 1.01855
+02/12/2023 02:16:42 - INFO - __main__ -     global_step = 9541
+02/12/2023 02:16:42 - INFO - __main__ -     train_loss = 0.0162
+02/12/2023 02:16:42 - INFO - __main__ -     ********************
+02/12/2023 02:16:49 - INFO - __main__ -   Epoch 105, the accuracy is 0.8273809523809523
+02/12/2023 02:17:15 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:17:15 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:17:15 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:17:20 - INFO - __main__ -     eval_ppl = 1.01873
+02/12/2023 02:17:20 - INFO - __main__ -     global_step = 9631
+02/12/2023 02:17:20 - INFO - __main__ -     train_loss = 0.0164
+02/12/2023 02:17:20 - INFO - __main__ -     ********************
+02/1202/12/2023 02:17:26 - INFO - __main__ -   Epoch 106, the accuracy is 0.82936507936502/1202/12/2023 02:17:52 - INFO - __main__ -   
+***** Running evaluation *02/1202/12/2023 02:17:52 - INFO - __main__ -     Num examples =02/1202/12/2023 02:17:52 - INFO - __main__ -     Batch size02/1202/12/2023 02:17:57 - INFO - __main__ -     eval_ppl = 1.01875
+02/12/2023 02:17:57 - INFO - __main__ -     global_step = 9721
+02/12/2023 02:17:57 - INFO - __main__ -     train_loss = 0.0139
+02/12/2023 02:17:57 - INFO - __main__ -     ****************02/1202/12/2023 02:18:03 - INFO - __main__ -   Epoch 107, the accuracy is 0.82936507936502/12/2023 02:18:29 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:18:29 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:18:29 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:18:34 - INFO - __main__ -     eval_ppl = 1.01873
+02/12/2023 02:18:34 - INFO - __main__ -     global_step = 9811
+02/12/2023 02:18:34 - INFO - __main__ -     train_loss = 0.0135
+02/12/2023 02:18:34 - INFO - __main__ -     ****************02/1202/12/2023 02:18:40 - INFO - __main__ -   Epoch 108, the accuracy is 0.82936507936502/12/2023 02:19:06 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:19:06 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:19:06 - INFO - __main__ -     Batch size = 8
+02/1202/12/2023 02:19:10 - INFO - __main__ -     eval_ppl = 1.01877
+02/12/2023 02:19:10 - INFO - __main__ -     global_step = 9901
+02/12/2023 02:19:10 - INFO - __main__ -     train_loss = 0.0137
+02/12/2023 02:19:10 - INFO - __main__ -     ***************02/12/2023 02:19:18 - INFO - __main__ -   Epoch 109, the accuracy is 0.8293650793650794
+02/12/2023 02:19:44 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:19:44 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:19:44 - INFO - __main__ -     Batch size = 8
+02/12/02/12/2023 02:19:48 - INFO - __main__ -     eval_ppl = 1.01883
+02/12/2023 02:19:48 - INFO - __main__ -     global_step = 9991
+02/12/2023 02:19:48 - INFO - __main__ -     train_loss = 0.0135
+02/12/2023 02:19:48 - INFO - __main__ -     ***************02/12/02/12/2023 02:19:55 - INFO - __main__ -   Epoch 110, the accuracy is 0.8273809523802/12/02/12/2023 02:20:21 - INFO - __main__ -   
+***** Running evaluation 02/12/02/12/2023 02:20:21 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:20:21 - INFO - __main__ -     Batch siz02/12/02/12/2023 02:20:25 - INFO - __main__ -     eval_ppl = 1.01892
+02/12/2023 02:20:25 - INFO - __main__ -     global_step = 10081
+02/12/2023 02:20:25 - INFO - __main__ -     train_loss = 0.0131
+02/12/2023 02:20:25 - INFO - __main__ -     **************02/12/2023 02:20:32 - INFO - __main__ -   Epoch 111, the accuracy is 0.8293650793650794
+02/12/2023 02:20:58 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:20:58 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:20:58 - INFO - __main__ -     Batch size = 8
+02/12/202/12/2023 02:21:03 - INFO - __main__ -     eval_ppl = 1.0189
+02/12/2023 02:21:03 - INFO - __main__ -     global_step = 10171
+02/12/2023 02:21:03 - INFO - __main__ -     train_loss = 0.0143
+02/12/2023 02:21:03 - INFO - __main__ -     **************02/12/2023 02:21:10 - INFO - __main__ -   Epoch 112, the accuracy is 0.8293650793650794
+02/12/2023 02:21:36 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:21:36 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:21:36 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:21:41 - INFO - __main__ -     eval_ppl = 1.01894
+02/12/2023 02:21:41 - INFO - __main__ -     global_step = 10261
+02/12/2023 02:21:41 - INFO - __main__ -     train_loss = 0.0158
+02/12/2023 02:21:41 - INFO - __main__ -     ********************
+02/12/2023 02:21:47 - INFO - __main__ -   Epoch 113, the accuracy is 0.8293650793650794
+02/12/2023 02:22:13 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:22:13 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:22:13 - INFO - __main__ -     Batch size = 8
+02/12/202/12/2023 02:22:18 - INFO - __main__ -     eval_ppl = 1.01894
+02/12/2023 02:22:18 - INFO - __main__ -     global_step = 10351
+02/12/2023 02:22:18 - INFO - __main__ -     train_loss = 0.0133
+02/12/2023 02:22:18 - INFO - __main__ -     **************02/12/202/12/2023 02:22:24 - INFO - __main__ -   Epoch 114, the accuracy is 0.829365079302/12/202/12/2023 02:22:50 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:22:50 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:22:50 - INFO - __main__ -     Batch si02/12/202/12/2023 02:22:55 - INFO - __main__ -     eval_ppl = 1.01897
+02/12/2023 02:22:55 - INFO - __main__ -     global_step = 10441
+02/12/2023 02:22:55 - INFO - __main__ -     train_loss = 0.0136
+02/12/2023 02:22:55 - INFO - __main__ -     **************02/12/2023 02:23:02 - INFO - __main__ -   Epoch 115, the accuracy is 0.8293650793650794
+02/12/202/12/2023 02:23:28 - INFO - __main__ -   
+***** Running evaluation02/12/202/12/2023 02:23:28 - INFO - __main__ -     Num examples02/12/202/12/2023 02:23:28 - INFO - __main__ -     Batch si02/12/2023 02:23:32 - INFO - __main__ -     eval_ppl = 1.01902
+02/12/2023 02:23:32 - INFO - __main__ -     global_step = 10531
+02/12/2023 02:23:32 - INFO - __main__ -     train_loss = 0.0156
+02/12/2023 02:23:32 - INFO - __main__ -     ********************
+02/12/2023 02:23:40 - INFO - __main__ -   Epoch 116, the accuracy is 0.8293650793650794
+02/12/2023 02:24:06 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:24:06 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:24:06 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:24:10 - INFO - __main__ -     eval_ppl = 1.01904
+02/12/2023 02:24:10 - INFO - __main__ -     global_step = 10621
+02/12/2023 02:24:10 - INFO - __main__ -     train_loss = 0.0163
+02/12/2023 02:24:10 - INFO - __main__ -     ********************
+02/12/202/12/2023 02:24:17 - INFO - __main__ -   Epoch 117, the accuracy is 0.829365079302/12/2023 02:24:43 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:24:43 - INFO - __main__ -     Num examples = 504
+02/12/2023 02:24:43 - INFO - __main__ -     Batch size = 8
+02/12/202/12/2023 02:24:47 - INFO - __main__ -     eval_ppl = 1.01904
+02/12/2023 02:24:47 - INFO - __main__ -     global_step = 10711
+02/12/2023 02:24:47 - INFO - __main__ -     train_loss = 0.0134
+02/12/2023 02:24:47 - INFO - __main__ -     **************02/12/202/12/2023 02:24:54 - INFO - __main__ -   Epoch 118, the accuracy is 0.829365079302/12/202/12/2023 02:25:20 - INFO - __main__ -   
+***** Running evaluation *****
+02/12/2023 02:25:20 - INFO - __main__ -     Num examples02/12/2023 02:25:20 - INFO - __main__ -     Batch size = 8
+02/12/2023 02:25:24 - INFO - __main__ -     eval_ppl = 1.01904
+02/12/2023 02:25:24 - INFO - __main__ -     global_step = 10801
+02/12/2023 02:25:24 - INFO - __main__ -     train_loss = 0.0155
+02/12/2023 02:25:24 - INFO - __main__ -     ********************
+02/12/2023 02:25:32 - INFO - __main__ -   Epoch 119, the accuracy is 0.8293650793650794
+02/12/2023 02:25:32 - INFO - __main__ -   Test file: final_final_dataset/java/val_data_of_Expand.jsonl
+02/12/2023 02:25:38 - INFO - __main__ -   gold_info:{'all_count': 504, 'Positive': 132, 'Negative': 372}
+02/12/2023 02:25:38 - INFO - __main__ -   pre_info:{'TP': 85, 'FP': 39, 'TN': 333, 'FN': 47}
+02/12/2023 02:25:38 - INFO - __main__ -   Epoch 119, the accuracy is 0.8293650793650794, the precision is 0.6854838709677419, the recall is 0.6439393939393939, the fscore is 0.6640625
+02/12/2023 02:25:38 - INFO - __main__ -   Test file: final_final_dataset/java/test_data_of_Expand.jsonl
+02/12/2023 02:25:44 - INFO - __main__ -   gold_info:{'all_count': 487, 'Positive': 127, 'Negative': 360}
+02/12/2023 02:25:44 - INFO - __main__ -   pre_info:{'TP': 73, 'FP': 36, 'TN': 324, 'FN': 54}
+02/12/2023 02:25:44 - INFO - __main__ -   Epoch 119, the accuracy is 0.8151950718685832, the precision is 0.6697247706422018, the recall is 0.5748031496062992, the fscore is 0.6186440677966101
+966101
