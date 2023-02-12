@@ -1,0 +1,90 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+4751,HeaderRow.java,@author vaadin ltd,0,1,Ownership,@author vaadin ltd
+4929,SimpleGridUI.java,@author vaadin ltd,0,1,Ownership,@author vaadin ltd
+2789,BloomFilter.java,@author dimitris andreou,0,1,Ownership,@author dimitris andreou
+4904,SelectAllEvent.java,@author vaadin ltd,0,1,Ownership,@author vaadin ltd
+5232,VScrollTable.java,@see,0,0,Ownership,@see
+1712,CConfigurationDescriptionCache.java,ul,0,0,Ownership,ul
+4999,VaadinServiceInitListener.java,listener instances are by default discovered and instantiated using,0,0,Ownership,listener instances are by default discovered and instantiated using
+5190,VScrollTable.java,dom^client.focusevent,0,0,Ownership,dom client focusevent
+1178,TextInputFormat.java,.,0,0,Ownership,nan
+574,InfoKeyHandler.java,executes info object.,0,0,Ownership,executes info object
+1702,CConfigurationDescriptionCache.java,li user changes settings in the settings configuration cconfigurationdescription and saves it,0,0,Ownership,li user changes settings in the settings configuration cconfigurationdescription and saves it
+1150,TestTaskCommit.java,special committer that always requires commit.,0,0,Ownership,special committer that always requires commit
+289,DelegatingSSLSocketFactory.java,li,0,0,Ownership,li
+1663,AllTemplateEngineTests.java,@since 40,0,0,Ownership,@since 40
+3798,SmoothRateLimiter.java,maxpermits thresholdpermits 2 warmupperiod stableinterval coldinterval,0,0,Ownership,maxpermits thresholdpermits 2 warmupperiod stableinterval coldinterval
+5388,Window.java,p,0,0,Ownership,p
+5204,VScrollTable.java,example itabpanel just set contained components invisible and back,0,0,Ownership,example itabpanel just set contained components invisible and back
+4311,Binder.java,@link provider .,0,0,Ownership,@link provider
+1164,TestUpgradeDomainBlockPlacementPolicy.java,the test configs upgrade domain for nodes via admin json,0,0,Ownership,the test configs upgrade domain for nodes via admin json
+2548,TracepointActionsPropertyPage.java,property page for tracepoint actions,0,0,Ownership,property page for tracepoint actions
+5152,VScrollTable.java,to detect if the first visible,0,0,Ownership,to detect if the first visible
+1373,Utils.java,this class filters output part files from the given directory,0,0,Ownership,this class filters output part files from the given directory
+4285,Binder.java,if your binding annotation has parameters you can apply different bindings to different specific,0,0,Ownership,if your binding annotation has parameters you can apply different bindings to different specific
+1823,DisplayDsfExecutor.java,@since 10,0,0,Ownership,@since 10
+518,FileSystemApplicationHistoryStore.java,"open a file, while @link #applicationfinished applicationfinishdata is",0,0,Ownership,open a file while @link applicationfinished applicationfinishdata is
+1952,GnuMakefileGenerator.java,this class is used to recursively walk the project and determine which,0,0,Ownership,this class is used to recursively walk the project and determine which
+382,DiskBalancerCluster.java,only a given list is processed and exclusionlist is always honored.,0,0,Ownership,only a given list is processed and exclusionlist is always honored
+1798,CPropertyTester.java,a property tester that determines if a file is an executable or a c c project.,0,0,Ownership,a property tester that determines if a file is an executable or a c c project
+4503,ManagedFilterPipeline.java,pipeline.,0,0,Ownership,pipeline
+2837,CacheBuilder.java,"li time based expiration of entries, measured since last access or last write",0,0,Ownership,li time based expiration of entries measured since last access or last write
+4862,RpcDataProviderExtension.java,@link com^vaadin.v7^client.connectors^gridconnector gridconnector .,0,0,Ownership,@link com vaadin v7 client connectors gridconnector gridconnector
+3747,SmoothRateLimiter.java,interval .,0,0,Ownership,interval
+2910,CacheBuilder.java,only caches built with,0,0,Ownership,only caches built with
+4690,Grid.java,a helper base class for creating extensions for the grid component.,0,0,Ownership,a helper base class for creating extensions for the grid component
+1109,TestSaveNamespace.java,li recover from failure while moving lastcheckpoint^tmp into,0,0,Ownership,li recover from failure while moving lastcheckpoint tmp into
+5008,VaadinServiceInitListener.java,also provide other ways of discovering listeners.,0,0,Ownership,also provide other ways of discovering listeners
+190,ComparableVersion.java,li code snapshot code li,0,0,Ownership,li code snapshot code li
+1847,ElementNumberFormatsContribution.java,@since 22,0,0,Ownership,@since 22
+482,FairOrderingPolicy.java,may be prioritized ahead of an application with less usage.,0,0,Ownership,may be prioritized ahead of an application with less usage
+3729,SmoothRateLimiter.java,and what we mean by,0,0,Ownership,and what we mean by
+2886,CacheBuilder.java,p entries are automatically evicted from the cache when any of @linkplain #maximumsize long,0,0,Ownership,p entries are automatically evicted from the cache when any of @linkplain maximumsize long
+2878,CacheBuilder.java,these iterators never throw @link,0,0,Ownership,these iterators never throw @link
+4543,AbstractProperty.java,@since 66,0,0,Ownership,@since 66
+2838,CacheBuilder.java,li keys automatically wrapped in @linkplain weakreference weak references,0,0,Ownership,li keys automatically wrapped in @linkplain weakreference weak references
+3935,SmoothRateLimiter.java,this is pushed further in the future.,0,0,Ownership,this is pushed further in the future
+3285,ImmutableTable_CustomFieldSerializerBase.java,this class contains static utility methods for writing @link immutabletable gwt field,0,0,Ownership,this class contains static utility methods for writing @link immutabletable gwt field
+2641,AbstractListeningExecutorService.java,termination.,0,0,Ownership,termination
+2531,SpellEvent.java,spell event fired for words detected by a spell check iterator.,0,0,Ownership,spell event fired for words detected by a spell check iterator
+830,RegistryInternalConstants.java,internal constants for the registry.,0,0,Ownership,internal constants for the registry
+4587,BootstrapPageResponse.java,that will be included in the corresponding http response.,0,0,Ownership,that will be included in the corresponding http response
+352,DelegationTokenIdentifier.java,a delegation token identifier that is specific to hdfs.,0,0,Ownership,a delegation token identifier that is specific to hdfs
+4315,Binder.java,"if the two concepts make no sense with each other, you most likely won t be able to do it.",0,0,Ownership,if the two concepts make no sense with each other you most likely won t be able to do it
+2545,ToggleDynamicPrintfAdapter.java,@since 75,0,0,Ownership,@since 75
+4954,VaadinPortlet.java,deployments and handles various portlet requests from the browser.,0,0,Ownership,deployments and handles various portlet requests from the browser
+1193,TimelineDataToRetrieve.java,this is represented as a @link timelinefilterlist object,0,0,Ownership,this is represented as a @link timelinefilterlist object
+3734,SmoothRateLimiter.java,we increase storedpermits with the amount of permits,0,0,Ownership,we increase storedpermits with the amount of permits
+1946,GnuMakefileGenerator.java,p p,0,0,Ownership,p p
+5433,Window.java,add,0,0,Ownership,add
+4318,Binder.java,"runtime, as soon as you try to create your injector.",0,0,Ownership,runtime as soon as you try to create your injector
+296,DelegatingSSLSocketFactory.java,ul,0,0,Ownership,ul
+464,EventWatcher.java,@param completion payload the type of event which could cancel the,0,0,Ownership,@param completion payload the type of event which could cancel the
+2036,ICLanguageSettingPathEntry.java,see interface hierarchy for more specifics.,0,0,Ownership,see interface hierarchy for more specifics
+306,DelegatingSSLSocketFactory.java,"instead,",0,0,Ownership,instead
+1408,WritableComparator.java,"@link #compare byte ,int,int,byte ,int,int .",0,0,Ownership,@link compare byte int int byte int int
+5142,VScrollTable.java,non javadoc,0,0,Ownership,non javadoc
+4256,Binder.java,@code creditcardpaymentservice must implement the @code paymentservice creditcard interface.,0,0,Ownership,@code creditcardpaymentservice must implement the @code paymentservice creditcard interface
+1900,GnuMakefileGenerator.java,"process a string denoting a filepath in a way compatible for gnu make rules, handling",0,0,Ownership,process a string denoting a filepath in a way compatible for gnu make rules handling
+1362,UniformSizeInputFormat.java,it looks at the copy listing and groups the contents into input splits such,0,0,Ownership,it looks at the copy listing and groups the contents into input splits such
+4686,Grid.java,header and footer,0,0,Ownership,header and footer
+4756,InternalContainerAnnotationForJS.java,annotation enabling using multiple @link javascript @javascript,0,0,Ownership,annotation enabling using multiple @link javascript @javascript
+2260,MIBreakpointsSynchronizer.java,@link #queueevent breakpointevent that ensures each event is fully,0,0,Ownership,@link queueevent breakpointevent that ensures each event is fully
+1381,Utils.java,"path filelist fileutil^stat2paths fs^liststatus outdir,",0,0,Ownership,path filelist fileutil stat2paths fs liststatus outdir
+1361,UniformSizeInputFormat.java,input splits for distcp.,0,0,Ownership,input splits for distcp
+1908,GnuMakefileGenerator.java,@param path the string denoting the path to process,0,0,Ownership,@param path the string denoting the path to process
+4535,AbstractMultiSelectState.java,@since 80,0,0,Ownership,@since 80
+632,LogWebService.java,support only atsv2 client only.,0,0,Ownership,support only atsv2 client only
+13,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,0,0,Ownership,kept small to avoid killing object store test runs too much
+652,MetricsCache.java,cached record,0,0,Ownership,cached record
+3845,SmoothRateLimiter.java,"ratelimiter being unused, we increase storedpermits by 1.",0,0,Ownership,ratelimiter being unused we increase storedpermits by 1
+1093,TestRegistrySecurityHelper.java,test for registry security operations,0,0,Ownership,test for registry security operations
+2586,UncallCommandHandler.java,@since 70,0,0,Ownership,@since 70
+3813,SmoothRateLimiter.java,"granted only 100ms ago, then we wait for another 100ms.",0,0,Ownership,granted only 100ms ago then we wait for another 100ms
+4546,AbstractProperty.java,legacypropertyhelper has been removed in vaadin 8 events,0,0,Ownership,legacypropertyhelper has been removed in vaadin 8 events
+834,RegistryOperations.java,registry operations,0,0,Ownership,registry operations
+1581,MessageWithHeader.java,a wrapper message that holds two separate pieces a header and a body .,0,0,Ownership,a wrapper message that holds two separate pieces a header and a body
+1921,GnuMakefileGenerator.java,we are relying on make to do the right things when confronted,0,0,Ownership,we are relying on make to do the right things when confronted
+2890,CacheBuilder.java,requested.,0,0,Ownership,requested
+2874,CacheBuilder.java,consistent iterators i .,0,0,Ownership,consistent iterators i
+4850,PortletDummyRequestHandler.java,@since 71,0,0,Ownership,@since 71

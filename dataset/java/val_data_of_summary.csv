@@ -1,0 +1,328 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+116,CapacitySchedulerPlanFollower.java,this class implements a @link planfollower .,0,1,summary,this class implements a @link planfollower
+1057,TestHDFSServerPorts.java,"namenode, datanode, secondarynamenode and backupnode.",0,1,summary,namenode datanode secondarynamenode and backupnode
+3394,NullsLastOrdering_CustomFieldSerializer.java,this class implements the gwt serialization of @link nullslastordering .,0,1,summary,this class implements the gwt serialization of @link nullslastordering
+119,CapacitySchedulerPlanFollower.java,@link capacityscheduler .,0,1,summary,@link capacityscheduler
+868,RMAdminRequestInterceptor.java,"defines the contract to be implemented by the request intercepter classes,",0,1,summary,defines the contract to be implemented by the request intercepter classes
+4624,DeclarativeValueProvider.java,value provider class for declarative support.,0,1,summary,value provider class for declarative support
+2681,AbstractMultimap.java,"a skeleton @code multimap implementation, not necessarily in terms of a @code map .",0,1,summary,a skeleton @code multimap implementation not necessarily in terms of a @code map
+459,EventWatcher.java,event watcher the re send a message after timeout.,0,1,summary,event watcher the re send a message after timeout
+4542,AbstractProperty.java,@link readonlystatuschangelistener s.,0,1,summary,@link readonlystatuschangelistener s
+1842,DummyPage.java,this class is just to replace a category reference in org^eclipse.cdt^ui that we exclude because we do not bring in the org^eclipse.cdt^managedbuild.ui plug in.,0,1,summary,this class is just to replace a category reference in org eclipse cdt ui that we exclude because we do not bring in the org eclipse cdt managedbuild ui plug in
+3398,ObjectCountHashMap.java,objectcounthashmap is an implementation of @code abstractobjectcountmap that uses arrays to,0,1,summary,objectcounthashmap is an implementation of @code abstractobjectcountmap that uses arrays to
+5046,VScrollTable.java,there are spacers in,0,1,summary,there are spacers in
+1082,TestOzoneNativeAuthorizer.java,test class for @link ozonenativeauthorizer .,0,1,summary,test class for @link ozonenativeauthorizer
+1163,TestUpgradeDomainBlockPlacementPolicy.java,end to end test case for upgrade domain,0,1,summary,end to end test case for upgrade domain
+1047,TestEditLogFileOutputStream.java,test the editlogfileoutputstream,0,1,summary,test the editlogfileoutputstream
+5376,Window.java,@link ui#addwindow window .,0,1,summary,@link ui addwindow window
+601,KerberosDelegationTokenAuthenticator.java,kerberos spnego authentication mechanism and support for hadoop delegation,0,1,summary,kerberos spnego authentication mechanism and support for hadoop delegation
+5,AbstractContractGetFileStatusTest.java,test getfilestatus and related listing operations.,0,1,summary,test getfilestatus and related listing operations
+2685,AbstractMultimapTester.java,superclass for all @code multimap testers.,0,1,summary,superclass for all @code multimap testers
+1188,TimelineDataToRetrieve.java,br,0,1,summary,br
+651,MetricsCache.java,a metrics cache for sinks that don t support sparse updates.,0,1,summary,a metrics cache for sinks that don t support sparse updates
+3074,CloseablesTest.java,unit tests for @link closeables .,0,1,summary,unit tests for @link closeables
+2237,MIAsyncErrorProcessor.java,this class handles these type of situations by firing mierrorevent when such an error appears.,0,1,summary,this class handles these type of situations by firing mierrorevent when such an error appears
+2636,AbstractListeningExecutorService.java,abstract @link listeningexecutorservice implementation that creates @link listenablefuture,0,1,summary,abstract @link listeningexecutorservice implementation that creates @link listenablefuture
+2201,LanguageSettingsProvidersSerializer.java,dummy class to represent ill defined provider.,0,1,summary,dummy class to represent ill defined provider
+802,ReencryptionUpdater.java,it,0,1,summary,it
+1130,TestSwiftFileSystemContract.java,this is the full filesystem contract test which requires the,0,1,summary,this is the full filesystem contract test which requires the
+4180,Binder.java,@link injector .,0,1,summary,@link injector
+2028,IBHistoryAction.java,action used for the include browser forward backward buttons,0,1,summary,action used for the include browser forward backward buttons
+2195,IViewInMemory.java,provides the ability to view a variable in the memory view.,0,1,summary,provides the ability to view a variable in the memory view
+4151,AbstractModule.java,a support class for @link module s which reduces repetition and results in a more readable,0,1,summary,a support class for @link module s which reduces repetition and results in a more readable
+1052,TestFileSizeCountTask.java,unit test for file size count task.,0,1,summary,unit test for file size count task
+4620,ComboBoxState.java,shared state for the combobox component.,0,1,summary,shared state for the combobox component
+964,SwiftRestClient.java,this implements the client side of the swift rest api.,0,1,summary,this implements the client side of the swift rest api
+4863,RpcDataProviderExtension.java,this is currently,0,1,summary,this is currently
+909,StructureGenerator.java,this program generates a random namespace structure with the following,0,1,summary,this program generates a random namespace structure with the following
+1592,TBoolColumn.java,"the set of fields this struct contains, along with convenience methods for finding and manipulating them.",0,1,summary,the set of fields this struct contains along with convenience methods for finding and manipulating them
+850,ResourceRequestsJsonVerifications.java,builder class for @link resourcerequestsjsonverifications .,0,1,summary,builder class for @link resourcerequestsjsonverifications
+1473,JavaStreamingTestExample.java,"perform streaming testing using welch s 2 sample t test on a stream of data, where the data",0,1,summary,perform streaming testing using welch s 2 sample t test on a stream of data where the data
+2623,WordIgnoreProposal.java,proposal to ignore the word during the current editing session.,0,1,summary,proposal to ignore the word during the current editing session
+239,ConfigurationException.java,exception to throw in case of a configuration problem.,0,1,summary,exception to throw in case of a configuration problem
+2747,ArrayListMultimapGwtSerializationDependencies.java,arraylistmultimap .,0,1,summary,arraylistmultimap
+669,Nfs3Status.java,success or error status is reported in nfs3 responses.,0,1,summary,success or error status is reported in nfs3 responses
+1780,CPPASTReferenceOperator.java,reference operator for declarators.,0,1,summary,reference operator for declarators
+2544,ToggleDynamicPrintfAdapter.java,toggles a dynamic printf in a c c editor.,0,1,summary,toggles a dynamic printf in a c c editor
+804,ReencryptionUpdater.java,class that encapsulates re encryption details of a file.,0,1,summary,class that encapsulates re encryption details of a file
+3399,ObjectCountHashMap.java,store key objects and count values.,0,1,summary,store key objects and count values
+3410,PeekingIterator.java,an iterator that supports a one element lookahead while iterating.,0,1,summary,an iterator that supports a one element lookahead while iterating
+4487,Element.java,an internal binding annotation applied to each element in a multibinding.,0,1,summary,an internal binding annotation applied to each element in a multibinding
+477,FairOrderingPolicy.java,an orderingpolicy which orders schedulableentities for fairness see,0,1,summary,an orderingpolicy which orders schedulableentities for fairness see
+91,BatchedRequests.java,iterator type.,0,1,summary,iterator type
+4789,PopupView.java,used to deliver contents to this component.,0,1,summary,used to deliver contents to this component
+4641,FooterDoubleClickHandler.java,grid.,0,1,summary,grid
+649,MetaBlockAlreadyExists.java,exception meta block with the same name already exists.,0,1,summary,exception meta block with the same name already exists
+3318,MultimapBuilder.java,collection implementations used in a particular multimap.,0,1,summary,collection implementations used in a particular multimap
+1406,WritableComparator.java,"orderings, override @link #compare writablecomparable,writablecomparable .",0,0,summary,orderings override @link compare writablecomparable writablecomparable
+518,FileSystemApplicationHistoryStore.java,"open a file, while @link #applicationfinished applicationfinishdata is",0,0,summary,open a file while @link applicationfinished applicationfinishdata is
+5456,Window.java,a @link shortcutlistener specifically made to define a keyboard,0,0,summary,a @link shortcutlistener specifically made to define a keyboard
+1410,WritableComparator.java,provided to assist in optimized implementations of this method.,0,0,summary,provided to assist in optimized implementations of this method
+4141,TestStringListGenerator.java,@author kevin bourrillion,0,0,summary,@author kevin bourrillion
+5385,Window.java,p,0,0,summary,p
+5403,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,0,0,summary,@see com vaadin ui panel paintcontent com vaadin server painttarget
+3148,EqualsTester.java,@author jige yu,0,0,summary,@author jige yu
+370,DiskBalancerCluster.java,the user is only interested in processing that list of nodes.,0,0,summary,the user is only interested in processing that list of nodes
+1434,YarnAuthorizationProvider.java,involve expensive computation as these method could be invoked in rpc.,0,0,summary,involve expensive computation as these method could be invoked in rpc
+1703,CConfigurationDescriptionCache.java,ul,0,0,summary,ul
+3319,MultimapBuilder.java,p this can be used to easily configure multimap data structure implementations not provided,0,0,summary,p this can be used to easily configure multimap data structure implementations not provided
+2105,IGDBTraceControl.java,gdb specific part,0,0,summary,gdb specific part
+4611,ClientRpcWriter.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+4684,Grid.java,@param t,0,0,summary,@param t
+2708,ArbitraryInstances.java,clients won t get type,0,0,summary,clients won t get type
+461,EventWatcher.java,event watcher will send the tracked payload event after a timeout period,0,0,summary,event watcher will send the tracked payload event after a timeout period
+5438,Window.java,non javadoc,0,0,summary,non javadoc
+4694,Grid.java,@param t,0,0,summary,@param t
+4260,Binder.java,bind service^class ^toinstance new serviceimpl,0,0,summary,bind service class toinstance new serviceimpl
+1615,AbstractCPropertyTab.java,means to handle control messages which are the main,0,0,summary,means to handle control messages which are the main
+4621,ComboBoxState.java,@since 70,0,0,summary,@since 70
+2749,ArrayListMultimapGwtSerializationDependencies.java,"p for details about this hack, see @link gwtserializationdependencies , which takes the same",0,0,summary,p for details about this hack see @link gwtserializationdependencies which takes the same
+718,QuasiMonteCarlo.java,"and f is a function describing the inscribed circle of the square s ,",0,0,summary,and f is a function describing the inscribed circle of the square s
+5152,VScrollTable.java,to detect if the first visible,0,0,summary,to detect if the first visible
+5216,VScrollTable.java,dom^client.blurevent,0,0,summary,dom client blurevent
+1880,GDBSourceLookup.java,@since 50,0,0,summary,@since 50
+1906,GnuMakefileGenerator.java,target dep1 dep2 dep3,0,0,summary,target dep1 dep2 dep3
+3932,SmoothRateLimiter.java,we would only increase it for arrivals later than the expected one second.,0,0,summary,we would only increase it for arrivals later than the expected one second
+5079,VScrollTable.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+3784,SmoothRateLimiter.java,this is thresholdpermits stableintervals.,0,0,summary,this is thresholdpermits stableintervals
+4790,PopupView.java,@author vaadin ltd.,0,0,summary,@author vaadin ltd
+2871,CacheBuilder.java,it implements all optional operations of the @link loadingcache and,0,0,summary,it implements all optional operations of the @link loadingcache and
+4314,Binder.java,"example might coexist with the concepts from another, you can most likely weave the two together.",0,0,summary,example might coexist with the concepts from another you can most likely weave the two together
+3114,EqualsTester.java,p the simplest use case is,0,0,summary,p the simplest use case is
+5009,VaadinServiceInitListener.java,@since 80,0,0,summary,@since 80
+4518,SpiUtils.java,the kind of binding.,0,0,summary,the kind of binding
+1924,GnuMakefileGenerator.java,the missing header file in a dependency rule as a target it has to build,0,0,summary,the missing header file in a dependency rule as a target it has to build
+3865,SmoothRateLimiter.java,"with underutilization, then we want stored permits to be given out faster than fresh ones,",0,0,summary,with underutilization then we want stored permits to be given out faster than fresh ones
+1902,GnuMakefileGenerator.java,p p,0,0,summary,p p
+4979,VaadinPortlet.java,individually decide whether it wants to handle a request or,0,0,summary,individually decide whether it wants to handle a request or
+1240,TimelineDataToRetrieve.java,ul,0,0,summary,ul
+5119,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,0,0,summary,com google gwt event dom client blurhandler onblur com google gwt event
+3456,Preconditions.java,string formatting itself should not be a concern.,0,0,summary,string formatting itself should not be a concern
+5051,VScrollTable.java,on horizontal scrolling we also,0,0,summary,on horizontal scrolling we also
+4700,Grid.java,the grid bean type,0,0,summary,the grid bean type
+3401,ObjectCountHashMap.java,"implementation which stores keys and count values as map entries, @code objectcounthashmap",0,0,summary,implementation which stores keys and count values as map entries @code objectcounthashmap
+2849,CacheBuilder.java,"loadingcache key, graph graphs cachebuilder^newbuilder",0,0,summary,loadingcache key graph graphs cachebuilder newbuilder
+3920,SmoothRateLimiter.java,this also enables,0,0,summary,this also enables
+3933,SmoothRateLimiter.java,the time when the next request no matter its size will be granted.,0,0,summary,the time when the next request no matter its size will be granted
+3250,HostAndPort.java,"p note that this is not an exhaustive list, because these methods are only concerned with",0,0,summary,p note that this is not an exhaustive list because these methods are only concerned with
+3839,SmoothRateLimiter.java,"so, the",0,0,summary,so the
+3914,SmoothRateLimiter.java,"instead , and postpone subsequent requests as needed.",0,0,summary,instead and postpone subsequent requests as needed
+1487,JavaStreamingTestExample.java,batchduration seconds until the test becomes significant p value 005 or the number of,0,0,summary,batchduration seconds until the test becomes significant p value 005 or the number of
+5521,XhrConnectionError.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+5377,Window.java,p,0,0,summary,p
+2748,ArrayListMultimapGwtSerializationDependencies.java,the gwt supersource for this class contains a field for each type.,0,0,summary,the gwt supersource for this class contains a field for each type
+382,DiskBalancerCluster.java,only a given list is processed and exclusionlist is always honored.,0,0,summary,only a given list is processed and exclusionlist is always honored
+620,LoggedTask.java,and its runtime.,0,0,summary,and its runtime
+2901,CacheBuilder.java,entries with reclaimed keys or values may be removed from,0,0,summary,entries with reclaimed keys or values may be removed from
+5175,VScrollTable.java,for internal use only.,0,0,summary,for internal use only
+876,SafeModeException.java,client cannot modified namespace until the safe mode is off.,0,0,summary,client cannot modified namespace until the safe mode is off
+5192,VScrollTable.java,@see,0,0,summary,@see
+1433,YarnAuthorizationProvider.java,methods defined in this interface should be non blocking call and should not,0,0,summary,methods defined in this interface should be non blocking call and should not
+3052,ClassToInstanceMap.java,p see the guava user guide article on a href,0,0,summary,p see the guava user guide article on a href
+3934,SmoothRateLimiter.java,"after granting a request,",0,0,summary,after granting a request
+1239,TimelineDataToRetrieve.java,li,0,0,summary,li
+5459,Window.java,code,0,0,summary,code
+1922,GnuMakefileGenerator.java,with a dependency on a moved header file.,0,0,summary,with a dependency on a moved header file
+2432,RulerColumnDescriptor.java,@since 72,0,0,summary,@since 72
+5182,VScrollTable.java,example itabpanel just set contained components invisible and back,0,0,summary,example itabpanel just set contained components invisible and back
+2929,CacheBuilder.java,@author charles fry,0,0,summary,@author charles fry
+1362,UniformSizeInputFormat.java,it looks at the copy listing and groups the contents into input splits such,0,0,summary,it looks at the copy listing and groups the contents into input splits such
+1941,GnuMakefileGenerator.java,"process a string denoting a filepath in a way compatible for gnu make rules, handling",0,0,summary,process a string denoting a filepath in a way compatible for gnu make rules handling
+3916,SmoothRateLimiter.java,"task immediately, and postpone by 100 seconds future requests, thus we allow for work to get",0,0,summary,task immediately and postpone by 100 seconds future requests thus we allow for work to get
+4682,Grid.java,gridcontextclickevent&lt person&gt event ^getitem clicked,0,0,summary,gridcontextclickevent lt person gt event getitem clicked
+4295,Binder.java,@link com^google.inject^name.named @named .,0,0,summary,@link com google inject name named @named
+4277,Binder.java,"enum#valueof class, string all enums , and to @link class#forname class literals .",0,0,summary,enum valueof class string all enums and to @link class forname class literals
+286,DelegatingSSLSocketFactory.java,li,0,0,summary,li
+1910,GnuMakefileGenerator.java,@return a suitable make rule compatible path,0,0,summary,@return a suitable make rule compatible path
+2864,CacheBuilder.java,build,0,0,summary,build
+3335,MultimapBuilder.java,@since 160,0,0,summary,@since 160
+3677,SmoothRateLimiter.java,"this role is played by storedpermitstowaittime double storedpermits, double permitstotake .",0,0,summary,this role is played by storedpermitstowaittime double storedpermits double permitstotake
+4958,VaadinPortlet.java,base class for portlet requests that need access to http servlet,0,0,summary,base class for portlet requests that need access to http servlet
+4929,SimpleGridUI.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+4285,Binder.java,if your binding annotation has parameters you can apply different bindings to different specific,0,0,summary,if your binding annotation has parameters you can apply different bindings to different specific
+2318,MIStack.java,br,0,0,summary,br
+3794,SmoothRateLimiter.java,"trapezoid, and it is equal to 05 stableinterval coldinterval maxpermits",0,0,summary,trapezoid and it is equal to 05 stableinterval coldinterval maxpermits
+1923,GnuMakefileGenerator.java,"that said, make will treat",0,0,summary,that said make will treat
+296,DelegatingSSLSocketFactory.java,ul,0,0,summary,ul
+1652,AddMemoryBlocks.java,"in order to avoid duplicating the addmemoryblocks method one version for expressions, one for memory space address, we pass in a an opaque parameter and let the logic within addmemoryblocks differentiate where needed via isinstanceof request object used to get the memory spaces",0,0,summary,in order to avoid duplicating the addmemoryblocks method one version for expressions one for memory space address we pass in a an opaque parameter and let the logic within addmemoryblocks differentiate where needed via isinstanceof request object used to get the memory spaces
+4235,Binder.java,guice will,0,0,summary,guice will
+5050,VScrollTable.java,in vscrolltable we listen to scroll events.,0,0,summary,in vscrolltable we listen to scroll events
+4734,GridSelectionModel.java,selectionmodel should extend @link abstractgridextension .,0,0,summary,selectionmodel should extend @link abstractgridextension
+4208,Binder.java,"annotations found on @code service , since guice will have already moved on to @code",0,0,summary,annotations found on @code service since guice will have already moved on to @code
+365,DiskBalancerCluster.java,p,0,0,summary,p
+5417,Window.java,p,0,0,summary,p
+5100,VScrollTable.java,handles showing context menu on long press from a touch screen.,0,0,summary,handles showing context menu on long press from a touch screen
+4768,MyPickerConnector.java,"https vaadin^com wiki wiki main widget%20styling%20using%20only%20css,",0,0,summary,https vaadin com wiki wiki main widget 20styling 20using 20only 20css
+5415,Window.java,@link closelistener#windowclose closeevent will be called whenever the,0,0,summary,@link closelistener windowclose closeevent will be called whenever the
+4206,Binder.java,this i overrides i the,0,0,summary,this i overrides i the
+309,DelegatingSSLSocketFactory.java,p,0,0,summary,p
+1375,Utils.java,this can be used to list paths of output directory as follows,0,0,summary,this can be used to list paths of output directory as follows
+4220,Binder.java,follow.,0,0,summary,follow
+3737,SmoothRateLimiter.java,"arrivals come exactly one second after the previous, then storedpermits is never increased",0,0,summary,arrivals come exactly one second after the previous then storedpermits is never increased
+1896,GnuMakefileGenerator.java,c srcs,0,0,summary,c srcs
+3717,SmoothRateLimiter.java,why wait without doing anything?,0,0,summary,why wait without doing anything
+2867,CacheBuilder.java,return createexpensivegraph key,0,0,summary,return createexpensivegraph key
+2855,CacheBuilder.java,public graph load key key throws anyexception,0,0,summary,public graph load key key throws anyexception
+3645,SmoothRateLimiter.java,"so, the",0,0,summary,so the
+1801,CUIPreferenceInitializer.java,@noextend this class is not intended to be subclassed by clients.,0,0,summary,@noextend this class is not intended to be subclassed by clients
+2926,CacheBuilder.java,this is,0,0,summary,this is
+3875,SmoothRateLimiter.java,storedpermits,0,0,summary,storedpermits
+4189,Binder.java,"instead, you should consult the series of examples below.",0,0,summary,instead you should consult the series of examples below
+3464,Preconditions.java,h3 non preconditions h3,0,0,summary,h3 non preconditions h3
+3859,SmoothRateLimiter.java,we already know how much time it takes to serve 3 fresh permits if the rate is,0,0,summary,we already know how much time it takes to serve 3 fresh permits if the rate is
+2843,CacheBuilder.java,ul,0,0,summary,ul
+4919,ShouldWriteDataDelegate.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+656,NativeBatchProcessor.java,"used to create channel, transfer data and command between java and native",0,0,summary,used to create channel transfer data and command between java and native
+4547,AbstractProperty.java,an code event code object specifying the property whose read only,0,0,summary,an code event code object specifying the property whose read only
+5424,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",0,0,summary,@see com vaadin ui panel changevariables java lang object java util map
+3748,SmoothRateLimiter.java,warmup period is the area of the trapezoid between,0,0,summary,warmup period is the area of the trapezoid between
+977,SwiftRestClient.java,@return a snapshot of the statistics,0,0,summary,@return a snapshot of the statistics
+2712,ArbitraryInstances.java,"for mutable types, a fresh",0,0,summary,for mutable types a fresh
+2850,CacheBuilder.java,maximumsize 10000,0,0,summary,maximumsize 10000
+285,DelegatingSSLSocketFactory.java,"properly setup, an exception is thrown.",0,0,summary,properly setup an exception is thrown
+3837,SmoothRateLimiter.java,"this variable is zero when there is no underutilization,",0,0,summary,this variable is zero when there is no underutilization
+2372,MIThreadCreatedEvent.java,this can only be detected by gdb mi after gdb 68.,0,0,summary,this can only be detected by gdb mi after gdb 68
+987,SwiftRestClient.java,create operation.,0,0,summary,create operation
+4240,Binder.java,guice is not overly,0,0,summary,guice is not overly
+5246,VScrollTable.java,lost .,0,0,summary,lost
+848,ResourceRequestsJsonVerifications.java,"@link builder , users can also make verifications of the custom resource",0,0,summary,@link builder users can also make verifications of the custom resource
+4740,GridSelectionModel.java,@see singleselectionmodel,0,0,summary,@see singleselectionmodel
+3120,EqualsTester.java,each group should contain objects,0,0,summary,each group should contain objects
+121,CapacitySchedulerPlanFollower.java,"adding removing resizing leaf queues in the scheduler, thus affecting the",0,0,summary,adding removing resizing leaf queues in the scheduler thus affecting the
+5422,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,0,0,summary,@see com vaadin ui panel paintcontent com vaadin server painttarget
+1613,AbstractCPropertyTab.java,several utility methods to create widgets in the,0,0,summary,several utility methods to create widgets in the
+4980,VaadinPortlet.java,not.,0,0,summary,not
+5429,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,0,0,summary,@see com vaadin ui panel paintcontent com vaadin server painttarget
+5147,VScrollTable.java,access to touchcontextprovider.,0,0,summary,access to touchcontextprovider
+5405,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",0,0,summary,@see com vaadin ui panel changevariables java lang object java util map
+5399,Window.java,event which is fired when the window order position is changed.,0,0,summary,event which is fired when the window order position is changed
+1770,ContainerTabModel.java,@since 12.1,0,0,summary,@since 12 1
+3715,SmoothRateLimiter.java,it would be nonsensical to just,0,0,summary,it would be nonsensical to just
+4597,ButtonRenderer.java,the value of the,0,0,summary,the value of the
+1856,FoldingConfigurationBlock.java,@since 30,0,0,summary,@since 30
+3246,HostAndPort.java,li 2001 db8 1 @link #gethost omits brackets,0,0,summary,li 2001 db8 1 @link gethost omits brackets
+5445,Window.java,browsers.,0,0,summary,browsers
+451,ErasureCodingPolicyManager.java,it loads customized policies and syncs with persisted ones in,0,0,summary,it loads customized policies and syncs with persisted ones in
+3747,SmoothRateLimiter.java,interval .,0,0,summary,interval
+4274,Binder.java,constant injections must always be annotated.,0,0,summary,constant injections must always be annotated
+5088,VScrollTable.java,this method has logic which rows needs to be requested from server when,0,0,summary,this method has logic which rows needs to be requested from server when
+2047,ICodeReaderFactory.java,@deprecated replaced by @link includefilecontentprovider,0,0,summary,@deprecated replaced by @link includefilecontentprovider
+5124,VScrollTable.java,to detect if the first visible,0,0,summary,to detect if the first visible
+4858,RequiredTextFieldTest.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+5204,VScrollTable.java,example itabpanel just set contained components invisible and back,0,0,summary,example itabpanel just set contained components invisible and back
+4474,DefaultMethodInterceptionTest.java,@author cgdecker@google^com colin decker,0,0,summary,@author cgdecker@google com colin decker
+2455,SourceLookupTest.java,how the program was compiled.,0,0,summary,how the program was compiled
+2558,TracingConsole.java,@since 21,0,0,summary,@since 21
+2916,CacheBuilder.java,note that the serialized form does,0,0,summary,note that the serialized form does
+5142,VScrollTable.java,non javadoc,0,0,summary,non javadoc
+156,Classpath.java,this is useful in situations where wildcard syntax isn t usable.,0,0,summary,this is useful in situations where wildcard syntax isn t usable
+4809,PopupView.java,"with @link #ispopupvisible , or get the popupview that produced the",0,0,summary,with @link ispopupvisible or get the popupview that produced the
+5092,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,0,0,summary,com google gwt event dom client focushandler onfocus com google gwt event
+2333,MIStack.java,with data or with error.,0,0,summary,with data or with error
+2631,AbstractCollectionTester.java,@param e the element type of the collection to be tested.,0,0,summary,@param e the element type of the collection to be tested
+621,LoggedTask.java,all of the public methods are simply accessors for the instance variables we,0,0,summary,all of the public methods are simply accessors for the instance variables we
+1409,WritableComparator.java,static utility methods are,0,0,summary,static utility methods are
+5116,VScrollTable.java,dom^client.focusevent,0,0,summary,dom client focusevent
+190,ComparableVersion.java,li code snapshot code li,0,0,summary,li code snapshot code li
+4548,AbstractProperty.java,status has been changed.,0,0,summary,status has been changed
+2641,AbstractListeningExecutorService.java,termination.,0,0,summary,termination
+3725,SmoothRateLimiter.java,"last request, but it remembers the expected time of the next request.",0,0,summary,last request but it remembers the expected time of the next request
+2845,CacheBuilder.java,by default,0,0,summary,by default
+1767,CommonBuildTab.java,@since 91,0,0,summary,@since 91
+2851,CacheBuilder.java,expireafterwrite duration^ofminutes 10,0,0,summary,expireafterwrite duration ofminutes 10
+1407,WritableComparator.java,p one may optimize compare intensive operations by overriding,0,0,summary,p one may optimize compare intensive operations by overriding
+2337,MIStack.java,it will eliminate the issue with invalid data on subsequent invocations.,0,0,summary,it will eliminate the issue with invalid data on subsequent invocations
+2483,SourceLookupTest.java,the result of the variations on compilation arguments means that some of the,0,0,summary,the result of the variations on compilation arguments means that some of the
+1933,GnuMakefileGenerator.java,f r a g m e n t subdir^mk m a k e f i l e m e t h o d s,0,0,summary,f r a g m e n t subdir mk m a k e f i l e m e t h o d s
+3919,SmoothRateLimiter.java,"last request, but it remembers the expected time of the next request.",0,0,summary,last request but it remembers the expected time of the next request
+5154,VScrollTable.java,changes to manage mousedown and mouseup,0,0,summary,changes to manage mousedown and mouseup
+4587,BootstrapPageResponse.java,that will be included in the corresponding http response.,0,0,summary,that will be included in the corresponding http response
+3740,SmoothRateLimiter.java,"after granting a request,",0,0,summary,after granting a request
+1905,GnuMakefileGenerator.java,p p,0,0,summary,p p
+1918,GnuMakefileGenerator.java,p,0,0,summary,p
+3728,SmoothRateLimiter.java,"us to the point of the next scheduling time, since we always maintain that.",0,0,summary,us to the point of the next scheduling time since we always maintain that
+3876,SmoothRateLimiter.java,essentially measure unused time we spend unused time buying storing permits.,0,0,summary,essentially measure unused time we spend unused time buying storing permits
+1890,GnuMakefileGenerator.java,m a i n makefile m a k e f i l e m e t h o d s,0,0,summary,m a i n makefile m a k e f i l e m e t h o d s
+5080,VScrollTable.java,to detect if the first visible,0,0,summary,to detect if the first visible
+3255,HostAndPort.java,@since 100,0,0,summary,@since 100
+5150,VScrollTable.java,@since 72,0,0,summary,@since 72
+4868,RpcDataProviderExtension.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+3341,MultimapBuilder.java,@param k0 the upper bound on the key type of the generated multimap.,0,0,summary,@param k0 the upper bound on the key type of the generated multimap
+5449,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",0,0,summary,@see com vaadin ui panel changevariables java lang object java util map
+4567,AbstractSingleComponentContainerState.java,@since 80,0,0,summary,@since 80
+5395,Window.java,non javadoc,0,0,summary,non javadoc
+5393,Window.java,@author vaadin ltd.,0,0,summary,@author vaadin ltd
+1912,GnuMakefileGenerator.java,what resources have been changed.,0,0,summary,what resources have been changed
+3395,NullsLastOrdering_CustomFieldSerializer.java,@author chris povirk,0,0,summary,@author chris povirk
+2264,MIBreakpointsSynchronizer.java,class to store an event that needs to be performed by the synchronizer,0,0,summary,class to store an event that needs to be performed by the synchronizer
+4976,VaadinPortlet.java,this is no longer used and only provided for,0,0,summary,this is no longer used and only provided for
+5278,VScrollTable.java,non javadoc,0,0,summary,non javadoc
+742,QuasiMonteCarlo.java,and then count points inside outside of the inscribed circle of the square.,0,0,summary,and then count points inside outside of the inscribed circle of the square
+3921,SmoothRateLimiter.java,us to tell immediately see tryacquire timeout whether a particular timeout is enough to get,0,0,summary,us to tell immediately see tryacquire timeout whether a particular timeout is enough to get
+2315,MIStack.java,class to track stack depth and debug frames for our internal cache,0,0,summary,class to track stack depth and debug frames for our internal cache
+5005,VaadinServiceInitListener.java,the jar file containing the implementation class.,0,0,summary,the jar file containing the implementation class
+4238,Binder.java,note that it is still possible to bind another instance of @code serviceimpl if the,0,0,summary,note that it is still possible to bind another instance of @code serviceimpl if the
+120,CapacitySchedulerPlanFollower.java,"this implementation does so, by",0,0,summary,this implementation does so by
+4312,Binder.java,p the above list of examples is far from exhaustive.,0,0,summary,p the above list of examples is far from exhaustive
+2221,ManageConfigRunner.java,@noextend this class is not intended to be subclassed by clients.,0,0,summary,@noextend this class is not intended to be subclassed by clients
+777,Query.java,@param t type of the record to query.,0,0,summary,@param t type of the record to query
+416,EditLogTailer.java,this cannot just be the a single proxy since we could,0,0,summary,this cannot just be the a single proxy since we could
+3667,SmoothRateLimiter.java,but what does it mean to serve 7 stored,0,0,summary,but what does it mean to serve 7 stored
+919,StructureGenerator.java,the generated namespace structure is described by two files in the output,0,0,summary,the generated namespace structure is described by two files in the output
+4271,Binder.java,pre,0,0,summary,pre
+4689,Grid.java,header and footer,0,0,summary,header and footer
+2792,BloomFilter.java,"cheat sheet m total bits n expected insertions b m n, bits per insertion p expected false positive probability 1 optimal k b ln2 2 p 1 e ^ kn m ^k 3 for optimal k p 2 ^ k 06185^b 4 for optimal k m nlnp ln2 ^ 2",0,0,summary,cheat sheet m total bits n expected insertions b m n bits per insertion p expected false positive probability 1 optimal k b ln2 2 p 1 e kn m k 3 for optimal k p 2 k 06185 b 4 for optimal k m nlnp ln2 2
+2888,CacheBuilder.java,"expireafterwrite , @linkplain #expireafteraccess expireafteraccess , @linkplain #weakkeys",0,0,summary,expireafterwrite @linkplain expireafteraccess expireafteraccess @linkplain weakkeys
+2690,AbstractSortedKeySortedSetMultimap.java,p this superclass allows @code treemultimap to override methods to return navigable set and,0,0,summary,p this superclass allows @code treemultimap to override methods to return navigable set and
+3815,SmoothRateLimiter.java,ie for an acquire 15 request naturally takes 3 seconds.,0,0,summary,ie for an acquire 15 request naturally takes 3 seconds
+4302,Binder.java,constructor t lonector getlonectorfromserviceimplviareflection,0,0,summary,constructor t lonector getlonectorfromserviceimplviareflection
+3867,SmoothRateLimiter.java,if we are primarily interested to,0,0,summary,if we are primarily interested to
+726,QuasiMonteCarlo.java,mapper,0,0,summary,mapper
+3911,SmoothRateLimiter.java,why wait without doing anything?,0,0,summary,why wait without doing anything
+4288,Binder.java,"a pain one approach, shown above, is to apply a prototype annotation to a field in your module",0,0,summary,a pain one approach shown above is to apply a prototype annotation to a field in your module
+838,ResourceBlacklistRequest.java,@see resourcerequest,0,0,summary,@see resourcerequest
+1532,KVStore.java,this makes it possible to provide sorting without having,0,0,summary,this makes it possible to provide sorting without having
+2786,BloomFilter.java,it internally uses atomics and,0,0,summary,it internally uses atomics and
+5254,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,0,0,summary,com google gwt event dom client focushandler onfocus com google gwt event
+5412,Window.java,an interface used for listening to window close events.,0,0,summary,an interface used for listening to window close events
+4292,Binder.java,annotatedwith names^named blue,0,0,summary,annotatedwith names named blue
+3671,SmoothRateLimiter.java,"with underutilization, then we want stored permits to be given out faster than fresh ones,",0,0,summary,with underutilization then we want stored permits to be given out faster than fresh ones
+1952,GnuMakefileGenerator.java,this class is used to recursively walk the project and determine which,0,0,summary,this class is used to recursively walk the project and determine which
+961,SwiftBadRequestException.java,data locality can t be calculated if openstack swift version is old.,0,0,summary,data locality can t be calculated if openstack swift version is old
+1699,CConfigurationDescriptionCache.java,li another cconfigurationdescription settings configuration created using the same constructor setting fcfgcache,0,0,summary,li another cconfigurationdescription settings configuration created using the same constructor setting fcfgcache
+1788,CPPImplicitVariable.java,for example the initializer of a structured binding decomposition dcl^struct.bind,0,0,summary,for example the initializer of a structured binding decomposition dcl struct bind
+2858,CacheBuilder.java,"p or equivalently,",0,0,summary,p or equivalently
+3819,SmoothRateLimiter.java,"time, then a request arrived and was immediately granted?",0,0,summary,time then a request arrived and was immediately granted
+2840,CacheBuilder.java,softreference soft references,0,0,summary,softreference soft references
+1237,TimelineDataToRetrieve.java,be retrieved.,0,0,summary,be retrieved
+2713,ArbitraryInstances.java,instance is created each time @code get is called.,0,0,summary,instance is created each time @code get is called
+291,DelegatingSSLSocketFactory.java,it disables the gcm cipher when running on java 8.,0,0,summary,it disables the gcm cipher when running on java 8
+3186,FeatureSpecificTestSuiteBuilder.java,"class such as @link #named return this type, so that builder methods of more derived",0,0,summary,class such as @link named return this type so that builder methods of more derived
+3476,Preconditions.java,java^util.objects#requirenonnull object .,0,0,summary,java util objects requirenonnull object
+2534,StandardCElementLabelProvider.java,triggers a viewer update when a preference changes.,0,0,summary,triggers a viewer update when a preference changes
+2705,ArbitraryInstances.java,used or if the class exposes a public parameter less constructor then it will be new d and,0,0,summary,used or if the class exposes a public parameter less constructor then it will be new d and
+3843,SmoothRateLimiter.java,how this works is best explained with an example,0,0,summary,how this works is best explained with an example
+1373,Utils.java,this class filters output part files from the given directory,0,0,summary,this class filters output part files from the given directory
+5029,VLazyInitItemIdentifiers.java,@author vaadin ltd,0,0,summary,@author vaadin ltd
+4313,Binder.java,if you can think of how the concepts of one,0,0,summary,if you can think of how the concepts of one
+2777,BloomFilter.java,p bloom filters are serializable.,0,0,summary,p bloom filters are serializable
+1899,GnuMakefileGenerator.java,o t h e r m e t h o d s,0,0,summary,o t h e r m e t h o d s
+486,FairOrderingPolicy.java,"continuously optional, default false",0,0,summary,continuously optional default false
+3649,SmoothRateLimiter.java,how this works is best explained with an example,0,0,summary,how this works is best explained with an example
+918,StructureGenerator.java,file follows gaussian distribution.,0,0,summary,file follows gaussian distribution
+3862,SmoothRateLimiter.java,permits?,0,0,summary,permits
+3665,SmoothRateLimiter.java,we already know how much time it takes to serve 3 fresh permits if the rate is,0,0,summary,we already know how much time it takes to serve 3 fresh permits if the rate is
+1903,GnuMakefileGenerator.java,the context these paths appear in is on the right hand side of a rule header.,0,0,summary,the context these paths appear in is on the right hand side of a rule header
+5004,VaadinServiceInitListener.java,meta inf services com^vaadin.server^vaadinserviceinitlistener file present in,0,0,summary,meta inf services com vaadin server vaadinserviceinitlistener file present in
+3086,CollectionTestSuiteBuilder.java,@author louis wasserman,0,0,summary,@author louis wasserman
+5366,VTextArea.java,@author vaadin ltd.,0,0,summary,@author vaadin ltd
+3121,EqualsTester.java,that are equal to each other but unequal to the objects in any other group.,0,0,summary,that are equal to each other but unequal to the objects in any other group
+1668,AutoconfMacroParameterListValidator.java,it is modified from the cdt class cparameterlistvalidator,0,0,summary,it is modified from the cdt class cparameterlistvalidator
+3720,SmoothRateLimiter.java,"instead , and postpone subsequent requests as needed.",0,0,summary,instead and postpone subsequent requests as needed
+2775,BloomFilter.java,that @linkplain #mightcontain object will erroneously return @code true for an object that,0,0,summary,that @linkplain mightcontain object will erroneously return @code true for an object that
+4675,Grid.java,the grid bean type,0,0,summary,the grid bean type
+1875,GdbExpressionVMProvider.java,"to understand why this is necessary, see gdbvariablevmnode.",0,0,summary,to understand why this is necessary see gdbvariablevmnode
+3676,SmoothRateLimiter.java,require a different in each case function that translates storedpermits to throttling time.,0,0,summary,require a different in each case function that translates storedpermits to throttling time
+5264,VScrollTable.java,to detect if the first visible,0,0,summary,to detect if the first visible
+5212,VScrollTable.java,dom^client.focusevent,0,0,summary,dom client focusevent
+517,FileSystemApplicationHistoryStore.java,be invoked first when writing any history data of one application and it will,0,0,summary,be invoked first when writing any history data of one application and it will

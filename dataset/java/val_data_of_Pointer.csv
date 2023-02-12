@@ -1,0 +1,289 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+977,SwiftRestClient.java,@return a snapshot of the statistics,0,1,Pointer,@return a snapshot of the statistics
+3580,RegularImmutableList_CustomFieldSerializer.java,this class implements the gwt serialization of @link regularimmutablelist .,0,1,Pointer,this class implements the gwt serialization of @link regularimmutablelist
+5075,VScrollTable.java,non javadoc,0,1,Pointer,non javadoc
+2775,BloomFilter.java,that @linkplain #mightcontain object will erroneously return @code true for an object that,0,1,Pointer,that @linkplain mightcontain object will erroneously return @code true for an object that
+5216,VScrollTable.java,dom^client.blurevent,0,1,Pointer,dom client blurevent
+629,LogParserUtil.java,common utility functions for @link logparser .,0,1,Pointer,common utility functions for @link logparser
+1757,CElementDelta.java,@see icelementdelta,0,1,Pointer,@see icelementdelta
+5116,VScrollTable.java,dom^client.focusevent,0,1,Pointer,dom client focusevent
+4937,TargetDetailsImpl.java,a hashmap backed implementation of @link targetdetails for termina^^^n.,0,1,Pointer,a hashmap backed implementation of @link targetdetails for termina n
+4116,SortedSetNavigationTester.java,can t be invoked directly please see,0,1,Pointer,can t be invoked directly please see
+2778,BloomFilter.java,they also support a more compact serial representation via the,0,1,Pointer,they also support a more compact serial representation via the
+5092,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,0,1,Pointer,com google gwt event dom client focushandler onfocus com google gwt event
+1240,TimelineDataToRetrieve.java,ul,0,1,Pointer,ul
+199,ComparableVersion.java,@see a href https cwiki^apache.org confluence display mavenold versioning versioning on maven wiki a,0,1,Pointer,@see a href https cwiki apache org confluence display mavenold versioning versioning on maven wiki a
+5067,VScrollTable.java,non javadoc,0,1,Pointer,non javadoc
+5094,VScrollTable.java,non javadoc,0,1,Pointer,non javadoc
+1209,TimelineDataToRetrieve.java,these can either be,0,1,Pointer,these can either be
+618,LoggedTask.java,a @link loggedtask represents a hadoop task that is part of a hadoop job.,0,1,Pointer,a @link loggedtask represents a hadoop task that is part of a hadoop job
+2251,MIBreakpointsSynchronizer.java,"takes multiple dsf stages to complete handling 1 event, so the handling of",0,1,Pointer,takes multiple dsf stages to complete handling 1 event so the handling of
+2257,MIBreakpointsSynchronizer.java,dsf as not requiring the normal synchronization primitives as everything is,0,1,Pointer,dsf as not requiring the normal synchronization primitives as everything is
+5232,VScrollTable.java,@see,0,1,Pointer,@see
+1158,TestTaskContext.java,tests context api and @link statusreporter#getprogress via @link taskattemptcontext#getprogress api .,0,1,Pointer,tests context api and @link statusreporter getprogress via @link taskattemptcontext getprogress api
+429,EditLogTailer.java,blindly goes and tries namenodes.,0,0,Pointer,blindly goes and tries namenodes
+5165,VScrollTable.java,dom^client.focusevent,0,1,Pointer,dom client focusevent
+2919,CacheBuilder.java,href https github^com google guava wiki cachesexplained caching a for a higher level,0,1,Pointer,href https github com google guava wiki cachesexplained caching a for a higher level
+254,DBProfile.java,p,0,1,Pointer,p
+479,FairOrderingPolicy.java,"fairsharepolicy , generally, processes with lesser usage are lesser.",0,1,Pointer,fairsharepolicy generally processes with lesser usage are lesser
+5409,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,0,1,Pointer,@see com vaadin ui panel paintcontent com vaadin server painttarget
+3491,Preconditions.java,href https github^com google guava wiki preconditionsexplained using @code,0,1,Pointer,href https github com google guava wiki preconditionsexplained using @code
+2459,SourceLookupTest.java,information.,0,1,Pointer,information
+2771,BloomFilter.java,"p if you are unfamiliar with bloom filters, this nice a",0,1,Pointer,p if you are unfamiliar with bloom filters this nice a
+5115,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,0,1,Pointer,com google gwt event dom client focushandler onfocus com google gwt event
+5212,VScrollTable.java,dom^client.focusevent,0,1,Pointer,dom client focusevent
+511,FileSystemApplicationHistoryStore.java,file system implementation of @link applicationhistorystore .,0,1,Pointer,file system implementation of @link applicationhistorystore
+5254,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,0,1,Pointer,com google gwt event dom client focushandler onfocus com google gwt event
+1202,TimelineDataToRetrieve.java,confused with configfilters which is used to decide which entities to,0,1,Pointer,confused with configfilters which is used to decide which entities to
+2779,BloomFilter.java,@link #writeto and @link #readfrom methods.,0,1,Pointer,@link writeto and @link readfrom methods
+4739,GridSelectionModel.java,@see abstractselectionmodel,0,1,Pointer,@see abstractselectionmodel
+5113,VScrollTable.java,non javadoc,0,1,Pointer,non javadoc
+5279,VScrollTable.java,@see,0,1,Pointer,@see
+974,SwiftRestClient.java,@param m request,0,1,Pointer,@param m request
+1195,TimelineDataToRetrieve.java,these can either be,0,1,Pointer,these can either be
+5259,VScrollTable.java,dom^client.blurevent,0,1,Pointer,dom client blurevent
+2790,BloomFilter.java,@author kevin bourrillion,0,0,Pointer,@author kevin bourrillion
+5040,VScrollTable.java,"tablehead contains table s header and widgets logic for resizing,",0,0,Pointer,tablehead contains table s header and widgets logic for resizing
+1533,KVStore.java,to load all instances of those types from the store.,0,0,Pointer,to load all instances of those types from the store
+1907,GnuMakefileGenerator.java,p,0,0,Pointer,p
+887,StandardSocketFactory.java,specialized socketfactory to create sockets with a socks proxy,0,0,Pointer,specialized socketfactory to create sockets with a socks proxy
+5087,VScrollTable.java,updates first visible row for the case we cannot wait,0,0,Pointer,updates first visible row for the case we cannot wait
+5434,Window.java,the windowmodechangelistener to a window and,0,0,Pointer,the windowmodechangelistener to a window and
+4248,Binder.java,their own custom scopes for use here as well.,0,0,Pointer,their own custom scopes for use here as well
+3921,SmoothRateLimiter.java,us to tell immediately see tryacquire timeout whether a particular timeout is enough to get,0,0,Pointer,us to tell immediately see tryacquire timeout whether a particular timeout is enough to get
+5003,VaadinServiceInitListener.java,class must be listed on a separate line in a,0,0,Pointer,class must be listed on a separate line in a
+4275,Binder.java,when a constant,0,0,Pointer,when a constant
+3641,SmoothRateLimiter.java,"to deal with such scenarios, we add an extra dimension, that of past underutilization ,",0,0,Pointer,to deal with such scenarios we add an extra dimension that of past underutilization
+3660,SmoothRateLimiter.java,"immediately after, assume that an",0,0,Pointer,immediately after assume that an
+1929,GnuMakefileGenerator.java,imanagedbuildermakefilegenerator m e t h o d s,0,0,Pointer,imanagedbuildermakefilegenerator m e t h o d s
+3853,SmoothRateLimiter.java,this is translated to throttling time is discussed later .,0,0,Pointer,this is translated to throttling time is discussed later
+3615,SmoothRateLimiter.java,"for example, for a rate of",0,0,Pointer,for example for a rate of
+4254,Binder.java,honor an injection request for an element of type @code paymentservice creditcard .,0,0,Pointer,honor an injection request for an element of type @code paymentservice creditcard
+1800,CUIPreferenceInitializer.java,this class implements the setting of the cui initial preference store settings.,0,0,Pointer,this class implements the setting of the cui initial preference store settings
+564,IDataLoader.java,an idataloader loads data on demand,0,0,Pointer,an idataloader loads data on demand
+4318,Binder.java,"runtime, as soon as you try to create your injector.",0,0,Pointer,runtime as soon as you try to create your injector
+3825,SmoothRateLimiter.java,"then, the ratelimiter",0,0,Pointer,then the ratelimiter
+4784,PopupView.java,a component for displaying a two different views to data.,0,0,Pointer,a component for displaying a two different views to data
+4600,ButtonRenderer.java,"to the renderer, invoked when any of the rendered buttons is clicked.",0,0,Pointer,to the renderer invoked when any of the rendered buttons is clicked
+12,AbstractContractGetFileStatusTest.java,the tree parameters.,0,0,Pointer,the tree parameters
+372,DiskBalancerCluster.java,is checked against the exclusionlist and only the nodes in inclusionlist but,0,0,Pointer,is checked against the exclusionlist and only the nodes in inclusionlist but
+5088,VScrollTable.java,this method has logic which rows needs to be requested from server when,0,0,Pointer,this method has logic which rows needs to be requested from server when
+4801,PopupView.java,constructors,0,0,Pointer,constructors
+2858,CacheBuilder.java,"p or equivalently,",0,0,Pointer,p or equivalently
+5288,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,0,0,Pointer,overridden due table might not survive of visibility change scroll pos
+1850,FindStdLibPath.java,the purpose is to find a path where stdc library is located.,0,0,Pointer,the purpose is to find a path where stdc library is located
+3812,SmoothRateLimiter.java,if a request comes and the last request was,0,0,Pointer,if a request comes and the last request was
+3866,SmoothRateLimiter.java,because underutilization free resources for the taking.,0,0,Pointer,because underutilization free resources for the taking
+1521,KVStore.java,p,0,0,Pointer,p
+4658,Grid.java,@param t,0,0,Pointer,@param t
+3758,SmoothRateLimiter.java,ol,0,0,Pointer,ol
+3085,CollectionTestSuiteBuilder.java,@author chris povirk,0,0,Pointer,@author chris povirk
+450,ErasureCodingPolicyManager.java,this manages erasure coding policies predefined and activated in the system.,0,0,Pointer,this manages erasure coding policies predefined and activated in the system
+616,LocatedFileStatus.java,this class defines a filestatus that includes a file s block locations.,0,0,Pointer,this class defines a filestatus that includes a file s block locations
+3764,SmoothRateLimiter.java,the rate at which we move to the right is,0,0,Pointer,the rate at which we move to the right is
+4504,ManagedFilterPipeline.java,@author dhanji@gmail^com dhanji r. prasanna,0,0,Pointer,@author dhanji@gmail com dhanji r prasanna
+4201,Binder.java,given explicitly.,0,0,Pointer,given explicitly
+1517,KVStore.java,p,0,0,Pointer,p
+694,OzoneObj.java,ozone objects supported for acl.,0,0,Pointer,ozone objects supported for acl
+926,StructureGenerator.java,maxdepth maxdepth maximum depth of the directory tree default is 5.,0,0,Pointer,maxdepth maxdepth maximum depth of the directory tree default is 5
+483,FairOrderingPolicy.java,this,0,0,Pointer,this
+5292,VScrollTable.java,updates first visible row for the case we cannot wait,0,0,Pointer,updates first visible row for the case we cannot wait
+3827,SmoothRateLimiter.java,this is important when the,0,0,Pointer,this is important when the
+2484,SourceLookupTest.java,tests are parameterised.,0,0,Pointer,tests are parameterised
+4855,QueryBuilder.java,"@deprecated as of 80, no replacement available.",0,0,Pointer,@deprecated as of 80 no replacement available
+4135,TesterRequirements.java,be run against that class.,0,0,Pointer,be run against that class
+1836,DOMGCCParserExtensionTestSuite.java,@author jcamelon,0,0,Pointer,@author jcamelon
+602,KerberosDelegationTokenAuthenticator.java,token operations.,0,0,Pointer,token operations
+1856,FoldingConfigurationBlock.java,@since 30,0,0,Pointer,@since 30
+4756,InternalContainerAnnotationForJS.java,annotation enabling using multiple @link javascript @javascript,0,0,Pointer,annotation enabling using multiple @link javascript @javascript
+2767,BloomFilter.java,a bloom filter for instances of @code t .,0,0,Pointer,a bloom filter for instances of @code t
+4258,Binder.java,must be fully specified.,0,0,Pointer,must be fully specified
+2652,AbstractLoadingCache.java,this class provides a skeletal implementation of the @code cache interface to minimize the,0,0,Pointer,this class provides a skeletal implementation of the @code cache interface to minimize the
+3928,SmoothRateLimiter.java,we increase storedpermits with the amount of permits,0,0,Pointer,we increase storedpermits with the amount of permits
+123,CapacitySchedulerPlanFollower.java,content of the plan.,0,0,Pointer,content of the plan
+2441,SCDOptionsEnum.java,@author vhirsl,0,0,Pointer,@author vhirsl
+4288,Binder.java,"a pain one approach, shown above, is to apply a prototype annotation to a field in your module",0,0,Pointer,a pain one approach shown above is to apply a prototype annotation to a field in your module
+3850,SmoothRateLimiter.java,"at that point, a request of",0,0,Pointer,at that point a request of
+423,EditLogTailer.java,we try this up to the configuration maximum number of,0,0,Pointer,we try this up to the configuration maximum number of
+3822,SmoothRateLimiter.java,this may result in either underutilization or,0,0,Pointer,this may result in either underutilization or
+3748,SmoothRateLimiter.java,warmup period is the area of the trapezoid between,0,0,Pointer,warmup period is the area of the trapezoid between
+3321,MultimapBuilder.java,pre @code,0,0,Pointer,pre @code
+2401,ProcessLauncher.java,this class implements external process launching for internal builder.,0,0,Pointer,this class implements external process launching for internal builder
+3844,SmoothRateLimiter.java,"for a ratelimiter that produces 1 token per second, every second that goes by with the",0,0,Pointer,for a ratelimiter that produces 1 token per second every second that goes by with the
+2315,MIStack.java,class to track stack depth and debug frames for our internal cache,0,0,Pointer,class to track stack depth and debug frames for our internal cache
+9,AbstractContractGetFileStatusTest.java,the tree parameters.,0,0,Pointer,the tree parameters
+4905,SelectAllEvent.java,@param t,0,0,Pointer,@param t
+2902,CacheBuilder.java,"the cache on each cache modification, on occasional cache accesses, or on calls to @link",0,0,Pointer,the cache on each cache modification on occasional cache accesses or on calls to @link
+4250,Binder.java,bind new typeliteral&lt paymentservice&lt creditcard,0,0,Pointer,bind new typeliteral lt paymentservice lt creditcard
+2909,CacheBuilder.java,calling it should not be necessary with a high throughput cache.,0,0,Pointer,calling it should not be necessary with a high throughput cache
+374,DiskBalancerCluster.java,p,0,0,Pointer,p
+5029,VLazyInitItemIdentifiers.java,@author vaadin ltd,0,0,Pointer,@author vaadin ltd
+2610,WhiteSpaceOptions.java,preview snippets.,0,0,Pointer,preview snippets
+4279,Binder.java,"for other types can be configured using @link #converttotypes matcher, typeconverter",0,0,Pointer,for other types can be configured using @link converttotypes matcher typeconverter
+306,DelegatingSSLSocketFactory.java,"instead,",0,0,Pointer,instead
+2330,MIStack.java,p,0,0,Pointer,p
+3757,SmoothRateLimiter.java,"before going into the details of this particular function, let s keep in mind the basics",0,0,Pointer,before going into the details of this particular function let s keep in mind the basics
+375,DiskBalancerCluster.java,"if inclusionlist is empty, then we assume that all live nodes in the nodes is",0,0,Pointer,if inclusionlist is empty then we assume that all live nodes in the nodes is
+729,QuasiMonteCarlo.java,reducer,0,0,Pointer,reducer
+2332,MIStack.java,the mi protocol only allows to reply,0,0,Pointer,the mi protocol only allows to reply
+2747,ArrayListMultimapGwtSerializationDependencies.java,arraylistmultimap .,0,0,Pointer,arraylistmultimap
+3331,MultimapBuilder.java,stated otherwise in one of the configuration methods.,0,0,Pointer,stated otherwise in one of the configuration methods
+292,DelegatingSSLSocketFactory.java,li,0,0,Pointer,li
+370,DiskBalancerCluster.java,the user is only interested in processing that list of nodes.,0,0,Pointer,the user is only interested in processing that list of nodes
+4685,Grid.java,the grid bean type,0,0,Pointer,the grid bean type
+2907,CacheBuilder.java,writes.,0,0,Pointer,writes
+1938,GnuMakefileGenerator.java,"addprefix root ,",0,0,Pointer,addprefix root
+4968,VaadinPortlet.java,portlet request for websphere portal.,0,0,Pointer,portlet request for websphere portal
+371,DiskBalancerCluster.java,this node list,0,0,Pointer,this node list
+2303,MIEnvironmentDirectory.java,r will first reset the path to its default,0,0,Pointer,r will first reset the path to its default
+3749,SmoothRateLimiter.java,thresholdpermits and maxpermits,0,0,Pointer,thresholdpermits and maxpermits
+1515,KVStore.java,app defined types.,0,0,Pointer,app defined types
+4179,Binder.java,collects configuration information primarily i bindings i which will be used to create an,0,0,Pointer,collects configuration information primarily i bindings i which will be used to create an
+1810,DefaultEnvironmentContextInfo.java,@since 30,0,0,Pointer,@since 30
+1112,TestSaveNamespace.java,ol,0,0,Pointer,ol
+4316,Binder.java,in a,0,0,Pointer,in a
+1951,GnuMakefileGenerator.java,@return a suitable make rule compatible path,0,0,Pointer,@return a suitable make rule compatible path
+1615,AbstractCPropertyTab.java,means to handle control messages which are the main,0,0,Pointer,means to handle control messages which are the main
+3255,HostAndPort.java,@since 100,0,0,Pointer,@since 100
+2770,BloomFilter.java,"but if it claims that an element is i not i contained in it, then this is definitely true.",0,0,Pointer,but if it claims that an element is i not i contained in it then this is definitely true
+2715,ArbitraryInstances.java,@author ben yu,0,0,Pointer,@author ben yu
+1801,CUIPreferenceInitializer.java,@noextend this class is not intended to be subclassed by clients.,0,0,Pointer,@noextend this class is not intended to be subclassed by clients
+5063,VScrollTable.java,when changing tabs.,0,0,Pointer,when changing tabs
+2904,CacheBuilder.java,read or write operations.,0,0,Pointer,read or write operations
+4674,Grid.java,@param t,0,0,Pointer,@param t
+3649,SmoothRateLimiter.java,how this works is best explained with an example,0,0,Pointer,how this works is best explained with an example
+4518,SpiUtils.java,the kind of binding.,0,0,Pointer,the kind of binding
+2882,CacheBuilder.java,"however, if @link",0,0,Pointer,however if @link
+1355,TypedEvent.java,basic event implementation to implement custom events.,0,0,Pointer,basic event implementation to implement custom events
+3434,Preconditions.java,p to be replaced with the more compact,0,0,Pointer,p to be replaced with the more compact
+2548,TracepointActionsPropertyPage.java,property page for tracepoint actions,0,0,Pointer,property page for tracepoint actions
+408,DockerKillCommand.java,encapsulates the docker kill command and its command line arguments.,0,0,Pointer,encapsulates the docker kill command and its command line arguments
+4954,VaadinPortlet.java,deployments and handles various portlet requests from the browser.,0,0,Pointer,deployments and handles various portlet requests from the browser
+369,DiskBalancerCluster.java,if a non empty inclusionlist is specified then the diskbalancer assumes that,0,0,Pointer,if a non empty inclusionlist is specified then the diskbalancer assumes that
+2705,ArbitraryInstances.java,used or if the class exposes a public parameter less constructor then it will be new d and,0,0,Pointer,used or if the class exposes a public parameter less constructor then it will be new d and
+2855,CacheBuilder.java,public graph load key key throws anyexception,0,0,Pointer,public graph load key key throws anyexception
+1889,GnuMakefileGenerator.java,m a k e f i l e s p o p u l a t i o n m e t h o d s,0,0,Pointer,m a k e f i l e s p o p u l a t i o n m e t h o d s
+2485,SourceLookupTest.java,p,0,0,Pointer,p
+2708,ArbitraryInstances.java,clients won t get type,0,0,Pointer,clients won t get type
+3046,ClassToInstanceMap.java,"a map, each entry of which maps a java a href http tinyurl^com 2cmwkz raw type a to an",0,0,Pointer,a map each entry of which maps a java a href http tinyurl com 2cmwkz raw type a to an
+4792,PopupView.java,methods inherited from abstractcomponentcontainer.,0,0,Pointer,methods inherited from abstractcomponentcontainer
+3742,SmoothRateLimiter.java,large requests push this further than small requests.,0,0,Pointer,large requests push this further than small requests
+1906,GnuMakefileGenerator.java,target dep1 dep2 dep3,0,0,Pointer,target dep1 dep2 dep3
+1487,JavaStreamingTestExample.java,batchduration seconds until the test becomes significant p value 005 or the number of,0,0,Pointer,batchduration seconds until the test becomes significant p value 005 or the number of
+5030,VLazyInitItemIdentifiers.java,@deprecated replaced in 81 with,0,0,Pointer,@deprecated replaced in 81 with
+3860,SmoothRateLimiter.java,"1 token per second , then this will take 3 seconds.",0,0,Pointer,1 token per second then this will take 3 seconds
+2895,CacheBuilder.java,"cache accesses, or on calls to @link cache#cleanup .",0,0,Pointer,cache accesses or on calls to @link cache cleanup
+3924,SmoothRateLimiter.java,an unused ratelimiter is also defined by that notion when we observe that the,0,0,Pointer,an unused ratelimiter is also defined by that notion when we observe that the
+2697,ArbitraryInstances.java,"supplies an arbitrary default instance for a wide range of types, often useful in testing",0,0,Pointer,supplies an arbitrary default instance for a wide range of types often useful in testing
+3873,SmoothRateLimiter.java,underlying model is a continuous function mapping storedpermits from 00 to maxstoredpermits,0,0,Pointer,underlying model is a continuous function mapping storedpermits from 00 to maxstoredpermits
+1430,YarnAuthorizationProvider.java,an implementation of the interface will provide authorization related,0,0,Pointer,an implementation of the interface will provide authorization related
+1870,GDBControl_7_12.java,@since 52,0,0,Pointer,@since 52
+1,Abfss.java,azure blob file system implementation of abstractfilesystem.,0,0,Pointer,azure blob file system implementation of abstractfilesystem
+4868,RpcDataProviderExtension.java,@author vaadin ltd,0,0,Pointer,@author vaadin ltd
+3775,SmoothRateLimiter.java,equal to warmupperiod.,0,0,Pointer,equal to warmupperiod
+4161,AbstractModule.java,bind paymentservice^class ^to creditcardpaymentservice^class,0,0,Pointer,bind paymentservice class to creditcardpaymentservice class
+125,CapacitySchedulerPlanFollower.java,are available in the cluster.,0,0,Pointer,are available in the cluster
+4126,SubscriberTest.java,tests for @link subscriber .,0,0,Pointer,tests for @link subscriber
+5046,VScrollTable.java,there are spacers in,0,0,Pointer,there are spacers in
+2382,MultiLaunchConfigurationTabGroup.java,tab group for launch group.,0,0,Pointer,tab group for launch group
+2881,CacheBuilder.java,object#equals equals method to determine equality for keys or values.,0,0,Pointer,object equals equals method to determine equality for keys or values
+1771,ContainerTabModel.java,@author jjohnstn,0,0,Pointer,@author jjohnstn
+4695,Grid.java,the grid bean type,0,0,Pointer,the grid bean type
+2223,MIAsyncErrorProcessor.java,in some cases gdb reports exec commands failure after the ^running event is fired.,0,0,Pointer,in some cases gdb reports exec commands failure after the running event is fired
+3784,SmoothRateLimiter.java,this is thresholdpermits stableintervals.,0,0,Pointer,this is thresholdpermits stableintervals
+4761,InternalContainerAnnotationForJS.java,@author vaadin ltd,0,0,Pointer,@author vaadin ltd
+4236,Binder.java,create only one instance of @code serviceimpl and will reuse it for all injection requests of,0,0,Pointer,create only one instance of @code serviceimpl and will reuse it for all injection requests of
+3240,HostAndPort.java,p here are some examples of recognized formats,0,0,Pointer,p here are some examples of recognized formats
+2893,CacheBuilder.java,p if @linkplain #expireafterwrite expireafterwrite or @linkplain #expireafteraccess,0,0,Pointer,p if @linkplain expireafterwrite expireafterwrite or @linkplain expireafteraccess
+4128,SubscriberTest.java,@author colin decker,0,0,Pointer,@author colin decker
+3644,SmoothRateLimiter.java,"and it can grow up to maxstoredpermits, for sufficiently large underutilization.",0,0,Pointer,and it can grow up to maxstoredpermits for sufficiently large underutilization
+366,DiskBalancerCluster.java,please note,0,0,Pointer,please note
+4115,SortedSetNavigationTester.java,a generic junit test which tests operations on a sortedset.,0,0,Pointer,a generic junit test which tests operations on a sortedset
+1662,AllTemplateEngineTests.java,the test suite will execute all the testcases added to the suite.,0,0,Pointer,the test suite will execute all the testcases added to the suite
+4145,WrappingScheduledExecutorService.java,p note that task wrapping may occur even if the task is never executed.,0,0,Pointer,p note that task wrapping may occur even if the task is never executed
+2545,ToggleDynamicPrintfAdapter.java,@since 75,0,0,Pointer,@since 75
+909,StructureGenerator.java,this program generates a random namespace structure with the following,0,0,Pointer,this program generates a random namespace structure with the following
+201,ComparableVersion.java,"represents a string in the version item list, usually a qualifier.",0,0,Pointer,represents a string in the version item list usually a qualifier
+4308,Binder.java,constructors and that guice treats the provided constructor as though it were annotated so.,0,0,Pointer,constructors and that guice treats the provided constructor as though it were annotated so
+961,SwiftBadRequestException.java,data locality can t be calculated if openstack swift version is old.,0,0,Pointer,data locality can t be calculated if openstack swift version is old
+5221,VScrollTable.java,to detect if the first visible,0,0,Pointer,to detect if the first visible
+4306,Binder.java,implementation.,0,0,Pointer,implementation
+2917,CacheBuilder.java,"i not i include cache contents, but only configuration.",0,0,Pointer,i not i include cache contents but only configuration
+428,EditLogTailer.java,this mechanism is b very bad b for cases where we care about being i fast i it just,0,0,Pointer,this mechanism is b very bad b for cases where we care about being i fast i it just
+3898,SmoothRateLimiter.java,cost as fresh ones 1 qps is the cost for each .,0,0,Pointer,cost as fresh ones 1 qps is the cost for each
+1928,GnuMakefileGenerator.java,string constants for makefile contents and messages private static final string auto dep comment ^autodeps non nls 1 private static final string message managedmakebuilder^message non nls 1 private static final string build error message ^error non nls 1 private static final string dep incl comment ^module.dep^includes non nls 1 private static final string mod incl comment ^module.make^includes non nls 1 private itool buildtools private boolean buildtoolsused private imanagedbuildinfo info private set outputextensionsset maps of macro names string to values list dependency file variables private vector dependencymakefiles ipath s relative to the top build directory or absolute,0,0,Pointer,string constants for makefile contents and messages private static final string auto dep comment autodeps non nls 1 private static final string message managedmakebuilder message non nls 1 private static final string build error message error non nls 1 private static final string dep incl comment module dep includes non nls 1 private static final string mod incl comment module make includes non nls 1 private itool buildtools private boolean buildtoolsused private imanagedbuildinfo info private set outputextensionsset maps of macro names string to values list dependency file variables private vector dependencymakefiles ipath s relative to the top build directory or absolute
+4867,RpcDataProviderExtension.java,@since 74,0,0,Pointer,@since 74
+1508,KVStore.java,p,0,0,Pointer,p
+2794,BloomFilter.java,p implementations should be collections of pure functions ie stateless .,0,0,Pointer,p implementations should be collections of pure functions ie stateless
+1829,DocCommentOwnerBlock.java,em this class is not intended for use outside of cdt em,0,0,Pointer,em this class is not intended for use outside of cdt em
+3834,SmoothRateLimiter.java,speed .,0,0,Pointer,speed
+3460,Preconditions.java,p not every type of precondition failure is supported by these methods.,0,0,Pointer,p not every type of precondition failure is supported by these methods
+2321,MIStack.java,stack info depth 11,0,0,Pointer,stack info depth 11
+1022,TestAdlContractSeekLive.java,test seek operation on adl file system.,0,0,Pointer,test seek operation on adl file system
+4794,PopupView.java,but mandatory .,0,0,Pointer,but mandatory
+1787,CPPImplicitVariable.java,represents a variable implicitly created in c code.,0,0,Pointer,represents a variable implicitly created in c code
+3720,SmoothRateLimiter.java,"instead , and postpone subsequent requests as needed.",0,0,Pointer,instead and postpone subsequent requests as needed
+3937,SmoothRateLimiter.java,"this implements a bursty ratelimiter, where storedpermits are translated to zero throttling.",0,0,Pointer,this implements a bursty ratelimiter where storedpermits are translated to zero throttling
+4733,GridSelectionModel.java,the server side interface that controls grid s selection state.,0,0,Pointer,the server side interface that controls grid s selection state
+3329,MultimapBuilder.java,on the receiving instance you must store and use the new builder instance it returns instead.,0,0,Pointer,on the receiving instance you must store and use the new builder instance it returns instead
+2929,CacheBuilder.java,@author charles fry,0,0,Pointer,@author charles fry
+1130,TestSwiftFileSystemContract.java,this is the full filesystem contract test which requires the,0,0,Pointer,this is the full filesystem contract test which requires the
+873,RSLegacyRawErasureCoderFactory.java,a raw coder factory for the legacy raw reed solomon coder in java.,0,0,Pointer,a raw coder factory for the legacy raw reed solomon coder in java
+5154,VScrollTable.java,changes to manage mousedown and mouseup,0,0,Pointer,changes to manage mousedown and mouseup
+5105,VScrollTable.java,changes to manage mousedown and mouseup,0,0,Pointer,changes to manage mousedown and mouseup
+3848,SmoothRateLimiter.java,"a request actually arrives this is also related to the point made in the last paragraph , thus",0,0,Pointer,a request actually arrives this is also related to the point made in the last paragraph thus
+4476,DefaultMethodInterceptionTest.java,foo implementation that does not override the default method.,0,0,Pointer,foo implementation that does not override the default method
+4278,Binder.java,conversions,0,0,Pointer,conversions
+5086,VScrollTable.java,when changing tabs.,0,0,Pointer,when changing tabs
+1667,AutoconfMacroParameterListValidator.java,this class provides the macro call parameter parsing for the autoconf editor hover,0,0,Pointer,this class provides the macro call parameter parsing for the autoconf editor hover
+3645,SmoothRateLimiter.java,"so, the",0,0,Pointer,so the
+1611,AbstractCPropertyTab.java,a standard way to create buttons ins edit del etc,0,0,Pointer,a standard way to create buttons ins edit del etc
+799,ReencryptionUpdater.java,"all the submitted futures, and statistics about how far the futures are",0,0,Pointer,all the submitted futures and statistics about how far the futures are
+804,ReencryptionUpdater.java,class that encapsulates re encryption details of a file.,0,0,Pointer,class that encapsulates re encryption details of a file
+1840,DsfDebugUITools.java,@since 11,0,0,Pointer,@since 11
+5065,VScrollTable.java,this method has logic which rows needs to be requested from server when,0,0,Pointer,this method has logic which rows needs to be requested from server when
+672,Node2ObjectsMap.java,this information is built from the dn container reports.,0,0,Pointer,this information is built from the dn container reports
+5225,VScrollTable.java,lost .,0,0,Pointer,lost
+4813,PopupView.java,these are unnecessary,0,0,Pointer,these are unnecessary
+693,OzoneObj.java,ozone objects supported for acl.,0,0,Pointer,ozone objects supported for acl
+1784,CPPDeferredFunction.java,a compiler would resolve it during instantiation.,0,0,Pointer,a compiler would resolve it during instantiation
+4642,FooterDoubleClickHandler.java,@since 74,0,0,Pointer,@since 74
+1484,JavaStreamingTestExample.java,"a timeout after 100 insignificant batches, call",0,0,Pointer,a timeout after 100 insignificant batches call
+5147,VScrollTable.java,access to touchcontextprovider.,0,0,Pointer,access to touchcontextprovider
+4929,SimpleGridUI.java,@author vaadin ltd,0,0,Pointer,@author vaadin ltd
+3352,MultimapBuilder.java,@since 160,0,0,Pointer,@since 160
+2149,IMSASTDeclspecList.java,@noimplement this interface is not intended to be implemented by clients.,0,0,Pointer,@noimplement this interface is not intended to be implemented by clients
+4265,Binder.java,@code service injection requests.,0,0,Pointer,@code service injection requests
+5366,VTextArea.java,@author vaadin ltd.,0,0,Pointer,@author vaadin ltd
+5109,VScrollTable.java,when changing tabs.,0,0,Pointer,when changing tabs
+2681,AbstractMultimap.java,"a skeleton @code multimap implementation, not necessarily in terms of a @code map .",0,0,Pointer,a skeleton @code multimap implementation not necessarily in terms of a @code map
+4285,Binder.java,if your binding annotation has parameters you can apply different bindings to different specific,0,0,Pointer,if your binding annotation has parameters you can apply different bindings to different specific
+3861,SmoothRateLimiter.java,but what does it mean to serve 7 stored,0,0,Pointer,but what does it mean to serve 7 stored
+3667,SmoothRateLimiter.java,but what does it mean to serve 7 stored,0,0,Pointer,but what does it mean to serve 7 stored
+4651,Grid.java,@since 80,0,0,Pointer,@since 80
+3149,EqualsTester.java,@since 100,0,0,Pointer,@since 100
+1896,GnuMakefileGenerator.java,c srcs,0,0,Pointer,c srcs
+3339,MultimapBuilder.java,an intermediate stage in a @link multimapbuilder in which the key value collection map,0,0,Pointer,an intermediate stage in a @link multimapbuilder in which the key value collection map
+912,StructureGenerator.java,"the number of subdirectories is a random number in minwidth, maxwidth .",0,0,Pointer,the number of subdirectories is a random number in minwidth maxwidth
+3923,SmoothRateLimiter.java,and what we mean by,0,0,Pointer,and what we mean by
+2864,CacheBuilder.java,build,0,0,Pointer,build
+3814,SmoothRateLimiter.java,"at this rate, serving 15 fresh permits",0,0,Pointer,at this rate serving 15 fresh permits
+1691,CConfigurationDescriptionCache.java,li any clients needed icconfigurationdescription get cconfigurationdescription using constructor,0,0,Pointer,li any clients needed icconfigurationdescription get cconfigurationdescription using constructor
+2238,MIAsyncErrorProcessor.java,@since 53,0,0,Pointer,@since 53
+1079,TestOMVolumeRequest.java,base test class for volume request.,0,0,Pointer,base test class for volume request
+1798,CPropertyTester.java,a property tester that determines if a file is an executable or a c c project.,0,0,Pointer,a property tester that determines if a file is an executable or a c c project
+4939,TargetDetailsImpl.java,@deprecated replaced in 81 by @link dropevent#gettransferdata string,0,0,Pointer,@deprecated replaced in 81 by @link dropevent gettransferdata string
+2586,UncallCommandHandler.java,@since 70,0,0,Pointer,@since 70
+4588,BootstrapPageResponse.java,@author vaadin ltd,0,0,Pointer,@author vaadin ltd
+3849,SmoothRateLimiter.java,storedpermits becomes 100 assuming maxstoredpermits 100 .,0,0,Pointer,storedpermits becomes 100 assuming maxstoredpermits 100
+5066,VScrollTable.java,user scrolls.,0,0,Pointer,user scrolls
+1381,Utils.java,"path filelist fileutil^stat2paths fs^liststatus outdir,",0,0,Pointer,path filelist fileutil stat2paths fs liststatus outdir
+1831,DocCommentOwnerBlock.java,@noinstantiate this class is not intended to be instantiated by clients.,0,0,Pointer,@noinstantiate this class is not intended to be instantiated by clients
+1475,JavaStreamingTestExample.java,stops when the two groups are statistically,0,0,Pointer,stops when the two groups are statistically
+2846,CacheBuilder.java,cache instances created by @code cachebuilder will not perform any type of eviction.,0,0,Pointer,cache instances created by @code cachebuilder will not perform any type of eviction
+248,DBProfile.java,user visible configs based rocksdb tuning page.,0,0,Pointer,user visible configs based rocksdb tuning page
+3655,SmoothRateLimiter.java,storedpermits becomes 100 assuming maxstoredpermits 100 .,0,0,Pointer,storedpermits becomes 100 assuming maxstoredpermits 100
+2896,CacheBuilder.java,expired entries may be counted by @link,0,0,Pointer,expired entries may be counted by @link
+5223,VScrollTable.java,changes to manage mousedown and mouseup,0,0,Pointer,changes to manage mousedown and mouseup
+916,StructureGenerator.java,files are randomly placed in the empty directories.,0,0,Pointer,files are randomly placed in the empty directories
+3934,SmoothRateLimiter.java,"after granting a request,",0,0,Pointer,after granting a request

@@ -1,0 +1,490 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3100,CountingOutputStream.java,@author chris nokleberg,1,1,Ownership,@author chris nokleberg
+3634,SmoothRateLimiter.java,"rate is applied to networking limiting bandwidth , where past underutilization typically",1,0,Ownership,rate is applied to networking limiting bandwidth where past underutilization typically
+1057,TestHDFSServerPorts.java,"namenode, datanode, secondarynamenode and backupnode.",1,0,Ownership,namenode datanode secondarynamenode and backupnode
+5151,VScrollTable.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+5267,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,Ownership,overridden due table might not survive of visibility change scroll pos
+5127,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,Ownership,overridden due table might not survive of visibility change scroll pos
+2069,ICPPASTLinkageSpecification.java,@noimplement this interface is not intended to be implemented by clients.,1,0,Ownership,@noimplement this interface is not intended to be implemented by clients
+125,CapacitySchedulerPlanFollower.java,are available in the cluster.,1,0,Ownership,are available in the cluster
+2375,MIThreadGroupAddedEvent.java,this can only be detected by gdb mi with gdb 72.,1,0,Ownership,this can only be detected by gdb mi with gdb 72
+2456,SourceLookupTest.java,each of these options produces different debug,1,0,Ownership,each of these options produces different debug
+3135,EqualsTester.java,li comparing each pair of objects from different equality groups returns false,1,0,Ownership,li comparing each pair of objects from different equality groups returns false
+1478,JavaStreamingTestExample.java,for example,1,0,Ownership,for example
+2407,ProcStatParser.java,@see also http www^linuxhowtos.org system procstat^htm,1,0,Ownership,@see also http www linuxhowtos org system procstat htm
+3326,MultimapBuilder.java,pre,1,0,Ownership,pre
+3433,Preconditions.java,pre,1,0,Ownership,pre
+5269,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,Ownership,example itabpanel just set contained components invisible and back
+5414,Window.java,closelistener to a window and,1,0,Ownership,closelistener to a window and
+5229,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,Ownership,this method has logic which rows needs to be requested from server when
+5273,VScrollTable.java,user scrolls.,1,0,Ownership,user scrolls
+14,AbstractContractGetFileStatusTest.java,path filter which only expects paths whose final name element,1,0,Ownership,path filter which only expects paths whose final name element
+3333,MultimapBuilder.java,@param k0 an upper bound on the key type of the generated multimap.,1,0,Ownership,@param k0 an upper bound on the key type of the generated multimap
+2383,MultiLaunchConfigurationTabGroup.java,"@deprecated see bug 517722, launch groups are now part of platform.",1,0,Ownership,@deprecated see bug 517722 launch groups are now part of platform
+5373,Window.java,a component that represents a floating popup window that can be added to a,1,0,Ownership,a component that represents a floating popup window that can be added to a
+5195,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+3133,EqualsTester.java,li comparing each object against an instance of an incompatible class returns false,1,0,Ownership,li comparing each object against an instance of an incompatible class returns false
+2309,MIReverseDebugEnabler.java,@since 42,1,0,Ownership,@since 42
+2328,MIStack.java,the same concept is applicable for the stack list frames command with different limits.,1,0,Ownership,the same concept is applicable for the stack list frames command with different limits
+87,BatchedRequests.java,to place as a batch.,1,0,Ownership,to place as a batch
+5209,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+1217,TimelineDataToRetrieve.java,instead.,1,0,Ownership,instead
+5199,VScrollTable.java,to detect if the first visible,1,0,Ownership,to detect if the first visible
+1066,TestKeyInputStream.java,tests @link keyinputstream .,1,0,Ownership,tests @link keyinputstream
+3242,HostAndPort.java,li example^com,1,0,Ownership,li example com
+2324,MIStack.java,would both be sent to gdb because the command cache sees them as different.,1,0,Ownership,would both be sent to gdb because the command cache sees them as different
+3594,Resources.java,p all method parameters must be non null unless documented otherwise.,1,0,Ownership,p all method parameters must be non null unless documented otherwise
+1471,JavaRecord.java,java bean class to be used with the example javasqlnetworkwordcount.,1,0,Ownership,java bean class to be used with the example javasqlnetworkwordcount
+4208,Binder.java,"annotations found on @code service , since guice will have already moved on to @code",1,0,Ownership,annotations found on @code service since guice will have already moved on to @code
+3652,SmoothRateLimiter.java,say we leave the ratelimiter unused,1,0,Ownership,say we leave the ratelimiter unused
+3423,Preconditions.java,"correctly that is, whether its i preconditions i were met .",1,0,Ownership,correctly that is whether its i preconditions i were met
+86,BatchedRequests.java,a grouping of scheduling requests which are sent to the placementalgorithm,1,0,Ownership,a grouping of scheduling requests which are sent to the placementalgorithm
+4955,VaadinPortlet.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+1158,TestTaskContext.java,tests context api and @link statusreporter#getprogress via @link taskattemptcontext#getprogress api .,1,0,Ownership,tests context api and @link statusreporter getprogress via @link taskattemptcontext getprogress api
+273,DelegatingSSLSocketFactory.java,a @link sslsocketfactory that can delegate to various ssl implementations.,1,0,Ownership,a @link sslsocketfactory that can delegate to various ssl implementations
+5141,VScrollTable.java,dom^client.blurevent,1,0,Ownership,dom client blurevent
+3628,SmoothRateLimiter.java,this may result in either underutilization or,1,0,Ownership,this may result in either underutilization or
+5121,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+16,AbstractContractGetFileStatusTest.java,the tree parameters.,1,0,Ownership,the tree parameters
+2147,IMSASTDeclspecList.java,@since 66,1,0,Ownership,@since 66
+3630,SmoothRateLimiter.java,past underutilization could mean that excess resources are available.,1,0,Ownership,past underutilization could mean that excess resources are available
+4118,SortedSetNavigationTester.java,@author jesse wilson,1,1,Ownership,@author jesse wilson
+3330,MultimapBuilder.java,"p the generated multimaps are serializable if the key and value types are serializable, unless",1,0,Ownership,p the generated multimaps are serializable if the key and value types are serializable unless
+255,DBProfile.java,https github^com facebook rocksdb wiki setup options and basic tuning,1,0,Ownership,https github com facebook rocksdb wiki setup options and basic tuning
+2186,ITestItem.java,@noimplement this interface is not intended to be implemented by clients.,1,0,Ownership,@noimplement this interface is not intended to be implemented by clients
+3626,SmoothRateLimiter.java,this ratelimiter would immediately,1,0,Ownership,this ratelimiter would immediately
+5133,VScrollTable.java,user scrolls.,1,0,Ownership,user scrolls
+5227,VScrollTable.java,when changing tabs.,1,0,Ownership,when changing tabs
+253,DBProfile.java,most tuning parameters are based on this url.,1,0,Ownership,most tuning parameters are based on this url
+5213,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+2405,ProcStatParser.java,@author marc dumais,1,1,Ownership,@author marc dumais
+2201,LanguageSettingsProvidersSerializer.java,dummy class to represent ill defined provider.,1,0,Ownership,dummy class to represent ill defined provider
+4164,AbstractModule.java,@author crazybob@google^com bob lee,1,1,Ownership,@author crazybob@google com bob lee
+7,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,1,0,Ownership,kept small to avoid killing object store test runs too much
+5287,VScrollTable.java,changes to manage mousedown and mouseup,1,0,Ownership,changes to manage mousedown and mouseup
+4217,Binder.java,"p the @link provider you use here does not have to be a factory that is, a provider which",1,0,Ownership,p the @link provider you use here does not have to be a factory that is a provider which
+3401,ObjectCountHashMap.java,"implementation which stores keys and count values as map entries, @code objectcounthashmap",1,0,Ownership,implementation which stores keys and count values as map entries @code objectcounthashmap
+3642,SmoothRateLimiter.java,modeled by storedpermits variable.,1,0,Ownership,modeled by storedpermits variable
+5177,VScrollTable.java,to detect if the first visible,1,0,Ownership,to detect if the first visible
+279,DelegatingSSLSocketFactory.java,p,1,0,Ownership,p
+1091,TestRDBStore.java,rdbstore tests.,1,0,Ownership,rdbstore tests
+3221,GwtTestSuite.java,grouping them into a suite is much faster than running each as a one test,1,0,Ownership,grouping them into a suite is much faster than running each as a one test
+1175,TextInputFormat.java,either linefeed or carriage return are used to signal end of line.,1,0,Ownership,either linefeed or carriage return are used to signal end of line
+1072,TestNativeAzureFileSystemUploadLogic.java,just an arbitrary number so that the values i write have a predictable,1,0,Ownership,just an arbitrary number so that the values i write have a predictable
+3640,SmoothRateLimiter.java,speed .,1,0,Ownership,speed
+103,BlocksMap.java,this class maintains the map from a block to its metadata.,1,0,Ownership,this class maintains the map from a block to its metadata
+3614,SmoothRateLimiter.java,"request, and ensure that 1 qps seconds have elapsed since then.",1,0,Ownership,request and ensure that 1 qps seconds have elapsed since then
+3597,Resources.java,@author colin decker,1,1,Ownership,@author colin decker
+3644,SmoothRateLimiter.java,"and it can grow up to maxstoredpermits, for sufficiently large underutilization.",1,0,Ownership,and it can grow up to maxstoredpermits for sufficiently large underutilization
+3343,MultimapBuilder.java,leaving k and v as upper bounds rather than the actual key and value types allows type,1,0,Ownership,leaving k and v as upper bounds rather than the actual key and value types allows type
+1476,JavaStreamingTestExample.java,significant p value 005 or after a user specified timeout in number of batches is exceeded.,1,0,Ownership,significant p value 005 or after a user specified timeout in number of batches is exceeded
+4145,WrappingScheduledExecutorService.java,p note that task wrapping may occur even if the task is never executed.,1,0,Ownership,p note that task wrapping may occur even if the task is never executed
+5245,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,Ownership,overridden due table might not survive of visibility change scroll pos
+3445,Preconditions.java,p would be flagged as having called @code sqrt with an illegal argument.,1,0,Ownership,p would be flagged as having called @code sqrt with an illegal argument
+2219,MachOBinaryParserPage.java,@noextend this class is not intended to be subclassed by clients.,1,0,Ownership,@noextend this class is not intended to be subclassed by clients
+4191,Binder.java,"examples omit the opening @code binder , just as you will if your module extends @link",1,0,Ownership,examples omit the opening @code binder just as you will if your module extends @link
+2255,MIBreakpointsSynchronizer.java,same state.,1,0,Ownership,same state
+3596,Resources.java,@author ben yu,1,1,Ownership,@author ben yu
+122,CapacitySchedulerPlanFollower.java,dynamic behavior of the scheduler in a way that is consistent with the,1,0,Ownership,dynamic behavior of the scheduler in a way that is consistent with the
+4152,AbstractModule.java,configuration.,1,0,Ownership,configuration
+3137,EqualsTester.java,ul,1,0,Ownership,ul
+3114,EqualsTester.java,p the simplest use case is,1,0,Ownership,p the simplest use case is
+3437,Preconditions.java,"checkargument value 0, input is negative %s , value",1,0,Ownership,checkargument value 0 input is negative s value
+5400,Window.java,@see ui^windoworderupdateevent,1,0,Ownership,@see ui windoworderupdateevent
+2199,LanguageSettingsProvidersSerializer.java,helper class handling serialization and notifications for language settings entries @link iclanguagesettingentry .,1,0,Ownership,helper class handling serialization and notifications for language settings entries @link iclanguagesettingentry
+5185,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,Ownership,this method has logic which rows needs to be requested from server when
+104,BlocksMap.java,block s metadata currently includes blockcollection it belongs to and,1,0,Ownership,block s metadata currently includes blockcollection it belongs to and
+3337,MultimapBuilder.java,parameters to be left implicit more often.,1,0,Ownership,parameters to be left implicit more often
+3341,MultimapBuilder.java,@param k0 the upper bound on the key type of the generated multimap.,1,0,Ownership,@param k0 the upper bound on the key type of the generated multimap
+1174,TextInputFormat.java,files are broken into lines.,1,0,Ownership,files are broken into lines
+3101,CountingOutputStream.java,@since 10,1,0,Ownership,@since 10
+5235,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+3612,SmoothRateLimiter.java,wait as much.,1,0,Ownership,wait as much
+5010,VaadinServiceInitListener.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+2253,MIBreakpointsSynchronizer.java,that violated many assumptions in,1,0,Ownership,that violated many assumptions in
+2075,ICPPASTVirtSpecifier.java,"there are two virt specifiers, final and override .",1,0,Ownership,there are two virt specifiers final and override
+5295,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+5271,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,Ownership,updates first visible row for the case we cannot wait
+285,DelegatingSSLSocketFactory.java,"properly setup, an exception is thrown.",1,0,Ownership,properly setup an exception is thrown
+3095,ConflictingRequirementsException.java,thrown when requirements on a tester method or class conflict with each other.,1,0,Ownership,thrown when requirements on a tester method or class conflict with each other
+3084,CollectionTestSuiteBuilder.java,settestsuitebuilder .,1,0,Ownership,settestsuitebuilder
+1192,TimelineDataToRetrieve.java,in response.,1,0,Ownership,in response
+5237,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,Ownership,com google gwt event dom client blurhandler onblur com google gwt event
+4206,Binder.java,this i overrides i the,1,0,Ownership,this i overrides i the
+5205,VScrollTable.java,when changing tabs.,1,0,Ownership,when changing tabs
+2441,SCDOptionsEnum.java,@author vhirsl,1,1,Ownership,@author vhirsl
+1216,TimelineDataToRetrieve.java,with metricfilters which is used to decide which entities to return,1,0,Ownership,with metricfilters which is used to decide which entities to return
+3479,Preconditions.java,the same goes for the message accepting overloads.,1,0,Ownership,the same goes for the message accepting overloads
+3077,CloseablesTest.java,@author michael lancaster,1,1,Ownership,@author michael lancaster
+3233,HostAndPort.java,hostandport hp hostandport^fromstring 2001 db8 1,1,0,Ownership,hostandport hp hostandport fromstring 2001 db8 1
+2336,MIStack.java,if we cache the valid data,1,0,Ownership,if we cache the valid data
+2162,IPropertyChangeParticipant.java,clients may implement this interface.,1,0,Ownership,clients may implement this interface
+5153,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,Ownership,these are used when jumping between pages when pressing home and end
+54,ApplicationConstants.java,environment for applications.,1,0,Ownership,environment for applications
+5207,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,Ownership,this method has logic which rows needs to be requested from server when
+3335,MultimapBuilder.java,@since 160,1,0,Ownership,@since 160
+3107,DescendingMultiset.java,@code entryiterator .,1,0,Ownership,@code entryiterator
+1049,TestFederationPolicyUtils.java,unit test for @link federationpolicyutils .,1,0,Ownership,unit test for @link federationpolicyutils
+127,CapacitySchedulerPlanFollower.java,synchronize schedulers and plans that have arbitrary changes performing set,1,0,Ownership,synchronize schedulers and plans that have arbitrary changes performing set
+3636,SmoothRateLimiter.java,"on the other hand, past underutilization could mean that the server responsible for handling",1,0,Ownership,on the other hand past underutilization could mean that the server responsible for handling
+3465,Preconditions.java,p it is of course possible to use the methods of this class to check for invalid conditions,1,0,Ownership,p it is of course possible to use the methods of this class to check for invalid conditions
+5383,Window.java,or set to be centered using @link #center,1,0,Ownership,or set to be centered using @link center
+3449,Preconditions.java,"if you have such arguments, use the conventional",1,0,Ownership,if you have such arguments use the conventional
+199,ComparableVersion.java,@see a href https cwiki^apache.org confluence display mavenold versioning versioning on maven wiki a,1,0,Ownership,@see a href https cwiki apache org confluence display mavenold versioning versioning on maven wiki a
+3491,Preconditions.java,href https github^com google guava wiki preconditionsexplained using @code,1,0,Ownership,href https github com google guava wiki preconditionsexplained using @code
+5377,Window.java,p,1,0,Ownership,p
+129,CapacitySchedulerPlanFollower.java,this makes it resilient to frequency of,1,0,Ownership,this makes it resilient to frequency of
+5172,VScrollTable.java,used to recall the position of an open context menu if we need to close,1,0,Ownership,used to recall the position of an open context menu if we need to close
+3226,HashFunctionEnum.java,an enum that contains all of the known hash functions.,1,0,Ownership,an enum that contains all of the known hash functions
+1204,TimelineDataToRetrieve.java,li,1,0,Ownership,li
+5275,VScrollTable.java,@see,1,0,Ownership,@see
+2055,ICPointerType.java,@noimplement this interface is not intended to be implemented by clients.,1,0,Ownership,@noimplement this interface is not intended to be implemented by clients
+1228,TimelineDataToRetrieve.java,number of metrics to return.,1,0,Ownership,number of metrics to return
+203,ComparableVersion.java,this class is used both for the global item list and for sub lists which start,1,0,Ownership,this class is used both for the global item list and for sub lists which start
+2288,MIDataListRegisterNames.java,show a list of register names for the current target.,1,0,Ownership,show a list of register names for the current target
+3494,Preconditions.java,@since 20,1,0,Ownership,@since 20
+2061,ICPPAliasTemplateInstance.java,@noimplement this interface is not intended to be implemented by clients.,1,0,Ownership,@noimplement this interface is not intended to be implemented by clients
+4932,SpacerVisibilityChangedEvent.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+2195,IViewInMemory.java,provides the ability to view a variable in the memory view.,1,0,Ownership,provides the ability to view a variable in the memory view
+1225,TimelineDataToRetrieve.java,li,1,0,Ownership,li
+3357,MultimapBuilder.java,@since 160,1,0,Ownership,@since 160
+5189,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,Ownership,com google gwt event dom client focushandler onfocus com google gwt event
+5410,Window.java,non javadoc,1,0,Ownership,non javadoc
+191,ComparableVersion.java,li code the empty string code or code ga code or code final code li,1,0,Ownership,li code the empty string code or code ga code or code final code li
+2247,MIBreakpointsSynchronizer.java,"bug 530377 prior to fixing 530377, events that arrived from gdb faster than",1,0,Ownership,bug 530377 prior to fixing 530377 events that arrived from gdb faster than
+3413,PeekingIterator.java,peekingiterator a .,1,0,Ownership,peekingiterator a
+3483,Preconditions.java,"this only supports the @code %s specifier, not the full range of @link",1,0,Ownership,this only supports the @code s specifier not the full range of @link
+5387,Window.java,p,1,0,Ownership,p
+3082,CollectionTestSuiteBuilder.java,concrete instantiation of @link abstractcollectiontestsuitebuilder for testing collections that,1,0,Ownership,concrete instantiation of @link abstractcollectiontestsuitebuilder for testing collections that
+2204,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,0,Ownership,those are for readability of xml only
+4227,Binder.java,if your module also includes bindings for particular i values i of the,1,0,Ownership,if your module also includes bindings for particular i values i of the
+5159,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,Ownership,updates first visible row for the case we cannot wait
+3246,HostAndPort.java,li 2001 db8 1 @link #gethost omits brackets,1,0,Ownership,li 2001 db8 1 @link gethost omits brackets
+1469,FlatMapFunction.java,a function that returns zero or more output records from each input record.,1,0,Ownership,a function that returns zero or more output records from each input record
+5403,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,1,0,Ownership,@see com vaadin ui panel paintcontent com vaadin server painttarget
+3320,MultimapBuilder.java,"explicitly in @code com^google.common^collect , for example",1,0,Ownership,explicitly in @code com google common collect for example
+1069,TestMetricsVisitor.java,test the metric visitor interface,1,0,Ownership,test the metric visitor interface
+5251,VScrollTable.java,user scrolls.,1,0,Ownership,user scrolls
+4189,Binder.java,"instead, you should consult the series of examples below.",1,0,Ownership,instead you should consult the series of examples below
+2450,SourceLookupTest.java,"located in the @link #build path directory, but it is now located in the",1,0,Ownership,located in the @link build path directory but it is now located in the
+3295,LazyStackTraceBenchmark.java,finder implementation that might be used in a logging framework.,1,0,Ownership,finder implementation that might be used in a logging framework
+2263,MIBreakpointsSynchronizer.java,catchpoint expressions gdb tracepoint commands,1,0,Ownership,catchpoint expressions gdb tracepoint commands
+5135,VScrollTable.java,@see,1,0,Ownership,@see
+2302,MIEnvironmentDirectory.java,add directory pathdir to beginning of search path for source files.,1,0,Ownership,add directory pathdir to beginning of search path for source files
+118,CapacitySchedulerPlanFollower.java,it is in charge to publish the state of the @link plan s to the underlying,1,0,Ownership,it is in charge to publish the state of the @link plan s to the underlying
+5137,VScrollTable.java,dom^client.focusevent,1,0,Ownership,dom client focusevent
+2128,IInclude.java,@noextend this interface is not intended to be extended by clients.,1,0,Ownership,@noextend this interface is not intended to be extended by clients
+5249,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,Ownership,updates first visible row for the case we cannot wait
+5193,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,Ownership,com google gwt event dom client blurhandler onblur com google gwt event
+120,CapacitySchedulerPlanFollower.java,"this implementation does so, by",1,0,Ownership,this implementation does so by
+3431,Preconditions.java,throw new illegalargumentexception input is negative value,1,0,Ownership,throw new illegalargumentexception input is negative value
+2314,MIStack.java,sub classes must supply the miarg object.,1,0,Ownership,sub classes must supply the miarg object
+1082,TestOzoneNativeAuthorizer.java,test class for @link ozonenativeauthorizer .,1,0,Ownership,test class for @link ozonenativeauthorizer
+4135,TesterRequirements.java,be run against that class.,1,0,Ownership,be run against that class
+5381,Window.java,p,1,0,Ownership,p
+2338,MIStack.java,we don t cache errors.,1,0,Ownership,we don t cache errors
+4761,InternalContainerAnnotationForJS.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+173,ComparableVersion.java,changed package org^apache.maven^artifact.versioning to package org^apache.hadoop^util 2.,1,0,Ownership,changed package org apache maven artifact versioning to package org apache hadoop util 2
+3485,Preconditions.java,"however, note that if the number of arguments does not match the",1,0,Ownership,however note that if the number of arguments does not match the
+1762,ClangToolChain.java,@author dschaefer,1,1,Ownership,@author dschaefer
+1101,TestS3BucketManager.java,tests for s3 bucket manager.,1,0,Ownership,tests for s3 bucket manager
+5179,VScrollTable.java,changes to manage mousedown and mouseup,1,0,Ownership,changes to manage mousedown and mouseup
+1474,JavaStreamingTestExample.java,stream arrives as text files in a directory.,1,0,Ownership,stream arrives as text files in a directory
+3236,HostAndPort.java,hp^gethost returns 2001 db8 1,1,0,Ownership,hp gethost returns 2001 db8 1
+251,DBProfile.java,https github^com facebook rocksdb blob master include rocksdb options^h,1,0,Ownership,https github com facebook rocksdb blob master include rocksdb options h
+1592,TBoolColumn.java,"the set of fields this struct contains, along with convenience methods for finding and manipulating them.",1,0,Ownership,the set of fields this struct contains along with convenience methods for finding and manipulating them
+5217,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+1036,TestCustomOauthTokenProvider.java,is propagated.,1,0,Ownership,is propagated
+5379,Window.java,"using the @link #window string, component constructor.",1,0,Ownership,using the @link window string component constructor
+2322,MIStack.java,stack info depth 2,1,0,Ownership,stack info depth 2
+277,DelegatingSSLSocketFactory.java,a href https github^com wildfly wildfly openssl wildlfy openssl a,1,0,Ownership,a href https github com wildfly wildfly openssl wildlfy openssl a
+1085,TestProtoBufRpc.java,test for testing protocol buffer based rpc mechanism.,1,0,Ownership,test for testing protocol buffer based rpc mechanism
+3117,EqualsTester.java,pre,1,0,Ownership,pre
+4193,Binder.java,pre,1,0,Ownership,pre
+124,CapacitySchedulerPlanFollower.java,it also updates the plan s view on how much resources,1,0,Ownership,it also updates the plan s view on how much resources
+81,BaseRouterWebServicesTest.java,base class for all the routerrmadminservice test cases.,1,0,Ownership,base class for all the routerrmadminservice test cases
+3447,Preconditions.java,p avoid passing message arguments that are expensive to compute your code will always compute,1,0,Ownership,p avoid passing message arguments that are expensive to compute your code will always compute
+2326,MIStack.java,we can potentially re use the answer.,1,0,Ownership,we can potentially re use the answer
+4160,AbstractModule.java,bind creditcardpaymentservice^class,1,0,Ownership,bind creditcardpaymentservice class
+19,AbstractContractGetFileStatusTest.java,"@link #listlocatedstatus path, pathfilter .",1,0,Ownership,@link listlocatedstatus path pathfilter
+4158,AbstractModule.java,protected void configure,1,0,Ownership,protected void configure
+5301,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,Ownership,com google gwt event dom client blurhandler onblur com google gwt event
+3286,ImmutableTable_CustomFieldSerializerBase.java,serializers.,1,0,Ownership,serializers
+3349,MultimapBuilder.java,parameters to be left implicit more often.,1,0,Ownership,parameters to be left implicit more often
+116,CapacitySchedulerPlanFollower.java,this class implements a @link planfollower .,1,0,Ownership,this class implements a @link planfollower
+5181,VScrollTable.java,lost .,1,0,Ownership,lost
+4162,AbstractModule.java,bindconstant ^annotatedwith names^named port ^to 8080,1,0,Ownership,bindconstant annotatedwith names named port to 8080
+70,BalancingPolicy.java,balancing policy.,1,0,Ownership,balancing policy
+1190,TimelineDataToRetrieve.java,ul,1,0,Ownership,ul
+4185,Binder.java,simply and readably.,1,0,Ownership,simply and readably
+5281,VScrollTable.java,dom^client.blurevent,1,0,Ownership,dom client blurevent
+1202,TimelineDataToRetrieve.java,confused with configfilters which is used to decide which entities to,1,0,Ownership,confused with configfilters which is used to decide which entities to
+53,ApplicationConstants.java,the type of launch for the container.,1,0,Ownership,the type of launch for the container
+3459,Preconditions.java,h3 other types of preconditions h3,1,0,Ownership,h3 other types of preconditions h3
+3411,PeekingIterator.java,p see the guava user guide article on a href,1,0,Ownership,p see the guava user guide article on a href
+2077,ICPPASTVirtSpecifier.java,@noextend this interface is not intended to be extended by clients.,1,0,Ownership,@noextend this interface is not intended to be extended by clients
+18,AbstractContractGetFileStatusTest.java,a filesystem filter which exposes the protected method,1,0,Ownership,a filesystem filter which exposes the protected method
+5187,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+3128,EqualsTester.java,pre,1,0,Ownership,pre
+3210,ForwardingImmutableSet.java,@author hayward chan,1,1,Ownership,@author hayward chan
+1480,JavaStreamingTestExample.java,"true, 9932",1,0,Ownership,true 9932
+2259,MIBreakpointsSynchronizer.java,"to resolve this problem, there is some code",1,0,Ownership,to resolve this problem there is some code
+1199,TimelineDataToRetrieve.java,"or empty, all configurations will be fetched if fieldstoretrieve",1,0,Ownership,or empty all configurations will be fetched if fieldstoretrieve
+1451,ExecutorPlugin.java,a plugin which can be automatically instantiated within each spark executor.,1,0,Ownership,a plugin which can be automatically instantiated within each spark executor
+3394,NullsLastOrdering_CustomFieldSerializer.java,this class implements the gwt serialization of @link nullslastordering .,1,0,Ownership,this class implements the gwt serialization of @link nullslastordering
+2330,MIStack.java,p,1,0,Ownership,p
+3481,Preconditions.java,p @code preconditions uses @link strings#lenientformat to format error message template,1,0,Ownership,p @code preconditions uses @link strings lenientformat to format error message template
+3189,FeatureSpecificTestSuiteBuilder.java,an,1,0,Ownership,an
+3248,HostAndPort.java,li 2001 db8 1 use @link #requirebracketsforipv6 to prohibit this,1,0,Ownership,li 2001 db8 1 use @link requirebracketsforipv6 to prohibit this
+1054,TestHandler.java,tests handler interface.,1,0,Ownership,tests handler interface
+3214,ForwardingQueueTest.java,tests for @code forwardingqueue .,1,0,Ownership,tests for @code forwardingqueue
+4215,Binder.java,"by first resolving an instance of @code serviceprovider in the regular way, then calling @link",1,0,Ownership,by first resolving an instance of @code serviceprovider in the regular way then calling @link
+2316,MIStack.java,"a map of threadid framescacheinfo, that can be cleared based on a context.",1,0,Ownership,a map of threadid framescacheinfo that can be cleared based on a context
+5203,VScrollTable.java,lost .,1,0,Ownership,lost
+5155,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,Ownership,overridden due table might not survive of visibility change scroll pos
+5231,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+5183,VScrollTable.java,when changing tabs.,1,0,Ownership,when changing tabs
+5255,VScrollTable.java,dom^client.focusevent,1,0,Ownership,dom client focusevent
+4223,Binder.java,pre,1,0,Ownership,pre
+1576,LocalDiskShuffleDataIO.java,implementation of the @link shuffledataio plugin system that replicates the local shuffle,1,0,Ownership,implementation of the @link shuffledataio plugin system that replicates the local shuffle
+5412,Window.java,an interface used for listening to window close events.,1,0,Ownership,an interface used for listening to window close events
+4116,SortedSetNavigationTester.java,can t be invoked directly please see,1,0,Ownership,can t be invoked directly please see
+3610,SmoothRateLimiter.java,"this is enforced by throttling incoming requests as needed, ie",1,0,Ownership,this is enforced by throttling incoming requests as needed ie
+5289,VScrollTable.java,lost .,1,0,Ownership,lost
+2238,MIAsyncErrorProcessor.java,@since 53,1,0,Ownership,@since 53
+5144,VScrollTable.java,for internal use only.,1,0,Ownership,for internal use only
+5157,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,Ownership,example itabpanel just set contained components invisible and back
+2209,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,0,Ownership,those are for readability of xml only
+200,ComparableVersion.java,represents a numeric item in the version item list.,1,0,Ownership,represents a numeric item in the version item list
+3648,SmoothRateLimiter.java,fresh permits for any remaining permits,1,0,Ownership,fresh permits for any remaining permits
+2136,IMacroEntry.java,@noextend this interface is not intended to be extended by clients.,1,0,Ownership,@noextend this interface is not intended to be extended by clients
+3453,Preconditions.java,"however, the methods of this class have a large number of overloads that prevent such",1,0,Ownership,however the methods of this class have a large number of overloads that prevent such
+2155,INodeFactory.java,@noextend this interface is not intended to be extended by clients.,1,0,Ownership,@noextend this interface is not intended to be extended by clients
+5079,VScrollTable.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+1233,TimelineDataToRetrieve.java,be retrieved.,1,0,Ownership,be retrieved
+1035,TestCustomOauthTokenProvider.java,instead this just checks that the creation works and that everything,1,0,Ownership,instead this just checks that the creation works and that everything
+3632,SmoothRateLimiter.java,"should speed up for a while, to take advantage of these resources.",1,0,Ownership,should speed up for a while to take advantage of these resources
+5201,VScrollTable.java,changes to manage mousedown and mouseup,1,0,Ownership,changes to manage mousedown and mouseup
+5161,VScrollTable.java,user scrolls.,1,0,Ownership,user scrolls
+4515,SpiUtils.java,@author sameb@google^com sam berlin,1,1,Ownership,@author sameb@google com sam berlin
+2179,IScannerInfoConsoleParser.java,parses a line of command output looking for scanner info entries.,1,0,Ownership,parses a line of command output looking for scanner info entries
+3435,Preconditions.java,pre @code,1,0,Ownership,pre @code
+3339,MultimapBuilder.java,an intermediate stage in a @link multimapbuilder in which the key value collection map,1,0,Ownership,an intermediate stage in a @link multimapbuilder in which the key value collection map
+4222,Binder.java,happen letting guice work for you .,1,0,Ownership,happen letting guice work for you
+5239,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+3471,Preconditions.java,explained a in the guava user guide for more advice.,1,0,Ownership,explained a in the guava user guide for more advice
+5375,Window.java,a window is added to a @code ui using,1,0,Ownership,a window is added to a @code ui using
+3403,ObjectCountHashMap.java,"p in the absence of element deletions, this will iterate over elements in insertion order.",1,0,Ownership,p in the absence of element deletions this will iterate over elements in insertion order
+3293,LazyStackTraceBenchmark.java,quick and dirty benchmark of @link throwables#lazystacktrace throwable .,1,0,Ownership,quick and dirty benchmark of @link throwables lazystacktrace throwable
+5225,VScrollTable.java,lost .,1,0,Ownership,lost
+2164,IPropertyChangeParticipant.java,@since 50,1,0,Ownership,@since 50
+91,BatchedRequests.java,iterator type.,1,0,Ownership,iterator type
+1209,TimelineDataToRetrieve.java,these can either be,1,0,Ownership,these can either be
+2261,MIBreakpointsSynchronizer.java,processed before the next event starts processing.,1,0,Ownership,processed before the next event starts processing
+5221,VScrollTable.java,to detect if the first visible,1,0,Ownership,to detect if the first visible
+188,ComparableVersion.java,li code milestone code or code m code li,1,0,Ownership,li code milestone code or code m code li
+172,ComparableVersion.java,code source of this file http grepcode^com file repo1^maven.org maven2 org^apache.maven maven artifact 31.1 org apache maven artifact versioning comparableversion^java modifications made on top of the source 1.,1,0,Ownership,code source of this file http grepcode com file repo1 maven org maven2 org apache maven maven artifact 31 1 org apache maven artifact versioning comparableversion java modifications made on top of the source 1
+4143,WrappingScheduledExecutorService.java,an abstract @code scheduledexecutorservice that allows subclasses to @linkplain,1,0,Ownership,an abstract @code scheduledexecutorservice that allows subclasses to @linkplain
+3599,Resources.java,a byte source that reads from a url using @link url#openstream .,1,0,Ownership,a byte source that reads from a url using @link url openstream
+3585,ReserializingTestCollectionGenerator.java,reserializes the sets created by another test set generator.,1,0,Ownership,reserializes the sets created by another test set generator
+1130,TestSwiftFileSystemContract.java,this is the full filesystem contract test which requires the,1,0,Ownership,this is the full filesystem contract test which requires the
+4218,Binder.java,always i creates i each instance it provides.,1,0,Ownership,always i creates i each instance it provides
+2318,MIStack.java,br,1,0,Ownership,br
+3650,SmoothRateLimiter.java,"for a ratelimiter that produces 1 token per second, every second that goes by with the",1,0,Ownership,for a ratelimiter that produces 1 token per second every second that goes by with the
+10,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,1,0,Ownership,kept small to avoid killing object store test runs too much
+2110,IGDBTraceControl.java,gdb specific part,1,0,Ownership,gdb specific part
+3146,EqualsTester.java,ul,1,0,Ownership,ul
+1200,TimelineDataToRetrieve.java,contains @link field#configs or @link field#all .,1,0,Ownership,contains @link field configs or @link field all
+2454,SourceLookupTest.java,different effective types of source lookups that need to be done depending on,1,0,Ownership,different effective types of source lookups that need to be done depending on
+2059,ICPPAliasTemplateInstance.java,@since 55,1,0,Ownership,@since 55
+1218,TimelineDataToRetrieve.java,li,1,0,Ownership,li
+3253,HostAndPort.java,caller s responsibility.,1,0,Ownership,caller s responsibility
+2715,ArbitraryInstances.java,@author ben yu,1,1,Ownership,@author ben yu
+3313,MapSerializationTester.java,basic serialization test for maps.,1,0,Ownership,basic serialization test for maps
+4230,Binder.java,pre,1,0,Ownership,pre
+3608,SmoothRateLimiter.java,"the primary feature of a ratelimiter is its stable rate , the maximum rate that is should",1,0,Ownership,the primary feature of a ratelimiter is its stable rate the maximum rate that is should
+5257,VScrollTable.java,@see,1,0,Ownership,@see
+5385,Window.java,p,1,0,Ownership,p
+2265,MIBreakpointsSynchronizer.java,@see mibreakpointssynchronizer class documentation for design comments,1,0,Ownership,@see mibreakpointssynchronizer class documentation for design comments
+3487,Preconditions.java,"behave as expected, and will still include all argument values in the error message the message",1,0,Ownership,behave as expected and will still include all argument values in the error message the message
+2175,IRegisters2.java,service extension of iregisters to manage user defined register groups,1,0,Ownership,service extension of iregisters to manage user defined register groups
+3184,FeatureSpecificTestSuiteBuilder.java,@param b the concrete type of this builder the self type .,1,0,Ownership,@param b the concrete type of this builder the self type
+1207,TimelineDataToRetrieve.java,this is represented as a @link timelinefilterlist object,1,0,Ownership,this is represented as a @link timelinefilterlist object
+1135,TestSwiftFileSystemContract.java,contract which normally means that directories and equal files,1,0,Ownership,contract which normally means that directories and equal files
+249,DBProfile.java,documentation for options.,1,0,Ownership,documentation for options
+197,ComparableVersion.java,li,1,0,Ownership,li
+4181,Binder.java,guice provides this object to your application s @link module implementors so,1,0,Ownership,guice provides this object to your application s @link module implementors so
+3105,DescendingMultiset.java,a skeleton implementation of a descending multiset.,1,0,Ownership,a skeleton implementation of a descending multiset
+5211,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,Ownership,com google gwt event dom client focushandler onfocus com google gwt event
+2332,MIStack.java,the mi protocol only allows to reply,1,0,Ownership,the mi protocol only allows to reply
+3489,Preconditions.java,h3 more information h3,1,0,Ownership,h3 more information h3
+3130,EqualsTester.java,ul,1,0,Ownership,ul
+4179,Binder.java,collects configuration information primarily i bindings i which will be used to create an,1,0,Ownership,collects configuration information primarily i bindings i which will be used to create an
+5293,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,Ownership,this method has logic which rows needs to be requested from server when
+5394,Window.java,@since 30,1,0,Ownership,@since 30
+2085,ICPPPointerToMemberType.java,@noimplement this interface is not intended to be implemented by clients.,1,0,Ownership,@noimplement this interface is not intended to be implemented by clients
+2108,IGDBTraceControl.java,gdb specific part,1,0,Ownership,gdb specific part
+3457,Preconditions.java,"p as with any performance concerns, you should consider profiling your code in a production",1,0,Ownership,p as with any performance concerns you should consider profiling your code in a production
+3624,SmoothRateLimiter.java,what if the ratelimiter was unused for a long period of,1,0,Ownership,what if the ratelimiter was unused for a long period of
+2380,MultiCfgContributedEnvironment.java,@noextend this class is not intended to be subclassed by clients.,1,0,Ownership,@noextend this class is not intended to be subclassed by clients
+2445,SourceLookupTest.java,tests that interaction with source lookups works as expected.,1,0,Ownership,tests that interaction with source lookups works as expected
+3616,SmoothRateLimiter.java,"qps 5 5 tokens per second , if we ensure that a request isn t granted earlier than 200ms after",1,0,Ownership,qps 5 5 tokens per second if we ensure that a request isn t granted earlier than 200ms after
+5131,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,Ownership,updates first visible row for the case we cannot wait
+3473,Preconditions.java,similar to those in this class for non precondition checks.,1,0,Ownership,similar to those in this class for non precondition checks
+4156,AbstractModule.java,pre,1,0,Ownership,pre
+5129,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,Ownership,example itabpanel just set contained components invisible and back
+1087,TestProtoBufRpc.java,and protobuf service definition from src test test rpc service^proto,1,0,Ownership,and protobuf service definition from src test test rpc service proto
+3427,Preconditions.java,this allows constructs such as,1,0,Ownership,this allows constructs such as
+3332,MultimapBuilder.java,@author louis wasserman,1,1,Ownership,@author louis wasserman
+5253,VScrollTable.java,@see,1,0,Ownership,@see
+3205,ForwardingBlockingDequeTest.java,test for @link forwardingblockingdeque,1,0,Ownership,test for @link forwardingblockingdeque
+88,BatchedRequests.java,the placement algorithm tends to give more optimal,1,0,Ownership,the placement algorithm tends to give more optimal
+5393,Window.java,@author vaadin ltd.,1,1,Ownership,@author vaadin ltd
+3347,MultimapBuilder.java,@since 160,1,0,Ownership,@since 160
+5299,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+3250,HostAndPort.java,"p note that this is not an exhaustive list, because these methods are only concerned with",1,0,Ownership,p note that this is not an exhaustive list because these methods are only concerned with
+1059,TestHDFSServerPorts.java,br,1,0,Ownership,br
+121,CapacitySchedulerPlanFollower.java,"adding removing resizing leaf queues in the scheduler, thus affecting the",1,0,Ownership,adding removing resizing leaf queues in the scheduler thus affecting the
+3620,SmoothRateLimiter.java,"at this rate, serving 15 fresh permits",1,0,Ownership,at this rate serving 15 fresh permits
+2093,IDsfDebugServicesFactory.java,a factory to create dsf services.,1,0,Ownership,a factory to create dsf services
+3075,CloseablesTest.java,"p checks proper closing behavior, and ensures that ioexceptions on closeable^close are not",1,0,Ownership,p checks proper closing behavior and ensures that ioexceptions on closeable close are not
+2458,SourceLookupTest.java,see the makefile for more,1,0,Ownership,see the makefile for more
+5285,VScrollTable.java,to detect if the first visible,1,0,Ownership,to detect if the first visible
+3399,ObjectCountHashMap.java,store key objects and count values.,1,0,Ownership,store key objects and count values
+4144,WrappingScheduledExecutorService.java,#wraptask callable wrap tasks before they are submitted to the underlying executor.,1,0,Ownership,wraptask callable wrap tasks before they are submitted to the underlying executor
+3150,EqualsTester.java,class used to test whether equals correctly handles an instance of an incompatible class.,1,0,Ownership,class used to test whether equals correctly handles an instance of an incompatible class
+3328,MultimapBuilder.java,invoking a configuration method has no effect,1,0,Ownership,invoking a configuration method has no effect
+5308,VScrollTable.java,unrendered rows.,1,0,Ownership,unrendered rows
+5396,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,1,0,Ownership,@see com vaadin ui panel paintcontent com vaadin server painttarget
+5243,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,Ownership,these are used when jumping between pages when pressing home and end
+275,DelegatingSSLSocketFactory.java,openssl offers better,1,0,Ownership,openssl offers better
+2140,IMIBackend.java,service for controlling the back end process.,1,0,Ownership,service for controlling the back end process
+3240,HostAndPort.java,p here are some examples of recognized formats,1,0,Ownership,p here are some examples of recognized formats
+5165,VScrollTable.java,dom^client.focusevent,1,0,Ownership,dom client focusevent
+2112,IGDBTraceControl.java,gdb specific part @since 44,1,0,Ownership,gdb specific part @since 44
+4497,EncounterImpl.java,@author jessewilson@google^com jesse wilson,1,1,Ownership,@author jessewilson@google com jesse wilson
+3182,FeatureSpecificTestSuiteBuilder.java,"creates, based on your criteria, a junit test suite that exhaustively tests the object generated",1,0,Ownership,creates based on your criteria a junit test suite that exhaustively tests the object generated
+2251,MIBreakpointsSynchronizer.java,"takes multiple dsf stages to complete handling 1 event, so the handling of",1,0,Ownership,takes multiple dsf stages to complete handling 1 event so the handling of
+3467,Preconditions.java,doing so is b not recommended b because it is,1,0,Ownership,doing so is b not recommended b because it is
+5297,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,Ownership,com google gwt event dom client focushandler onfocus com google gwt event
+3463,Preconditions.java,unsupportedoperationexception in the situations they are intended for.,1,0,Ownership,unsupportedoperationexception in the situations they are intended for
+281,DelegatingSSLSocketFactory.java,ul,1,0,Ownership,ul
+4210,Binder.java,pre,1,0,Ownership,pre
+5279,VScrollTable.java,@see,1,0,Ownership,@see
+1186,TimelineDataToRetrieve.java,encapsulates information regarding which data to retrieve for each entity,1,0,Ownership,encapsulates information regarding which data to retrieve for each entity
+3443,Preconditions.java,double d sqrt 10,1,0,Ownership,double d sqrt 10
+3345,MultimapBuilder.java,cachebuilder uses the same technique.,1,0,Ownership,cachebuilder uses the same technique
+3354,MultimapBuilder.java,parameters to be left implicit more often.,1,0,Ownership,parameters to be left implicit more often
+3469,Preconditions.java,see a,1,0,Ownership,see a
+2149,IMSASTDeclspecList.java,@noimplement this interface is not intended to be implemented by clients.,1,0,Ownership,@noimplement this interface is not intended to be implemented by clients
+3215,ForwardingQueueTest.java,@author robert konigsberg,1,1,Ownership,@author robert konigsberg
+126,CapacitySchedulerPlanFollower.java,"this implementation of planfollower is relatively stateless, and it can",1,0,Ownership,this implementation of planfollower is relatively stateless and it can
+3425,Preconditions.java,"of a specified type, which helps the method in which the exception was thrown communicate that",1,0,Ownership,of a specified type which helps the method in which the exception was thrown communicate that
+245,CpuTimeTracker.java,utility for sampling and computing cpu usage.,1,0,Ownership,utility for sampling and computing cpu usage
+3475,Preconditions.java,p projects which use @code com^google.common should generally avoid the use of @link,1,0,Ownership,p projects which use @code com google common should generally avoid the use of @link
+5163,VScrollTable.java,@see,1,0,Ownership,@see
+3618,SmoothRateLimiter.java,if a request comes and the last request was,1,0,Ownership,if a request comes and the last request was
+5263,VScrollTable.java,reordering disabled and clicking on it resets sorting.,1,0,Ownership,reordering disabled and clicking on it resets sorting
+3455,Preconditions.java,"p the message string is not formatted unless the exception will be thrown, so the cost of the",1,0,Ownership,p the message string is not formatted unless the exception will be thrown so the cost of the
+5389,Window.java,"in vaadin versions prior to 70.0, window was also used as application level",1,0,Ownership,in vaadin versions prior to 70 0 window was also used as application level
+3186,FeatureSpecificTestSuiteBuilder.java,"class such as @link #named return this type, so that builder methods of more derived",1,0,Ownership,class such as @link named return this type so that builder methods of more derived
+3231,HostAndPort.java,p example usage,1,0,Ownership,p example usage
+1132,TestSwiftFileSystemContract.java,some of the tests override the base class tests these,1,0,Ownership,some of the tests override the base class tests these
+4128,SubscriberTest.java,@author colin decker,1,1,Ownership,@author colin decker
+1587,StreamHandle.java,message.,1,0,Ownership,message
+1213,TimelineDataToRetrieve.java,"or empty, all metrics will be fetched if fieldstoretrieve contains",1,0,Ownership,or empty all metrics will be fetched if fieldstoretrieve contains
+1584,RemoveBlocks.java,request to remove a set of blocks.,1,0,Ownership,request to remove a set of blocks
+3122,EqualsTester.java,for example,1,0,Ownership,for example
+1230,TimelineDataToRetrieve.java,be fetched.,1,0,Ownership,be fetched
+89,BatchedRequests.java,placements if more requests are batched together.,1,0,Ownership,placements if more requests are batched together
+1165,TestUpgradeDomainBlockPlacementPolicy.java,config file and put some nodes to decommission state.,1,0,Ownership,config file and put some nodes to decommission state
+4183,Binder.java,h3 the guice binding edsl h3,1,0,Ownership,h3 the guice binding edsl h3
+1237,TimelineDataToRetrieve.java,be retrieved.,1,0,Ownership,be retrieved
+3126,EqualsTester.java,addequalitygroup new user sergey,1,0,Ownership,addequalitygroup new user sergey
+5391,Window.java,this function is now covered by the @link ui class.,1,0,Ownership,this function is now covered by the @link ui class
+5147,VScrollTable.java,access to touchcontextprovider.,1,0,Ownership,access to touchcontextprovider
+4154,AbstractModule.java,methods which mirror those found in @link binder .,1,0,Ownership,methods which mirror those found in @link binder
+2142,IMIBackend.java,event indicating that the back end process has started or terminated.,1,0,Ownership,event indicating that the back end process has started or terminated
+3441,Preconditions.java,pre @code,1,0,Ownership,pre @code
+1167,TestUpgradeDomainBlockPlacementPolicy.java,satisfy the upgrade domain policy.,1,0,Ownership,satisfy the upgrade domain policy
+5398,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",1,0,Ownership,@see com vaadin ui panel changevariables java lang object java util map
+1122,TestSCMDatanodeHeartbeatDispatcher.java,this class tests the behavior of scmdatanodeheartbeatdispatcher.,1,0,Ownership,this class tests the behavior of scmdatanodeheartbeatdispatcher
+5416,Window.java,user closes the window.,1,0,Ownership,user closes the window
+2106,IGDBTraceControl.java,specific trace record context.,1,0,Ownership,specific trace record context
+3477,Preconditions.java,"instead, use whichever of @link",1,0,Ownership,instead use whichever of @link
+1032,TestCustomOauthTokenProvider.java,test custom oauth token providers.,1,0,Ownership,test custom oauth token providers
+5265,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,Ownership,these are used when jumping between pages when pressing home and end
+1163,TestUpgradeDomainBlockPlacementPolicy.java,end to end test case for upgrade domain,1,0,Ownership,end to end test case for upgrade domain
+3318,MultimapBuilder.java,collection implementations used in a particular multimap.,1,0,Ownership,collection implementations used in a particular multimap
+3282,ImmutableSetHashFloodingDetectionBenchmark.java,benchmark of implementations of @link immutableset#hashfloodingdetected object .,1,0,Ownership,benchmark of implementations of @link immutableset hashfloodingdetected object
+3439,Preconditions.java,pre,1,0,Ownership,pre
+2104,IGDBTraceControl.java,marker interface for a context on which trace operations can be performed,1,0,Ownership,marker interface for a context on which trace operations can be performed
+1106,TestSaveNamespace.java,ol,1,0,Ownership,ol
+3451,Preconditions.java,"p depending on your message arguments, memory may be allocated for boxing and varargs array",1,0,Ownership,p depending on your message arguments memory may be allocated for boxing and varargs array
+2,Abfss.java,this impl delegates to the old filesystem,1,0,Ownership,this impl delegates to the old filesystem
+4201,Binder.java,given explicitly.,1,0,Ownership,given explicitly
+4198,Binder.java,@link module class to serve as an explicit i manifest i for the services it provides.,1,0,Ownership,@link module class to serve as an explicit i manifest i for the services it provides
+3622,SmoothRateLimiter.java,it is important to realize that such a ratelimiter has a very superficial memory of the past,1,0,Ownership,it is important to realize that such a ratelimiter has a very superficial memory of the past
+5259,VScrollTable.java,dom^client.blurevent,1,0,Ownership,dom client blurevent
+3322,MultimapBuilder.java,"listmultimap string, integer treelistmultimap",1,0,Ownership,listmultimap string integer treelistmultimap
+3461,Preconditions.java,continue to throw,1,0,Ownership,continue to throw
+2102,IGDBTraceControl.java,@since 30,1,0,Ownership,@since 30
+5223,VScrollTable.java,changes to manage mousedown and mouseup,1,0,Ownership,changes to manage mousedown and mouseup
+1537,KVStore.java,p,1,0,Ownership,p
+3429,Preconditions.java,public static double sqrt double value,1,0,Ownership,public static double sqrt double value
+3324,MultimapBuilder.java,"setmultimap integer, myenum hashenummultimap",1,0,Ownership,setmultimap integer myenum hashenummultimap
+1573,LevelDB.java,implementation of kvstore that uses leveldb as the underlying data store.,1,0,Ownership,implementation of kvstore that uses leveldb as the underlying data store
+5247,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,Ownership,example itabpanel just set contained components invisible and back
+2397,ProblemMarkerManager.java,visitors used to filter the element delta changes,1,0,Ownership,visitors used to filter the element delta changes
+5125,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,Ownership,these are used when jumping between pages when pressing home and end
+5408,Window.java,non javadoc,1,0,Ownership,non javadoc
+2223,MIAsyncErrorProcessor.java,in some cases gdb reports exec commands failure after the ^running event is fired.,1,0,Ownership,in some cases gdb reports exec commands failure after the running event is fired
+3238,HostAndPort.java,hp^tostring returns 2001 db8 1 80,1,0,Ownership,hp tostring returns 2001 db8 1 80
+1188,TimelineDataToRetrieve.java,br,1,0,Ownership,br
+2249,MIBreakpointsSynchronizer.java,synchronizer and manager to become corrupt.,1,0,Ownership,synchronizer and manager to become corrupt
+2372,MIThreadCreatedEvent.java,this can only be detected by gdb mi after gdb 68.,1,0,Ownership,this can only be detected by gdb mi after gdb 68
+3096,ConflictingRequirementsException.java,@author george van den driessche,1,1,Ownership,@author george van den driessche
+2340,MIStack.java,provide the data.,1,0,Ownership,provide the data
+2320,MIStack.java,pre,1,0,Ownership,pre
+1595,UploadBlockStream.java,the actual block data is not contained here.,1,0,Ownership,the actual block data is not contained here
+4204,Binder.java,specifies that a request for a @code service instance with no binding annotations should be,1,0,Ownership,specifies that a request for a @code service instance with no binding annotations should be
+2452,SourceLookupTest.java,p,1,0,Ownership,p
+4213,Binder.java,this,1,0,Ownership,this
+1240,TimelineDataToRetrieve.java,ul,1,0,Ownership,ul
+5169,VScrollTable.java,dom^client.blurevent,1,0,Ownership,dom client blurevent
+75,BalancingPolicy.java,cluster is balanced if each pool in each node is balanced.,1,0,Ownership,cluster is balanced if each pool in each node is balanced
+4220,Binder.java,follow.,1,0,Ownership,follow
+5405,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",1,0,Ownership,@see com vaadin ui panel changevariables java lang object java util map
+3124,EqualsTester.java,new equalstester,1,0,Ownership,new equalstester
+2433,RulerColumnDescriptor.java,@noinstantiate this class is not intended to be instantiated by clients.,1,0,Ownership,@noinstantiate this class is not intended to be instantiated by clients
+5215,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,Ownership,com google gwt event dom client blurhandler onblur com google gwt event
+2388,PDOMDependencyGenerator.java,@noinstantiate this class is not intended to be instantiated by clients.,1,0,Ownership,@noinstantiate this class is not intended to be instantiated by clients
+3638,SmoothRateLimiter.java,requests become more likely to trigger expensive operations a more extreme case of this,1,0,Ownership,requests become more likely to trigger expensive operations a more extreme case of this
+5150,VScrollTable.java,@since 72,1,0,Ownership,@since 72
+2411,QtPDOMNameIndex.java,"this is equivalent to the java type map string, list pdomname .",1,0,Ownership,this is equivalent to the java type map string list pdomname
+4611,ClientRpcWriter.java,@author vaadin ltd,1,1,Ownership,@author vaadin ltd
+3646,SmoothRateLimiter.java,"requested permits, by an invocation acquire permits , are served from",1,0,Ownership,requested permits by an invocation acquire permits are served from
+5277,VScrollTable.java,dom^client.focusevent,1,0,Ownership,dom client focusevent
+2431,RulerColumnDescriptor.java,instances can be obtained from a @link rulercolumnregistry .,1,0,Ownership,instances can be obtained from a @link rulercolumnregistry
+5167,VScrollTable.java,@see,1,0,Ownership,@see
+5233,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,Ownership,com google gwt event dom client focushandler onfocus com google gwt event
+5420,Window.java,p,1,0,Ownership,p
+2257,MIBreakpointsSynchronizer.java,dsf as not requiring the normal synchronization primitives as everything is,1,0,Ownership,dsf as not requiring the normal synchronization primitives as everything is
+5303,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+1194,TimelineDataToRetrieve.java,containing @link timelineprefixfilter objects.,1,0,Ownership,containing @link timelineprefixfilter objects
+5191,VScrollTable.java,non javadoc,1,0,Ownership,non javadoc
+2100,IGDBTraceControl.java,the tracecontrol service provides access to the debugger tracing functionality.,1,0,Ownership,the tracecontrol service provides access to the debugger tracing functionality
+156,Classpath.java,this is useful in situations where wildcard syntax isn t usable.,1,0,Ownership,this is useful in situations where wildcard syntax isn t usable
+283,DelegatingSSLSocketFactory.java,system installed openssl.,1,0,Ownership,system installed openssl
+123,CapacitySchedulerPlanFollower.java,content of the plan.,1,0,Ownership,content of the plan
+5139,VScrollTable.java,@see,1,0,Ownership,@see
+2334,MIStack.java,"when gdb is unwinding sometimes it gets both, and while the console cli protocol has no",1,0,Ownership,when gdb is unwinding sometimes it gets both and while the console cli protocol has no
+4221,Binder.java,you can then use guice s concept of @link scope scopes to guide when creation should,1,0,Ownership,you can then use guice s concept of @link scope scopes to guide when creation should
+5291,VScrollTable.java,when changing tabs.,1,0,Ownership,when changing tabs
+3304,MapPutAllTester.java,a generic junit test which tests @code putall operations on a map.,1,0,Ownership,a generic junit test which tests @code putall operations on a map
+3352,MultimapBuilder.java,@since 160,1,0,Ownership,@since 160
+2067,ICPPASTLinkageSpecification.java,eg extern c .,1,0,Ownership,eg extern c
+5306,VScrollTable.java,this,1,0,Ownership,this
+1108,TestSaveNamespace.java,li recover from failure while moving current into lastcheckpoint^tmp li,1,0,Ownership,li recover from failure while moving current into lastcheckpoint tmp li
+5,AbstractContractGetFileStatusTest.java,test getfilestatus and related listing operations.,1,0,Ownership,test getfilestatus and related listing operations
+1133,TestSwiftFileSystemContract.java,"are where swiftfs does not implement those features, or",1,0,Ownership,are where swiftfs does not implement those features or

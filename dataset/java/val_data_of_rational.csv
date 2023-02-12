@@ -1,0 +1,223 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3628,SmoothRateLimiter.java,this may result in either underutilization or,0,1,rational,this may result in either underutilization or
+2326,MIStack.java,we can potentially re use the answer.,0,1,rational,we can potentially re use the answer
+5128,VScrollTable.java,lost .,0,1,rational,lost
+301,DelegatingSSLSocketFactory.java,p,0,1,rational,p
+1610,AbstractCPropertyTab.java,configuration etc see icpropertyprovider interface.,0,1,rational,configuration etc see icpropertyprovider interface
+424,EditLogTailer.java,retries before throwing up our hands.,0,1,rational,retries before throwing up our hands
+5087,VScrollTable.java,updates first visible row for the case we cannot wait,0,1,rational,updates first visible row for the case we cannot wait
+3823,SmoothRateLimiter.java,"overflow, depending on the real world consequences of not using the expected rate.",0,1,rational,overflow depending on the real world consequences of not using the expected rate
+5265,VScrollTable.java,these are used when jumping between pages when pressing home and end,0,1,rational,these are used when jumping between pages when pressing home and end
+5061,VScrollTable.java,lost .,0,1,rational,lost
+831,RegistryInternalConstants.java,these are the things which aren t visible to users.,0,1,rational,these are the things which aren t visible to users
+5288,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,0,1,rational,overridden due table might not survive of visibility change scroll pos
+5200,VScrollTable.java,these are used when jumping between pages when pressing home and end,0,1,rational,these are used when jumping between pages when pressing home and end
+3940,SmoothRateLimiter.java,"seconds, we can save up to 2 10 20 permits.",0,1,rational,seconds we can save up to 2 10 20 permits
+1348,TimelineStorageMonitor.java,this abstract class is for monitoring health of timeline storage.,0,1,rational,this abstract class is for monitoring health of timeline storage
+245,CpuTimeTracker.java,utility for sampling and computing cpu usage.,0,1,rational,utility for sampling and computing cpu usage
+5270,VScrollTable.java,when changing tabs.,0,1,rational,when changing tabs
+3131,EqualsTester.java,li comparing each object against itself returns true,0,1,rational,li comparing each object against itself returns true
+2329,MIStack.java,"also, the stack depth can be deduced from the frames list, so we don t need to ask gdb for it again.",0,1,rational,also the stack depth can be deduced from the frames list so we don t need to ask gdb for it again
+5306,VScrollTable.java,this,0,1,rational,this
+2324,MIStack.java,would both be sent to gdb because the command cache sees them as different.,0,1,rational,would both be sent to gdb because the command cache sees them as different
+5208,VScrollTable.java,user scrolls.,0,1,rational,user scrolls
+5154,VScrollTable.java,changes to manage mousedown and mouseup,0,1,rational,changes to manage mousedown and mouseup
+5107,VScrollTable.java,lost .,0,1,rational,lost
+1850,FindStdLibPath.java,the purpose is to find a path where stdc library is located.,0,1,rational,the purpose is to find a path where stdc library is located
+5442,Window.java,resize events are fired whenever the client side fires a resize event,0,0,rational,resize events are fired whenever the client side fires a resize event
+352,DelegationTokenIdentifier.java,a delegation token identifier that is specific to hdfs.,0,0,rational,a delegation token identifier that is specific to hdfs
+2886,CacheBuilder.java,p entries are automatically evicted from the cache when any of @linkplain #maximumsize long,0,0,rational,p entries are automatically evicted from the cache when any of @linkplain maximumsize long
+255,DBProfile.java,https github^com facebook rocksdb wiki setup options and basic tuning,0,0,rational,https github com facebook rocksdb wiki setup options and basic tuning
+3621,SmoothRateLimiter.java,ie for an acquire 15 request naturally takes 3 seconds.,0,0,rational,ie for an acquire 15 request naturally takes 3 seconds
+920,StructureGenerator.java,directory.,0,0,rational,directory
+3659,SmoothRateLimiter.java,this is translated to throttling time is discussed later .,0,0,rational,this is translated to throttling time is discussed later
+3771,SmoothRateLimiter.java,ol,0,0,rational,ol
+1517,KVStore.java,p,0,0,rational,p
+5403,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,0,0,rational,@see com vaadin ui panel paintcontent com vaadin server painttarget
+2453,SourceLookupTest.java,the wild card in sourcelookup ^exe can be one of the following to cover the,0,0,rational,the wild card in sourcelookup exe can be one of the following to cover the
+2699,ArbitraryInstances.java,"p covers arrays, enums and common types defined in @code java^lang , @code java^lang.reflect ,",0,0,rational,p covers arrays enums and common types defined in @code java lang @code java lang reflect
+2238,MIAsyncErrorProcessor.java,@since 53,0,0,rational,@since 53
+1513,KVStore.java,the serializer is,0,0,rational,the serializer is
+3865,SmoothRateLimiter.java,"with underutilization, then we want stored permits to be given out faster than fresh ones,",0,0,rational,with underutilization then we want stored permits to be given out faster than fresh ones
+1691,CConfigurationDescriptionCache.java,li any clients needed icconfigurationdescription get cconfigurationdescription using constructor,0,0,rational,li any clients needed icconfigurationdescription get cconfigurationdescription using constructor
+5255,VScrollTable.java,dom^client.focusevent,0,0,rational,dom client focusevent
+3454,Preconditions.java,allocations in many common cases.,0,0,rational,allocations in many common cases
+3827,SmoothRateLimiter.java,this is important when the,0,0,rational,this is important when the
+3650,SmoothRateLimiter.java,"for a ratelimiter that produces 1 token per second, every second that goes by with the",0,0,rational,for a ratelimiter that produces 1 token per second every second that goes by with the
+4681,Grid.java,grid^addcontextclicklistener event &gt notification^show,0,0,rational,grid addcontextclicklistener event gt notification show
+1406,WritableComparator.java,"orderings, override @link #compare writablecomparable,writablecomparable .",0,0,rational,orderings override @link compare writablecomparable writablecomparable
+801,ReencryptionUpdater.java,class representing the task for one batch of a re encryption command.,0,0,rational,class representing the task for one batch of a re encryption command
+3241,HostAndPort.java,ul,0,0,rational,ul
+4635,DoubleRangeValidator.java,@since 80,0,0,rational,@since 80
+1106,TestSaveNamespace.java,ol,0,0,rational,ol
+103,BlocksMap.java,this class maintains the map from a block to its metadata.,0,0,rational,this class maintains the map from a block to its metadata
+1400,VolumeSet.java,volumeset to manage hdds volumes in a datanode.,0,0,rational,volumeset to manage hdds volumes in a datanode
+2794,BloomFilter.java,p implementations should be collections of pure functions ie stateless .,0,0,rational,p implementations should be collections of pure functions ie stateless
+4309,Binder.java,it is,0,0,rational,it is
+5416,Window.java,user closes the window.,0,0,rational,user closes the window
+506,FederationStateStoreInvalidInputException.java,"exception thrown by the @code federationmembershipstatestoreinputvalidator ,",0,0,rational,exception thrown by the @code federationmembershipstatestoreinputvalidator
+3871,SmoothRateLimiter.java,"this role is played by storedpermitstowaittime double storedpermits, double permitstotake .",0,0,rational,this role is played by storedpermitstowaittime double storedpermits double permitstotake
+2455,SourceLookupTest.java,how the program was compiled.,0,0,rational,how the program was compiled
+3754,SmoothRateLimiter.java,0 storedpermits,0,0,rational,0 storedpermits
+796,ReencryptionUpdater.java,is limited.,0,0,rational,is limited
+931,StructureGenerator.java,outdir outdir output directory default is the current directory.,0,0,rational,outdir outdir output directory default is the current directory
+4687,Grid.java,an event that is fired when a column s visibility changes.,0,0,rational,an event that is fired when a column s visibility changes
+3720,SmoothRateLimiter.java,"instead , and postpone subsequent requests as needed.",0,0,rational,instead and postpone subsequent requests as needed
+3464,Preconditions.java,h3 non preconditions h3,0,0,rational,h3 non preconditions h3
+4198,Binder.java,@link module class to serve as an explicit i manifest i for the services it provides.,0,0,rational,@link module class to serve as an explicit i manifest i for the services it provides
+4809,PopupView.java,"with @link #ispopupvisible , or get the popupview that produced the",0,0,rational,with @link ispopupvisible or get the popupview that produced the
+3895,SmoothRateLimiter.java,integrals .,0,0,rational,integrals
+2919,CacheBuilder.java,href https github^com google guava wiki cachesexplained caching a for a higher level,0,0,rational,href https github com google guava wiki cachesexplained caching a for a higher level
+2887,CacheBuilder.java,"maximumsize , @linkplain #maximumweight long maximumweight , @linkplain #expireafterwrite",0,0,rational,maximumsize @linkplain maximumweight long maximumweight @linkplain expireafterwrite
+2558,TracingConsole.java,@since 21,0,0,rational,@since 21
+2431,RulerColumnDescriptor.java,instances can be obtained from a @link rulercolumnregistry .,0,0,rational,instances can be obtained from a @link rulercolumnregistry
+839,ResourceBlacklistRequest.java,@see applicationmasterprotocol#allocate org^apache.hadoop^yarn.api^protocolrecords.allocaterequest,0,0,rational,@see applicationmasterprotocol allocate org apache hadoop yarn api protocolrecords allocaterequest
+3868,SmoothRateLimiter.java,"deal with overflow, then stored permits could be given out slower than fresh ones.",0,0,rational,deal with overflow then stored permits could be given out slower than fresh ones
+1475,JavaStreamingTestExample.java,stops when the two groups are statistically,0,0,rational,stops when the two groups are statistically
+1486,JavaStreamingTestExample.java,as you add text files to datadir the significance test wil continually update every,0,0,rational,as you add text files to datadir the significance test wil continually update every
+1528,KVStore.java,p,0,0,rational,p
+3777,SmoothRateLimiter.java,the,0,0,rational,the
+2254,MIBreakpointsSynchronizer.java,the code that the code run in the respective requestmonitor would be on the,0,0,rational,the code that the code run in the respective requestmonitor would be on the
+715,QuasiMonteCarlo.java,"we use a qmc method to approximate the integral i int s f x dx ,",0,0,rational,we use a qmc method to approximate the integral i int s f x dx
+3596,Resources.java,@author ben yu,0,0,rational,@author ben yu
+4299,Binder.java,these names will live in a single flat namespace with all the other names used in your,0,0,rational,these names will live in a single flat namespace with all the other names used in your
+3891,SmoothRateLimiter.java,this guarantees that we handle,0,0,rational,this guarantees that we handle
+3619,SmoothRateLimiter.java,"granted only 100ms ago, then we wait for another 100ms.",0,0,rational,granted only 100ms ago then we wait for another 100ms
+5458,Window.java,pre,0,0,rational,pre
+3935,SmoothRateLimiter.java,this is pushed further in the future.,0,0,rational,this is pushed further in the future
+4692,Grid.java,header and footer,0,0,rational,header and footer
+3795,SmoothRateLimiter.java,thresholdpermits .,0,0,rational,thresholdpermits
+4786,PopupView.java,"is normally used to render the component, and when it is clicked the full",0,0,rational,is normally used to render the component and when it is clicked the full
+4945,UnknownExtensionConnector.java,widgetset.,0,0,rational,widgetset
+3744,SmoothRateLimiter.java,pre,0,0,rational,pre
+289,DelegatingSSLSocketFactory.java,li,0,0,rational,li
+3656,SmoothRateLimiter.java,"at that point, a request of",0,0,rational,at that point a request of
+2147,IMSASTDeclspecList.java,@since 66,0,0,rational,@since 66
+5052,VScrollTable.java,update tableheads scroll position which has its scrollbars hidden.,0,0,rational,update tableheads scroll position which has its scrollbars hidden
+1509,KVStore.java,h3 serialization h3,0,0,rational,h3 serialization h3
+792,ReencryptionUpdater.java,the tasks are submitted by reencryptionhandler.,0,0,rational,the tasks are submitted by reencryptionhandler
+5373,Window.java,a component that represents a floating popup window that can be added to a,0,0,rational,a component that represents a floating popup window that can be added to a
+1507,KVStore.java,there are two main features provided by the implementations of this interface,0,0,rational,there are two main features provided by the implementations of this interface
+1755,CDebugModelPresentation.java,@see idebugmodelpresentation,0,0,rational,@see idebugmodelpresentation
+3615,SmoothRateLimiter.java,"for example, for a rate of",0,0,rational,for example for a rate of
+284,DelegatingSSLSocketFactory.java,if the wildfly openssl integration is not,0,0,rational,if the wildfly openssl integration is not
+1829,DocCommentOwnerBlock.java,em this class is not intended for use outside of cdt em,0,0,rational,em this class is not intended for use outside of cdt em
+2261,MIBreakpointsSynchronizer.java,processed before the next event starts processing.,0,0,rational,processed before the next event starts processing
+3674,SmoothRateLimiter.java,"deal with overflow, then stored permits could be given out slower than fresh ones.",0,0,rational,deal with overflow then stored permits could be given out slower than fresh ones
+3673,SmoothRateLimiter.java,if we are primarily interested to,0,0,rational,if we are primarily interested to
+3920,SmoothRateLimiter.java,this also enables,0,0,rational,this also enables
+121,CapacitySchedulerPlanFollower.java,"adding removing resizing leaf queues in the scheduler, thus affecting the",0,0,rational,adding removing resizing leaf queues in the scheduler thus affecting the
+2531,SpellEvent.java,spell event fired for words detected by a spell check iterator.,0,0,rational,spell event fired for words detected by a spell check iterator
+3926,SmoothRateLimiter.java,"past is the amount of time that the ratelimiter was formally unused, and it is that amount of",0,0,rational,past is the amount of time that the ratelimiter was formally unused and it is that amount of
+4782,NotEmptyValidatorTest.java,@author vaadin ltd,0,0,rational,@author vaadin ltd
+4234,Binder.java,either of these statements places the @code serviceimpl class into singleton scope.,0,0,rational,either of these statements places the @code serviceimpl class into singleton scope
+3339,MultimapBuilder.java,an intermediate stage in a @link multimapbuilder in which the key value collection map,0,0,rational,an intermediate stage in a @link multimapbuilder in which the key value collection map
+873,RSLegacyRawErasureCoderFactory.java,a raw coder factory for the legacy raw reed solomon coder in java.,0,0,rational,a raw coder factory for the legacy raw reed solomon coder in java
+379,DiskBalancerCluster.java,cluster.,0,0,rational,cluster
+3304,MapPutAllTester.java,a generic junit test which tests @code putall operations on a map.,0,0,rational,a generic junit test which tests @code putall operations on a map
+1479,JavaStreamingTestExample.java,"false, 392",0,0,rational,false 392
+2470,SourceLookupTest.java,.,0,0,rational,nan
+5025,VGridLayout.java,private helper class.,0,0,rational,private helper class
+658,NativeSingleLineParser.java,this sample parser will parse the sample log and extract the resource,0,0,rational,this sample parser will parse the sample log and extract the resource
+1940,GnuMakefileGenerator.java,o t h e r m e t h o d s,0,0,rational,o t h e r m e t h o d s
+3803,SmoothRateLimiter.java,allow at normal conditions.,0,0,rational,allow at normal conditions
+3101,CountingOutputStream.java,@since 10,0,0,rational,@since 10
+2930,CacheBuilder.java,@author kevin bourrillion,0,0,rational,@author kevin bourrillion
+17,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,0,0,rational,kept small to avoid killing object store test runs too much
+5187,VScrollTable.java,non javadoc,0,0,rational,non javadoc
+4275,Binder.java,when a constant,0,0,rational,when a constant
+3755,SmoothRateLimiter.java,0 thresholdpermits maxpermits,0,0,rational,0 thresholdpermits maxpermits
+2405,ProcStatParser.java,@author marc dumais,0,0,rational,@author marc dumais
+3779,SmoothRateLimiter.java,where coldfactor was hard coded as 3.,0,0,rational,where coldfactor was hard coded as 3
+4118,SortedSetNavigationTester.java,@author jesse wilson,0,0,rational,@author jesse wilson
+3870,SmoothRateLimiter.java,require a different in each case function that translates storedpermits to throttling time.,0,0,rational,require a different in each case function that translates storedpermits to throttling time
+3742,SmoothRateLimiter.java,large requests push this further than small requests.,0,0,rational,large requests push this further than small requests
+4578,ApplicationConfiguration.java,wraps a native javascript object containing fields for an error message.,0,0,rational,wraps a native javascript object containing fields for an error message
+837,ResourceBlacklistRequest.java,@link resourceblacklistrequest encapsulates the list of resource names which should be added or removed from the em blacklist em of resources for the application.,0,0,rational,@link resourceblacklistrequest encapsulates the list of resource names which should be added or removed from the em blacklist em of resources for the application
+239,ConfigurationException.java,exception to throw in case of a configuration problem.,0,0,rational,exception to throw in case of a configuration problem
+3682,SmoothRateLimiter.java,essentially measure unused time we spend unused time buying storing permits.,0,0,rational,essentially measure unused time we spend unused time buying storing permits
+2773,BloomFilter.java,they work.,0,0,rational,they work
+4955,VaadinPortlet.java,@author vaadin ltd,0,0,rational,@author vaadin ltd
+2917,CacheBuilder.java,"i not i include cache contents, but only configuration.",0,0,rational,i not i include cache contents but only configuration
+3468,Preconditions.java,misleading to future readers of the code and of stack traces.,0,0,rational,misleading to future readers of the code and of stack traces
+4979,VaadinPortlet.java,individually decide whether it wants to handle a request or,0,0,rational,individually decide whether it wants to handle a request or
+1780,CPPASTReferenceOperator.java,reference operator for declarators.,0,0,rational,reference operator for declarators
+3149,EqualsTester.java,@since 100,0,0,rational,@since 100
+4476,DefaultMethodInterceptionTest.java,foo implementation that does not override the default method.,0,0,rational,foo implementation that does not override the default method
+986,SwiftRestClient.java,@return a snapshot of the statistics,0,0,rational,@return a snapshot of the statistics
+4282,Binder.java,@literal @ color red color red a member variable field,0,0,rational,@literal @ color red color red a member variable field
+1847,ElementNumberFormatsContribution.java,@since 22,0,0,rational,@since 22
+2604,WhiteSpaceOptions.java,preview snippets.,0,0,rational,preview snippets
+2883,CacheBuilder.java,"#weakkeys was specified, the cache uses identity @code comparisons instead for keys.",0,0,rational,weakkeys was specified the cache uses identity @code comparisons instead for keys
+3936,SmoothRateLimiter.java,large requests push this further than small requests.,0,0,rational,large requests push this further than small requests
+2025,GroupDebugContextsCommandHandler.java,@since 71,0,0,rational,@since 71
+3444,Preconditions.java,pre,0,0,rational,pre
+3661,SmoothRateLimiter.java,acquire 10 request arriving.,0,0,rational,acquire 10 request arriving
+3668,SmoothRateLimiter.java,permits?,0,0,rational,permits
+2845,CacheBuilder.java,by default,0,0,rational,by default
+3832,SmoothRateLimiter.java,requests become more likely to trigger expensive operations a more extreme case of this,0,0,rational,requests become more likely to trigger expensive operations a more extreme case of this
+4266,Binder.java,"when the @link injector is created, it will automatically",0,0,rational,when the @link injector is created it will automatically
+4769,MyPickerConnector.java,https,0,0,rational,https
+4848,PortletDummyRequestHandler.java,with the resource id dummy.,0,0,rational,with the resource id dummy
+3852,SmoothRateLimiter.java,"we serve this request out of storedpermits, and reduce that to 70 how",0,0,rational,we serve this request out of storedpermits and reduce that to 70 how
+2309,MIReverseDebugEnabler.java,@since 42,0,0,rational,@since 42
+518,FileSystemApplicationHistoryStore.java,"open a file, while @link #applicationfinished applicationfinishdata is",0,0,rational,open a file while @link applicationfinished applicationfinishdata is
+4292,Binder.java,annotatedwith names^named blue,0,0,rational,annotatedwith names named blue
+3768,SmoothRateLimiter.java,"li when used , the time it takes, as explained in the introductory class note, is equal to",0,0,rational,li when used the time it takes as explained in the introductory class note is equal to
+5391,Window.java,this function is now covered by the @link ui class.,0,0,rational,this function is now covered by the @link ui class
+3849,SmoothRateLimiter.java,storedpermits becomes 100 assuming maxstoredpermits 100 .,0,0,rational,storedpermits becomes 100 assuming maxstoredpermits 100
+2255,MIBreakpointsSynchronizer.java,same state.,0,0,rational,same state
+2108,IGDBTraceControl.java,gdb specific part,0,0,rational,gdb specific part
+3492,Preconditions.java,preconditions a .,0,0,rational,preconditions a
+4978,VaadinPortlet.java,each @link requesthandler can,0,0,rational,each @link requesthandler can
+4325,Binder.java,@author kevinb@google^com kevin bourrillion,0,0,rational,@author kevinb@google com kevin bourrillion
+2630,AbstractCollectionTester.java,base class for collection testers.,0,0,rational,base class for collection testers
+4650,Grid.java,@author vaadin ltd,0,0,rational,@author vaadin ltd
+4208,Binder.java,"annotations found on @code service , since guice will have already moved on to @code",0,0,rational,annotations found on @code service since guice will have already moved on to @code
+4301,Binder.java,pre,0,0,rational,pre
+4253,Binder.java,it tells guice how to,0,0,rational,it tells guice how to
+1685,CConfigurationDescriptionCache.java,ol,0,0,rational,ol
+1488,JavaStreamingTestExample.java,batches processed exceeds numbatchestimeout .,0,0,rational,batches processed exceeds numbatchestimeout
+2136,IMacroEntry.java,@noextend this interface is not intended to be extended by clients.,0,0,rational,@noextend this interface is not intended to be extended by clients
+2472,SourceLookupTest.java,li,0,0,rational,li
+2262,MIBreakpointsSynchronizer.java,@since 42,0,0,rational,@since 42
+4248,Binder.java,their own custom scopes for use here as well.,0,0,rational,their own custom scopes for use here as well
+924,StructureGenerator.java,the synopsis of the command is,0,0,rational,the synopsis of the command is
+3436,Preconditions.java,public static double sqrt double value,0,0,rational,public static double sqrt double value
+976,SwiftRestClient.java,get the current operation statistics.,0,0,rational,get the current operation statistics
+3099,CountingOutputStream.java,an outputstream that counts the number of bytes written.,0,0,rational,an outputstream that counts the number of bytes written
+4314,Binder.java,"example might coexist with the concepts from another, you can most likely weave the two together.",0,0,rational,example might coexist with the concepts from another you can most likely weave the two together
+1944,GnuMakefileGenerator.java,the context these paths appear in is on the right hand side of a rule header.,0,0,rational,the context these paths appear in is on the right hand side of a rule header
+2410,QtPDOMNameIndex.java,a data structure for storing lists of pdomnames that are indexed by a string key.,0,0,rational,a data structure for storing lists of pdomnames that are indexed by a string key
+1130,TestSwiftFileSystemContract.java,this is the full filesystem contract test which requires the,0,0,rational,this is the full filesystem contract test which requires the
+374,DiskBalancerCluster.java,p,0,0,rational,p
+3286,ImmutableTable_CustomFieldSerializerBase.java,serializers.,0,0,rational,serializers
+3930,SmoothRateLimiter.java,"so, if rate 1 permit per second, and",0,0,rational,so if rate 1 permit per second and
+2104,IGDBTraceControl.java,marker interface for a context on which trace operations can be performed,0,0,rational,marker interface for a context on which trace operations can be performed
+4585,BootstrapPageResponse.java,the bootstrap page,0,0,rational,the bootstrap page
+5420,Window.java,p,0,0,rational,p
+4612,ClientRpcWriter.java,@since 71,0,0,rational,@since 71
+2713,ArbitraryInstances.java,instance is created each time @code get is called.,0,0,rational,instance is created each time @code get is called
+3660,SmoothRateLimiter.java,"immediately after, assume that an",0,0,rational,immediately after assume that an
+2456,SourceLookupTest.java,each of these options produces different debug,0,0,rational,each of these options produces different debug
+2110,IGDBTraceControl.java,gdb specific part,0,0,rational,gdb specific part
+686,OMNodeDetails.java,builder class for omnodedetails.,0,0,rational,builder class for omnodedetails
+3837,SmoothRateLimiter.java,"this variable is zero when there is no underutilization,",0,0,rational,this variable is zero when there is no underutilization
+1364,UniformSizeInputFormat.java,uniform.,0,0,rational,uniform
+204,ComparableVersion.java,with number in the version specification .,0,0,rational,with number in the version specification
+669,Nfs3Status.java,success or error status is reported in nfs3 responses.,0,0,rational,success or error status is reported in nfs3 responses
+3335,MultimapBuilder.java,@since 160,0,0,rational,@since 160
+3480,Preconditions.java,h3 only @code %s is supported h3,0,0,rational,h3 only @code s is supported h3
+2839,CacheBuilder.java,li values automatically wrapped in @linkplain weakreference weak or @linkplain,0,0,rational,li values automatically wrapped in @linkplain weakreference weak or @linkplain
+1903,GnuMakefileGenerator.java,the context these paths appear in is on the right hand side of a rule header.,0,0,rational,the context these paths appear in is on the right hand side of a rule header
+4201,Binder.java,given explicitly.,0,0,rational,given explicitly
+4181,Binder.java,guice provides this object to your application s @link module implementors so,0,0,rational,guice provides this object to your application s @link module implementors so
+2466,SourceLookupTest.java,.,0,0,rational,nan
+1873,GdbExpressionVMProvider.java,a specialization of expressionvmprovider that uses a gdb specific variable vm,0,0,rational,a specialization of expressionvmprovider that uses a gdb specific variable vm
+1161,TestTopCLI.java,test class for topcli.,0,0,rational,test class for topcli
+2078,ICPPASTVirtSpecifier.java,@since 57,0,0,rational,@since 57
+4683,Grid.java,pre,0,0,rational,pre
+1788,CPPImplicitVariable.java,for example the initializer of a structured binding decomposition dcl^struct.bind,0,0,rational,for example the initializer of a structured binding decomposition dcl struct bind
+919,StructureGenerator.java,the generated namespace structure is described by two files in the output,0,0,rational,the generated namespace structure is described by two files in the output
+3235,HostAndPort.java,requirebracketsforipv6,0,0,rational,requirebracketsforipv6
+1916,GnuMakefileGenerator.java,in which they are located are dirty so the makefile fragments for them,0,0,rational,in which they are located are dirty so the makefile fragments for them

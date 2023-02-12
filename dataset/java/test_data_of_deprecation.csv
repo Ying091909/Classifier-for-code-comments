@@ -1,0 +1,488 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3318,MultimapBuilder.java,collection implementations used in a particular multimap.,1,0,deprecation,collection implementations used in a particular multimap
+5263,VScrollTable.java,reordering disabled and clicking on it resets sorting.,1,0,deprecation,reordering disabled and clicking on it resets sorting
+2137,IMacroEntry.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+3339,MultimapBuilder.java,an intermediate stage in a @link multimapbuilder in which the key value collection map,1,0,deprecation,an intermediate stage in a @link multimapbuilder in which the key value collection map
+199,ComparableVersion.java,@see a href https cwiki^apache.org confluence display mavenold versioning versioning on maven wiki a,1,0,deprecation,@see a href https cwiki apache org confluence display mavenold versioning versioning on maven wiki a
+1135,TestSwiftFileSystemContract.java,contract which normally means that directories and equal files,1,0,deprecation,contract which normally means that directories and equal files
+1036,TestCustomOauthTokenProvider.java,is propagated.,1,0,deprecation,is propagated
+2582,TypedCDTViewerFilter.java,@noextend this class is not intended to be subclassed by clients.,1,0,deprecation,@noextend this class is not intended to be subclassed by clients
+4867,RpcDataProviderExtension.java,@since 74,1,1,deprecation,@since 74
+3391,MultimapBuilderTest.java,@author louis wasserman,1,0,deprecation,@author louis wasserman
+3413,PeekingIterator.java,peekingiterator a .,1,0,deprecation,peekingiterator a
+2055,ICPointerType.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+3344,MultimapBuilder.java,parameters to be left implicit more often.,1,0,deprecation,parameters to be left implicit more often
+2102,IGDBTraceControl.java,@since 30,1,1,deprecation,@since 30
+3130,EqualsTester.java,ul,1,0,deprecation,ul
+1704,CConfigurationDescriptionCache.java,li new cconfigurationdescriptioncache is created from the cconfigurationdescription via constructor,1,0,deprecation,li new cconfigurationdescriptioncache is created from the cconfigurationdescription via constructor
+3214,ForwardingQueueTest.java,tests for @code forwardingqueue .,1,0,deprecation,tests for @code forwardingqueue
+5211,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,deprecation,com google gwt event dom client focushandler onfocus com google gwt event
+1186,TimelineDataToRetrieve.java,encapsulates information regarding which data to retrieve for each entity,1,0,deprecation,encapsulates information regarding which data to retrieve for each entity
+3355,MultimapBuilder.java,cachebuilder uses the same technique.,1,0,deprecation,cachebuilder uses the same technique
+1218,TimelineDataToRetrieve.java,li,1,0,deprecation,li
+5135,VScrollTable.java,@see,1,0,deprecation,@see
+4158,AbstractModule.java,protected void configure,1,0,deprecation,protected void configure
+3126,EqualsTester.java,addequalitygroup new user sergey,1,0,deprecation,addequalitygroup new user sergey
+632,LogWebService.java,support only atsv2 client only.,1,1,deprecation,support only atsv2 client only
+2179,IScannerInfoConsoleParser.java,parses a line of command output looking for scanner info entries.,1,0,deprecation,parses a line of command output looking for scanner info entries
+5183,VScrollTable.java,when changing tabs.,1,0,deprecation,when changing tabs
+3616,SmoothRateLimiter.java,"qps 5 5 tokens per second , if we ensure that a request isn t granted earlier than 200ms after",1,0,deprecation,qps 5 5 tokens per second if we ensure that a request isn t granted earlier than 200ms after
+197,ComparableVersion.java,li,1,0,deprecation,li
+3216,ForwardingQueueTest.java,@author louis wasserman,1,0,deprecation,@author louis wasserman
+3121,EqualsTester.java,that are equal to each other but unequal to the objects in any other group.,1,0,deprecation,that are equal to each other but unequal to the objects in any other group
+1122,TestSCMDatanodeHeartbeatDispatcher.java,this class tests the behavior of scmdatanodeheartbeatdispatcher.,1,0,deprecation,this class tests the behavior of scmdatanodeheartbeatdispatcher
+4221,Binder.java,you can then use guice s concept of @link scope scopes to guide when creation should,1,0,deprecation,you can then use guice s concept of @link scope scopes to guide when creation should
+5289,VScrollTable.java,lost .,1,0,deprecation,lost
+5279,VScrollTable.java,@see,1,0,deprecation,@see
+3483,Preconditions.java,"this only supports the @code %s specifier, not the full range of @link",1,0,deprecation,this only supports the @code s specifier not the full range of @link
+2219,MachOBinaryParserPage.java,@noextend this class is not intended to be subclassed by clients.,1,0,deprecation,@noextend this class is not intended to be subclassed by clients
+1476,JavaStreamingTestExample.java,significant p value 005 or after a user specified timeout in number of batches is exceeded.,1,0,deprecation,significant p value 005 or after a user specified timeout in number of batches is exceeded
+1158,TestTaskContext.java,tests context api and @link statusreporter#getprogress via @link taskattemptcontext#getprogress api .,1,0,deprecation,tests context api and @link statusreporter getprogress via @link taskattemptcontext getprogress api
+1576,LocalDiskShuffleDataIO.java,implementation of the @link shuffledataio plugin system that replicates the local shuffle,1,0,deprecation,implementation of the @link shuffledataio plugin system that replicates the local shuffle
+1188,TimelineDataToRetrieve.java,br,1,0,deprecation,br
+3237,HostAndPort.java,hp^getport returns 80,1,0,deprecation,hp getport returns 80
+4162,AbstractModule.java,bindconstant ^annotatedwith names^named port ^to 8080,1,0,deprecation,bindconstant annotatedwith names named port to 8080
+1069,TestMetricsVisitor.java,test the metric visitor interface,1,0,deprecation,test the metric visitor interface
+1592,TBoolColumn.java,"the set of fields this struct contains, along with convenience methods for finding and manipulating them.",1,0,deprecation,the set of fields this struct contains along with convenience methods for finding and manipulating them
+3449,Preconditions.java,"if you have such arguments, use the conventional",1,0,deprecation,if you have such arguments use the conventional
+156,Classpath.java,this is useful in situations where wildcard syntax isn t usable.,1,0,deprecation,this is useful in situations where wildcard syntax isn t usable
+5393,Window.java,@author vaadin ltd.,1,0,deprecation,@author vaadin ltd
+5187,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+70,BalancingPolicy.java,balancing policy.,1,0,deprecation,balancing policy
+188,ComparableVersion.java,li code milestone code or code m code li,1,0,deprecation,li code milestone code or code m code li
+91,BatchedRequests.java,iterator type.,1,0,deprecation,iterator type
+116,CapacitySchedulerPlanFollower.java,this class implements a @link planfollower .,1,0,deprecation,this class implements a @link planfollower
+1066,TestKeyInputStream.java,tests @link keyinputstream .,1,0,deprecation,tests @link keyinputstream
+3334,MultimapBuilder.java,@param v0 an upper bound on the value type of the generated multimap.,1,0,deprecation,@param v0 an upper bound on the value type of the generated multimap
+253,DBProfile.java,most tuning parameters are based on this url.,1,0,deprecation,most tuning parameters are based on this url
+1474,JavaStreamingTestExample.java,stream arrives as text files in a directory.,1,0,deprecation,stream arrives as text files in a directory
+5227,VScrollTable.java,when changing tabs.,1,0,deprecation,when changing tabs
+7,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,1,0,deprecation,kept small to avoid killing object store test runs too much
+3608,SmoothRateLimiter.java,"the primary feature of a ratelimiter is its stable rate , the maximum rate that is should",1,0,deprecation,the primary feature of a ratelimiter is its stable rate the maximum rate that is should
+5229,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,deprecation,this method has logic which rows needs to be requested from server when
+3463,Preconditions.java,unsupportedoperationexception in the situations they are intended for.,1,0,deprecation,unsupportedoperationexception in the situations they are intended for
+5389,Window.java,"in vaadin versions prior to 70.0, window was also used as application level",1,0,deprecation,in vaadin versions prior to 70 0 window was also used as application level
+1087,TestProtoBufRpc.java,and protobuf service definition from src test test rpc service^proto,1,0,deprecation,and protobuf service definition from src test test rpc service proto
+281,DelegatingSSLSocketFactory.java,ul,1,0,deprecation,ul
+87,BatchedRequests.java,to place as a batch.,1,0,deprecation,to place as a batch
+5379,Window.java,"using the @link #window string, component constructor.",1,0,deprecation,using the @link window string component constructor
+1237,TimelineDataToRetrieve.java,be retrieved.,1,0,deprecation,be retrieved
+3437,Preconditions.java,"checkargument value 0, input is negative %s , value",1,0,deprecation,checkargument value 0 input is negative s value
+5381,Window.java,p,1,0,deprecation,p
+5396,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,1,0,deprecation,@see com vaadin ui panel paintcontent com vaadin server painttarget
+3085,CollectionTestSuiteBuilder.java,@author chris povirk,1,0,deprecation,@author chris povirk
+5394,Window.java,@since 30,1,1,deprecation,@since 30
+3239,HostAndPort.java,pre,1,0,deprecation,pre
+4214,Binder.java,binding specifies that guice should resolve an unannotated injection request for @code service,1,0,deprecation,binding specifies that guice should resolve an unannotated injection request for @code service
+4164,AbstractModule.java,@author crazybob@google^com bob lee,1,0,deprecation,@author crazybob@google com bob lee
+2593,UPCLanguage.java,"implementation of the ilanguage extension point, adds upc as a language to cdt.",1,0,deprecation,implementation of the ilanguage extension point adds upc as a language to cdt
+3251,HostAndPort.java,"brackets, colons, and port numbers.",1,0,deprecation,brackets colons and port numbers
+5125,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,deprecation,these are used when jumping between pages when pressing home and end
+1694,CConfigurationDescriptionCache.java,the reference to cache is kept in field fcfgcache.,1,0,deprecation,the reference to cache is kept in field fcfgcache
+1613,AbstractCPropertyTab.java,several utility methods to create widgets in the,1,0,deprecation,several utility methods to create widgets in the
+2608,WhiteSpaceOptions.java,"private void createbeforeellipsis map workingvalues, innernode parent createoption parent, workingvalues, formattermessages^whitespaceoptions vararg parameter, defaultcodeformatterconstants^formatter insert space before ellipsis, vararg parameter preview private void createafterellipsis map workingvalues, innernode parent createoption parent, workingvalues, formattermessages^whitespaceoptions vararg parameter, defaultcodeformatterconstants^formatter insert space after ellipsis, vararg parameter preview syntax element tree private innernode createreturntree map workingvalues, innernode parent final innernode root new innernode parent, workingvalues, formattermessages^whitespaceoptions return createoption root, workingvalues, formattermessages^whitespacetabpage before parenthesized expressions, defaultcodeformatterconstants^formatter insert space before parenthesized expression in return, return preview return root private innernode createthrowtree map workingvalues, innernode parent final innernode root new innernode parent, workingvalues, formattermessages^whitespaceoptions throw createoption root, workingvalues, formattermessages^whitespacetabpage before parenthesized expressions, defaultcodeformatterconstants^formatter insert space before parenthesized expression in throw, throw preview return root",1,0,deprecation,private void createbeforeellipsis map workingvalues innernode parent createoption parent workingvalues formattermessages whitespaceoptions vararg parameter defaultcodeformatterconstants formatter insert space before ellipsis vararg parameter preview private void createafterellipsis map workingvalues innernode parent createoption parent workingvalues formattermessages whitespaceoptions vararg parameter defaultcodeformatterconstants formatter insert space after ellipsis vararg parameter preview syntax element tree private innernode createreturntree map workingvalues innernode parent final innernode root new innernode parent workingvalues formattermessages whitespaceoptions return createoption root workingvalues formattermessages whitespacetabpage before parenthesized expressions defaultcodeformatterconstants formatter insert space before parenthesized expression in return return preview return root private innernode createthrowtree map workingvalues innernode parent final innernode root new innernode parent workingvalues formattermessages whitespaceoptions throw createoption root workingvalues formattermessages whitespacetabpage before parenthesized expressions defaultcodeformatterconstants formatter insert space before parenthesized expression in throw throw preview return root
+5199,VScrollTable.java,to detect if the first visible,1,0,deprecation,to detect if the first visible
+3473,Preconditions.java,similar to those in this class for non precondition checks.,1,0,deprecation,similar to those in this class for non precondition checks
+1587,StreamHandle.java,message.,1,0,deprecation,message
+3235,HostAndPort.java,requirebracketsforipv6,1,0,deprecation,requirebracketsforipv6
+2623,WordIgnoreProposal.java,proposal to ignore the word during the current editing session.,1,0,deprecation,proposal to ignore the word during the current editing session
+2059,ICPPAliasTemplateInstance.java,@since 55,1,1,deprecation,@since 55
+2199,LanguageSettingsProvidersSerializer.java,helper class handling serialization and notifications for language settings entries @link iclanguagesettingentry .,1,0,deprecation,helper class handling serialization and notifications for language settings entries @link iclanguagesettingentry
+1165,TestUpgradeDomainBlockPlacementPolicy.java,config file and put some nodes to decommission state.,1,0,deprecation,config file and put some nodes to decommission state
+1072,TestNativeAzureFileSystemUploadLogic.java,just an arbitrary number so that the values i write have a predictable,1,0,deprecation,just an arbitrary number so that the values i write have a predictable
+3287,ImmutableTable_CustomFieldSerializerBase.java,serializers should delegate to @link #serialize and @link #instantiate .,1,0,deprecation,serializers should delegate to @link serialize and @link instantiate
+1230,TimelineDataToRetrieve.java,be fetched.,1,0,deprecation,be fetched
+5207,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,deprecation,this method has logic which rows needs to be requested from server when
+1693,CConfigurationDescriptionCache.java,where the cconfigurationdescriptioncache is passed as data.,1,0,deprecation,where the cconfigurationdescriptioncache is passed as data
+1810,DefaultEnvironmentContextInfo.java,@since 30,1,1,deprecation,@since 30
+3322,MultimapBuilder.java,"listmultimap string, integer treelistmultimap",1,0,deprecation,listmultimap string integer treelistmultimap
+4216,Binder.java,provider#get get on the resulting provider instance to obtain the @code service instance.,1,0,deprecation,provider get get on the resulting provider instance to obtain the @code service instance
+3451,Preconditions.java,"p depending on your message arguments, memory may be allocated for boxing and varargs array",1,0,deprecation,p depending on your message arguments memory may be allocated for boxing and varargs array
+2129,IInclude.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+4180,Binder.java,@link injector .,1,0,deprecation,@link injector
+2180,IScannerInfoConsoleParser.java,@author vhirsl,1,0,deprecation,@author vhirsl
+3137,EqualsTester.java,ul,1,0,deprecation,ul
+5249,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,deprecation,updates first visible row for the case we cannot wait
+2200,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,0,deprecation,those are for readability of xml only
+3443,Preconditions.java,double d sqrt 10,1,0,deprecation,double d sqrt 10
+5373,Window.java,a component that represents a floating popup window that can be added to a,1,0,deprecation,a component that represents a floating popup window that can be added to a
+2787,BloomFilter.java,compare and swap to ensure correctness when multiple threads are used to access it.,1,1,deprecation,compare and swap to ensure correctness when multiple threads are used to access it
+2246,MIBreakpointsSynchronizer.java,p,1,0,deprecation,p
+5217,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+5191,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+2085,ICPPPointerToMemberType.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+127,CapacitySchedulerPlanFollower.java,synchronize schedulers and plans that have arbitrary changes performing set,1,0,deprecation,synchronize schedulers and plans that have arbitrary changes performing set
+2161,IPropertyChangeParticipant.java,p,1,0,deprecation,p
+3107,DescendingMultiset.java,@code entryiterator .,1,0,deprecation,@code entryiterator
+3205,ForwardingBlockingDequeTest.java,test for @link forwardingblockingdeque,1,0,deprecation,test for @link forwardingblockingdeque
+4141,TestStringListGenerator.java,@author kevin bourrillion,1,0,deprecation,@author kevin bourrillion
+2110,IGDBTraceControl.java,gdb specific part,1,0,deprecation,gdb specific part
+1471,JavaRecord.java,java bean class to be used with the example javasqlnetworkwordcount.,1,0,deprecation,java bean class to be used with the example javasqlnetworkwordcount
+88,BatchedRequests.java,the placement algorithm tends to give more optimal,1,0,deprecation,the placement algorithm tends to give more optimal
+3479,Preconditions.java,the same goes for the message accepting overloads.,1,0,deprecation,the same goes for the message accepting overloads
+5398,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",1,0,deprecation,@see com vaadin ui panel changevariables java lang object java util map
+5181,VScrollTable.java,lost .,1,0,deprecation,lost
+4939,TargetDetailsImpl.java,@deprecated replaced in 81 by @link dropevent#gettransferdata string,1,1,deprecation,@deprecated replaced in 81 by @link dropevent gettransferdata string
+122,CapacitySchedulerPlanFollower.java,dynamic behavior of the scheduler in a way that is consistent with the,1,0,deprecation,dynamic behavior of the scheduler in a way that is consistent with the
+1611,AbstractCPropertyTab.java,a standard way to create buttons ins edit del etc,1,0,deprecation,a standard way to create buttons ins edit del etc
+3465,Preconditions.java,p it is of course possible to use the methods of this class to check for invalid conditions,1,0,deprecation,p it is of course possible to use the methods of this class to check for invalid conditions
+3620,SmoothRateLimiter.java,"at this rate, serving 15 fresh permits",1,0,deprecation,at this rate serving 15 fresh permits
+5201,VScrollTable.java,changes to manage mousedown and mouseup,1,0,deprecation,changes to manage mousedown and mouseup
+54,ApplicationConstants.java,environment for applications.,1,0,deprecation,environment for applications
+3469,Preconditions.java,see a,1,0,deprecation,see a
+1840,DsfDebugUITools.java,@since 11,1,1,deprecation,@since 11
+5293,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,deprecation,this method has logic which rows needs to be requested from server when
+1240,TimelineDataToRetrieve.java,ul,1,0,deprecation,ul
+4207,Binder.java,function of any @link implementedby @implementedby or @link providedby @providedby,1,0,deprecation,function of any @link implementedby @implementedby or @link providedby @providedby
+3349,MultimapBuilder.java,parameters to be left implicit more often.,1,0,deprecation,parameters to be left implicit more often
+5185,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,deprecation,this method has logic which rows needs to be requested from server when
+3441,Preconditions.java,pre @code,1,0,deprecation,pre @code
+4127,SubscriberTest.java,@author cliff biffle,1,0,deprecation,@author cliff biffle
+19,AbstractContractGetFileStatusTest.java,"@link #listlocatedstatus path, pathfilter .",1,0,deprecation,@link listlocatedstatus path pathfilter
+2,Abfss.java,this impl delegates to the old filesystem,1,0,deprecation,this impl delegates to the old filesystem
+5151,VScrollTable.java,@author vaadin ltd,1,0,deprecation,@author vaadin ltd
+104,BlocksMap.java,block s metadata currently includes blockcollection it belongs to and,1,0,deprecation,block s metadata currently includes blockcollection it belongs to and
+2078,ICPPASTVirtSpecifier.java,@since 57,1,1,deprecation,@since 57
+3241,HostAndPort.java,ul,1,0,deprecation,ul
+5275,VScrollTable.java,@see,1,0,deprecation,@see
+5231,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+2108,IGDBTraceControl.java,gdb specific part,1,0,deprecation,gdb specific part
+3100,CountingOutputStream.java,@author chris nokleberg,1,0,deprecation,@author chris nokleberg
+4220,Binder.java,follow.,1,0,deprecation,follow
+3244,HostAndPort.java,li 1920.21,1,0,deprecation,li 1920 21
+121,CapacitySchedulerPlanFollower.java,"adding removing resizing leaf queues in the scheduler, thus affecting the",1,0,deprecation,adding removing resizing leaf queues in the scheduler thus affecting the
+5157,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,deprecation,example itabpanel just set contained components invisible and back
+1057,TestHDFSServerPorts.java,"namenode, datanode, secondarynamenode and backupnode.",1,0,deprecation,namenode datanode secondarynamenode and backupnode
+5193,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,deprecation,com google gwt event dom client blurhandler onblur com google gwt event
+2154,INodeFactory.java,control flow graph node factory,1,0,deprecation,control flow graph node factory
+5205,VScrollTable.java,when changing tabs.,1,0,deprecation,when changing tabs
+5291,VScrollTable.java,when changing tabs.,1,0,deprecation,when changing tabs
+3077,CloseablesTest.java,@author michael lancaster,1,0,deprecation,@author michael lancaster
+1167,TestUpgradeDomainBlockPlacementPolicy.java,satisfy the upgrade domain policy.,1,0,deprecation,satisfy the upgrade domain policy
+2202,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,0,deprecation,those are for readability of xml only
+3491,Preconditions.java,href https github^com google guava wiki preconditionsexplained using @code,1,0,deprecation,href https github com google guava wiki preconditionsexplained using @code
+3118,EqualsTester.java,"p this tests @code foo^equals foo , @code foo^equals null , and a few other operations.",1,0,deprecation,p this tests @code foo equals foo @code foo equals null and a few other operations
+4152,AbstractModule.java,configuration.,1,0,deprecation,configuration
+1696,CConfigurationDescriptionCache.java,ul,1,0,deprecation,ul
+5209,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+3636,SmoothRateLimiter.java,"on the other hand, past underutilization could mean that the server responsible for handling",1,0,deprecation,on the other hand past underutilization could mean that the server responsible for handling
+5366,VTextArea.java,@author vaadin ltd.,1,0,deprecation,@author vaadin ltd
+4617,ColorPickerServerRpc.java,@since 70.0,1,1,deprecation,@since 70 0
+5237,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,deprecation,com google gwt event dom client blurhandler onblur com google gwt event
+1207,TimelineDataToRetrieve.java,this is represented as a @link timelinefilterlist object,1,0,deprecation,this is represented as a @link timelinefilterlist object
+5404,Window.java,non javadoc,1,0,deprecation,non javadoc
+123,CapacitySchedulerPlanFollower.java,content of the plan.,1,0,deprecation,content of the plan
+1101,TestS3BucketManager.java,tests for s3 bucket manager.,1,0,deprecation,tests for s3 bucket manager
+2060,ICPPAliasTemplateInstance.java,@noextend this interface is not intended to be extended by clients.,1,0,deprecation,@noextend this interface is not intended to be extended by clients
+1059,TestHDFSServerPorts.java,br,1,0,deprecation,br
+3431,Preconditions.java,throw new illegalargumentexception input is negative value,1,0,deprecation,throw new illegalargumentexception input is negative value
+3183,FeatureSpecificTestSuiteBuilder.java,"by a g, selecting appropriate tests by matching them against specified features.",1,0,deprecation,by a g selecting appropriate tests by matching them against specified features
+4154,AbstractModule.java,methods which mirror those found in @link binder .,1,0,deprecation,methods which mirror those found in @link binder
+5155,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,deprecation,overridden due table might not survive of visibility change scroll pos
+1175,TextInputFormat.java,either linefeed or carriage return are used to signal end of line.,1,0,deprecation,either linefeed or carriage return are used to signal end of line
+126,CapacitySchedulerPlanFollower.java,"this implementation of planfollower is relatively stateless, and it can",1,0,deprecation,this implementation of planfollower is relatively stateless and it can
+18,AbstractContractGetFileStatusTest.java,a filesystem filter which exposes the protected method,1,0,deprecation,a filesystem filter which exposes the protected method
+3191,FeatureSpecificTestSuiteBuilder.java,information required to parameterize the test.,1,0,deprecation,information required to parameterize the test
+5406,Window.java,an interface used for listening to window order change events.,1,0,deprecation,an interface used for listening to window order change events
+1641,AddMemoryBlocks.java,adds memory blocks to the memory view.,1,0,deprecation,adds memory blocks to the memory view
+2665,AbstractLoadingCache.java,@since 110,1,1,deprecation,@since 110
+5153,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,deprecation,these are used when jumping between pages when pressing home and end
+2599,VMHasChildrenUpdate.java,@since 10,1,1,deprecation,@since 10
+3599,Resources.java,a byte source that reads from a url using @link url#openstream .,1,0,deprecation,a byte source that reads from a url using @link url openstream
+1692,CConfigurationDescriptionCache.java,"cconfigurationdescription cconfigurationdata data, string buildsystemid, icdataproxycontainer cr",1,0,deprecation,cconfigurationdescription cconfigurationdata data string buildsystemid icdataproxycontainer cr
+1049,TestFederationPolicyUtils.java,unit test for @link federationpolicyutils .,1,0,deprecation,unit test for @link federationpolicyutils
+3411,PeekingIterator.java,p see the guava user guide article on a href,1,0,deprecation,p see the guava user guide article on a href
+5169,VScrollTable.java,dom^client.blurevent,1,0,deprecation,dom client blurevent
+5078,VScrollTable.java,@since 72,1,1,deprecation,@since 72
+5251,VScrollTable.java,user scrolls.,1,0,deprecation,user scrolls
+5172,VScrollTable.java,used to recall the position of an open context menu if we need to close,1,0,deprecation,used to recall the position of an open context menu if we need to close
+5273,VScrollTable.java,user scrolls.,1,0,deprecation,user scrolls
+89,BatchedRequests.java,placements if more requests are batched together.,1,0,deprecation,placements if more requests are batched together
+5281,VScrollTable.java,dom^client.blurevent,1,0,deprecation,dom client blurevent
+3481,Preconditions.java,p @code preconditions uses @link strings#lenientformat to format error message template,1,0,deprecation,p @code preconditions uses @link strings lenientformat to format error message template
+3459,Preconditions.java,h3 other types of preconditions h3,1,0,deprecation,h3 other types of preconditions h3
+5131,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,deprecation,updates first visible row for the case we cannot wait
+1054,TestHandler.java,tests handler interface.,1,0,deprecation,tests handler interface
+1700,CConfigurationDescriptionCache.java,to the cconfigurationdescriptioncache.,1,0,deprecation,to the cconfigurationdescriptioncache
+5409,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,1,0,deprecation,@see com vaadin ui panel paintcontent com vaadin server painttarget
+3230,HostAndPort.java,an immutable representation of a host and port.,1,0,deprecation,an immutable representation of a host and port
+200,ComparableVersion.java,represents a numeric item in the version item list.,1,0,deprecation,represents a numeric item in the version item list
+4212,Binder.java,"in this example, @code serviceprovider must extend or implement @code provider service .",1,0,deprecation,in this example @code serviceprovider must extend or implement @code provider service
+3453,Preconditions.java,"however, the methods of this class have a large number of overloads that prevent such",1,0,deprecation,however the methods of this class have a large number of overloads that prevent such
+3335,MultimapBuilder.java,@since 160,1,1,deprecation,@since 160
+251,DBProfile.java,https github^com facebook rocksdb blob master include rocksdb options^h,1,0,deprecation,https github com facebook rocksdb blob master include rocksdb options h
+4184,Binder.java,"guice uses an i embedded domain specific language i , or edsl, to help you create bindings",1,0,deprecation,guice uses an i embedded domain specific language i or edsl to help you create bindings
+4117,SortedSetNavigationTester.java,@code sortedsettestsuitebuilder .,1,0,deprecation,@code sortedsettestsuitebuilder
+1213,TimelineDataToRetrieve.java,"or empty, all metrics will be fetched if fieldstoretrieve contains",1,0,deprecation,or empty all metrics will be fetched if fieldstoretrieve contains
+4688,Grid.java,@since 75.0,1,1,deprecation,@since 75 0
+4119,SortedSetNavigationTester.java,@author louis wasserman,1,0,deprecation,@author louis wasserman
+273,DelegatingSSLSocketFactory.java,a @link sslsocketfactory that can delegate to various ssl implementations.,1,0,deprecation,a @link sslsocketfactory that can delegate to various ssl implementations
+1469,FlatMapFunction.java,a function that returns zero or more output records from each input record.,1,0,deprecation,a function that returns zero or more output records from each input record
+3188,FeatureSpecificTestSuiteBuilder.java,@param g the type of the generator to be passed to testers in the generated test suite.,1,0,deprecation,@param g the type of the generator to be passed to testers in the generated test suite
+5287,VScrollTable.java,changes to manage mousedown and mouseup,1,0,deprecation,changes to manage mousedown and mouseup
+3221,GwtTestSuite.java,grouping them into a suite is much faster than running each as a one test,1,0,deprecation,grouping them into a suite is much faster than running each as a one test
+5221,VScrollTable.java,to detect if the first visible,1,0,deprecation,to detect if the first visible
+4190,Binder.java,"to save space, these",1,0,deprecation,to save space these
+1480,JavaStreamingTestExample.java,"true, 9932",1,0,deprecation,true 9932
+1209,TimelineDataToRetrieve.java,these can either be,1,0,deprecation,these can either be
+3427,Preconditions.java,this allows constructs such as,1,0,deprecation,this allows constructs such as
+53,ApplicationConstants.java,the type of launch for the container.,1,0,deprecation,the type of launch for the container
+1710,CConfigurationDescriptionCache.java,at that point,1,0,deprecation,at that point
+5133,VScrollTable.java,user scrolls.,1,0,deprecation,user scrolls
+3614,SmoothRateLimiter.java,"request, and ensure that 1 qps seconds have elapsed since then.",1,0,deprecation,request and ensure that 1 qps seconds have elapsed since then
+3209,ForwardingImmutableSet.java,gwt implementation of @link immutableset that forwards to another @code set implementation.,1,0,deprecation,gwt implementation of @link immutableset that forwards to another @code set implementation
+255,DBProfile.java,https github^com facebook rocksdb wiki setup options and basic tuning,1,0,deprecation,https github com facebook rocksdb wiki setup options and basic tuning
+5127,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,deprecation,overridden due table might not survive of visibility change scroll pos
+10,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,1,0,deprecation,kept small to avoid killing object store test runs too much
+3403,ObjectCountHashMap.java,"p in the absence of element deletions, this will iterate over elements in insertion order.",1,0,deprecation,p in the absence of element deletions this will iterate over elements in insertion order
+5375,Window.java,a window is added to a @code ui using,1,0,deprecation,a window is added to a @code ui using
+1714,CConfigurationDescriptionCache.java,@see icconfigurationdescription,1,0,deprecation,@see icconfigurationdescription
+5308,VScrollTable.java,unrendered rows.,1,0,deprecation,unrendered rows
+2579,TriggerCellModifier.java,cell modifier used to edit the trigger value.,1,0,deprecation,cell modifier used to edit the trigger value
+3148,EqualsTester.java,@author jige yu,1,0,deprecation,@author jige yu
+5301,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,deprecation,com google gwt event dom client blurhandler onblur com google gwt event
+5177,VScrollTable.java,to detect if the first visible,1,0,deprecation,to detect if the first visible
+2209,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,0,deprecation,those are for readability of xml only
+5161,VScrollTable.java,user scrolls.,1,0,deprecation,user scrolls
+4473,DefaultMethodInterceptionTest.java,tests for interception of default methods.,1,0,deprecation,tests for interception of default methods
+3314,MapSerializationTester.java,@author louis wasserman,1,0,deprecation,@author louis wasserman
+3594,Resources.java,p all method parameters must be non null unless documented otherwise.,1,0,deprecation,p all method parameters must be non null unless documented otherwise
+3485,Preconditions.java,"however, note that if the number of arguments does not match the",1,0,deprecation,however note that if the number of arguments does not match the
+1225,TimelineDataToRetrieve.java,li,1,0,deprecation,li
+2195,IViewInMemory.java,provides the ability to view a variable in the memory view.,1,0,deprecation,provides the ability to view a variable in the memory view
+5297,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,deprecation,com google gwt event dom client focushandler onfocus com google gwt event
+5239,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+1686,CConfigurationDescriptionCache.java,li initialization,1,0,deprecation,li initialization
+3226,HashFunctionEnum.java,an enum that contains all of the known hash functions.,1,0,deprecation,an enum that contains all of the known hash functions
+5,AbstractContractGetFileStatusTest.java,test getfilestatus and related listing operations.,1,0,deprecation,test getfilestatus and related listing operations
+3341,MultimapBuilder.java,@param k0 the upper bound on the key type of the generated multimap.,1,0,deprecation,@param k0 the upper bound on the key type of the generated multimap
+3128,EqualsTester.java,pre,1,0,deprecation,pre
+3096,ConflictingRequirementsException.java,@author george van den driessche,1,0,deprecation,@author george van den driessche
+3399,ObjectCountHashMap.java,store key objects and count values.,1,0,deprecation,store key objects and count values
+1202,TimelineDataToRetrieve.java,confused with configfilters which is used to decide which entities to,1,0,deprecation,confused with configfilters which is used to decide which entities to
+2100,IGDBTraceControl.java,the tracecontrol service provides access to the debugger tracing functionality.,1,0,deprecation,the tracecontrol service provides access to the debugger tracing functionality
+5225,VScrollTable.java,lost .,1,0,deprecation,lost
+1163,TestUpgradeDomainBlockPlacementPolicy.java,end to end test case for upgrade domain,1,0,deprecation,end to end test case for upgrade domain
+5189,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,deprecation,com google gwt event dom client focushandler onfocus com google gwt event
+3326,MultimapBuilder.java,pre,1,0,deprecation,pre
+2480,SourceLookupTest.java,that means it is,1,1,deprecation,that means it is
+3475,Preconditions.java,p projects which use @code com^google.common should generally avoid the use of @link,1,0,deprecation,p projects which use @code com google common should generally avoid the use of @link
+1609,AbstractCPropertyTab.java,"in particular, it allows to get current project,",1,0,deprecation,in particular it allows to get current project
+2101,IGDBTraceControl.java,it is used to do such things as start and stop tracing.,1,0,deprecation,it is used to do such things as start and stop tracing
+3353,MultimapBuilder.java,leaving k and v as upper bounds rather than the actual key and value types allows type,1,0,deprecation,leaving k and v as upper bounds rather than the actual key and value types allows type
+5167,VScrollTable.java,@see,1,0,deprecation,@see
+1595,UploadBlockStream.java,the actual block data is not contained here.,1,0,deprecation,the actual block data is not contained here
+3320,MultimapBuilder.java,"explicitly in @code com^google.common^collect , for example",1,0,deprecation,explicitly in @code com google common collect for example
+4205,Binder.java,treated as if it were a request for a @code serviceimpl instance.,1,0,deprecation,treated as if it were a request for a @code serviceimpl instance
+2482,SourceLookupTest.java,p,1,1,deprecation,p
+3618,SmoothRateLimiter.java,if a request comes and the last request was,1,0,deprecation,if a request comes and the last request was
+5195,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+5147,VScrollTable.java,access to touchcontextprovider.,1,0,deprecation,access to touchcontextprovider
+245,CpuTimeTracker.java,utility for sampling and computing cpu usage.,1,0,deprecation,utility for sampling and computing cpu usage
+4199,Binder.java,"also,",1,0,deprecation,also
+4156,AbstractModule.java,pre,1,0,deprecation,pre
+2093,IDsfDebugServicesFactory.java,a factory to create dsf services.,1,0,deprecation,a factory to create dsf services
+1615,AbstractCPropertyTab.java,means to handle control messages which are the main,1,0,deprecation,means to handle control messages which are the main
+1478,JavaStreamingTestExample.java,for example,1,0,deprecation,for example
+14,AbstractContractGetFileStatusTest.java,path filter which only expects paths whose final name element,1,0,deprecation,path filter which only expects paths whose final name element
+5215,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,deprecation,com google gwt event dom client blurhandler onblur com google gwt event
+5203,VScrollTable.java,lost .,1,0,deprecation,lost
+4545,AbstractProperty.java,@link binder,1,1,deprecation,@link binder
+3133,EqualsTester.java,li comparing each object against an instance of an incompatible class returns false,1,0,deprecation,li comparing each object against an instance of an incompatible class returns false
+3075,CloseablesTest.java,"p checks proper closing behavior, and ensures that ioexceptions on closeable^close are not",1,0,deprecation,p checks proper closing behavior and ensures that ioexceptions on closeable close are not
+5255,VScrollTable.java,dom^client.focusevent,1,0,deprecation,dom client focusevent
+2187,ITestItem.java,represents status of the test item.,1,0,deprecation,represents status of the test item
+4549,AbstractProperty.java,legacypropertyhelper has been removed in vaadin 8 events,1,1,deprecation,legacypropertyhelper has been removed in vaadin 8 events
+4134,TesterRequirements.java,encapsulates the constraints that a class under test must satisfy in order for a tester method to,1,0,deprecation,encapsulates the constraints that a class under test must satisfy in order for a tester method to
+2598,VMHasChildrenUpdate.java,@see vmviewerupdate,1,0,deprecation,@see vmviewerupdate
+3105,DescendingMultiset.java,a skeleton implementation of a descending multiset.,1,0,deprecation,a skeleton implementation of a descending multiset
+5253,VScrollTable.java,@see,1,0,deprecation,@see
+1174,TextInputFormat.java,files are broken into lines.,1,0,deprecation,files are broken into lines
+2175,IRegisters2.java,service extension of iregisters to manage user defined register groups,1,0,deprecation,service extension of iregisters to manage user defined register groups
+5165,VScrollTable.java,dom^client.focusevent,1,0,deprecation,dom client focusevent
+5402,Window.java,non javadoc,1,0,deprecation,non javadoc
+5129,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,deprecation,example itabpanel just set contained components invisible and back
+3122,EqualsTester.java,for example,1,0,deprecation,for example
+5285,VScrollTable.java,to detect if the first visible,1,0,deprecation,to detect if the first visible
+3119,EqualsTester.java,"p for more extensive testing, add multiple equality groups.",1,0,deprecation,p for more extensive testing add multiple equality groups
+2186,ITestItem.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+1584,RemoveBlocks.java,request to remove a set of blocks.,1,0,deprecation,request to remove a set of blocks
+2069,ICPPASTLinkageSpecification.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+2785,BloomFilter.java,"p as of guava 230, this class is thread safe and lock free.",1,1,deprecation,p as of guava 230 this class is thread safe and lock free
+1192,TimelineDataToRetrieve.java,in response.,1,0,deprecation,in response
+3324,MultimapBuilder.java,"setmultimap integer, myenum hashenummultimap",1,0,deprecation,setmultimap integer myenum hashenummultimap
+172,ComparableVersion.java,code source of this file http grepcode^com file repo1^maven.org maven2 org^apache.maven maven artifact 31.1 org apache maven artifact versioning comparableversion^java modifications made on top of the source 1.,1,0,deprecation,code source of this file http grepcode com file repo1 maven org maven2 org apache maven maven artifact 31 1 org apache maven artifact versioning comparableversion java modifications made on top of the source 1
+3293,LazyStackTraceBenchmark.java,quick and dirty benchmark of @link throwables#lazystacktrace throwable .,1,0,deprecation,quick and dirty benchmark of @link throwables lazystacktrace throwable
+275,DelegatingSSLSocketFactory.java,openssl offers better,1,0,deprecation,openssl offers better
+3254,HostAndPort.java,@author paul marks,1,0,deprecation,@author paul marks
+3285,ImmutableTable_CustomFieldSerializerBase.java,this class contains static utility methods for writing @link immutabletable gwt field,1,0,deprecation,this class contains static utility methods for writing @link immutabletable gwt field
+3395,NullsLastOrdering_CustomFieldSerializer.java,@author chris povirk,1,0,deprecation,@author chris povirk
+3587,ReserializingTestCollectionGenerator.java,@author jesse wilson,1,0,deprecation,@author jesse wilson
+4160,AbstractModule.java,bind creditcardpaymentservice^class,1,0,deprecation,bind creditcardpaymentservice class
+1200,TimelineDataToRetrieve.java,contains @link field#configs or @link field#all .,1,0,deprecation,contains @link field configs or @link field all
+203,ComparableVersion.java,this class is used both for the global item list and for sub lists which start,1,0,deprecation,this class is used both for the global item list and for sub lists which start
+4192,Binder.java,abstractmodule .,1,0,deprecation,abstractmodule
+3632,SmoothRateLimiter.java,"should speed up for a while, to take advantage of these resources.",1,0,deprecation,should speed up for a while to take advantage of these resources
+5400,Window.java,@see ui^windoworderupdateevent,1,0,deprecation,@see ui windoworderupdateevent
+5139,VScrollTable.java,@see,1,0,deprecation,@see
+4222,Binder.java,happen letting guice work for you .,1,0,deprecation,happen letting guice work for you
+2104,IGDBTraceControl.java,marker interface for a context on which trace operations can be performed,1,0,deprecation,marker interface for a context on which trace operations can be performed
+3332,MultimapBuilder.java,@author louis wasserman,1,0,deprecation,@author louis wasserman
+1673,AutotoolsProblemMarkerInfo.java,@noextend this class is not intended to be subclassed by clients.,1,0,deprecation,@noextend this class is not intended to be subclassed by clients
+3489,Preconditions.java,h3 more information h3,1,0,deprecation,h3 more information h3
+2484,SourceLookupTest.java,tests are parameterised.,1,1,deprecation,tests are parameterised
+3626,SmoothRateLimiter.java,this ratelimiter would immediately,1,0,deprecation,this ratelimiter would immediately
+129,CapacitySchedulerPlanFollower.java,this makes it resilient to frequency of,1,0,deprecation,this makes it resilient to frequency of
+5163,VScrollTable.java,@see,1,0,deprecation,@see
+1108,TestSaveNamespace.java,li recover from failure while moving current into lastcheckpoint^tmp li,1,0,deprecation,li recover from failure while moving current into lastcheckpoint tmp li
+277,DelegatingSSLSocketFactory.java,a href https github^com wildfly wildfly openssl wildlfy openssl a,1,0,deprecation,a href https github com wildfly wildfly openssl wildlfy openssl a
+5267,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,deprecation,overridden due table might not survive of visibility change scroll pos
+2210,LanguageSettingsProvidersSerializer.java,language settings change event implementation.,1,0,deprecation,language settings change event implementation
+3423,Preconditions.java,"correctly that is, whether its i preconditions i were met .",1,0,deprecation,correctly that is whether its i preconditions i were met
+4487,Element.java,an internal binding annotation applied to each element in a multibinding.,1,0,deprecation,an internal binding annotation applied to each element in a multibinding
+5233,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,deprecation,com google gwt event dom client focushandler onfocus com google gwt event
+1716,CConfigurationDescriptionCache.java,@see cprojectdescriptionevent,1,0,deprecation,@see cprojectdescriptionevent
+1085,TestProtoBufRpc.java,test for testing protocol buffer based rpc mechanism.,1,0,deprecation,test for testing protocol buffer based rpc mechanism
+5259,VScrollTable.java,dom^client.blurevent,1,0,deprecation,dom client blurevent
+1106,TestSaveNamespace.java,ol,1,0,deprecation,ol
+5159,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,deprecation,updates first visible row for the case we cannot wait
+5387,Window.java,p,1,0,deprecation,p
+3622,SmoothRateLimiter.java,it is important to realize that such a ratelimiter has a very superficial memory of the past,1,0,deprecation,it is important to realize that such a ratelimiter has a very superficial memory of the past
+86,BatchedRequests.java,a grouping of scheduling requests which are sent to the placementalgorithm,1,0,deprecation,a grouping of scheduling requests which are sent to the placementalgorithm
+3135,EqualsTester.java,li comparing each pair of objects from different equality groups returns false,1,0,deprecation,li comparing each pair of objects from different equality groups returns false
+1451,ExecutorPlugin.java,a plugin which can be automatically instantiated within each spark executor.,1,0,deprecation,a plugin which can be automatically instantiated within each spark executor
+5257,VScrollTable.java,@see,1,0,deprecation,@see
+1616,AbstractCPropertyTab.java,communication way for new cdt model pages and tabs.,1,0,deprecation,communication way for new cdt model pages and tabs
+3232,HostAndPort.java,pre,1,0,deprecation,pre
+3612,SmoothRateLimiter.java,wait as much.,1,0,deprecation,wait as much
+5391,Window.java,this function is now covered by the @link ui class.,1,0,deprecation,this function is now covered by the @link ui class
+3439,Preconditions.java,pre,1,0,deprecation,pre
+2076,ICPPASTVirtSpecifier.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+81,BaseRouterWebServicesTest.java,base class for all the routerrmadminservice test cases.,1,0,deprecation,base class for all the routerrmadminservice test cases
+5223,VScrollTable.java,changes to manage mousedown and mouseup,1,0,deprecation,changes to manage mousedown and mouseup
+1706,CConfigurationDescriptionCache.java,where,1,0,deprecation,where
+3120,EqualsTester.java,each group should contain objects,1,0,deprecation,each group should contain objects
+3249,HostAndPort.java,ul,1,0,deprecation,ul
+1537,KVStore.java,p,1,0,deprecation,p
+1702,CConfigurationDescriptionCache.java,li user changes settings in the settings configuration cconfigurationdescription and saves it,1,0,deprecation,li user changes settings in the settings configuration cconfigurationdescription and saves it
+3429,Preconditions.java,public static double sqrt double value,1,0,deprecation,public static double sqrt double value
+3628,SmoothRateLimiter.java,this may result in either underutilization or,1,0,deprecation,this may result in either underutilization or
+3415,PeekingIterator.java,@since 20,1,0,deprecation,@since 20
+283,DelegatingSSLSocketFactory.java,system installed openssl.,1,0,deprecation,system installed openssl
+3610,SmoothRateLimiter.java,"this is enforced by throttling incoming requests as needed, ie",1,0,deprecation,this is enforced by throttling incoming requests as needed ie
+3425,Preconditions.java,"of a specified type, which helps the method in which the exception was thrown communicate that",1,0,deprecation,of a specified type which helps the method in which the exception was thrown communicate that
+2452,SourceLookupTest.java,p,1,1,deprecation,p
+3346,MultimapBuilder.java,a specialization of @link multimapbuilder that generates @link listmultimap instances.,1,0,deprecation,a specialization of @link multimapbuilder that generates @link listmultimap instances
+1712,CConfigurationDescriptionCache.java,ul,1,0,deprecation,ul
+4202,Binder.java,pre,1,0,deprecation,pre
+3630,SmoothRateLimiter.java,past underutilization could mean that excess resources are available.,1,0,deprecation,past underutilization could mean that excess resources are available
+3295,LazyStackTraceBenchmark.java,finder implementation that might be used in a logging framework.,1,0,deprecation,finder implementation that might be used in a logging framework
+5520,XhrConnectionError.java,@since 76,1,1,deprecation,@since 76
+3461,Preconditions.java,continue to throw,1,0,deprecation,continue to throw
+1132,TestSwiftFileSystemContract.java,some of the tests override the base class tests these,1,0,deprecation,some of the tests override the base class tests these
+124,CapacitySchedulerPlanFollower.java,it also updates the plan s view on how much resources,1,0,deprecation,it also updates the plan s view on how much resources
+3328,MultimapBuilder.java,invoking a configuration method has no effect,1,0,deprecation,invoking a configuration method has no effect
+2106,IGDBTraceControl.java,specific trace record context.,1,0,deprecation,specific trace record context
+3493,Preconditions.java,@author kevin bourrillion,1,0,deprecation,@author kevin bourrillion
+279,DelegatingSSLSocketFactory.java,p,1,0,deprecation,p
+2149,IMSASTDeclspecList.java,@noimplement this interface is not intended to be implemented by clients.,1,0,deprecation,@noimplement this interface is not intended to be implemented by clients
+5377,Window.java,p,1,0,deprecation,p
+3308,MapPutAllTester.java,@author kevin bourrillion,1,0,deprecation,@author kevin bourrillion
+5213,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+5303,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+2066,ICPPASTLinkageSpecification.java,this interface represents a linkage specification.,1,0,deprecation,this interface represents a linkage specification
+2589,UPCKeyword.java,enumeration of keywords that upc adds to c99.,1,0,deprecation,enumeration of keywords that upc adds to c99
+1652,AddMemoryBlocks.java,"in order to avoid duplicating the addmemoryblocks method one version for expressions, one for memory space address, we pass in a an opaque parameter and let the logic within addmemoryblocks differentiate where needed via isinstanceof request object used to get the memory spaces",1,0,deprecation,in order to avoid duplicating the addmemoryblocks method one version for expressions one for memory space address we pass in a an opaque parameter and let the logic within addmemoryblocks differentiate where needed via isinstanceof request object used to get the memory spaces
+4188,Binder.java,javadocs b .,1,0,deprecation,javadocs b
+3467,Preconditions.java,doing so is b not recommended b because it is,1,0,deprecation,doing so is b not recommended b because it is
+3455,Preconditions.java,"p the message string is not formatted unless the exception will be thrown, so the cost of the",1,0,deprecation,p the message string is not formatted unless the exception will be thrown so the cost of the
+3146,EqualsTester.java,ul,1,0,deprecation,ul
+5385,Window.java,p,1,0,deprecation,p
+1216,TimelineDataToRetrieve.java,with metricfilters which is used to decide which entities to return,1,0,deprecation,with metricfilters which is used to decide which entities to return
+2074,ICPPASTVirtSpecifier.java,a virt specifier at the end of a function declaration.,1,0,deprecation,a virt specifier at the end of a function declaration
+3624,SmoothRateLimiter.java,what if the ratelimiter was unused for a long period of,1,0,deprecation,what if the ratelimiter was unused for a long period of
+5299,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+5245,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,deprecation,overridden due table might not survive of visibility change scroll pos
+2162,IPropertyChangeParticipant.java,clients may implement this interface.,1,0,deprecation,clients may implement this interface
+3447,Preconditions.java,p avoid passing message arguments that are expensive to compute your code will always compute,1,0,deprecation,p avoid passing message arguments that are expensive to compute your code will always compute
+1032,TestCustomOauthTokenProvider.java,test custom oauth token providers.,1,0,deprecation,test custom oauth token providers
+103,BlocksMap.java,this class maintains the map from a block to its metadata.,1,0,deprecation,this class maintains the map from a block to its metadata
+5269,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,deprecation,example itabpanel just set contained components invisible and back
+1082,TestOzoneNativeAuthorizer.java,test class for @link ozonenativeauthorizer .,1,0,deprecation,test class for @link ozonenativeauthorizer
+1204,TimelineDataToRetrieve.java,li,1,0,deprecation,li
+3435,Preconditions.java,pre @code,1,0,deprecation,pre @code
+5277,VScrollTable.java,dom^client.focusevent,1,0,deprecation,dom client focusevent
+2201,LanguageSettingsProvidersSerializer.java,dummy class to represent ill defined provider.,1,0,deprecation,dummy class to represent ill defined provider
+5243,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,deprecation,these are used when jumping between pages when pressing home and end
+3471,Preconditions.java,explained a in the guava user guide for more advice.,1,0,deprecation,explained a in the guava user guide for more advice
+3247,HostAndPort.java,li 2001 db8 1 80 @link #gethost omits brackets,1,0,deprecation,li 2001 db8 1 80 @link gethost omits brackets
+3306,MapPutAllTester.java,please see @link com^google.common^collect.testing^maptestsuitebuilder .,1,0,deprecation,please see @link com google common collect testing maptestsuitebuilder
+16,AbstractContractGetFileStatusTest.java,the tree parameters.,1,0,deprecation,the tree parameters
+1679,C99BuildASTParserAction.java,@author mike kucera,1,0,deprecation,@author mike kucera
+2606,WhiteSpaceOptions.java,represents a node in the options tree.,1,0,deprecation,represents a node in the options tree
+118,CapacitySchedulerPlanFollower.java,it is in charge to publish the state of the @link plan s to the underlying,1,0,deprecation,it is in charge to publish the state of the @link plan s to the underlying
+4115,SortedSetNavigationTester.java,a generic junit test which tests operations on a sortedset.,1,0,deprecation,a generic junit test which tests operations on a sortedset
+4209,Binder.java,serviceimpl before it reaches the point when it starts looking for these annotations.,1,0,deprecation,serviceimpl before it reaches the point when it starts looking for these annotations
+1607,AbstractCPropertyTab.java,"in this case, we ll able to use",1,0,deprecation,in this case we ll able to use
+1217,TimelineDataToRetrieve.java,instead.,1,0,deprecation,instead
+5179,VScrollTable.java,changes to manage mousedown and mouseup,1,0,deprecation,changes to manage mousedown and mouseup
+3185,FeatureSpecificTestSuiteBuilder.java,all the builder methods of this,1,0,deprecation,all the builder methods of this
+1190,TimelineDataToRetrieve.java,ul,1,0,deprecation,ul
+191,ComparableVersion.java,li code the empty string code or code ga code or code final code li,1,0,deprecation,li code the empty string code or code ga code or code final code li
+5141,VScrollTable.java,dom^client.blurevent,1,0,deprecation,dom client blurevent
+3487,Preconditions.java,"behave as expected, and will still include all argument values in the error message the message",1,0,deprecation,behave as expected and will still include all argument values in the error message the message
+4474,DefaultMethodInterceptionTest.java,@author cgdecker@google^com colin decker,1,0,deprecation,@author cgdecker@google com colin decker
+4869,RpcDataProviderExtension.java,"@deprecated as of 80, no replacement available.",1,1,deprecation,@deprecated as of 80 no replacement available
+4227,Binder.java,if your module also includes bindings for particular i values i of the,1,0,deprecation,if your module also includes bindings for particular i values i of the
+3342,MultimapBuilder.java,@since 160,1,1,deprecation,@since 160
+3457,Preconditions.java,"p as with any performance concerns, you should consider profiling your code in a production",1,0,deprecation,p as with any performance concerns you should consider profiling your code in a production
+2603,WhiteSpaceOptions.java,manage code formatter white space options on a higher level.,1,0,deprecation,manage code formatter white space options on a higher level
+1133,TestSwiftFileSystemContract.java,"are where swiftfs does not implement those features, or",1,0,deprecation,are where swiftfs does not implement those features or
+4230,Binder.java,pre,1,0,deprecation,pre
+4196,Binder.java,does not change guice s default behavior.,1,0,deprecation,does not change guice s default behavior
+5137,VScrollTable.java,dom^client.focusevent,1,0,deprecation,dom client focusevent
+3151,EqualsTester.java,"since it is a private inner class, the invoker can never pass in an instance to the tester",1,0,deprecation,since it is a private inner class the invoker can never pass in an instance to the tester
+4136,TesterRequirements.java,@author george van den driessche,1,0,deprecation,@author george van den driessche
+173,ComparableVersion.java,changed package org^apache.maven^artifact.versioning to package org^apache.hadoop^util 2.,1,0,deprecation,changed package org apache maven artifact versioning to package org apache hadoop util 2
+3337,MultimapBuilder.java,parameters to be left implicit more often.,1,0,deprecation,parameters to be left implicit more often
+1573,LevelDB.java,implementation of kvstore that uses leveldb as the underlying data store.,1,0,deprecation,implementation of kvstore that uses leveldb as the underlying data store
+3634,SmoothRateLimiter.java,"rate is applied to networking limiting bandwidth , where past underutilization typically",1,0,deprecation,rate is applied to networking limiting bandwidth where past underutilization typically
+3330,MultimapBuilder.java,"p the generated multimaps are serializable if the key and value types are serializable, unless",1,0,deprecation,p the generated multimaps are serializable if the key and value types are serializable unless
+1634,AddBreakpointRulerAction.java,ruler action to add breakpoint with a dialog properties.,1,0,deprecation,ruler action to add breakpoint with a dialog properties
+5271,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,deprecation,updates first visible row for the case we cannot wait
+5144,VScrollTable.java,for internal use only.,1,0,deprecation,for internal use only
+3083,CollectionTestSuiteBuilder.java,do not have a more specific tester like @link listtestsuitebuilder or @link,1,0,deprecation,do not have a more specific tester like @link listtestsuitebuilder or @link
+75,BalancingPolicy.java,cluster is balanced if each pool in each node is balanced.,1,0,deprecation,cluster is balanced if each pool in each node is balanced
+1709,CConfigurationDescriptionCache.java,is used to persist the data.,1,0,deprecation,is used to persist the data
+5247,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,deprecation,example itabpanel just set contained components invisible and back
+2610,WhiteSpaceOptions.java,preview snippets.,1,0,deprecation,preview snippets
+3581,RegularImmutableList_CustomFieldSerializer.java,@author hayward chan,1,0,deprecation,@author hayward chan
+5235,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+5265,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,deprecation,these are used when jumping between pages when pressing home and end
+2432,RulerColumnDescriptor.java,@since 72,1,1,deprecation,@since 72
+125,CapacitySchedulerPlanFollower.java,are available in the cluster.,1,0,deprecation,are available in the cluster
+249,DBProfile.java,documentation for options.,1,0,deprecation,documentation for options
+3301,LongMathBenchmark.java,@author louis wasserman,1,0,deprecation,@author louis wasserman
+3114,EqualsTester.java,p the simplest use case is,1,0,deprecation,p the simplest use case is
+1194,TimelineDataToRetrieve.java,containing @link timelineprefixfilter objects.,1,0,deprecation,containing @link timelineprefixfilter objects
+3477,Preconditions.java,"instead, use whichever of @link",1,0,deprecation,instead use whichever of @link
+1035,TestCustomOauthTokenProvider.java,instead this just checks that the creation works and that everything,1,0,deprecation,instead this just checks that the creation works and that everything
+5295,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc
+3433,Preconditions.java,pre,1,0,deprecation,pre
+1091,TestRDBStore.java,rdbstore tests.,1,0,deprecation,rdbstore tests
+1199,TimelineDataToRetrieve.java,"or empty, all configurations will be fetched if fieldstoretrieve",1,0,deprecation,or empty all configurations will be fetched if fieldstoretrieve
+4182,Binder.java,they may each contribute their own bindings and other registrations.,1,0,deprecation,they may each contribute their own bindings and other registrations
+3124,EqualsTester.java,new equalstester,1,0,deprecation,new equalstester
+3401,ObjectCountHashMap.java,"implementation which stores keys and count values as map entries, @code objectcounthashmap",1,0,deprecation,implementation which stores keys and count values as map entries @code objectcounthashmap
+120,CapacitySchedulerPlanFollower.java,"this implementation does so, by",1,0,deprecation,this implementation does so by
+4223,Binder.java,pre,1,0,deprecation,pre
+5383,Window.java,or set to be centered using @link #center,1,0,deprecation,or set to be centered using @link center
+2142,IMIBackend.java,event indicating that the back end process has started or terminated.,1,0,deprecation,event indicating that the back end process has started or terminated
+1233,TimelineDataToRetrieve.java,be retrieved.,1,0,deprecation,be retrieved
+3445,Preconditions.java,p would be flagged as having called @code sqrt with an illegal argument.,1,0,deprecation,p would be flagged as having called @code sqrt with an illegal argument
+3596,Resources.java,@author ben yu,1,0,deprecation,@author ben yu
+5306,VScrollTable.java,this,1,0,deprecation,this
+1228,TimelineDataToRetrieve.java,number of metrics to return.,1,0,deprecation,number of metrics to return
+1130,TestSwiftFileSystemContract.java,this is the full filesystem contract test which requires the,1,0,deprecation,this is the full filesystem contract test which requires the
+1636,AddLineBreakpointActionDelegate.java,a delegate for the add line breakpoint action.,1,0,deprecation,a delegate for the add line breakpoint action
+5121,VScrollTable.java,non javadoc,1,0,deprecation,non javadoc

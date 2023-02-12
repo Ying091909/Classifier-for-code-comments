@@ -1,0 +1,491 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+3622,SmoothRateLimiter.java,it is important to realize that such a ratelimiter has a very superficial memory of the past,1,0,summary,it is important to realize that such a ratelimiter has a very superficial memory of the past
+3125,EqualsTester.java,"addequalitygroup new user page , new user page",1,0,summary,addequalitygroup new user page new user page
+3607,SmoothRateLimiter.java,"how is the ratelimiter designed, and why?",1,0,summary,how is the ratelimiter designed and why
+3338,MultimapBuilder.java,cachebuilder uses the same technique.,1,0,summary,cachebuilder uses the same technique
+122,CapacitySchedulerPlanFollower.java,dynamic behavior of the scheduler in a way that is consistent with the,1,0,summary,dynamic behavior of the scheduler in a way that is consistent with the
+2605,WhiteSpaceOptions.java,"private void createbeforeellipsis map workingvalues, innernode parent createoption parent, workingvalues, formattermessages^whitespaceoptions vararg parameter, defaultcodeformatterconstants^formatter insert space before ellipsis, vararg parameter preview private void createafterellipsis map workingvalues, innernode parent createoption parent, workingvalues, formattermessages^whitespaceoptions vararg parameter, defaultcodeformatterconstants^formatter insert space after ellipsis, vararg parameter preview syntax element tree private innernode createreturntree map workingvalues, innernode parent final innernode root new innernode parent, workingvalues, formattermessages^whitespaceoptions return createoption root, workingvalues, formattermessages^whitespacetabpage before parenthesized expressions, defaultcodeformatterconstants^formatter insert space before parenthesized expression in return, return preview return root private innernode createthrowtree map workingvalues, innernode parent final innernode root new innernode parent, workingvalues, formattermessages^whitespaceoptions throw createoption root, workingvalues, formattermessages^whitespacetabpage before parenthesized expressions, defaultcodeformatterconstants^formatter insert space before parenthesized expression in throw, throw preview return root",1,0,summary,private void createbeforeellipsis map workingvalues innernode parent createoption parent workingvalues formattermessages whitespaceoptions vararg parameter defaultcodeformatterconstants formatter insert space before ellipsis vararg parameter preview private void createafterellipsis map workingvalues innernode parent createoption parent workingvalues formattermessages whitespaceoptions vararg parameter defaultcodeformatterconstants formatter insert space after ellipsis vararg parameter preview syntax element tree private innernode createreturntree map workingvalues innernode parent final innernode root new innernode parent workingvalues formattermessages whitespaceoptions return createoption root workingvalues formattermessages whitespacetabpage before parenthesized expressions defaultcodeformatterconstants formatter insert space before parenthesized expression in return return preview return root private innernode createthrowtree map workingvalues innernode parent final innernode root new innernode parent workingvalues formattermessages whitespaceoptions throw createoption root workingvalues formattermessages whitespacetabpage before parenthesized expressions defaultcodeformatterconstants formatter insert space before parenthesized expression in throw throw preview return root
+3239,HostAndPort.java,pre,1,0,summary,pre
+1678,C99BuildASTParserAction.java,semantic actions called by the c99 parser to build an ast.,1,1,summary,semantic actions called by the c99 parser to build an ast
+5371,VUpload.java,@author vaadin ltd,1,0,summary,@author vaadin ltd
+3413,PeekingIterator.java,peekingiterator a .,1,0,summary,peekingiterator a
+2180,IScannerInfoConsoleParser.java,@author vhirsl,1,0,summary,@author vhirsl
+2612,WhiteSpaceOptions.java,a node representing a concrete white space option in the tree.,1,0,summary,a node representing a concrete white space option in the tree
+177,ComparableVersion.java,ul,1,0,summary,ul
+5253,VScrollTable.java,@see,1,0,summary,@see
+10,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,1,0,summary,kept small to avoid killing object store test runs too much
+5199,VScrollTable.java,to detect if the first visible,1,0,summary,to detect if the first visible
+775,Query.java,check if a record matches a query.,1,1,summary,check if a record matches a query
+1069,TestMetricsVisitor.java,test the metric visitor interface,1,1,summary,test the metric visitor interface
+4145,WrappingScheduledExecutorService.java,p note that task wrapping may occur even if the task is never executed.,1,0,summary,p note that task wrapping may occur even if the task is never executed
+4207,Binder.java,function of any @link implementedby @implementedby or @link providedby @providedby,1,0,summary,function of any @link implementedby @implementedby or @link providedby @providedby
+1106,TestSaveNamespace.java,ol,1,0,summary,ol
+796,ReencryptionUpdater.java,is limited.,1,1,summary,is limited
+5247,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,summary,example itabpanel just set contained components invisible and back
+4231,Binder.java,bind serviceimpl^class ^in singleton^class,1,0,summary,bind serviceimpl class in singleton class
+2055,ICPointerType.java,@noimplement this interface is not intended to be implemented by clients.,1,0,summary,@noimplement this interface is not intended to be implemented by clients
+3117,EqualsTester.java,pre,1,0,summary,pre
+1716,CConfigurationDescriptionCache.java,@see cprojectdescriptionevent,1,0,summary,@see cprojectdescriptionevent
+3447,Preconditions.java,p avoid passing message arguments that are expensive to compute your code will always compute,1,0,summary,p avoid passing message arguments that are expensive to compute your code will always compute
+5225,VScrollTable.java,lost .,1,0,summary,lost
+5259,VScrollTable.java,dom^client.blurevent,1,0,summary,dom client blurevent
+1066,TestKeyInputStream.java,tests @link keyinputstream .,1,1,summary,tests @link keyinputstream
+1101,TestS3BucketManager.java,tests for s3 bucket manager.,1,1,summary,tests for s3 bucket manager
+1690,CConfigurationDescriptionCache.java,"with cconfigurationdescriptioncache icstorageelement storage, cprojectdescription parent constructor.",1,0,summary,with cconfigurationdescriptioncache icstorageelement storage cprojectdescription parent constructor
+3322,MultimapBuilder.java,"listmultimap string, integer treelistmultimap",1,0,summary,listmultimap string integer treelistmultimap
+5306,VScrollTable.java,this,1,0,summary,this
+801,ReencryptionUpdater.java,class representing the task for one batch of a re encryption command.,1,1,summary,class representing the task for one batch of a re encryption command
+3479,Preconditions.java,the same goes for the message accepting overloads.,1,0,summary,the same goes for the message accepting overloads
+5131,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,summary,updates first visible row for the case we cannot wait
+1178,TextInputFormat.java,.,1,0,summary,nan
+5291,VScrollTable.java,when changing tabs.,1,0,summary,when changing tabs
+151,Classpath.java,the output likely will include wildcards in the classpath.,1,0,summary,the output likely will include wildcards in the classpath
+2585,UncallCommandHandler.java,command handler to trigger an uncall operation,1,1,summary,command handler to trigger an uncall operation
+568,InconsistentS3ClientFactory.java,@code hadoop aws module to enable integration tests to use this,1,0,summary,@code hadoop aws module to enable integration tests to use this
+1484,JavaStreamingTestExample.java,"a timeout after 100 insignificant batches, call",1,0,summary,a timeout after 100 insignificant batches call
+3209,ForwardingImmutableSet.java,gwt implementation of @link immutableset that forwards to another @code set implementation.,1,1,summary,gwt implementation of @link immutableset that forwards to another @code set implementation
+4640,FooterDoubleClickHandler.java,handler for @link griddoubleclickevent s that happen in the footer of the,1,1,summary,handler for @link griddoubleclickevent s that happen in the footer of the
+1673,AutotoolsProblemMarkerInfo.java,@noextend this class is not intended to be subclassed by clients.,1,0,summary,@noextend this class is not intended to be subclassed by clients
+3630,SmoothRateLimiter.java,past underutilization could mean that excess resources are available.,1,0,summary,past underutilization could mean that excess resources are available
+2597,VMHasChildrenUpdate.java,helper class implementation of the @link ihaschildrenupdate update object.,1,1,summary,helper class implementation of the @link ihaschildrenupdate update object
+1696,CConfigurationDescriptionCache.java,ul,1,0,summary,ul
+2440,SCDOptionsEnum.java,enumeration class for scanner configuration affecting command line options,1,1,summary,enumeration class for scanner configuration affecting command line options
+75,BalancingPolicy.java,cluster is balanced if each pool in each node is balanced.,1,0,summary,cluster is balanced if each pool in each node is balanced
+4478,DefaultMethodInterceptionTest.java,foo implementation that should use superclass method rather than default method.,1,0,summary,foo implementation that should use superclass method rather than default method
+3140,EqualsTester.java,ul,1,0,summary,ul
+5169,VScrollTable.java,dom^client.blurevent,1,0,summary,dom client blurevent
+1093,TestRegistrySecurityHelper.java,test for registry security operations,1,1,summary,test for registry security operations
+3247,HostAndPort.java,li 2001 db8 1 80 @link #gethost omits brackets,1,0,summary,li 2001 db8 1 80 @link gethost omits brackets
+1612,AbstractCPropertyTab.java,and to handle their events see buttonpressed int,1,0,summary,and to handle their events see buttonpressed int
+2586,UncallCommandHandler.java,@since 70,1,0,summary,@since 70
+173,ComparableVersion.java,changed package org^apache.maven^artifact.versioning to package org^apache.hadoop^util 2.,1,0,summary,changed package org apache maven artifact versioning to package org apache hadoop util 2
+2147,IMSASTDeclspecList.java,@since 66,1,0,summary,@since 66
+3402,ObjectCountHashMap.java,minimizes object allocation and reduces memory footprint.,1,0,summary,minimizes object allocation and reduces memory footprint
+516,FileSystemApplicationHistoryStore.java,@link #applicationstarted applicationstartdata is supposed to,1,0,summary,@link applicationstarted applicationstartdata is supposed to
+5243,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,summary,these are used when jumping between pages when pressing home and end
+1077,TestOmMultipartKeyInfoCodec.java,this class tests ommultipartkeyinfocodec.,1,1,summary,this class tests ommultipartkeyinfocodec
+2176,IRegisters2.java,@since 26,1,0,summary,@since 26
+3324,MultimapBuilder.java,"setmultimap integer, myenum hashenummultimap",1,0,summary,setmultimap integer myenum hashenummultimap
+2112,IGDBTraceControl.java,gdb specific part @since 44,1,0,summary,gdb specific part @since 44
+5299,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+562,HttpHeaderConfigurations.java,responsible to keep all abfs http headers here.,1,0,summary,responsible to keep all abfs http headers here
+5144,VScrollTable.java,for internal use only.,1,0,summary,for internal use only
+3455,Preconditions.java,"p the message string is not formatted unless the exception will be thrown, so the cost of the",1,0,summary,p the message string is not formatted unless the exception will be thrown so the cost of the
+3348,MultimapBuilder.java,leaving k and v as upper bounds rather than the actual key and value types allows type,1,0,summary,leaving k and v as upper bounds rather than the actual key and value types allows type
+1132,TestSwiftFileSystemContract.java,some of the tests override the base class tests these,1,0,summary,some of the tests override the base class tests these
+8,AbstractContractGetFileStatusTest.java,accept everything.,1,0,summary,accept everything
+1698,CConfigurationDescriptionCache.java,ul,1,0,summary,ul
+3443,Preconditions.java,double d sqrt 10,1,0,summary,double d sqrt 10
+5151,VScrollTable.java,@author vaadin ltd,1,0,summary,@author vaadin ltd
+1488,JavaStreamingTestExample.java,batches processed exceeds numbatchestimeout .,1,0,summary,batches processed exceeds numbatchestimeout
+2066,ICPPASTLinkageSpecification.java,this interface represents a linkage specification.,1,1,summary,this interface represents a linkage specification
+789,ReencryptionUpdater.java,"class for finalizing re encrypt edek operations, by updating file xattrs with",1,1,summary,class for finalizing re encrypt edek operations by updating file xattrs with
+1482,JavaStreamingTestExample.java,javastreamingtestexample datadir batchduration numbatchestimeout,1,0,summary,javastreamingtestexample datadir batchduration numbatchestimeout
+172,ComparableVersion.java,code source of this file http grepcode^com file repo1^maven.org maven2 org^apache.maven maven artifact 31.1 org apache maven artifact versioning comparableversion^java modifications made on top of the source 1.,1,0,summary,code source of this file http grepcode com file repo1 maven org maven2 org apache maven maven artifact 31 1 org apache maven artifact versioning comparableversion java modifications made on top of the source 1
+3191,FeatureSpecificTestSuiteBuilder.java,information required to parameterize the test.,1,0,summary,information required to parameterize the test
+2068,ICPPASTLinkageSpecification.java,@noextend this interface is not intended to be extended by clients.,1,0,summary,@noextend this interface is not intended to be extended by clients
+1662,AllTemplateEngineTests.java,the test suite will execute all the testcases added to the suite.,1,0,summary,the test suite will execute all the testcases added to the suite
+600,KerberosDelegationTokenAuthenticator.java,the code kerberosdelegationtokenauthenticator code provides support for,1,1,summary,the code kerberosdelegationtokenauthenticator code provides support for
+3214,ForwardingQueueTest.java,tests for @code forwardingqueue .,1,1,summary,tests for @code forwardingqueue
+3491,Preconditions.java,href https github^com google guava wiki preconditionsexplained using @code,1,0,summary,href https github com google guava wiki preconditionsexplained using @code
+3415,PeekingIterator.java,@since 20,1,0,summary,@since 20
+641,MapContext.java,@param valueout the value output type from the mapper,1,0,summary,@param valueout the value output type from the mapper
+5271,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,summary,updates first visible row for the case we cannot wait
+5129,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,summary,example itabpanel just set contained components invisible and back
+1702,CConfigurationDescriptionCache.java,li user changes settings in the settings configuration cconfigurationdescription and saves it,1,0,summary,li user changes settings in the settings configuration cconfigurationdescription and saves it
+1206,TimelineDataToRetrieve.java,in response.,1,0,summary,in response
+3147,EqualsTester.java,@author jim mcmaster,1,0,summary,@author jim mcmaster
+4616,ColorPickerServerRpc.java,rpc interface for abstractcolorpicker.,1,1,summary,rpc interface for abstractcolorpicker
+3249,HostAndPort.java,ul,1,0,summary,ul
+4143,WrappingScheduledExecutorService.java,an abstract @code scheduledexecutorservice that allows subclasses to @linkplain,1,1,summary,an abstract @code scheduledexecutorservice that allows subclasses to @linkplain
+584,ITestAzureNativeContractSeek.java,contract test.,1,1,summary,contract test
+5189,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,summary,com google gwt event dom client focushandler onfocus com google gwt event
+4902,SelectAllEvent.java,"to be selected, or when all rows have been selected and are now deselected.",1,1,summary,to be selected or when all rows have been selected and are now deselected
+1694,CConfigurationDescriptionCache.java,the reference to cache is kept in field fcfgcache.,1,0,summary,the reference to cache is kept in field fcfgcache
+3624,SmoothRateLimiter.java,what if the ratelimiter was unused for a long period of,1,0,summary,what if the ratelimiter was unused for a long period of
+2579,TriggerCellModifier.java,cell modifier used to edit the trigger value.,1,1,summary,cell modifier used to edit the trigger value
+4179,Binder.java,collects configuration information primarily i bindings i which will be used to create an,1,1,summary,collects configuration information primarily i bindings i which will be used to create an
+3463,Preconditions.java,unsupportedoperationexception in the situations they are intended for.,1,0,summary,unsupportedoperationexception in the situations they are intended for
+1213,TimelineDataToRetrieve.java,"or empty, all metrics will be fetched if fieldstoretrieve contains",1,0,summary,or empty all metrics will be fetched if fieldstoretrieve contains
+640,MapContext.java,@param keyout the key output type from the mapper,1,0,summary,@param keyout the key output type from the mapper
+3391,MultimapBuilderTest.java,@author louis wasserman,1,0,summary,@author louis wasserman
+18,AbstractContractGetFileStatusTest.java,a filesystem filter which exposes the protected method,1,0,summary,a filesystem filter which exposes the protected method
+2163,IPropertyChangeParticipant.java,p,1,0,summary,p
+3646,SmoothRateLimiter.java,"requested permits, by an invocation acquire permits , are served from",1,0,summary,requested permits by an invocation acquire permits are served from
+5390,Window.java,windows.,1,0,summary,windows
+3115,EqualsTester.java,pre,1,0,summary,pre
+3640,SmoothRateLimiter.java,speed .,1,0,summary,speed
+3082,CollectionTestSuiteBuilder.java,concrete instantiation of @link abstractcollectiontestsuitebuilder for testing collections that,1,1,summary,concrete instantiation of @link abstractcollectiontestsuitebuilder for testing collections that
+1203,TimelineDataToRetrieve.java,return instead.,1,0,summary,return instead
+7,AbstractContractGetFileStatusTest.java,kept small to avoid killing object store test runs too much.,1,0,summary,kept small to avoid killing object store test runs too much
+4209,Binder.java,serviceimpl before it reaches the point when it starts looking for these annotations.,1,0,summary,serviceimpl before it reaches the point when it starts looking for these annotations
+5378,Window.java,the contents of a window is set using @link #setcontent component or by,1,0,summary,the contents of a window is set using @link setcontent component or by
+3346,MultimapBuilder.java,a specialization of @link multimapbuilder that generates @link listmultimap instances.,1,0,summary,a specialization of @link multimapbuilder that generates @link listmultimap instances
+3642,SmoothRateLimiter.java,modeled by storedpermits variable.,1,0,summary,modeled by storedpermits variable
+3429,Preconditions.java,public static double sqrt double value,1,0,summary,public static double sqrt double value
+5025,VGridLayout.java,private helper class.,1,1,summary,private helper class
+5392,Window.java,p,1,0,summary,p
+574,InfoKeyHandler.java,executes info object.,1,1,summary,executes info object
+1505,KVStore.java,abstraction for a local key value store for storing app data.,1,1,summary,abstraction for a local key value store for storing app data
+5255,VScrollTable.java,dom^client.focusevent,1,0,summary,dom client focusevent
+5139,VScrollTable.java,@see,1,0,summary,@see
+3620,SmoothRateLimiter.java,"at this rate, serving 15 fresh permits",1,0,summary,at this rate serving 15 fresh permits
+5039,VScrollTable.java,scrollpanel,1,1,summary,scrollpanel
+3465,Preconditions.java,p it is of course possible to use the methods of this class to check for invalid conditions,1,0,summary,p it is of course possible to use the methods of this class to check for invalid conditions
+5193,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,summary,com google gwt event dom client blurhandler onblur com google gwt event
+2258,MIBreakpointsSynchronizer.java,single threaded.,1,0,summary,single threaded
+2248,MIBreakpointsSynchronizer.java,dsf eclipse fully processed them could cause the state within the,1,0,summary,dsf eclipse fully processed them could cause the state within the
+5183,VScrollTable.java,when changing tabs.,1,0,summary,when changing tabs
+1355,TypedEvent.java,basic event implementation to implement custom events.,1,1,summary,basic event implementation to implement custom events
+4864,RpcDataProviderExtension.java,implemented as an extension hardcoded to support a specific connector type.,1,1,summary,implemented as an extension hardcoded to support a specific connector type
+1036,TestCustomOauthTokenProvider.java,is propagated.,1,0,summary,is propagated
+5239,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+593,ITestS3Select.java,test the s3 select feature with some basic sql commands.,1,1,summary,test the s3 select feature with some basic sql commands
+4214,Binder.java,binding specifies that guice should resolve an unannotated injection request for @code service,1,0,summary,binding specifies that guice should resolve an unannotated injection request for @code service
+2608,WhiteSpaceOptions.java,"private void createbeforeellipsis map workingvalues, innernode parent createoption parent, workingvalues, formattermessages^whitespaceoptions vararg parameter, defaultcodeformatterconstants^formatter insert space before ellipsis, vararg parameter preview private void createafterellipsis map workingvalues, innernode parent createoption parent, workingvalues, formattermessages^whitespaceoptions vararg parameter, defaultcodeformatterconstants^formatter insert space after ellipsis, vararg parameter preview syntax element tree private innernode createreturntree map workingvalues, innernode parent final innernode root new innernode parent, workingvalues, formattermessages^whitespaceoptions return createoption root, workingvalues, formattermessages^whitespacetabpage before parenthesized expressions, defaultcodeformatterconstants^formatter insert space before parenthesized expression in return, return preview return root private innernode createthrowtree map workingvalues, innernode parent final innernode root new innernode parent, workingvalues, formattermessages^whitespaceoptions throw createoption root, workingvalues, formattermessages^whitespacetabpage before parenthesized expressions, defaultcodeformatterconstants^formatter insert space before parenthesized expression in throw, throw preview return root",1,0,summary,private void createbeforeellipsis map workingvalues innernode parent createoption parent workingvalues formattermessages whitespaceoptions vararg parameter defaultcodeformatterconstants formatter insert space before ellipsis vararg parameter preview private void createafterellipsis map workingvalues innernode parent createoption parent workingvalues formattermessages whitespaceoptions vararg parameter defaultcodeformatterconstants formatter insert space after ellipsis vararg parameter preview syntax element tree private innernode createreturntree map workingvalues innernode parent final innernode root new innernode parent workingvalues formattermessages whitespaceoptions return createoption root workingvalues formattermessages whitespacetabpage before parenthesized expressions defaultcodeformatterconstants formatter insert space before parenthesized expression in return return preview return root private innernode createthrowtree map workingvalues innernode parent final innernode root new innernode parent workingvalues formattermessages whitespaceoptions throw createoption root workingvalues formattermessages whitespacetabpage before parenthesized expressions defaultcodeformatterconstants formatter insert space before parenthesized expression in throw throw preview return root
+3611,SmoothRateLimiter.java,"compute, for an incoming request, the appropriate throttle time, and make the calling thread",1,1,summary,compute for an incoming request the appropriate throttle time and make the calling thread
+4115,SortedSetNavigationTester.java,a generic junit test which tests operations on a sortedset.,1,1,summary,a generic junit test which tests operations on a sortedset
+2581,TypedCDTViewerFilter.java,see org^eclipse.cdt^internal.ui^dialogs.typedviewerfilter,1,0,summary,see org eclipse cdt internal ui dialogs typedviewerfilter
+3433,Preconditions.java,pre,1,0,summary,pre
+3626,SmoothRateLimiter.java,this ratelimiter would immediately,1,0,summary,this ratelimiter would immediately
+5165,VScrollTable.java,dom^client.focusevent,1,0,summary,dom client focusevent
+6,AbstractContractGetFileStatusTest.java,the tree parameters.,1,0,summary,the tree parameters
+3185,FeatureSpecificTestSuiteBuilder.java,all the builder methods of this,1,0,summary,all the builder methods of this
+3244,HostAndPort.java,li 1920.21,1,0,summary,li 1920 21
+4192,Binder.java,abstractmodule .,1,0,summary,abstractmodule
+1210,TimelineDataToRetrieve.java,exact metric ids or prefixes which are then compared against metric,1,0,summary,exact metric ids or prefixes which are then compared against metric
+3151,EqualsTester.java,"since it is a private inner class, the invoker can never pass in an instance to the tester",1,0,summary,since it is a private inner class the invoker can never pass in an instance to the tester
+5137,VScrollTable.java,dom^client.focusevent,1,0,summary,dom client focusevent
+1058,TestHDFSServerPorts.java,the correct behavior is br when a specific port is provided the server must either start on that port or fail by throwing @link java^net.bindexception .,1,0,summary,the correct behavior is br when a specific port is provided the server must either start on that port or fail by throwing @link java net bindexception
+3129,EqualsTester.java,p this tests,1,0,summary,p this tests
+3119,EqualsTester.java,"p for more extensive testing, add multiple equality groups.",1,0,summary,p for more extensive testing add multiple equality groups
+4502,ManagedFilterPipeline.java,"central routing dispatch class handles lifecycle of managed filters, and delegates to the servlet",1,1,summary,central routing dispatch class handles lifecycle of managed filters and delegates to the servlet
+2598,VMHasChildrenUpdate.java,@see vmviewerupdate,1,0,summary,@see vmviewerupdate
+5148,VScrollTable.java,has to be public to give tableconnector,1,0,summary,has to be public to give tableconnector
+3101,CountingOutputStream.java,@since 10,1,0,summary,@since 10
+1712,CConfigurationDescriptionCache.java,ul,1,0,summary,ul
+5191,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+4475,DefaultMethodInterceptionTest.java,interface with a default method annotated to be intercepted.,1,0,summary,interface with a default method annotated to be intercepted
+4118,SortedSetNavigationTester.java,@author jesse wilson,1,0,summary,@author jesse wilson
+4218,Binder.java,always i creates i each instance it provides.,1,0,summary,always i creates i each instance it provides
+1190,TimelineDataToRetrieve.java,ul,1,0,summary,ul
+5382,Window.java,a window can be positioned on the screen using absolute coordinates pixels,1,0,summary,a window can be positioned on the screen using absolute coordinates pixels
+4226,Binder.java,@code @red .,1,0,summary,@code @red
+5279,VScrollTable.java,@see,1,0,summary,@see
+5127,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,summary,overridden due table might not survive of visibility change scroll pos
+2149,IMSASTDeclspecList.java,@noimplement this interface is not intended to be implemented by clients.,1,0,summary,@noimplement this interface is not intended to be implemented by clients
+4116,SortedSetNavigationTester.java,can t be invoked directly please see,1,0,summary,can t be invoked directly please see
+579,ITestAbfsReadWriteAndSeek.java,"test read, write and seek.",1,1,summary,test read write and seek
+3459,Preconditions.java,h3 other types of preconditions h3,1,0,summary,h3 other types of preconditions h3
+3609,SmoothRateLimiter.java,allow at normal conditions.,1,1,summary,allow at normal conditions
+2108,IGDBTraceControl.java,gdb specific part,1,0,summary,gdb specific part
+5185,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,summary,this method has logic which rows needs to be requested from server when
+2210,LanguageSettingsProvidersSerializer.java,language settings change event implementation.,1,1,summary,language settings change event implementation
+1108,TestSaveNamespace.java,li recover from failure while moving current into lastcheckpoint^tmp li,1,0,summary,li recover from failure while moving current into lastcheckpoint tmp li
+5281,VScrollTable.java,dom^client.blurevent,1,0,summary,dom client blurevent
+3085,CollectionTestSuiteBuilder.java,@author chris povirk,1,0,summary,@author chris povirk
+3342,MultimapBuilder.java,@since 160,1,0,summary,@since 160
+1133,TestSwiftFileSystemContract.java,"are where swiftfs does not implement those features, or",1,0,summary,are where swiftfs does not implement those features or
+2246,MIBreakpointsSynchronizer.java,p,1,0,summary,p
+5221,VScrollTable.java,to detect if the first visible,1,0,summary,to detect if the first visible
+846,ResourceRequestsJsonVerifications.java,objects against the values of @link resourcerequest .,1,1,summary,objects against the values of @link resourcerequest
+4128,SubscriberTest.java,@author colin decker,1,0,summary,@author colin decker
+3467,Preconditions.java,doing so is b not recommended b because it is,1,0,summary,doing so is b not recommended b because it is
+5308,VScrollTable.java,unrendered rows.,1,0,summary,unrendered rows
+3237,HostAndPort.java,hp^getport returns 80,1,0,summary,hp getport returns 80
+5519,XhrConnectionError.java,xhr request to the server.,1,1,summary,xhr request to the server
+1072,TestNativeAzureFileSystemUploadLogic.java,just an arbitrary number so that the values i write have a predictable,1,0,summary,just an arbitrary number so that the values i write have a predictable
+3581,RegularImmutableList_CustomFieldSerializer.java,@author hayward chan,1,0,summary,@author hayward chan
+604,KerberosDelegationTokenAuthenticator.java,it falls back to the @link pseudodelegationtokenauthenticator if the http,1,0,summary,it falls back to the @link pseudodelegationtokenauthenticator if the http
+4212,Binder.java,"in this example, @code serviceprovider must extend or implement @code provider service .",1,0,summary,in this example @code serviceprovider must extend or implement @code provider service
+2594,UPCLanguage.java,@author mike kucera,1,0,summary,@author mike kucera
+1192,TimelineDataToRetrieve.java,in response.,1,0,summary,in response
+3215,ForwardingQueueTest.java,@author robert konigsberg,1,0,summary,@author robert konigsberg
+5181,VScrollTable.java,lost .,1,0,summary,lost
+660,NativeSingleLineParser.java,p the expected log format is normalizedjobname numinstances submittime,1,0,summary,p the expected log format is normalizedjobname numinstances submittime
+4135,TesterRequirements.java,be run against that class.,1,1,summary,be run against that class
+5217,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+795,ReencryptionUpdater.java,"requires namespace write lock, and performance gain from multi threading",1,1,summary,requires namespace write lock and performance gain from multi threading
+4202,Binder.java,pre,1,0,summary,pre
+3083,CollectionTestSuiteBuilder.java,do not have a more specific tester like @link listtestsuitebuilder or @link,1,1,summary,do not have a more specific tester like @link listtestsuitebuilder or @link
+3205,ForwardingBlockingDequeTest.java,test for @link forwardingblockingdeque,1,1,summary,test for @link forwardingblockingdeque
+5257,VScrollTable.java,@see,1,0,summary,@see
+1710,CConfigurationDescriptionCache.java,at that point,1,0,summary,at that point
+2689,AbstractSortedKeySortedSetMultimap.java,basic implementation of a @link sortedsetmultimap with a sorted key set.,1,1,summary,basic implementation of a @link sortedsetmultimap with a sorted key set
+3634,SmoothRateLimiter.java,"rate is applied to networking limiting bandwidth , where past underutilization typically",1,0,summary,rate is applied to networking limiting bandwidth where past underutilization typically
+5227,VScrollTable.java,when changing tabs.,1,0,summary,when changing tabs
+3596,Resources.java,@author ben yu,1,0,summary,@author ben yu
+5223,VScrollTable.java,changes to manage mousedown and mouseup,1,0,summary,changes to manage mousedown and mouseup
+1675,BindingClassifierTest.java,tests for @link bindingclassifier .,1,1,summary,tests for @link bindingclassifier
+5231,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+3254,HostAndPort.java,@author paul marks,1,0,summary,@author paul marks
+5209,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+1194,TimelineDataToRetrieve.java,containing @link timelineprefixfilter objects.,1,0,summary,containing @link timelineprefixfilter objects
+3294,LazyStackTraceBenchmark.java,we benchmark a caller,1,0,summary,we benchmark a caller
+3441,Preconditions.java,pre @code,1,0,summary,pre @code
+89,BatchedRequests.java,placements if more requests are batched together.,1,0,summary,placements if more requests are batched together
+2137,IMacroEntry.java,@noimplement this interface is not intended to be implemented by clients.,1,0,summary,@noimplement this interface is not intended to be implemented by clients
+2250,MIBreakpointsSynchronizer.java,this would happen because it,1,0,summary,this would happen because it
+3328,MultimapBuilder.java,invoking a configuration method has no effect,1,0,summary,invoking a configuration method has no effect
+4146,WrappingScheduledExecutorService.java,@author luke sandberg,1,0,summary,@author luke sandberg
+3136,EqualsTester.java,li the hash codes of any two equal objects are equal,1,0,summary,li the hash codes of any two equal objects are equal
+1218,TimelineDataToRetrieve.java,li,1,0,summary,li
+1704,CConfigurationDescriptionCache.java,li new cconfigurationdescriptioncache is created from the cconfigurationdescription via constructor,1,0,summary,li new cconfigurationdescriptioncache is created from the cconfigurationdescription via constructor
+5267,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,summary,overridden due table might not survive of visibility change scroll pos
+3314,MapSerializationTester.java,@author louis wasserman,1,0,summary,@author louis wasserman
+1079,TestOMVolumeRequest.java,base test class for volume request.,1,1,summary,base test class for volume request
+3149,EqualsTester.java,@since 100,1,0,summary,@since 100
+4205,Binder.java,treated as if it were a request for a @code serviceimpl instance.,1,0,summary,treated as if it were a request for a @code serviceimpl instance
+2067,ICPPASTLinkageSpecification.java,eg extern c .,1,1,summary,eg extern c
+1134,TestSwiftFileSystemContract.java,when the behavior of swiftfs does not match the normal,1,0,summary,when the behavior of swiftfs does not match the normal
+2161,IPropertyChangeParticipant.java,p,1,0,summary,p
+5201,VScrollTable.java,changes to manage mousedown and mouseup,1,0,summary,changes to manage mousedown and mouseup
+66,AutoInputFormat.java,it can currently handle text and sequence files.,1,0,summary,it can currently handle text and sequence files
+5211,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,summary,com google gwt event dom client focushandler onfocus com google gwt event
+1471,JavaRecord.java,java bean class to be used with the example javasqlnetworkwordcount.,1,0,summary,java bean class to be used with the example javasqlnetworkwordcount
+2202,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,1,summary,those are for readability of xml only
+5295,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+157,Classpath.java,"with the jar argument, it writes the classpath as a manifest in a jar file.",1,0,summary,with the jar argument it writes the classpath as a manifest in a jar file
+3594,Resources.java,p all method parameters must be non null unless documented otherwise.,1,0,summary,p all method parameters must be non null unless documented otherwise
+199,ComparableVersion.java,@see a href https cwiki^apache.org confluence display mavenold versioning versioning on maven wiki a,1,0,summary,@see a href https cwiki apache org confluence display mavenold versioning versioning on maven wiki a
+3241,HostAndPort.java,ul,1,0,summary,ul
+3648,SmoothRateLimiter.java,fresh permits for any remaining permits,1,0,summary,fresh permits for any remaining permits
+5386,Window.java,the caption is displayed in the window header.,1,0,summary,the caption is displayed in the window header
+2746,ArrayListMultimapGwtSerializationDependencies.java,a dummy superclass to support gwt serialization of the element types of an @link,1,1,summary,a dummy superclass to support gwt serialization of the element types of an @link
+5229,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,summary,this method has logic which rows needs to be requested from server when
+1706,CConfigurationDescriptionCache.java,where,1,0,summary,where
+3400,ObjectCountHashMap.java,comparing to using a traditional @code hashmap,1,0,summary,comparing to using a traditional @code hashmap
+2607,WhiteSpaceOptions.java,preview snippets.,1,0,summary,preview snippets
+2254,MIBreakpointsSynchronizer.java,the code that the code run in the respective requestmonitor would be on the,1,0,summary,the code that the code run in the respective requestmonitor would be on the
+5277,VScrollTable.java,dom^client.focusevent,1,0,summary,dom client focusevent
+3425,Preconditions.java,"of a specified type, which helps the method in which the exception was thrown communicate that",1,0,summary,of a specified type which helps the method in which the exception was thrown communicate that
+3439,Preconditions.java,pre,1,0,summary,pre
+798,ReencryptionUpdater.java,it contains,1,1,summary,it contains
+3326,MultimapBuilder.java,pre,1,0,summary,pre
+2164,IPropertyChangeParticipant.java,@since 50,1,0,summary,@since 50
+4160,AbstractModule.java,bind creditcardpaymentservice^class,1,0,summary,bind creditcardpaymentservice class
+1610,AbstractCPropertyTab.java,configuration etc see icpropertyprovider interface.,1,0,summary,configuration etc see icpropertyprovider interface
+5153,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,summary,these are used when jumping between pages when pressing home and end
+5245,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,summary,overridden due table might not survive of visibility change scroll pos
+5269,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,summary,example itabpanel just set contained components invisible and back
+5125,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,summary,these are used when jumping between pages when pressing home and end
+1709,CConfigurationDescriptionCache.java,is used to persist the data.,1,0,summary,is used to persist the data
+3461,Preconditions.java,continue to throw,1,0,summary,continue to throw
+5275,VScrollTable.java,@see,1,0,summary,@see
+3320,MultimapBuilder.java,"explicitly in @code com^google.common^collect , for example",1,0,summary,explicitly in @code com google common collect for example
+1217,TimelineDataToRetrieve.java,instead.,1,0,summary,instead
+3638,SmoothRateLimiter.java,requests become more likely to trigger expensive operations a more extreme case of this,1,0,summary,requests become more likely to trigger expensive operations a more extreme case of this
+3650,SmoothRateLimiter.java,"for a ratelimiter that produces 1 token per second, every second that goes by with the",1,0,summary,for a ratelimiter that produces 1 token per second every second that goes by with the
+3287,ImmutableTable_CustomFieldSerializerBase.java,serializers should delegate to @link #serialize and @link #instantiate .,1,0,summary,serializers should delegate to @link serialize and @link instantiate
+5402,Window.java,non javadoc,1,0,summary,non javadoc
+1692,CConfigurationDescriptionCache.java,"cconfigurationdescription cconfigurationdata data, string buildsystemid, icdataproxycontainer cr",1,0,summary,cconfigurationdescription cconfigurationdata data string buildsystemid icdataproxycontainer cr
+3449,Preconditions.java,"if you have such arguments, use the conventional",1,0,summary,if you have such arguments use the conventional
+176,ComparableVersion.java,p features,1,0,summary,p features
+2205,LanguageSettingsProvidersSerializer.java,wrapper for workspace providers to ensure level of indirection.,1,1,summary,wrapper for workspace providers to ensure level of indirection
+5384,Window.java,p,1,0,summary,p
+3644,SmoothRateLimiter.java,"and it can grow up to maxstoredpermits, for sufficiently large underutilization.",1,0,summary,and it can grow up to maxstoredpermits for sufficiently large underutilization
+5301,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,summary,com google gwt event dom client blurhandler onblur com google gwt event
+5297,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,summary,com google gwt event dom client focushandler onfocus com google gwt event
+1576,LocalDiskShuffleDataIO.java,implementation of the @link shuffledataio plugin system that replicates the local shuffle,1,1,summary,implementation of the @link shuffledataio plugin system that replicates the local shuffle
+5235,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+2219,MachOBinaryParserPage.java,@noextend this class is not intended to be subclassed by clients.,1,0,summary,@noextend this class is not intended to be subclassed by clients
+5177,VScrollTable.java,to detect if the first visible,1,0,summary,to detect if the first visible
+1104,TestSaveNamespace.java,test various failure scenarios during savenamespace operation.,1,1,summary,test various failure scenarios during savenamespace operation
+783,RandomKeyGenerator.java,data generator tool to generate as much keys as possible.,1,1,summary,data generator tool to generate as much keys as possible
+5398,Window.java,"@see com^vaadin.ui^panel#changevariables java^lang.object, java^util.map",1,0,summary,@see com vaadin ui panel changevariables java lang object java util map
+3616,SmoothRateLimiter.java,"qps 5 5 tokens per second , if we ensure that a request isn t granted earlier than 200ms after",1,0,summary,qps 5 5 tokens per second if we ensure that a request isn t granted earlier than 200ms after
+5155,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,1,0,summary,overridden due table might not survive of visibility change scroll pos
+3206,ForwardingBlockingDequeTest.java,@author emily soldal,1,0,summary,@author emily soldal
+4136,TesterRequirements.java,@author george van den driessche,1,0,summary,@author george van den driessche
+3107,DescendingMultiset.java,@code entryiterator .,1,0,summary,@code entryiterator
+1642,AddMemoryBlocks.java,p,1,0,summary,p
+4476,DefaultMethodInterceptionTest.java,foo implementation that does not override the default method.,1,0,summary,foo implementation that does not override the default method
+5133,VScrollTable.java,user scrolls.,1,0,summary,user scrolls
+5203,VScrollTable.java,lost .,1,0,summary,lost
+5213,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+3336,MultimapBuilder.java,leaving k and v as upper bounds rather than the actual key and value types allows type,1,0,summary,leaving k and v as upper bounds rather than the actual key and value types allows type
+3123,EqualsTester.java,pre,1,0,summary,pre
+5287,VScrollTable.java,changes to manage mousedown and mouseup,1,0,summary,changes to manage mousedown and mouseup
+5265,VScrollTable.java,these are used when jumping between pages when pressing home and end,1,0,summary,these are used when jumping between pages when pressing home and end
+2058,ICPPAliasTemplateInstance.java,represents an instance of an alias template 145.7 .,1,1,summary,represents an instance of an alias template 145 7
+81,BaseRouterWebServicesTest.java,base class for all the routerrmadminservice test cases.,1,1,summary,base class for all the routerrmadminservice test cases
+5207,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,summary,this method has logic which rows needs to be requested from server when
+3350,MultimapBuilder.java,cachebuilder uses the same technique.,1,0,summary,cachebuilder uses the same technique
+197,ComparableVersion.java,li,1,0,summary,li
+3332,MultimapBuilder.java,@author louis wasserman,1,0,summary,@author louis wasserman
+2110,IGDBTraceControl.java,gdb specific part,1,0,summary,gdb specific part
+3427,Preconditions.java,this allows constructs such as,1,0,summary,this allows constructs such as
+3475,Preconditions.java,p projects which use @code com^google.common should generally avoid the use of @link,1,0,summary,p projects which use @code com google common should generally avoid the use of @link
+2060,ICPPAliasTemplateInstance.java,@noextend this interface is not intended to be extended by clients.,1,0,summary,@noextend this interface is not intended to be extended by clients
+1686,CConfigurationDescriptionCache.java,li initialization,1,0,summary,li initialization
+803,ReencryptionUpdater.java,also contains statistics about how far this single batch has been executed.,1,1,summary,also contains statistics about how far this single batch has been executed
+1445,ChunkFetchSuccess.java,response to @link chunkfetchrequest when a chunk exists and has been successfully fetched.,1,1,summary,response to @link chunkfetchrequest when a chunk exists and has been successfully fetched
+5179,VScrollTable.java,changes to manage mousedown and mouseup,1,0,summary,changes to manage mousedown and mouseup
+5396,Window.java,@see com^vaadin.ui^panel#paintcontent com^vaadin.server^painttarget,1,0,summary,@see com vaadin ui panel paintcontent com vaadin server painttarget
+3628,SmoothRateLimiter.java,this may result in either underutilization or,1,0,summary,this may result in either underutilization or
+5233,VScrollTable.java,com^google.gwt^event.dom^client.focushandler#onfocus com^google.gwt^event,1,0,summary,com google gwt event dom client focushandler onfocus com google gwt event
+4162,AbstractModule.java,bindconstant ^annotatedwith names^named port ^to 8080,1,0,summary,bindconstant annotatedwith names named port to 8080
+5251,VScrollTable.java,user scrolls.,1,0,summary,user scrolls
+3632,SmoothRateLimiter.java,"should speed up for a while, to take advantage of these resources.",1,0,summary,should speed up for a while to take advantage of these resources
+3618,SmoothRateLimiter.java,if a request comes and the last request was,1,0,summary,if a request comes and the last request was
+3445,Preconditions.java,p would be flagged as having called @code sqrt with an illegal argument.,1,0,summary,p would be flagged as having called @code sqrt with an illegal argument
+3453,Preconditions.java,"however, the methods of this class have a large number of overloads that prevent such",1,0,summary,however the methods of this class have a large number of overloads that prevent such
+3105,DescendingMultiset.java,a skeleton implementation of a descending multiset.,1,1,summary,a skeleton implementation of a descending multiset
+3330,MultimapBuilder.java,"p the generated multimaps are serializable if the key and value types are serializable, unless",1,0,summary,p the generated multimaps are serializable if the key and value types are serializable unless
+3235,HostAndPort.java,requirebracketsforipv6,1,0,summary,requirebracketsforipv6
+1596,UploadBlockStream.java,it will be passed to the streamcallbackwithid,1,0,summary,it will be passed to the streamcallbackwithid
+2260,MIBreakpointsSynchronizer.java,@link #queueevent breakpointevent that ensures each event is fully,1,0,summary,@link queueevent breakpointevent that ensures each event is fully
+1167,TestUpgradeDomainBlockPlacementPolicy.java,satisfy the upgrade domain policy.,1,0,summary,satisfy the upgrade domain policy
+1042,TestDataDrivenDBInputFormat.java,test aspects of datadrivendbinputformat,1,1,summary,test aspects of datadrivendbinputformat
+4184,Binder.java,"guice uses an i embedded domain specific language i , or edsl, to help you create bindings",1,0,summary,guice uses an i embedded domain specific language i or edsl to help you create bindings
+191,ComparableVersion.java,li code the empty string code or code ga code or code final code li,1,0,summary,li code the empty string code or code ga code or code final code li
+3598,Resources.java,@since 10,1,0,summary,@since 10
+1478,JavaStreamingTestExample.java,for example,1,0,summary,for example
+639,MapContext.java,@param valuein the value input type to the mapper,1,0,summary,@param valuein the value input type to the mapper
+2200,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,1,summary,those are for readability of xml only
+5159,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,summary,updates first visible row for the case we cannot wait
+4188,Binder.java,javadocs b .,1,0,summary,javadocs b
+5187,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+61,ApplicationStateData.java,contains all the state data that needs to be stored persistently for an application,1,1,summary,contains all the state data that needs to be stored persistently for an application
+1700,CConfigurationDescriptionCache.java,to the cconfigurationdescriptioncache.,1,0,summary,to the cconfigurationdescriptioncache
+5518,XhrConnectionError.java,xhrconnectionerror provides detail about an error which occurred during an,1,1,summary,xhrconnectionerror provides detail about an error which occurred during an
+4997,VaadinServiceInitListener.java,add listeners and request handlers the service.,1,1,summary,add listeners and request handlers the service
+54,ApplicationConstants.java,environment for applications.,1,0,summary,environment for applications
+2256,MIBreakpointsSynchronizer.java,this is an unsuprising assumption based on the general idea of,1,0,summary,this is an unsuprising assumption based on the general idea of
+4488,Element.java,all elements are,1,0,summary,all elements are
+1608,AbstractCPropertyTab.java,a lot of utility methods via provider link.,1,0,summary,a lot of utility methods via provider link
+5394,Window.java,@since 30,1,0,summary,@since 30
+188,ComparableVersion.java,li code milestone code or code m code li,1,0,summary,li code milestone code or code m code li
+1714,CConfigurationDescriptionCache.java,@see icconfigurationdescription,1,0,summary,@see icconfigurationdescription
+560,HashResolver.java,order the destinations based on consistent hashing.,1,1,summary,order the destinations based on consistent hashing
+1148,TestTaskCommit.java,we want the test case to,1,0,summary,we want the test case to
+1588,StreamHandle.java,this is used by @link org^apache.spark^network.shuffle^oneforoneblockfetcher .,1,0,summary,this is used by @link org apache spark network shuffle oneforoneblockfetcher
+5303,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+3483,Preconditions.java,"this only supports the @code %s specifier, not the full range of @link",1,0,summary,this only supports the @code s specifier not the full range of @link
+3131,EqualsTester.java,li comparing each object against itself returns true,1,0,summary,li comparing each object against itself returns true
+5163,VScrollTable.java,@see,1,0,summary,@see
+3481,Preconditions.java,p @code preconditions uses @link strings#lenientformat to format error message template,1,0,summary,p @code preconditions uses @link strings lenientformat to format error message template
+3411,PeekingIterator.java,p see the guava user guide article on a href,1,0,summary,p see the guava user guide article on a href
+3340,MultimapBuilder.java,"implementation has been specified, but the value collection implementation has not.",1,0,summary,implementation has been specified but the value collection implementation has not
+3344,MultimapBuilder.java,parameters to be left implicit more often.,1,0,summary,parameters to be left implicit more often
+1486,JavaStreamingTestExample.java,as you add text files to datadir the significance test wil continually update every,1,0,summary,as you add text files to datadir the significance test wil continually update every
+3473,Preconditions.java,similar to those in this class for non precondition checks.,1,0,summary,similar to those in this class for non precondition checks
+3134,EqualsTester.java,li comparing each pair of objects within the same equality group returns true,1,0,summary,li comparing each pair of objects within the same equality group returns true
+70,BalancingPolicy.java,balancing policy.,1,1,summary,balancing policy
+2106,IGDBTraceControl.java,specific trace record context.,1,0,summary,specific trace record context
+1105,TestSaveNamespace.java,cases covered,1,0,summary,cases covered
+3469,Preconditions.java,see a,1,0,summary,see a
+5167,VScrollTable.java,@see,1,0,summary,@see
+1688,CConfigurationDescriptionCache.java,li after eclipse started a project is being opened.,1,0,summary,li after eclipse started a project is being opened
+781,QueueName.java,represents a queue name.,1,1,summary,represents a queue name
+2078,ICPPASTVirtSpecifier.java,@since 57,1,0,summary,@since 57
+2104,IGDBTraceControl.java,marker interface for a context on which trace operations can be performed,1,0,summary,marker interface for a context on which trace operations can be performed
+104,BlocksMap.java,block s metadata currently includes blockcollection it belongs to and,1,0,summary,block s metadata currently includes blockcollection it belongs to and
+3251,HostAndPort.java,"brackets, colons, and port numbers.",1,0,summary,brackets colons and port numbers
+1035,TestCustomOauthTokenProvider.java,instead this just checks that the creation works and that everything,1,0,summary,instead this just checks that the creation works and that everything
+1056,TestHDFSServerPorts.java,this test checks correctness of port usage by hdfs components,1,1,summary,this test checks correctness of port usage by hdfs components
+2162,IPropertyChangeParticipant.java,clients may implement this interface.,1,0,summary,clients may implement this interface
+3127,EqualsTester.java,testequals,1,0,summary,testequals
+5400,Window.java,@see ui^windoworderupdateevent,1,0,summary,@see ui windoworderupdateevent
+5249,VScrollTable.java,updates first visible row for the case we cannot wait,1,0,summary,updates first visible row for the case we cannot wait
+4216,Binder.java,provider#get get on the resulting provider instance to obtain the @code service instance.,1,0,summary,provider get get on the resulting provider instance to obtain the @code service instance
+2196,IViewInMemory.java,@since 74,1,0,summary,@since 74
+16,AbstractContractGetFileStatusTest.java,the tree parameters.,1,0,summary,the tree parameters
+3489,Preconditions.java,h3 more information h3,1,0,summary,h3 more information h3
+3301,LongMathBenchmark.java,@author louis wasserman,1,0,summary,@author louis wasserman
+3437,Preconditions.java,"checkargument value 0, input is negative %s , value",1,0,summary,checkargument value 0 input is negative s value
+2262,MIBreakpointsSynchronizer.java,@since 42,1,0,summary,@since 42
+1216,TimelineDataToRetrieve.java,with metricfilters which is used to decide which entities to return,1,0,summary,with metricfilters which is used to decide which entities to return
+4154,AbstractModule.java,methods which mirror those found in @link binder .,1,0,summary,methods which mirror those found in @link binder
+5040,VScrollTable.java,"tablehead contains table s header and widgets logic for resizing,",1,1,summary,tablehead contains table s header and widgets logic for resizing
+3227,HashFunctionEnum.java,@author kurt alfred kluever,1,0,summary,@author kurt alfred kluever
+5289,VScrollTable.java,lost .,1,0,summary,lost
+2209,LanguageSettingsProvidersSerializer.java,those are for readability of xml only,1,1,summary,those are for readability of xml only
+3614,SmoothRateLimiter.java,"request, and ensure that 1 qps seconds have elapsed since then.",1,0,summary,request and ensure that 1 qps seconds have elapsed since then
+4229,Binder.java,of @code @red that have no exact match in the bindings.,1,0,summary,of @code @red that have no exact match in the bindings
+4164,AbstractModule.java,@author crazybob@google^com bob lee,1,0,summary,@author crazybob@google com bob lee
+3431,Preconditions.java,throw new illegalargumentexception input is negative value,1,0,summary,throw new illegalargumentexception input is negative value
+3636,SmoothRateLimiter.java,"on the other hand, past underutilization could mean that the server responsible for handling",1,0,summary,on the other hand past underutilization could mean that the server responsible for handling
+5388,Window.java,p,1,0,summary,p
+5172,VScrollTable.java,used to recall the position of an open context menu if we need to close,1,0,summary,used to recall the position of an open context menu if we need to close
+1475,JavaStreamingTestExample.java,stops when the two groups are statistically,1,1,summary,stops when the two groups are statistically
+5146,VScrollTable.java,overwrites onbrowserevent function on focusablescrollpanel to give event,1,1,summary,overwrites onbrowserevent function on focusablescrollpanel to give event
+619,LoggedTask.java,"it knows about the pssibly empty sequence of attempts, its i o footprint,",1,0,summary,it knows about the pssibly empty sequence of attempts its i o footprint
+3096,ConflictingRequirementsException.java,@author george van den driessche,1,0,summary,@author george van den driessche
+4190,Binder.java,"to save space, these",1,0,summary,to save space these
+1208,TimelineDataToRetrieve.java,containing @link timelineprefixfilter objects.,1,0,summary,containing @link timelineprefixfilter objects
+792,ReencryptionUpdater.java,the tasks are submitted by reencryptionhandler.,1,1,summary,the tasks are submitted by reencryptionhandler
+1616,AbstractCPropertyTab.java,communication way for new cdt model pages and tabs.,1,0,summary,communication way for new cdt model pages and tabs
+86,BatchedRequests.java,a grouping of scheduling requests which are sent to the placementalgorithm,1,1,summary,a grouping of scheduling requests which are sent to the placementalgorithm
+4196,Binder.java,does not change guice s default behavior.,1,0,summary,does not change guice s default behavior
+1667,AutoconfMacroParameterListValidator.java,this class provides the macro call parameter parsing for the autoconf editor hover,1,1,summary,this class provides the macro call parameter parsing for the autoconf editor hover
+5157,VScrollTable.java,example itabpanel just set contained components invisible and back,1,0,summary,example itabpanel just set contained components invisible and back
+4757,InternalContainerAnnotationForJS.java,annotations.,1,1,summary,annotations
+2142,IMIBackend.java,event indicating that the back end process has started or terminated.,1,0,summary,event indicating that the back end process has started or terminated
+4626,DeclarativeValueProvider.java,provides a straightforward mapping between an item and its value.,1,1,summary,provides a straightforward mapping between an item and its value
+652,MetricsCache.java,cached record,1,0,summary,cached record
+3493,Preconditions.java,@author kevin bourrillion,1,0,summary,@author kevin bourrillion
+5141,VScrollTable.java,dom^client.blurevent,1,0,summary,dom client blurevent
+3355,MultimapBuilder.java,cachebuilder uses the same technique.,1,0,summary,cachebuilder uses the same technique
+3457,Preconditions.java,"p as with any performance concerns, you should consider profiling your code in a production",1,0,summary,p as with any performance concerns you should consider profiling your code in a production
+14,AbstractContractGetFileStatusTest.java,path filter which only expects paths whose final name element,1,0,summary,path filter which only expects paths whose final name element
+5263,VScrollTable.java,reordering disabled and clicking on it resets sorting.,1,0,summary,reordering disabled and clicking on it resets sorting
+88,BatchedRequests.java,the placement algorithm tends to give more optimal,1,0,summary,the placement algorithm tends to give more optimal
+4158,AbstractModule.java,protected void configure,1,0,summary,protected void configure
+3221,GwtTestSuite.java,grouping them into a suite is much faster than running each as a one test,1,0,summary,grouping them into a suite is much faster than running each as a one test
+2252,MIBreakpointsSynchronizer.java,the next event would become intermingled.,1,0,summary,the next event would become intermingled
+4524,AbstractFocusable.java,an abstract base class for focusable components.,1,1,summary,an abstract base class for focusable components
+3307,MapPutAllTester.java,@author chris povirk,1,0,summary,@author chris povirk
+3610,SmoothRateLimiter.java,"this is enforced by throttling incoming requests as needed, ie",1,1,summary,this is enforced by throttling incoming requests as needed ie
+2102,IGDBTraceControl.java,@since 30,1,0,summary,@since 30
+4995,VaadinServiceInitListener.java,listener for @link vaadinservice initialization events.,1,1,summary,listener for @link vaadinservice initialization events
+3477,Preconditions.java,"instead, use whichever of @link",1,0,summary,instead use whichever of @link
+1480,JavaStreamingTestExample.java,"true, 9932",1,0,summary,true 9932
+2186,ITestItem.java,@noimplement this interface is not intended to be implemented by clients.,1,0,summary,@noimplement this interface is not intended to be implemented by clients
+4234,Binder.java,either of these statements places the @code serviceimpl class into singleton scope.,1,0,summary,either of these statements places the @code serviceimpl class into singleton scope
+1136,TestSwiftFileSystemContract.java,are being treated as equal.,1,0,summary,are being treated as equal
+1086,TestProtoBufRpc.java,this test depends on test^proto definition of types in src test proto,1,0,summary,this test depends on test proto definition of types in src test proto
+5161,VScrollTable.java,user scrolls.,1,0,summary,user scrolls
+3232,HostAndPort.java,pre,1,0,summary,pre
+5273,VScrollTable.java,user scrolls.,1,0,summary,user scrolls
+5205,VScrollTable.java,when changing tabs.,1,0,summary,when changing tabs
+834,RegistryOperations.java,registry operations,1,1,summary,registry operations
+5135,VScrollTable.java,@see,1,0,summary,@see
+3451,Preconditions.java,"p depending on your message arguments, memory may be allocated for boxing and varargs array",1,0,summary,p depending on your message arguments memory may be allocated for boxing and varargs array
+3485,Preconditions.java,"however, note that if the number of arguments does not match the",1,0,summary,however note that if the number of arguments does not match the
+1028,TestConnCache.java,this class tests the client connection caching in a single node,1,1,summary,this class tests the client connection caching in a single node
+632,LogWebService.java,support only atsv2 client only.,1,0,summary,support only atsv2 client only
+4477,DefaultMethodInterceptionTest.java,a base class defining a method with the same signature as foo s default method.,1,0,summary,a base class defining a method with the same signature as foo s default method
+4156,AbstractModule.java,pre,1,0,summary,pre
+1150,TestTaskCommit.java,special committer that always requires commit.,1,0,summary,special committer that always requires commit
+2129,IInclude.java,@noimplement this interface is not intended to be implemented by clients.,1,0,summary,@noimplement this interface is not intended to be implemented by clients
+5195,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+2090,ICSourceNotFoundDescription.java,an instance is usually provided by an adapter.,1,0,summary,an instance is usually provided by an adapter
+537,GetNamespaceInfoResponse.java,api response for listing hdfs namespaces present in the state store.,1,1,summary,api response for listing hdfs namespaces present in the state store
+4126,SubscriberTest.java,tests for @link subscriber .,1,1,summary,tests for @link subscriber
+1060,TestHDFSServerPorts.java,if the port 0 ephemeral then the server should choose a free port and start on it.,1,0,summary,if the port 0 ephemeral then the server should choose a free port and start on it
+5121,VScrollTable.java,non javadoc,1,0,summary,non javadoc
+3435,Preconditions.java,pre @code,1,0,summary,pre @code
+3334,MultimapBuilder.java,@param v0 an upper bound on the value type of the generated multimap.,1,0,summary,@param v0 an upper bound on the value type of the generated multimap
+5380,Window.java,p,1,0,summary,p
+1537,KVStore.java,p,1,0,summary,p
+4199,Binder.java,"also,",1,0,summary,also
+3188,FeatureSpecificTestSuiteBuilder.java,@param g the type of the generator to be passed to testers in the generated test suite.,1,0,summary,@param g the type of the generator to be passed to testers in the generated test suite
+123,CapacitySchedulerPlanFollower.java,content of the plan.,1,0,summary,content of the plan
+5237,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,summary,com google gwt event dom client blurhandler onblur com google gwt event
+1165,TestUpgradeDomainBlockPlacementPolicy.java,config file and put some nodes to decommission state.,1,0,summary,config file and put some nodes to decommission state
+1614,AbstractCPropertyTab.java,"uniform manner setuplabel , setuptext etc .",1,0,summary,uniform manner setuplabel setuptext etc
+2610,WhiteSpaceOptions.java,preview snippets.,1,0,summary,preview snippets
+5293,VScrollTable.java,this method has logic which rows needs to be requested from server when,1,0,summary,this method has logic which rows needs to be requested from server when
+4181,Binder.java,guice provides this object to your application s @link module implementors so,1,1,summary,guice provides this object to your application s @link module implementors so
+2076,ICPPASTVirtSpecifier.java,@noimplement this interface is not intended to be implemented by clients.,1,0,summary,@noimplement this interface is not intended to be implemented by clients
+3095,ConflictingRequirementsException.java,thrown when requirements on a tester method or class conflict with each other.,1,1,summary,thrown when requirements on a tester method or class conflict with each other
+3471,Preconditions.java,explained a in the guava user guide for more advice.,1,0,summary,explained a in the guava user guide for more advice
+3353,MultimapBuilder.java,leaving k and v as upper bounds rather than the actual key and value types allows type,1,0,summary,leaving k and v as upper bounds rather than the actual key and value types allows type
+693,OzoneObj.java,ozone objects supported for acl.,1,0,summary,ozone objects supported for acl
+5215,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,1,0,summary,com google gwt event dom client blurhandler onblur com google gwt event
+126,CapacitySchedulerPlanFollower.java,"this implementation of planfollower is relatively stateless, and it can",1,0,summary,this implementation of planfollower is relatively stateless and it can
+1110,TestSaveNamespace.java,previous^checkpoint li,1,0,summary,previous checkpoint li
+3487,Preconditions.java,"behave as expected, and will still include all argument values in the error message the message",1,0,summary,behave as expected and will still include all argument values in the error message the message
+3076,CloseablesTest.java,propagated out from the @link closeables#close method if @code swallowexception is true.,1,0,summary,propagated out from the @link closeables close method if @code swallowexception is true
+5285,VScrollTable.java,to detect if the first visible,1,0,summary,to detect if the first visible

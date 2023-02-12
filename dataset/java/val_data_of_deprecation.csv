@@ -1,0 +1,100 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+4579,ApplicationConfiguration.java,@since 70,0,1,deprecation,@since 70
+4642,FooterDoubleClickHandler.java,@since 74,0,1,deprecation,@since 74
+4535,AbstractMultiSelectState.java,@since 80,0,1,deprecation,@since 80
+4567,AbstractSingleComponentContainerState.java,@since 80,0,1,deprecation,@since 80
+2716,ArbitraryInstances.java,@since 120,0,1,deprecation,@since 120
+918,StructureGenerator.java,file follows gaussian distribution.,0,0,deprecation,file follows gaussian distribution
+1945,GnuMakefileGenerator.java,ie,0,0,deprecation,ie
+3484,Preconditions.java,java^util.formatter specifiers.,0,0,deprecation,java util formatter specifiers
+3842,SmoothRateLimiter.java,fresh permits for any remaining permits,0,0,deprecation,fresh permits for any remaining permits
+2303,MIEnvironmentDirectory.java,r will first reset the path to its default,0,0,deprecation,r will first reset the path to its default
+1206,TimelineDataToRetrieve.java,in response.,0,0,deprecation,in response
+3812,SmoothRateLimiter.java,if a request comes and the last request was,0,0,deprecation,if a request comes and the last request was
+629,LogParserUtil.java,common utility functions for @link logparser .,0,0,deprecation,common utility functions for @link logparser
+2654,AbstractLoadingCache.java,"p to implement a cache, the programmer needs only to extend this class and provide an",0,0,deprecation,p to implement a cache the programmer needs only to extend this class and provide an
+2148,IMSASTDeclspecList.java,@noextend this interface is not intended to be extended by clients.,0,0,deprecation,@noextend this interface is not intended to be extended by clients
+8,AbstractContractGetFileStatusTest.java,accept everything.,0,0,deprecation,accept everything
+5371,VUpload.java,@author vaadin ltd,0,0,deprecation,@author vaadin ltd
+195,ComparableVersion.java,li,0,0,deprecation,li
+4650,Grid.java,@author vaadin ltd,0,0,deprecation,@author vaadin ltd
+1532,KVStore.java,this makes it possible to provide sorting without having,0,0,deprecation,this makes it possible to provide sorting without having
+1481,JavaStreamingTestExample.java,usage,0,0,deprecation,usage
+1517,KVStore.java,p,0,0,deprecation,p
+3831,SmoothRateLimiter.java,"the request has become less ready for future requests , ie its caches become stale, and",0,0,deprecation,the request has become less ready for future requests ie its caches become stale and
+3150,EqualsTester.java,class used to test whether equals correctly handles an instance of an incompatible class.,0,0,deprecation,class used to test whether equals correctly handles an instance of an incompatible class
+4807,PopupView.java,visibility of the popup changes.,0,0,deprecation,visibility of the popup changes
+3735,SmoothRateLimiter.java,that would have been produced in that idle time .,0,0,deprecation,that would have been produced in that idle time
+1596,UploadBlockStream.java,it will be passed to the streamcallbackwithid,0,0,deprecation,it will be passed to the streamcallbackwithid
+1527,KVStore.java,p,0,0,deprecation,p
+292,DelegatingSSLSocketFactory.java,li,0,0,deprecation,li
+3082,CollectionTestSuiteBuilder.java,concrete instantiation of @link abstractcollectiontestsuitebuilder for testing collections that,0,0,deprecation,concrete instantiation of @link abstractcollectiontestsuitebuilder for testing collections that
+4128,SubscriberTest.java,@author colin decker,0,0,deprecation,@author colin decker
+3609,SmoothRateLimiter.java,allow at normal conditions.,0,0,deprecation,allow at normal conditions
+4659,Grid.java,the grid bean type,0,0,deprecation,the grid bean type
+4528,AbstractFocusable.java,@author vaadin ltd,0,0,deprecation,@author vaadin ltd
+252,DBProfile.java,p,0,0,deprecation,p
+5003,VaadinServiceInitListener.java,class must be listed on a separate line in a,0,0,deprecation,class must be listed on a separate line in a
+5096,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,0,0,deprecation,com google gwt event dom client blurhandler onblur com google gwt event
+5296,VScrollTable.java,@see,0,0,deprecation,@see
+1909,GnuMakefileGenerator.java,@throws nullpointerexception is path is null,0,0,deprecation,@throws nullpointerexception is path is null
+3834,SmoothRateLimiter.java,speed .,0,0,deprecation,speed
+463,EventWatcher.java,@param timeout payload the type of the events which are tracked.,0,0,deprecation,@param timeout payload the type of the events which are tracked
+5040,VScrollTable.java,"tablehead contains table s header and widgets logic for resizing,",0,0,deprecation,tablehead contains table s header and widgets logic for resizing
+933,StructureGenerator.java,in memory representation of a directory in memory representation of a file,0,0,deprecation,in memory representation of a directory in memory representation of a file
+5104,VScrollTable.java,these are used when jumping between pages when pressing home and end,0,0,deprecation,these are used when jumping between pages when pressing home and end
+554,HadoopIllegalArgumentException.java,indicates that a method has been passed illegal or invalid argument.,0,0,deprecation,indicates that a method has been passed illegal or invalid argument
+5108,VScrollTable.java,example itabpanel just set contained components invisible and back,0,0,deprecation,example itabpanel just set contained components invisible and back
+1431,YarnAuthorizationProvider.java,information and enforce permission check.,0,0,deprecation,information and enforce permission check
+1166,TestUpgradeDomainBlockPlacementPolicy.java,the test then verifies replicas are placed on the nodes that,0,0,deprecation,the test then verifies replicas are placed on the nodes that
+295,DelegatingSSLSocketFactory.java,li,0,0,deprecation,li
+4116,SortedSetNavigationTester.java,can t be invoked directly please see,0,0,deprecation,can t be invoked directly please see
+1873,GdbExpressionVMProvider.java,a specialization of expressionvmprovider that uses a gdb specific variable vm,0,0,deprecation,a specialization of expressionvmprovider that uses a gdb specific variable vm
+5180,VScrollTable.java,overridden due table might not survive of visibility change scroll pos,0,0,deprecation,overridden due table might not survive of visibility change scroll pos
+3751,SmoothRateLimiter.java,interval .,0,0,deprecation,interval
+2772,BloomFilter.java,href http llimllib^github.com bloomfilter tutorial tutorial a may help you understand how,0,0,deprecation,href http llimllib github com bloomfilter tutorial tutorial a may help you understand how
+1146,TestTaskCommit.java,the framework s fileoutputcommitter cleans up any temporary,0,0,deprecation,the framework s fileoutputcommitter cleans up any temporary
+3835,SmoothRateLimiter.java,"to deal with such scenarios, we add an extra dimension, that of past underutilization ,",0,0,deprecation,to deal with such scenarios we add an extra dimension that of past underutilization
+3189,FeatureSpecificTestSuiteBuilder.java,an,0,0,deprecation,an
+2466,SourceLookupTest.java,.,0,0,deprecation,nan
+2456,SourceLookupTest.java,each of these options produces different debug,0,0,deprecation,each of these options produces different debug
+4477,DefaultMethodInterceptionTest.java,a base class defining a method with the same signature as foo s default method.,0,0,deprecation,a base class defining a method with the same signature as foo s default method
+2682,AbstractMultimap.java,@author louis wasserman,0,0,deprecation,@author louis wasserman
+912,StructureGenerator.java,"the number of subdirectories is a random number in minwidth, maxwidth .",0,0,deprecation,the number of subdirectories is a random number in minwidth maxwidth
+4285,Binder.java,if your binding annotation has parameters you can apply different bindings to different specific,0,0,deprecation,if your binding annotation has parameters you can apply different bindings to different specific
+5168,VScrollTable.java,com^google.gwt^event.dom^client.blurhandler#onblur com^google.gwt^event,0,0,deprecation,com google gwt event dom client blurhandler onblur com google gwt event
+193,ComparableVersion.java,ul,0,0,deprecation,ul
+5065,VScrollTable.java,this method has logic which rows needs to be requested from server when,0,0,deprecation,this method has logic which rows needs to be requested from server when
+411,EditLogTailer.java,journals and applies the transactions contained within to a given,0,0,deprecation,journals and applies the transactions contained within to a given
+3446,Preconditions.java,h3 performance h3,0,0,deprecation,h3 performance h3
+2455,SourceLookupTest.java,how the program was compiled.,0,0,deprecation,how the program was compiled
+4242,Binder.java,with i enabling i your application to share only one instance if that s all you tell guice you,0,0,deprecation,with i enabling i your application to share only one instance if that s all you tell guice you
+3937,SmoothRateLimiter.java,"this implements a bursty ratelimiter, where storedpermits are translated to zero throttling.",0,0,deprecation,this implements a bursty ratelimiter where storedpermits are translated to zero throttling
+2261,MIBreakpointsSynchronizer.java,processed before the next event starts processing.,0,0,deprecation,processed before the next event starts processing
+2339,MIStack.java,base class for the iframedmdata object that uses an miframe object to,0,0,deprecation,base class for the iframedmdata object that uses an miframe object to
+1901,GnuMakefileGenerator.java,windows drive letters and whitespace appropriately.,0,0,deprecation,windows drive letters and whitespace appropriately
+3647,SmoothRateLimiter.java,stored permits if available,0,0,deprecation,stored permits if available
+4751,HeaderRow.java,@author vaadin ltd,0,0,deprecation,@author vaadin ltd
+3182,FeatureSpecificTestSuiteBuilder.java,"creates, based on your criteria, a junit test suite that exhaustively tests the object generated",0,0,deprecation,creates based on your criteria a junit test suite that exhaustively tests the object generated
+1894,GnuMakefileGenerator.java,adds a macro addition prefix to a map of macro names to entries.,0,0,deprecation,adds a macro addition prefix to a map of macro names to entries
+3748,SmoothRateLimiter.java,warmup period is the area of the trapezoid between,0,0,deprecation,warmup period is the area of the trapezoid between
+2327,MIStack.java,br,0,0,deprecation,br
+1352,TonyRuntimeFactory.java,implementation of runtimefactory with tony runtime,0,0,deprecation,implementation of runtimefactory with tony runtime
+849,ResourceRequestsJsonVerifications.java,types and its values.,0,0,deprecation,types and its values
+3595,Resources.java,@author chris nokleberg,0,0,deprecation,@author chris nokleberg
+3317,MultimapBuilder.java,a builder for a multimap implementation that allows customization of the backing map and value,0,0,deprecation,a builder for a multimap implementation that allows customization of the backing map and value
+5162,VScrollTable.java,non javadoc,0,0,deprecation,non javadoc
+3809,SmoothRateLimiter.java,"for example, for a rate of",0,0,deprecation,for example for a rate of
+682,NullOutputFormat.java,consume all outputs and put them in dev null.,0,0,deprecation,consume all outputs and put them in dev null
+3682,SmoothRateLimiter.java,essentially measure unused time we spend unused time buying storing permits.,0,0,deprecation,essentially measure unused time we spend unused time buying storing permits
+4204,Binder.java,specifies that a request for a @code service instance with no binding annotations should be,0,0,deprecation,specifies that a request for a @code service instance with no binding annotations should be
+3084,CollectionTestSuiteBuilder.java,settestsuitebuilder .,0,0,deprecation,settestsuitebuilder
+3704,SmoothRateLimiter.java,cost as fresh ones 1 qps is the cost for each .,0,0,deprecation,cost as fresh ones 1 qps is the cost for each
+925,StructureGenerator.java,java structuregenerator,0,0,deprecation,java structuregenerator
+4598,ButtonRenderer.java,corresponding property is used as the caption.,0,0,deprecation,corresponding property is used as the caption
+176,ComparableVersion.java,p features,0,0,deprecation,p features
+568,InconsistentS3ClientFactory.java,@code hadoop aws module to enable integration tests to use this,0,0,deprecation,@code hadoop aws module to enable integration tests to use this
+1931,GnuMakefileGenerator.java,m a i n makefile m a k e f i l e m e t h o d s,0,0,deprecation,m a i n makefile m a k e f i l e m e t h o d s
+461,EventWatcher.java,event watcher will send the tracked payload event after a timeout period,0,0,deprecation,event watcher will send the tracked payload event after a timeout period
+204,ComparableVersion.java,with number in the version specification .,0,0,deprecation,with number in the version specification
+5105,VScrollTable.java,changes to manage mousedown and mouseup,0,0,deprecation,changes to manage mousedown and mouseup
