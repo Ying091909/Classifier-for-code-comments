@@ -1,0 +1,517 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+1585,BooleanArray,booleanarray is considered experimental.,1,0,DevelopmentNotes,booleanarray is considered experimental
+3731,Request,"used to prepare a class preparedrequest preparedrequest , which is sent to the server.",1,1,DevelopmentNotes,used to prepare a class preparedrequest preparedrequest which is sent to the server
+4472,BCEWithLogitsLoss,"default mean , then",1,0,DevelopmentNotes,default mean then
+608,MultiValueDict,"d^get lastname , nonexistent",1,0,DevelopmentNotes,d get lastname nonexistent
+3256,NotAny,"input string, it only verifies that the specified parse expression",1,0,DevelopmentNotes,input string it only verifies that the specified parse expression
+5260,LBFGS,default 20,1,0,DevelopmentNotes,default 20
+2054,PlotAccessor,from 0 left bottom end to 1 right top end .,1,1,DevelopmentNotes,from 0 left bottom end to 1 right top end
+1148,Struct,intelligent merging.,1,0,DevelopmentNotes,intelligent merging
+4247,Adam,"weight decay float, optional weight decay l2 penalty default 0",1,0,DevelopmentNotes,weight decay float optional weight decay l2 penalty default 0
+1603,BooleanArray,create an booleanarray with func pandas^array,1,0,DevelopmentNotes,create an booleanarray with func pandas array
+2446,CaseInsensitiveDict,the structure remembers the,1,1,DevelopmentNotes,the structure remembers the
+4367,BatchNorm1d,"mathematically, the",1,1,DevelopmentNotes,mathematically the
+1718,CategoricalIndex,"if the categories are not given here and also not in dtype , they",1,0,DevelopmentNotes,if the categories are not given here and also not in dtype they
+551,MigrationLoader,"disk, then they are injected into the main set, replacing the named migrations.",1,0,DevelopmentNotes,disk then they are injected into the main set replacing the named migrations
+2075,PlotAccessor,"for instance, matplotlib .",1,0,DevelopmentNotes,for instance matplotlib
+5373,MultiLabelMarginLoss,"y torch^longtensor 3, 0, 1, 1",1,0,DevelopmentNotes,y torch longtensor 3 0 1 1
+23,Atomic,and rolls back the transaction or to the savepoint on exceptions.,1,0,DevelopmentNotes,and rolls back the transaction or to the savepoint on exceptions
+598,MultiValueDict,a subclass of dictionary customized to handle multiple values for the,1,0,DevelopmentNotes,a subclass of dictionary customized to handle multiple values for the
+3182,MemcachedBytecodeCache,if timeout is not provided,1,0,DevelopmentNotes,if timeout is not provided
+2235,SQLTable,uses fact that table is reflected by sqlalchemy to,1,0,DevelopmentNotes,uses fact that table is reflected by sqlalchemy to
+2051,PlotAccessor,plots .,1,0,DevelopmentNotes,plots
+5213,ExternalInitializer,executed.,1,0,DevelopmentNotes,executed
+582,MigrationWriter,take a migration instance and is able to produce the contents,1,0,DevelopmentNotes,take a migration instance and is able to produce the contents
+4464,BCEWithLogitsLoss,we take advantage of the log sum exp trick for numerical stability.,1,0,DevelopmentNotes,we take advantage of the log sum exp trick for numerical stability
+3073,Markup,"document, either because it was escaped or because it was marked",1,0,DevelopmentNotes,document either because it was escaped or because it was marked
+654,MultiWidget,a widget that is composed of multiple widgets.,1,0,DevelopmentNotes,a widget that is composed of multiple widgets
+1133,MyFrame,"it just shows a few controls on a wxpanel,",1,0,DevelopmentNotes,it just shows a few controls on a wxpanel
+1880,IntegerArray,data contains a numpy integer array of the appropriate dtype,1,1,DevelopmentNotes,data contains a numpy integer array of the appropriate dtype
+21,Atomic,"savepoint, depending on whether a transaction is already in progress, and",1,0,DevelopmentNotes,savepoint depending on whether a transaction is already in progress and
+1655,CategoricalDtype,categories,1,0,DevelopmentNotes,categories
+5354,MultiLabelMarginLoss,"reduction string, optional specifies the reduction to apply to the output",1,0,DevelopmentNotes,reduction string optional specifies the reduction to apply to the output
+3268,NotAny,# very crude boolean expression to support parenthesis groups and,1,0,DevelopmentNotes,very crude boolean expression to support parenthesis groups and
+912,Audio,create an audio object.,1,0,DevelopmentNotes,create an audio object
+1138,Obj,namespace to hold arbitrary information.,1,0,DevelopmentNotes,namespace to hold arbitrary information
+4212,Adadelta,implements adadelta algorithm.,1,0,DevelopmentNotes,implements adadelta algorithm
+3512,ParseResults,resultsname see class parserelement^setresultsname,1,0,DevelopmentNotes,resultsname see class parserelement setresultsname
+2326,StringMethods,"methods, with some inspiration from r s stringr package.",1,1,DevelopmentNotes,methods with some inspiration from r s stringr package
+2452,CaseInsensitiveDict,cid caseinsensitivedict,1,0,DevelopmentNotes,cid caseinsensitivedict
+2495,CONSOLE_SCREEN_BUFFER_INFO,struct in wincon^h.,1,0,DevelopmentNotes,struct in wincon h
+3406,Option,hidden from the user.,1,0,DevelopmentNotes,hidden from the user
+5211,ExternalInitializer,this class is used in cases when the parameter should not be initialized by,1,0,DevelopmentNotes,this class is used in cases when the parameter should not be initialized by
+1581,BooleanArray,func pandas^array specifying dtype boolean see examples,1,0,DevelopmentNotes,func pandas array specifying dtype boolean see examples
+3537,ParseResults,minutes in result false,1,0,DevelopmentNotes,minutes in result false
+4112,TokenStreamIterator,until the eof token is reached.,1,0,DevelopmentNotes,until the eof token is reached
+2070,PlotAccessor,"include bool bool, default is false",1,0,DevelopmentNotes,include bool bool default is false
+4157,_OpNamespace,2,1,1,DevelopmentNotes,2
+19,Atomic,"decorated function in the instance itself, used as a context manager.",1,0,DevelopmentNotes,decorated function in the instance itself used as a context manager
+4312,AdaptiveMaxPool3d,# target output size of 7x7x7 cube,1,0,DevelopmentNotes,target output size of 7x7x7 cube
+4344,BaseTestCase,base class used for all tensorboard tests,1,0,DevelopmentNotes,base class used for all tensorboard tests
+543,MigrationLoader,"on initialization, this class will scan those directories, and open and",1,0,DevelopmentNotes,on initialization this class will scan those directories and open and
+5352,MultiLabelMarginLoss,batch element instead and ignores attr size average .,1,0,DevelopmentNotes,batch element instead and ignores attr size average
+574,MigrationQuestioner,give the autodetector responses to questions it might have.,1,0,DevelopmentNotes,give the autodetector responses to questions it might have
+3333,omdict,"interact with all items in the dictionary, including multiple items with",1,0,DevelopmentNotes,interact with all items in the dictionary including multiple items with
+1599,BooleanArray,none,1,0,DevelopmentNotes,none
+1,AccessMixin,abstract cbv mixin that gives access mixins the same customizable,1,0,DevelopmentNotes,abstract cbv mixin that gives access mixins the same customizable
+4119,TreeBuilder,commentclass the class to use for comments,1,0,DevelopmentNotes,commentclass the class to use for comments
+1080,InteractiveShellApp,of the subclass,1,0,DevelopmentNotes,of the subclass
+2,AccessMixin,functionality.,1,0,DevelopmentNotes,functionality
+5220,FisherSnedecor,example,1,0,DevelopmentNotes,example
+5295,Module,def init self,1,0,DevelopmentNotes,def init self
+4218,Adadelta,of squared gradients default 09,1,0,DevelopmentNotes,of squared gradients default 09
+1647,CategoricalDtype,"categories sequence, optional",1,0,DevelopmentNotes,categories sequence optional
+610,MultiValueDict,"d^setlist lastname , holovaty , willison",1,0,DevelopmentNotes,d setlist lastname holovaty willison
+84,BadSignature,signature does not match.,1,0,DevelopmentNotes,signature does not match
+5226,FisherSnedecor,df2 float or tensor degrees of freedom parameter 2,1,0,DevelopmentNotes,df2 float or tensor degrees of freedom parameter 2
+4243,Adam,"betas tuple float, float , optional coefficients used for computing",1,0,DevelopmentNotes,betas tuple float float optional coefficients used for computing
+1283,ConfigDict,should be used with an empty list or dictionary as a default value.,1,0,DevelopmentNotes,should be used with an empty list or dictionary as a default value
+3337,omdict,"getlist , add , addlist , set , setlist , setdefaultlist ,",1,0,DevelopmentNotes,getlist add addlist set setlist setdefaultlist
+5222,FisherSnedecor,m^sample # fisher snedecor distributed with df1 1 and df2 2,1,0,DevelopmentNotes,m sample fisher snedecor distributed with df1 1 and df2 2
+3228,MethodDispatcher,multiple keys so accessing any one of the items in the original,1,0,DevelopmentNotes,multiple keys so accessing any one of the items in the original
+3478,PacifyFlushWrapper,"pipe, all calls and attributes are proxied.",1,0,DevelopmentNotes,pipe all calls and attributes are proxied
+2451,CaseInsensitiveDict,testing is case insensitive,1,0,DevelopmentNotes,testing is case insensitive
+1095,IPythonInputSplitter,an input splitter that recognizes all of ipython s special syntax.,1,0,DevelopmentNotes,an input splitter that recognizes all of ipython s special syntax
+5199,Error,each error in the report has an error message and a backtrace.,1,0,DevelopmentNotes,each error in the report has an error message and a backtrace
+4244,Adam,"running averages of gradient and its square default 09, 0999",1,0,DevelopmentNotes,running averages of gradient and its square default 09 0999
+1293,ConfigDict,"liquids fluids we like , false,",1,0,DevelopmentNotes,liquids fluids we like false
+2961,HebrewProber,alone are meaningless.,1,1,DevelopmentNotes,alone are meaningless
+4126,Trie,abstract base class for tries,1,0,DevelopmentNotes,abstract base class for tries
+4309,AdaptiveMaxPool3d,"m nn^adaptivemaxpool3d 5,7,9",1,0,DevelopmentNotes,m nn adaptivemaxpool3d 5 7 9
+2458,CaseInsensitiveDict,of how the header name was originally stored.,1,0,DevelopmentNotes,of how the header name was originally stored
+71,AutoFieldMeta,deprecate inheritance from autofield and use of isinstance with autofield,1,1,DevelopmentNotes,deprecate inheritance from autofield and use of isinstance with autofield
+1333,ConfigDict,valueerror invalid value for config potatoes moo,1,0,DevelopmentNotes,valueerror invalid value for config potatoes moo
+4275,Adamax,arguments,1,0,DevelopmentNotes,arguments
+4471,BCEWithLogitsLoss,if attr reduction is not none,1,0,DevelopmentNotes,if attr reduction is not none
+4390,BatchNorm1d,statistics in both training and eval modes.,1,0,DevelopmentNotes,statistics in both training and eval modes
+2956,HebrewProber,the hebrewprober is not using any language model.,1,1,DevelopmentNotes,the hebrewprober is not using any language model
+4277,Adamax,parameter groups,1,0,DevelopmentNotes,parameter groups
+4276,Adamax,params iterable iterable of parameters to optimize or dicts defining,1,0,DevelopmentNotes,params iterable iterable of parameters to optimize or dicts defining
+3186,MemcachedBytecodeCache,method get key,1,0,DevelopmentNotes,method get key
+4362,BatchNorm1d,"keep running estimates, and batch statistics are instead used during",1,0,DevelopmentNotes,keep running estimates and batch statistics are instead used during
+3260,NotAny,notany always returns,1,0,DevelopmentNotes,notany always returns
+1311,ConfigDict,"pot^walk liquids vodka , parent true",1,0,DevelopmentNotes,pot walk liquids vodka parent true
+3408,Option,input.,1,0,DevelopmentNotes,input
+139,BaseCommand,"rather than all applications models, call",1,0,DevelopmentNotes,rather than all applications models call
+5427,NetModifier,inherited classes should implement the modify net method where,1,0,DevelopmentNotes,inherited classes should implement the modify net method where
+1424,ConfigureMailboxes,add one or more mailboxes.,1,0,DevelopmentNotes,add one or more mailboxes
+1303,ConfigDict,pot potatoes,1,0,DevelopmentNotes,pot potatoes
+5347,MultiLabelMarginLoss,"reduce bool, optional deprecated see attr reduction .",1,0,DevelopmentNotes,reduce bool optional deprecated see attr reduction
+53,AtomicTests,since the decorator syntax is converted into a context manager see the,1,0,DevelopmentNotes,since the decorator syntax is converted into a context manager see the
+3538,ParseResults,"result^dump 1999 , , 12 , , 31",1,0,DevelopmentNotes,result dump 1999 12 31
+4117,TreeBuilder,documentclass the class to use for the bottommost node of a document,1,0,DevelopmentNotes,documentclass the class to use for the bottommost node of a document
+1668,CategoricalDtype,"pd^series a , b , a , c , dtype t",1,0,DevelopmentNotes,pd series a b a c dtype t
+3242,Module_six_moves_urllib_request,lazy loading of moved objects in six^moves.urllib request,1,0,DevelopmentNotes,lazy loading of moved objects in six moves urllib request
+3184,MemcachedBytecodeCache,provided it s an integer with the number of seconds the cache,1,0,DevelopmentNotes,provided it s an integer with the number of seconds the cache
+1055,DummyMod,a namespace must be assigned to the module s dict .,1,0,DevelopmentNotes,a namespace must be assigned to the module s dict
+1070,HistoryAccessor,ipython shells use,1,0,DevelopmentNotes,ipython shells use
+3414,Option,this is set to a boolean automatically if,1,0,DevelopmentNotes,this is set to a boolean automatically if
+5934,PreparedRequest,containing the exact bytes that will be sent to the server.,1,0,DevelopmentNotes,containing the exact bytes that will be sent to the server
+112,BaseCommand,4,1,0,DevelopmentNotes,4
+2450,CaseInsensitiveDict,"however, querying and contains",1,0,DevelopmentNotes,however querying and contains
+5446,OneHotCategorical,"m onehotcategorical torch^tensor 025, 025, 025, 025",1,0,DevelopmentNotes,m onehotcategorical torch tensor 025 025 025 025
+3413,Option,enabled.,1,0,DevelopmentNotes,enabled
+4155,_OpNamespace,object called my namespace and set it as an attribute on the ops,1,1,DevelopmentNotes,object called my namespace and set it as an attribute on the ops
+2453,CaseInsensitiveDict,cid accept application json,1,0,DevelopmentNotes,cid accept application json
+2081,PlotAccessor,options to pass to matplotlib plotting method.,1,0,DevelopmentNotes,options to pass to matplotlib plotting method
+5450,OneHotCategorical,probs tensor event probabilities,1,0,DevelopmentNotes,probs tensor event probabilities
+5466,Poisson,math,1,0,DevelopmentNotes,math
+555,MigrationLoader,"to disk, but this is probably fine.",1,0,DevelopmentNotes,to disk but this is probably fine
+100,BaseCommand,2,1,0,DevelopmentNotes,2
+3270,NotAny,boolean expr boolean term zeroormore and or boolean term,1,0,DevelopmentNotes,boolean expr boolean term zeroormore and or boolean term
+4392,BatchNorm1d,shape,1,0,DevelopmentNotes,shape
+2358,_BZ2Proxy,support for r bz2 and w bz2 modes.,1,0,DevelopmentNotes,support for r bz2 and w bz2 modes
+1144,Struct,attribute style access.,1,0,DevelopmentNotes,attribute style access
+1714,CategoricalIndex,categories will be replaced with nan.,1,0,DevelopmentNotes,categories will be replaced with nan
+3499,ParseFatalException,user throwable exception thrown when inconsistent parse content,1,1,DevelopmentNotes,user throwable exception thrown when inconsistent parse content
+2236,SQLTable,do better type conversions.,1,0,DevelopmentNotes,do better type conversions
+5473,Poisson,"rate number, tensor the rate parameter",1,0,DevelopmentNotes,rate number tensor the rate parameter
+3298,NotMyLock,pass,1,0,DevelopmentNotes,pass
+3315,omdict,standard dict methods interact with the first value associated with a given,1,0,DevelopmentNotes,standard dict methods interact with the first value associated with a given
+4401,BatchNorm1d,output m input,1,0,DevelopmentNotes,output m input
+3395,Option,param show envvar controls if an environment variable should be shown on,1,0,DevelopmentNotes,param show envvar controls if an environment variable should be shown on
+4239,Adam,arguments,1,0,DevelopmentNotes,arguments
+1340,ConfigDict,"isinstance pot liquids , configdict",1,0,DevelopmentNotes,isinstance pot liquids configdict
+2056,PlotAccessor,center .,1,1,DevelopmentNotes,center
+1716,CategoricalIndex,the categories for the categorical.,1,0,DevelopmentNotes,the categories for the categorical
+2410,Argument,provide fewer features than options but can have infinite nargs,1,0,DevelopmentNotes,provide fewer features than options but can have infinite nargs
+1330,ConfigDict,invalidkeyerror invalid key for config liquids evil,1,0,DevelopmentNotes,invalidkeyerror invalid key for config liquids evil
+106,BaseCommand,3,1,0,DevelopmentNotes,3
+1082,InteractiveShellApp,meth init shell to be implemented by the subclass,1,0,DevelopmentNotes,meth init shell to be implemented by the subclass
+1708,CategoricalIndex,"additions, divisions, .",1,0,DevelopmentNotes,additions divisions
+3339,omdict,"allitems , allkeys , allvalues , lists , listitems ,",1,0,DevelopmentNotes,allitems allkeys allvalues lists listitems
+102,BaseCommand,"an argumentparser for the arguments, parses them, performs",1,0,DevelopmentNotes,an argumentparser for the arguments parses them performs
+55,AtomicTests,syntax and the bulk of the tests use the context manager syntax.,1,0,DevelopmentNotes,syntax and the bulk of the tests use the context manager syntax
+1426,ConfigureMailboxes,in the metadata index.,1,1,DevelopmentNotes,in the metadata index
+1336,ConfigDict,configvalueerror invalid value for config colors 4 green,1,0,DevelopmentNotes,configvalueerror invalid value for config colors 4 green
+5258,LBFGS,lr float learning rate default 1,1,0,DevelopmentNotes,lr float learning rate default 1
+1553,AccessorCallableDocumenter,call from the method signature for,1,0,DevelopmentNotes,call from the method signature for
+4135,UnlockError,except error,1,0,DevelopmentNotes,except error
+4394,BatchNorm1d,"output math n, c or math n, c, l same shape as input",1,0,DevelopmentNotes,output math n c or math n c l same shape as input
+5370,MultiLabelMarginLoss,loss nn^multilabelmarginloss,1,0,DevelopmentNotes,loss nn multilabelmarginloss
+3510,ParseResults,"by list index results 0 , results 1 , etc",1,0,DevelopmentNotes,by list index results 0 results 1 etc
+5356,MultiLabelMarginLoss,"none no reduction will be applied,",1,0,DevelopmentNotes,none no reduction will be applied
+3250,Node,represents an item in the tree,1,0,DevelopmentNotes,represents an item in the tree
+605,MultiValueDict,d^getlist doesnotexist,1,0,DevelopmentNotes,d getlist doesnotexist
+1048,DisplayHook,the custom ipython displayhook to replace sys^displayhook.,1,0,DevelopmentNotes,the custom ipython displayhook to replace sys displayhook
+1595,BooleanArray,whether to copy the values and mask arrays.,1,0,DevelopmentNotes,whether to copy the values and mask arrays
+1078,InteractiveShellApp,as part of configuring a shell environment.,1,0,DevelopmentNotes,as part of configuring a shell environment
+5324,MultiLabelMarginLoss,and output math y which is a 2d tensor of target class indices .,1,0,DevelopmentNotes,and output math y which is a 2d tensor of target class indices
+1653,CategoricalDtype,false if there is no existing ordered to maintain.,1,0,DevelopmentNotes,false if there is no existing ordered to maintain
+1640,BusinessMixin,mixin to business types to provide related functions.,1,0,DevelopmentNotes,mixin to business types to provide related functions
+2234,SQLTable,for mapping pandas tables to sql tables.,1,0,DevelopmentNotes,for mapping pandas tables to sql tables
+2412,Argument,all parameters are passed onwards to the parameter constructor.,1,0,DevelopmentNotes,all parameters are passed onwards to the parameter constructor
+3398,Option,are not shown.,1,0,DevelopmentNotes,are not shown
+3321,omdict,"get , setdefault , pop , popitem ,",1,0,DevelopmentNotes,get setdefault pop popitem
+5196,EnforceUnique,raises an error if a key is seen more than once.,1,0,DevelopmentNotes,raises an error if a key is seen more than once
+4378,BatchNorm1d,default 1e 5,1,0,DevelopmentNotes,default 1e 5
+3604,Path,handle it returns just the filename.,1,1,DevelopmentNotes,handle it returns just the filename
+3180,MemcachedBytecodeCache,value is a string and,1,0,DevelopmentNotes,value is a string and
+636,MultiValueField,each value in,1,0,DevelopmentNotes,each value in
+3313,omdict,"map, is also maintained and stores an ordered list of",1,0,DevelopmentNotes,map is also maintained and stores an ordered list of
+3415,Option,the option string contains a slash to mark two options.,1,0,DevelopmentNotes,the option string contains a slash to mark two options
+1307,ConfigDict,pot carrots,1,0,DevelopmentNotes,pot carrots
+3100,Markup,markup em hello em foo,1,1,DevelopmentNotes,markup em hello em foo
+3416,Option,param multiple if this is set to true then the argument is accepted,1,0,DevelopmentNotes,param multiple if this is set to true then the argument is accepted
+1309,ConfigDict,pot^walk liquids^vodka,1,0,DevelopmentNotes,pot walk liquids vodka
+4142,ZipResourceFinder,resource finder for resources in ^zip files.,1,0,DevelopmentNotes,resource finder for resources in zip files
+3493,ParseError,in the toml being parsed.,1,0,DevelopmentNotes,in the toml being parsed
+2444,CaseInsensitiveDict,provides lower items .,1,0,DevelopmentNotes,provides lower items
+2442,CaseInsensitiveDict,mutablemapping as well as dict s copy .,1,0,DevelopmentNotes,mutablemapping as well as dict s copy
+132,BaseCommand,"a boolean if true , the command prints a warning if the set of",1,0,DevelopmentNotes,a boolean if true the command prints a warning if the set of
+5444,OneHotCategorical,attr probs and attr logits .,1,0,DevelopmentNotes,attr probs and attr logits
+3392,Option,"value is a string, it shows the string instead of the",1,0,DevelopmentNotes,value is a string it shows the string instead of the
+3490,PackageIndex,represents a package index and provides easier access to endpoints,1,0,DevelopmentNotes,represents a package index and provides easier access to endpoints
+1050,DisplayHook,that gets called anytime user code returns a value.,1,0,DevelopmentNotes,that gets called anytime user code returns a value
+1320,ConfigDict,pot tags 0 c,1,0,DevelopmentNotes,pot tags 0 c
+4315,AdaptiveMaxPool3d,output m input,1,0,DevelopmentNotes,output m input
+3096,Markup,"it has the same methods as that type, but",1,1,DevelopmentNotes,it has the same methods as that type but
+3403,Option,param confirmation prompt if set then the value will need to be confirmed,1,0,DevelopmentNotes,param confirmation prompt if set then the value will need to be confirmed
+609,MultiValueDict,nonexistent,1,0,DevelopmentNotes,nonexistent
+4240,Adam,params iterable iterable of parameters to optimize or dicts defining,1,0,DevelopmentNotes,params iterable iterable of parameters to optimize or dicts defining
+1881,IntegerArray,"mask a boolean array holding a mask on the data, true is missing",1,1,DevelopmentNotes,mask a boolean array holding a mask on the data true is missing
+3327,omdict,an optional,1,0,DevelopmentNotes,an optional
+1554,AccessorCallableDocumenter,callable accessors like series^plot,1,0,DevelopmentNotes,callable accessors like series plot
+1109,Magics,.,1,1,DevelopmentNotes,nan
+2062,PlotAccessor,"yerr dataframe, series, array like, dict and str",1,0,DevelopmentNotes,yerr dataframe series array like dict and str
+108,BaseCommand,calling the handle method with the parsed arguments any,1,0,DevelopmentNotes,calling the handle method with the parsed arguments any
+3331,omdict,methods with list in their,1,0,DevelopmentNotes,methods with list in their
+5448,OneHotCategorical,"tensor 0., 0., 0., 1.",1,0,DevelopmentNotes,tensor 0 0 0 1
+2448,CaseInsensitiveDict,"keys , items , iterkeys , and iteritems",1,1,DevelopmentNotes,keys items iterkeys and iteritems
+5439,OneHotCategorical,attr logits .,1,0,DevelopmentNotes,attr logits
+2423,Bucket,it s created,1,0,DevelopmentNotes,it s created
+4145,_OpNamespace,say a user has created a custom operator called my namespace my op .,1,1,DevelopmentNotes,say a user has created a custom operator called my namespace my op
+3178,MemcachedBytecodeCache,"method set key, value , timeout",1,0,DevelopmentNotes,method set key value timeout
+114,BaseCommand,"commanderror , run from argv will instead print an error",1,0,DevelopmentNotes,commanderror run from argv will instead print an error
+1986,PlotAccessor,option plotting^backend .,1,1,DevelopmentNotes,option plotting backend
+1112,Magics,use the method decorators @line magic and @cell magic to decorate,1,0,DevelopmentNotes,use the method decorators @line magic and @cell magic to decorate
+122,BaseCommand,help,1,0,DevelopmentNotes,help
+4216,Adadelta,parameter groups,1,0,DevelopmentNotes,parameter groups
+4245,Adam,"eps float, optional term added to the denominator to improve",1,0,DevelopmentNotes,eps float optional term added to the denominator to improve
+2425,Bucket,the buckets get an internal checksum from the cache assigned and use this,1,0,DevelopmentNotes,the buckets get an internal checksum from the cache assigned and use this
+3188,MemcachedBytecodeCache,if the item does not,1,0,DevelopmentNotes,if the item does not
+1439,EncryptedIntDict,this also adds a working keys function.,1,0,DevelopmentNotes,this also adds a working keys function
+3305,omdict,a multivalue dictionary is a dictionary that can store multiple values per,1,0,DevelopmentNotes,a multivalue dictionary is a dictionary that can store multiple values per
+3190,MemcachedBytecodeCache,the other arguments to the constructor are the prefix for all keys that,1,0,DevelopmentNotes,the other arguments to the constructor are the prefix for all keys that
+5243,LBFGS,"implements l bfgs algorithm, heavily inspired by minfunc",1,0,DevelopmentNotes,implements l bfgs algorithm heavily inspired by minfunc
+130,BaseCommand,false .,1,0,DevelopmentNotes,false
+553,MigrationLoader,new migration.,1,0,DevelopmentNotes,new migration
+3508,ParseResults,the parsed data,1,0,DevelopmentNotes,the parsed data
+4376,BatchNorm1d,"math n, c, l or math l from input of size math n, l",1,0,DevelopmentNotes,math n c l or math l from input of size math n l
+1649,CategoricalDtype,"ordered bool or none, default false",1,0,DevelopmentNotes,ordered bool or none default false
+3541,ParseResults,year 1999,1,0,DevelopmentNotes,year 1999
+5224,FisherSnedecor,args,1,0,DevelopmentNotes,args
+3254,NotAny,lookahead to disallow matching with the given parse expression.,1,0,DevelopmentNotes,lookahead to disallow matching with the given parse expression
+16,Atomic,guarantee the atomic execution of a given block.,1,0,DevelopmentNotes,guarantee the atomic execution of a given block
+557,MigrationLoader,in memory.,1,0,DevelopmentNotes,in memory
+4279,Adamax,"betas tuple float, float , optional coefficients used for computing",1,0,DevelopmentNotes,betas tuple float float optional coefficients used for computing
+2069,PlotAccessor,labels with right in the legend.,1,0,DevelopmentNotes,labels with right in the legend
+5342,MultiLabelMarginLoss,if the field attr size average,1,0,DevelopmentNotes,if the field attr size average
+2377,_PathParents,this object provides sequence like access to the logical ancestors,1,0,DevelopmentNotes,this object provides sequence like access to the logical ancestors
+3386,Option,have some extra features that arguments don t have.,1,0,DevelopmentNotes,have some extra features that arguments don t have
+1644,CategoricalDtype,type for categorical data with the categories and orderedness.,1,0,DevelopmentNotes,type for categorical data with the categories and orderedness
+4364,BatchNorm1d,note,1,1,DevelopmentNotes,note
+4465,BCEWithLogitsLoss,the unreduced ie with attr reduction set to none loss can be described as,1,0,DevelopmentNotes,the unreduced ie with attr reduction set to none loss can be described as
+3399,Option,param prompt if set to true or a non empty string then the user will be,1,0,DevelopmentNotes,param prompt if set to true or a non empty string then the user will be
+1114,Magics,use the class decorator @magics class to ensure that the magic,1,0,DevelopmentNotes,use the class decorator @magics class to ensure that the magic
+3472,PacifyFlushWrapper,from ^flush being called on broken pipe during the shutdown final gc,1,0,DevelopmentNotes,from flush being called on broken pipe during the shutdown final gc
+2082,PlotAccessor,returns,1,0,DevelopmentNotes,returns
+3079,Markup,"markup hello, em world em !",1,1,DevelopmentNotes,markup hello em world em
+1165,TermColors,confused by color escapes.,1,0,DevelopmentNotes,confused by color escapes
+5343,MultiLabelMarginLoss,"is set to false , the losses are instead summed for each minibatch.",1,0,DevelopmentNotes,is set to false the losses are instead summed for each minibatch
+1297,ConfigDict,"tags tags , c c , int, 0 ,",1,0,DevelopmentNotes,tags tags c c int 0
+3264,NotAny,"and, or, not map caselesskeyword, and or not ^split",1,0,DevelopmentNotes,and or not map caselesskeyword and or not split
+2547,DataViewSequence,each entry is an instance of item class .,1,0,DevelopmentNotes,each entry is an instance of item class
+5325,MultiLabelMarginLoss,for each sample in the mini batch,1,0,DevelopmentNotes,for each sample in the mini batch
+4382,BatchNorm1d,ie simple average .,1,0,DevelopmentNotes,ie simple average
+121,BaseCommand,several attributes affect behavior at various steps along the way,1,0,DevelopmentNotes,several attributes affect behavior at various steps along the way
+2378,_PathParents,of a path.,1,0,DevelopmentNotes,of a path
+4214,Adadelta,arguments,1,0,DevelopmentNotes,arguments
+2460,CaseInsensitiveDict,"operations are given keys that have equal ^lower s, the",1,0,DevelopmentNotes,operations are given keys that have equal lower s the
+4149,_OpNamespace,"at startup, this operation will not yet be bound into python.",1,1,DevelopmentNotes,at startup this operation will not yet be bound into python
+4316,AdaptiveMaxPool3d,# target output size of 7x9x8,1,0,DevelopmentNotes,target output size of 7x9x8
+5371,MultiLabelMarginLoss,"x torch^floattensor 01, 02, 04, 08",1,0,DevelopmentNotes,x torch floattensor 01 02 04 08
+1317,ConfigDict,"red , blue , red , red",1,0,DevelopmentNotes,red blue red red
+3341,omdict,iterlistitems,1,0,DevelopmentNotes,iterlistitems
+4467,BCEWithLogitsLoss,"ell x, y l l 1, dots,l n ^ top, quad",1,0,DevelopmentNotes,ell x y l l 1 dots l n top quad
+5326,MultiLabelMarginLoss,math,1,0,DevelopmentNotes,math
+1301,ConfigDict,"colors , liquids , tags , , ,",1,0,DevelopmentNotes,colors liquids tags
+4468,BCEWithLogitsLoss,l n w n left y n cdot log sigma x n,1,0,DevelopmentNotes,l n w n left y n cdot log sigma x n
+2073,PlotAccessor,backend to use instead of the backend specified in the option,1,0,DevelopmentNotes,backend to use instead of the backend specified in the option
+2053,PlotAccessor,specify relative alignments for bar plot layout.,1,0,DevelopmentNotes,specify relative alignments for bar plot layout
+11,Archive,the external api class that encapsulates an archive implementation.,1,1,DevelopmentNotes,the external api class that encapsulates an archive implementation
+4384,BatchNorm1d,"affine a boolean value that when set to true , this module has",1,0,DevelopmentNotes,affine a boolean value that when set to true this module has
+5,AmbiguityError,more than one migration matches a name prefix.,1,0,DevelopmentNotes,more than one migration matches a name prefix
+1116,Magics,initialization.,1,0,DevelopmentNotes,initialization
+4313,AdaptiveMaxPool3d,m nn^adaptivemaxpool3d 7,1,0,DevelopmentNotes,m nn adaptivemaxpool3d 7
+1305,ConfigDict,pot liquids vodka,1,0,DevelopmentNotes,pot liquids vodka
+4307,AdaptiveMaxPool3d,examples,1,0,DevelopmentNotes,examples
+3412,Option,param flag value which value should be used for this flag if it s,1,0,DevelopmentNotes,param flag value which value should be used for this flag if it s
+1579,BooleanArray,see ref boolean^kleene for more.,1,0,DevelopmentNotes,see ref boolean kleene for more
+1110,Magics,"classes providing magic functions need to subclass this class, and they",1,0,DevelopmentNotes,classes providing magic functions need to subclass this class and they
+4370,BatchNorm1d,where math hat x is the estimated statistic and math x t is the,1,1,DevelopmentNotes,where math hat x is the estimated statistic and math x t is the
+3091,Markup,return a href foo foo a,1,1,DevelopmentNotes,return a href foo foo a
+1712,CategoricalIndex,the values of the categorical.,1,0,DevelopmentNotes,the values of the categorical
+3192,MemcachedBytecodeCache,the cache system.,1,0,DevelopmentNotes,the cache system
+3077,Markup,"to escape the text, use the",1,0,DevelopmentNotes,to escape the text use the
+3307,omdict,an ordered multivalue dictionary is a multivalue dictionary that,1,0,DevelopmentNotes,an ordered multivalue dictionary is a multivalue dictionary that
+1068,HistoryAccessor,access the history database without adding to it.,1,0,DevelopmentNotes,access the history database without adding to it
+3335,omdict,the new omdict methods are,1,0,DevelopmentNotes,the new omdict methods are
+1313,ConfigDict,pot colors ^append red,1,0,DevelopmentNotes,pot colors append red
+4242,Adam,"lr float, optional learning rate default 1e 3",1,0,DevelopmentNotes,lr float optional learning rate default 1e 3
+4396,BatchNorm1d,# with learnable parameters,1,0,DevelopmentNotes,with learnable parameters
+3323,omdict,"getitem , setitem , delitem , contains ,",1,0,DevelopmentNotes,getitem setitem delitem contains
+1670,CategoricalDtype,1 b,1,0,DevelopmentNotes,1 b
+3098,Markup,markup em %s em % foo & bar,1,1,DevelopmentNotes,markup em s em foo bar
+2211,SelectNSeries,parameters,1,0,DevelopmentNotes,parameters
+4398,BatchNorm1d,# without learnable parameters,1,0,DevelopmentNotes,without learnable parameters
+28,Atomic,none denotes the absence of a savepoint.,1,0,DevelopmentNotes,none denotes the absence of a savepoint
+1060,GeoJSON,"scalar types none, number, string are not allowed, only dict containers.",1,1,DevelopmentNotes,scalar types none number string are not allowed only dict containers
+5345,MultiLabelMarginLoss,when reduce is false .,1,0,DevelopmentNotes,when reduce is false
+1299,ConfigDict,"colors colors , red , blue ,",1,0,DevelopmentNotes,colors colors red blue
+576,MigrationQuestioner,interactive subclass is what the command line arguments will use.,1,1,DevelopmentNotes,interactive subclass is what the command line arguments will use
+3410,Option,the default is,1,0,DevelopmentNotes,the default is
+589,ModelSignal,of the app label^modelname form.,1,0,DevelopmentNotes,of the app label modelname form
+4221,Adadelta,"lr float, optional coefficient that scale delta before it is applied",1,0,DevelopmentNotes,lr float optional coefficient that scale delta before it is applied
+2440,CaseInsensitiveDict,a case insensitive dict like object.,1,0,DevelopmentNotes,a case insensitive dict like object
+789,SpatialRefSysMixin,the spatialrefsysmixin is a class used by the database dependent,1,1,DevelopmentNotes,the spatialrefsysmixin is a class used by the database dependent
+2085,PlotAccessor,will be the object returned by the backend.,1,0,DevelopmentNotes,will be the object returned by the backend
+5289,Module,"modules can also contain other modules, allowing to nest them in",1,0,DevelopmentNotes,modules can also contain other modules allowing to nest them in
+4305,AdaptiveMaxPool3d,useful to pass to nn^maxunpool3d.,1,0,DevelopmentNotes,useful to pass to nn maxunpool3d
+5376,MultiLabelMarginLoss,tensor 08500,1,0,DevelopmentNotes,tensor 08500
+141,BaseCommand,is the list of application s configuration provided by the,1,0,DevelopmentNotes,is the list of application s configuration provided by the
+3311,omdict,a,1,0,DevelopmentNotes,a
+1044,CapturingDisplayPublisher,a displaypublisher that store,1,0,DevelopmentNotes,a displaypublisher that store
+3232,MethodDispatcher,a default value which can be set through the default attribute.,1,0,DevelopmentNotes,a default value which can be set through the default attribute
+3089,Markup,class foo,1,1,DevelopmentNotes,class foo
+3309,omdict,"internally, items are stored in a doubly linked list, self.",1,0,DevelopmentNotes,internally items are stored in a doubly linked list self
+1158,TBTools,basic tools used by all traceback printer classes.,1,0,DevelopmentNotes,basic tools used by all traceback printer classes
+5291,Module,you can assign the submodules as regular attributes,1,0,DevelopmentNotes,you can assign the submodules as regular attributes
+3534,ParseResults,result month 12,1,0,DevelopmentNotes,result month 12
+3319,omdict,behave identically.,1,0,DevelopmentNotes,behave identically
+4310,AdaptiveMaxPool3d,"input torch^randn 1, 64, 8, 9, 10",1,0,DevelopmentNotes,input torch randn 1 64 8 9 10
+4368,BatchNorm1d,update rule for running statistics here is,1,1,DevelopmentNotes,update rule for running statistics here is
+3272,NotAny,are actually floats,1,0,DevelopmentNotes,are actually floats
+5360,MultiLabelMarginLoss,"and attr reduce are in the process of being deprecated, and in the meantime,",1,0,DevelopmentNotes,and attr reduce are in the process of being deprecated and in the meantime
+1657,CategoricalDtype,methods,1,0,DevelopmentNotes,methods
+3539,ParseResults,day 31,1,0,DevelopmentNotes,day 31
+4483,BCEWithLogitsLoss,in the case of multi label classification the loss can be described as,1,0,DevelopmentNotes,in the case of multi label classification the loss can be described as
+4129,UndefinedEnvironmentName,environment.,1,0,DevelopmentNotes,environment
+5364,MultiLabelMarginLoss,"input math c or math n, c where n is the batch size and c",1,0,DevelopmentNotes,input math c or math n c where n is the batch size and c
+663,MyModel,model subclass with a custom base using metaclass.,1,0,DevelopmentNotes,model subclass with a custom base using metaclass
+1146,Struct,style access.,1,0,DevelopmentNotes,style access
+4241,Adam,parameter groups,1,0,DevelopmentNotes,parameter groups
+3296,NotMyLock,raise notmylock,1,0,DevelopmentNotes,raise notmylock
+1289,ConfigDict,pot configdict rules potatoes how many potatoes?,1,0,DevelopmentNotes,pot configdict rules potatoes how many potatoes
+5441,OneHotCategorical,"note attr probs must be non negative, finite and have a non zero sum,",1,1,DevelopmentNotes,note attr probs must be non negative finite and have a non zero sum
+1577,BooleanArray,booleanarray implements kleene logic sometimes called three value,1,0,DevelopmentNotes,booleanarray implements kleene logic sometimes called three value
+1721,CategoricalIndex,whether or not this categorical is treated as an ordered,1,0,DevelopmentNotes,whether or not this categorical is treated as an ordered
+2084,PlotAccessor,"if the backend is not the default matplotlib one, the return value",1,0,DevelopmentNotes,if the backend is not the default matplotlib one the return value
+2504,Context_,modifications on attr parent must not,1,0,DevelopmentNotes,modifications on attr parent must not
+3266,NotAny,ident and or not word alphas,1,0,DevelopmentNotes,ident and or not word alphas
+897,XFrameOptionsMiddleware,to prevent the,1,1,DevelopmentNotes,to prevent the
+638,MultiValueField,"cleaned by the first field, the second value is cleaned by the second",1,0,DevelopmentNotes,cleaned by the first field the second value is cleaned by the second
+1084,InteractiveShellApp,meth init extensions,1,0,DevelopmentNotes,meth init extensions
+4278,Adamax,"lr float, optional learning rate default 2e 3",1,0,DevelopmentNotes,lr float optional learning rate default 2e 3
+5327,MultiLabelMarginLoss,"text loss x, y sum ij frac max 0, 1 x y j x i text x^size 0",1,0,DevelopmentNotes,text loss x y sum ij frac max 0 1 x y j x i text x size 0
+520,MigrationGraph,"a node should be a tuple app path, migration name .",1,0,DevelopmentNotes,a node should be a tuple app path migration name
+3606,Path,basic checks about what the file or directory should be.,1,1,DevelopmentNotes,basic checks about what the file or directory should be
+4474,BCEWithLogitsLoss,"ell x, y begin cases",1,0,DevelopmentNotes,ell x y begin cases
+4133,UnlockError,try,1,0,DevelopmentNotes,try
+3226,MethodDispatcher,dict with 2 special properties,1,0,DevelopmentNotes,dict with 2 special properties
+4369,BatchNorm1d,"math hat x text new 1 text momentum times hat x text momentum times x t ,",1,1,DevelopmentNotes,math hat x text new 1 text momentum times hat x text momentum times x t
+4314,AdaptiveMaxPool3d,"input torch^randn 1, 64, 10, 9, 8",1,0,DevelopmentNotes,input torch randn 1 64 10 9 8
+3262,NotAny,may be constructed using the operator.,1,0,DevelopmentNotes,may be constructed using the operator
+1589,BooleanArray,values numpy^ndarray,1,0,DevelopmentNotes,values numpy ndarray
+4360,BatchNorm1d,of 01.,1,0,DevelopmentNotes,of 01
+1322,ConfigDict,pot tags ^append z invalid,1,0,DevelopmentNotes,pot tags append z invalid
+602,MultiValueDict,simon,1,0,DevelopmentNotes,simon
+4153,_OpNamespace,torch^ops.my namespace will invoke the getattr magic method,1,1,DevelopmentNotes,torch ops my namespace will invoke the getattr magic method
+66,AutoFieldMeta,in many areas django also relies on using isinstance to check for an,1,0,DevelopmentNotes,in many areas django also relies on using isinstance to check for an
+4476,BCEWithLogitsLoss,"operatorname sum l , & text if reduction text sum .",1,0,DevelopmentNotes,operatorname sum l text if reduction text sum
+2213,SelectNSeries,n int,1,0,DevelopmentNotes,n int
+134,BaseCommand,requires system checks,1,0,DevelopmentNotes,requires system checks
+3164,MemcachedBytecodeCache,tummy s memcache or cmemcache but will accept any class that provides,1,0,DevelopmentNotes,tummy s memcache or cmemcache but will accept any class that provides
+4281,Adamax,"eps float, optional term added to the denominator to improve",1,0,DevelopmentNotes,eps float optional term added to the denominator to improve
+110,BaseCommand,"output and, if the command is intended to produce a block of",1,0,DevelopmentNotes,output and if the command is intended to produce a block of
+3532,ParseResults,"list result 1999 , , 12 , , 31",1,0,DevelopmentNotes,list result 1999 12 31
+4110,TokenStreamIterator,the iterator for tokenstreams.,1,0,DevelopmentNotes,the iterator for tokenstreams
+3083,Markup,"markup^escape hello, em world em !",1,1,DevelopmentNotes,markup escape hello em world em
+5261,LBFGS,max eval int maximal number of function evaluations per optimization,1,0,DevelopmentNotes,max eval int maximal number of function evaluations per optimization
+123,BaseCommand,"a short description of the command, which will be printed in",1,0,DevelopmentNotes,a short description of the command which will be printed in
+3294,NotMyLock,raised when an attempt is made to unlock a file someone else locked.,1,0,DevelopmentNotes,raised when an attempt is made to unlock a file someone else locked
+1665,CategoricalDtype,for more.,1,1,DevelopmentNotes,for more
+3246,Mul,multiplies the left with the right node.,1,0,DevelopmentNotes,multiplies the left with the right node
+1291,ConfigDict,carrots how many carrots?,1,0,DevelopmentNotes,carrots how many carrots
+5350,MultiLabelMarginLoss,on attr size average .,1,0,DevelopmentNotes,on attr size average
+1281,ConfigDict,to be dictionaries or lists of items that match the rules defined.,1,0,DevelopmentNotes,to be dictionaries or lists of items that match the rules defined
+2324,StringMethods,handled otherwise by a particular method.,1,1,DevelopmentNotes,handled otherwise by a particular method
+5958,Response,server s response to an http request.,1,0,DevelopmentNotes,server s response to an http request
+387,Individual,"it won t be registered with the admin, so the",1,1,DevelopmentNotes,it won t be registered with the admin so the
+4470,BCEWithLogitsLoss,where math n is the batch size.,1,0,DevelopmentNotes,where math n is the batch size
+1436,ContactSet,"set contact lines, ensuring contact exists",1,0,DevelopmentNotes,set contact lines ensuring contact exists
+2447,CaseInsensitiveDict,"case of the last key to be set, and iter instance ,",1,1,DevelopmentNotes,case of the last key to be set and iter instance
+271,Client,the like it is here to allow testing against the,1,1,DevelopmentNotes,the like it is here to allow testing against the
+4151,_OpNamespace,following sequence of magic tricks will occur,1,1,DevelopmentNotes,following sequence of magic tricks will occur
+1666,CategoricalDtype,examples,1,0,DevelopmentNotes,examples
+4461,BCEWithLogitsLoss,class.,1,0,DevelopmentNotes,class
+1428,ConfigureMailboxes,and configured for automatic indexing.,1,1,DevelopmentNotes,and configured for automatic indexing
+3420,Option,arguments.,1,0,DevelopmentNotes,arguments
+519,MigrationGraph,replaced migrations to point to the replacing one.,1,0,DevelopmentNotes,replaced migrations to point to the replacing one
+4358,BatchNorm1d,evaluation.,1,0,DevelopmentNotes,evaluation
+3390,Option,"normally, defaults are not shown.",1,0,DevelopmentNotes,normally defaults are not shown
+1704,CategoricalIndex,"categoricalindex, like categorical, can only take on a limited,",1,0,DevelopmentNotes,categoricalindex like categorical can only take on a limited
+3531,ParseResults,prints,1,0,DevelopmentNotes,prints
+4371,BatchNorm1d,new observed value.,1,1,DevelopmentNotes,new observed value
+4351,BatchNorm1d,the mean and standard deviation are calculated per dimension over,1,0,DevelopmentNotes,the mean and standard deviation are calculated per dimension over
+5341,MultiLabelMarginLoss,"some losses, there are multiple elements per sample.",1,0,DevelopmentNotes,some losses there are multiple elements per sample
+1672,CategoricalDtype,3 nan,1,0,DevelopmentNotes,3 nan
+4164,_OpNamespace,then calls this new operation,1,1,DevelopmentNotes,then calls this new operation
+25,Atomic,ensure that some code runs within a transaction without creating overhead.,1,0,DevelopmentNotes,ensure that some code runs within a transaction without creating overhead
+5323,MultiLabelMarginLoss,hinge loss margin based loss between input math x a 2d mini batch tensor,1,0,DevelopmentNotes,hinge loss margin based loss between input math x a 2d mini batch tensor
+5505,ResNetBuilder,helper class for constructing residual blocks.,1,0,DevelopmentNotes,helper class for constructing residual blocks
+2080,PlotAccessor,kwargs,1,0,DevelopmentNotes,kwargs
+3424,Option,variable in case a prefix is defined on the,1,0,DevelopmentNotes,variable in case a prefix is defined on the
+5322,MultiLabelMarginLoss,creates a criterion that optimizes a multi class multi classification,1,0,DevelopmentNotes,creates a criterion that optimizes a multi class multi classification
+5431,NetModifier,modifier net,1,0,DevelopmentNotes,modifier net
+1324,ConfigDict,valueerror invalid value for config tags 1 .,1,0,DevelopmentNotes,valueerror invalid value for config tags 1
+5471,Poisson,tensor 3.,1,0,DevelopmentNotes,tensor 3
+1710,CategoricalIndex,parameters,1,0,DevelopmentNotes,parameters
+1601,BooleanArray,booleanarray,1,0,DevelopmentNotes,booleanarray
+3533,ParseResults,result 0 1999,1,0,DevelopmentNotes,result 0 1999
+640,MultiValueField,compressed into a single value.,1,0,DevelopmentNotes,compressed into a single value
+5442,OneHotCategorical,and it will be normalized to sum to 1.,1,1,DevelopmentNotes,and it will be normalized to sum to 1
+4873,ConvReLU3d,attributes same as torch^nn.quantized^conv3d,1,1,DevelopmentNotes,attributes same as torch nn quantized conv3d
+2067,PlotAccessor,"mark right bool, default true",1,0,DevelopmentNotes,mark right bool default true
+545,MigrationLoader,inherit from django^db.migrations^migration.,1,0,DevelopmentNotes,inherit from django db migrations migration
+4273,Adamax,implements adamax algorithm a variant of adam based on infinity norm .,1,0,DevelopmentNotes,implements adamax algorithm a variant of adam based on infinity norm
+4469,BCEWithLogitsLoss,"1 y n cdot log 1 sigma x n right ,",1,0,DevelopmentNotes,1 y n cdot log 1 sigma x n right
+3325,omdict,"optional parameters have been added to some dict methods, but because the",1,0,DevelopmentNotes,optional parameters have been added to some dict methods but because the
+400,IntFromGeom,"argument is a geometry, return type is an integer.",1,1,DevelopmentNotes,argument is a geometry return type is an integer
+3418,Option,this is similar to nargs,1,0,DevelopmentNotes,this is similar to nargs
+2542,CookieConflictError,there are two cookies that meet the criteria specified in the cookie jar.,1,0,DevelopmentNotes,there are two cookies that meet the criteria specified in the cookie jar
+4274,Adamax,it has been proposed in adam a method for stochastic optimization .,1,0,DevelopmentNotes,it has been proposed in adam a method for stochastic optimization
+4250,Adam,default false,1,0,DevelopmentNotes,default false
+1285,ConfigDict,rules in place of the default value.,1,0,DevelopmentNotes,rules in place of the default value
+1295,ConfigDict,"vodka liters , int, 12",1,0,DevelopmentNotes,vodka liters int 12
+1605,BooleanArray,booleanarray,1,0,DevelopmentNotes,booleanarray
+5469,Poisson,m poisson torch^tensor 4,1,0,DevelopmentNotes,m poisson torch tensor 4
+3329,omdict,"items , values , iteritems , itervalues",1,0,DevelopmentNotes,items values iteritems itervalues
+5464,Poisson,"creates a poisson distribution parameterized by attr rate , the rate parameter.",1,0,DevelopmentNotes,creates a poisson distribution parameterized by attr rate the rate parameter
+2420,BrokenStdoutLoggingError,raised if brokenpipeerror occurs for the stdout stream while logging.,1,0,DevelopmentNotes,raised if brokenpipeerror occurs for the stdout stream while logging
+2456,CaseInsensitiveDict,"for example, headers content encoding will return the",1,0,DevelopmentNotes,for example headers content encoding will return the
+2445,CaseInsensitiveDict,all keys are expected to be strings.,1,1,DevelopmentNotes,all keys are expected to be strings
+2077,PlotAccessor,"specify the plotting^backend for the whole session, set",1,0,DevelopmentNotes,specify the plotting backend for the whole session set
+95,BaseCommand,"the command parsing and execution behavior, the normal flow works",1,0,DevelopmentNotes,the command parsing and execution behavior the normal flow works
+3535,ParseResults,result^day 31,1,0,DevelopmentNotes,result day 31
+1575,BooleanArray,represented by 2 numpy arrays a boolean array with the data and,1,0,DevelopmentNotes,represented by 2 numpy arrays a boolean array with the data and
+4366,BatchNorm1d,classes and the conventional notion of momentum.,1,1,DevelopmentNotes,classes and the conventional notion of momentum
+104,BaseCommand,"pythonpath , and then calls the execute method,",1,0,DevelopmentNotes,pythonpath and then calls the execute method
+1674,CategoricalDtype,"categories 2, object b a",1,0,DevelopmentNotes,categories 2 object b a
+4365,BatchNorm1d,this attr momentum argument is different from one used in optimizer,1,1,DevelopmentNotes,this attr momentum argument is different from one used in optimizer
+4311,AdaptiveMaxPool3d,output m input,1,0,DevelopmentNotes,output m input
+1552,AccessorCallableDocumenter,this documenter lets us removes .,1,0,DevelopmentNotes,this documenter lets us removes
+4380,BatchNorm1d,computation.,1,0,DevelopmentNotes,computation
+538,MigrationLoader,load migration files from disk and their status from the database.,1,0,DevelopmentNotes,load migration files from disk and their status from the database
+4373,BatchNorm1d,"on n, l slices, it s common terminology to call this temporal batch normalization.",1,1,DevelopmentNotes,on n l slices it s common terminology to call this temporal batch normalization
+5372,MultiLabelMarginLoss,"# for target y, only consider labels 3 and 0, not after label 1",1,0,DevelopmentNotes,for target y only consider labels 3 and 0 not after label 1
+4159,_OpNamespace,"the my namespace object, which will retrieve the operation via",1,1,DevelopmentNotes,the my namespace object which will retrieve the operation via
+5121,EmbeddingBag,"offsets torch^longtensor 0,4",1,0,DevelopmentNotes,offsets torch longtensor 0 4
+1651,CategoricalDtype,none can be used to maintain the ordered value of existing categoricals when,1,0,DevelopmentNotes,none can be used to maintain the ordered value of existing categoricals when
+2049,PlotAccessor,"colorbar bool, optional",1,0,DevelopmentNotes,colorbar bool optional
+2435,CallBlock,call is called with,1,0,DevelopmentNotes,call is called with
+1719,CategoricalIndex,will be inferred from the data .,1,0,DevelopmentNotes,will be inferred from the data
+3505,ParseResultBytes,compatibility shim for the urlparse^parseresultbytes object.,1,0,DevelopmentNotes,compatibility shim for the urlparse parseresultbytes object
+1560,Base,common tests for all variations of intervalindex construction.,1,0,DevelopmentNotes,common tests for all variations of intervalindex construction
+4223,Adadelta,"weight decay float, optional weight decay l2 penalty default 0",1,0,DevelopmentNotes,weight decay float optional weight decay l2 penalty default 0
+3258,NotAny,"also, notany does",1,0,DevelopmentNotes,also notany does
+637,MultiValueField,this list is cleaned by the corresponding field the first value is,1,0,DevelopmentNotes,this list is cleaned by the corresponding field the first value is
+1591,BooleanArray,mask numpy^ndarray,1,0,DevelopmentNotes,mask numpy ndarray
+5429,NetModifier,example usage,1,0,DevelopmentNotes,example usage
+518,MigrationGraph,"replacing migration, and repoint any dependencies that pointed to the",1,0,DevelopmentNotes,replacing migration and repoint any dependencies that pointed to the
+4463,BCEWithLogitsLoss,"followed by a bceloss as, by combining the operations into one layer,",1,0,DevelopmentNotes,followed by a bceloss as by combining the operations into one layer
+4466,BCEWithLogitsLoss,math,1,0,DevelopmentNotes,math
+3222,MemoizedZipManifests,memoized zipfile manifests.,1,0,DevelopmentNotes,memoized zipfile manifests
+1338,ConfigDict,how many potatoes?,1,0,DevelopmentNotes,how many potatoes
+388,Individual,corresponding raw id widget won t have a magnifying glass link to select,1,1,DevelopmentNotes,corresponding raw id widget won t have a magnifying glass link to select
+1548,AbstractEngine,object serving as a base class for all engines.,1,0,DevelopmentNotes,object serving as a base class for all engines
+3317,omdict,"this means that omdict retains method parity with dict, and a dict",1,0,DevelopmentNotes,this means that omdict retains method parity with dict and a dict
+1703,CategoricalIndex,index based on an underlying class categorical .,1,0,DevelopmentNotes,index based on an underlying class categorical
+5369,MultiLabelMarginLoss,examples,1,0,DevelopmentNotes,examples
+5293,Module,import torch^nn.functional as f,1,0,DevelopmentNotes,import torch nn functional as f
+301,CryptPasswordHasher,the crypt module is not supported on all platforms.,1,1,DevelopmentNotes,the crypt module is not supported on all platforms
+3394,Option,this is particularly useful for dynamic options.,1,0,DevelopmentNotes,this is particularly useful for dynamic options
+1059,GeoJSON,not an already serialized json string.,1,1,DevelopmentNotes,not an already serialized json string
+515,MigrationGraph,"for these instead, the code to load them in here should examine the",1,0,DevelopmentNotes,for these instead the code to load them in here should examine the
+5931,InvalidHeader,the header value provided was somehow invalid.,1,0,DevelopmentNotes,the header value provided was somehow invalid
+3075,Markup,passing an object to the constructor converts it to text and wraps,1,0,DevelopmentNotes,passing an object to the constructor converts it to text and wraps
+2058,PlotAccessor,"if true, draw a table using the data in the dataframe and the data",1,0,DevelopmentNotes,if true draw a table using the data in the dataframe and the data
+3388,Option,param show default controls if the default value should be shown on the,1,0,DevelopmentNotes,param show default controls if the default value should be shown on the
+2061,PlotAccessor,table.,1,0,DevelopmentNotes,table
+656,MultiWidget,adds a list of subwidgets to the context as widget subwidgets .,1,0,DevelopmentNotes,adds a list of subwidgets to the context as widget subwidgets
+2506,Context_,template code only.,1,0,DevelopmentNotes,template code only
+1315,ConfigDict,"pot colors ^extend blue , red , red",1,0,DevelopmentNotes,pot colors extend blue red red
+586,ModelBase,metaclass for all models.,1,0,DevelopmentNotes,metaclass for all models
+68,AutoFieldMeta,a new flag needs,1,0,DevelopmentNotes,a new flag needs
+136,BaseCommand,prior to executing the command.,1,0,DevelopmentNotes,prior to executing the command
+4283,Adamax,"weight decay float, optional weight decay l2 penalty default 0",1,0,DevelopmentNotes,weight decay float optional weight decay l2 penalty default 0
+3393,Option,value.,1,0,DevelopmentNotes,value
+1161,TermColors,this class defines the escape sequences for all the standard ansi?,1,0,DevelopmentNotes,this class defines the escape sequences for all the standard ansi
+2359,_BZ2Proxy,this is actually,1,1,DevelopmentNotes,this is actually
+3536,ParseResults,month in result true,1,0,DevelopmentNotes,month in result true
+4297,AdaptiveMaxPool3d,"the output is of size d x h x w, for any input size.",1,0,DevelopmentNotes,the output is of size d x h x w for any input size
+64,AutoFieldMeta,create a non integer automatically generated field using column defaults,1,0,DevelopmentNotes,create a non integer automatically generated field using column defaults
+3162,MemcachedBytecodeCache,storing the information.,1,0,DevelopmentNotes,storing the information
+1597,BooleanArray,none,1,0,DevelopmentNotes,none
+1327,ConfigDict,invalidkeyerror invalid key for config evil,1,0,DevelopmentNotes,invalidkeyerror invalid key for config evil
+1163,TermColors,also defines a nocolor escape which is just the null,1,0,DevelopmentNotes,also defines a nocolor escape which is just the null
+3605,Path,"secondly, it can perform various",1,1,DevelopmentNotes,secondly it can perform various
+3411,Option,auto detection.,1,0,DevelopmentNotes,auto detection
+1593,BooleanArray,indicates missing .,1,0,DevelopmentNotes,indicates missing
+3176,MemcachedBytecodeCache,the minimal interface for the client passed to the constructor is this,1,0,DevelopmentNotes,the minimal interface for the client passed to the constructor is this
+1142,Struct,a dict subclass with attribute style access.,1,0,DevelopmentNotes,a dict subclass with attribute style access
+89,BaseCommand,derive.,1,0,DevelopmentNotes,derive
+3081,Markup,markup 42,1,1,DevelopmentNotes,markup 42
+1064,HelpEnd,transformer for help syntax obj?,1,0,DevelopmentNotes,transformer for help syntax obj
+4356,BatchNorm1d,"also by default, during training this layer keeps running estimates of its",1,0,DevelopmentNotes,also by default during training this layer keeps running estimates of its
+4386,BatchNorm1d,default true,1,0,DevelopmentNotes,default true
+3422,Option,param allow from autoenv if this is enabled then the value of this,1,0,DevelopmentNotes,param allow from autoenv if this is enabled then the value of this
+4106,TarFile,the tarfile class provides an interface to tar archives.,1,0,DevelopmentNotes,the tarfile class provides an interface to tar archives
+5358,MultiLabelMarginLoss,"elements in the output, sum the output will be summed.",1,0,DevelopmentNotes,elements in the output sum the output will be summed
+4280,Adamax,running averages of gradient and its square,1,0,DevelopmentNotes,running averages of gradient and its square
+4374,BatchNorm1d,args,1,0,DevelopmentNotes,args
+51,AtomicTests,the tests make assertions on internal attributes because there isn t a,1,0,DevelopmentNotes,the tests make assertions on internal attributes because there isn t a
+547,MigrationLoader,django^db.migrations^migration for what that looks like.,1,0,DevelopmentNotes,django db migrations migration for what that looks like
+88,BaseCommand,the base class from which all management commands ultimately,1,0,DevelopmentNotes,the base class from which all management commands ultimately
+1882,IntegerArray,"to construct an integerarray from generic array like input, use",1,1,DevelopmentNotes,to construct an integerarray from generic array like input use
+2491,CommandError,raised when there is an error in command line arguments,1,0,DevelopmentNotes,raised when there is an error in command line arguments
+1607,BooleanArray,"length 3, dtype boolean",1,0,DevelopmentNotes,length 3 dtype boolean
+4478,BCEWithLogitsLoss,this is used for measuring the error of a reconstruction in for example,1,0,DevelopmentNotes,this is used for measuring the error of a reconstruction in for example
+2408,Argument,arguments are positional parameters to a command.,1,0,DevelopmentNotes,arguments are positional parameters to a command
+3426,Option,param help the help string.,1,0,DevelopmentNotes,param help the help string
+1706,CategoricalIndex,"also,",1,0,DevelopmentNotes,also
+549,MigrationLoader,these are loaded into a separate set of migrations away from the main ones.,1,0,DevelopmentNotes,these are loaded into a separate set of migrations away from the main ones
+4388,BatchNorm1d,"module tracks the running mean and variance, and when set to false ,",1,0,DevelopmentNotes,module tracks the running mean and variance and when set to false
+5123,EmbeddingBag,"tensor 08861, 54350, 00523 ,",1,0,DevelopmentNotes,tensor 08861 54350 00523
+4147,_OpNamespace,"call this op, the user will write torch^ops.my namespace^my op .",1,1,DevelopmentNotes,call this op the user will write torch ops my namespace my op
+639,MultiValueField,"field, etc once all fields are cleaned, the list of clean values is",1,0,DevelopmentNotes,field etc once all fields are cleaned the list of clean values is

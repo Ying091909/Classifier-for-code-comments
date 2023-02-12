@@ -1,0 +1,519 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+2600,Environment,comments.,1,1,Parameters,comments
+4146,_OpNamespace,to,1,0,Parameters,to
+4313,AdaptiveMaxPool3d,m nn^adaptivemaxpool3d 7,1,0,Parameters,m nn adaptivemaxpool3d 7
+4474,BCEWithLogitsLoss,"ell x, y begin cases",1,0,Parameters,ell x y begin cases
+2583,Environment,the string marking the beginning of a print statement.,1,1,Parameters,the string marking the beginning of a print statement
+3244,Module_six_moves_urllib_response,lazy loading of moved objects in six^moves.urllib response,1,0,Parameters,lazy loading of moved objects in six moves urllib response
+1288,ConfigDict,examples,1,0,Parameters,examples
+3320,omdict,all dict methods that retain parity with omdict are,1,0,Parameters,all dict methods that retain parity with omdict are
+4215,Adadelta,params iterable iterable of parameters to optimize or dicts defining,1,1,Parameters,params iterable iterable of parameters to optimize or dicts defining
+2434,CallBlock,like a macro without a name but a call instead.,1,0,Parameters,like a macro without a name but a call instead
+109,BaseCommand,output produced by handle will be printed to standard,1,0,Parameters,output produced by handle will be printed to standard
+2389,And,name expr oneormore word alphas,1,0,Parameters,name expr oneormore word alphas
+2073,PlotAccessor,backend to use instead of the backend specified in the option,1,1,Parameters,backend to use instead of the backend specified in the option
+608,MultiValueDict,"d^get lastname , nonexistent",1,0,Parameters,d get lastname nonexistent
+2598,Environment,line comment prefix,1,1,Parameters,line comment prefix
+5211,ExternalInitializer,this class is used in cases when the parameter should not be initialized by,1,0,Parameters,this class is used in cases when the parameter should not be initialized by
+5301,Module,x f^relu self^conv1 x,1,0,Parameters,x f relu self conv1 x
+5223,FisherSnedecor,tensor 02453,1,0,Parameters,tensor 02453
+4318,AdaptiveMaxPool3d,"input torch^randn 1, 64, 10, 9, 8",1,0,Parameters,input torch randn 1 64 10 9 8
+3227,MethodDispatcher,"on initiation, keys that are lists, sets or tuples are converted to",1,0,Parameters,on initiation keys that are lists sets or tuples are converted to
+1574,BooleanArray,"this is a pandas extension array for boolean data, under the hood",1,0,Parameters,this is a pandas extension array for boolean data under the hood
+26,Atomic,a stack of savepoints identifiers is maintained as an attribute of the,1,0,Parameters,a stack of savepoints identifiers is maintained as an attribute of the
+4478,BCEWithLogitsLoss,this is used for measuring the error of a reconstruction in for example,1,0,Parameters,this is used for measuring the error of a reconstruction in for example
+5958,Response,server s response to an http request.,1,0,Parameters,server s response to an http request
+4675,ConstantPad3d,"if a 6 tuple , uses",1,1,Parameters,if a 6 tuple uses
+4117,TreeBuilder,documentclass the class to use for the bottommost node of a document,1,0,Parameters,documentclass the class to use for the bottommost node of a document
+92,BaseCommand,"response if you don t need to change any of that behavior,",1,0,Parameters,response if you don t need to change any of that behavior
+29,Atomic,this allows reentrancy even if the same atomicwrapper is reused.,1,0,Parameters,this allows reentrancy even if the same atomicwrapper is reused
+3181,MemcachedBytecodeCache,timeout the timeout of the key.,1,0,Parameters,timeout the timeout of the key
+1585,BooleanArray,booleanarray is considered experimental.,1,0,Parameters,booleanarray is considered experimental
+2359,_BZ2Proxy,this is actually,1,0,Parameters,this is actually
+3189,MemcachedBytecodeCache,exist in the cache the return value must be none .,1,0,Parameters,exist in the cache the return value must be none
+3265,NotAny,# take care not to mistake keywords for identifiers,1,0,Parameters,take care not to mistake keywords for identifiers
+1284,ConfigDict,configuration data can be nested by including a dictionary of further,1,0,Parameters,configuration data can be nested by including a dictionary of further
+3618,Path,"param resolve path if this is true, then the path is fully resolved",1,1,Parameters,param resolve path if this is true then the path is fully resolved
+5439,OneHotCategorical,attr logits .,1,0,Parameters,attr logits
+1669,CategoricalDtype,12:00 AM,1,0,Parameters,12 00 AM
+5258,LBFGS,lr float learning rate default 1,1,1,Parameters,lr float learning rate default 1
+3179,MemcachedBytecodeCache,stores the bytecode in the cache.,1,0,Parameters,stores the bytecode in the cache
+639,MultiValueField,"field, etc once all fields are cleaned, the list of clean values is",1,0,Parameters,field etc once all fields are cleaned the list of clean values is
+1294,ConfigDict,"water liters , int, 0 ,",1,0,Parameters,water liters int 0
+1644,CategoricalDtype,type for categorical data with the categories and orderedness.,1,0,Parameters,type for categorical data with the categories and orderedness
+4156,_OpNamespace,object.,1,0,Parameters,object
+67,AutoFieldMeta,automatically generated field as a subclass of autofield.,1,0,Parameters,automatically generated field as a subclass of autofield
+4273,Adamax,implements adamax algorithm a variant of adam based on infinity norm .,1,0,Parameters,implements adamax algorithm a variant of adam based on infinity norm
+1886,IntegerArray,values numpy^ndarray,1,1,Parameters,values numpy ndarray
+4734,Conv3d,"the parameters attr kernel size , attr stride , attr padding , attr dilation can either be",1,1,Parameters,the parameters attr kernel size attr stride attr padding attr dilation can either be
+5465,Poisson,"samples are nonnegative integers, with a pmf given by",1,0,Parameters,samples are nonnegative integers with a pmf given by
+1563,Base,get kwargs from breaks to the expected format.,1,0,Parameters,get kwargs from breaks to the expected format
+2652,Environment,loader,1,1,Parameters,loader
+4372,BatchNorm1d,"because the batch normalization is done over the c dimension, computing statistics",1,0,Parameters,because the batch normalization is done over the c dimension computing statistics
+3263,NotAny,example,1,0,Parameters,example
+3267,NotAny,boolean term optional not ident,1,0,Parameters,boolean term optional not ident
+3085,Markup,this implements the html interface that some frameworks,1,0,Parameters,this implements the html interface that some frameworks
+1059,GeoJSON,not an already serialized json string.,1,0,Parameters,not an already serialized json string
+5256,LBFGS,"try reducing the history size, or use a different algorithm.",1,0,Parameters,try reducing the history size or use a different algorithm
+5721,Unfold,"if attr kernel size , attr dilation , attr padding or",1,1,Parameters,if attr kernel size attr dilation attr padding or
+637,MultiValueField,this list is cleaned by the corresponding field the first value is,1,0,Parameters,this list is cleaned by the corresponding field the first value is
+610,MultiValueDict,"d^setlist lastname , holovaty , willison",1,0,Parameters,d setlist lastname holovaty willison
+84,BadSignature,signature does not match.,1,0,Parameters,signature does not match
+4315,AdaptiveMaxPool3d,output m input,1,0,Parameters,output m input
+4134,UnlockError,raise unlockerror,1,0,Parameters,raise unlockerror
+1306,ConfigDict,123,1,0,Parameters,123
+4249,Adam,algorithm from the paper on the convergence of adam and beyond,1,1,Parameters,algorithm from the paper on the convergence of adam and beyond
+4754,Conv3d,out channels int number of channels produced by the convolution,1,1,Parameters,out channels int number of channels produced by the convolution
+5199,Error,each error in the report has an error message and a backtrace.,1,0,Parameters,each error in the report has an error message and a backtrace
+4677,ConstantPad3d,"math text padding top , math text padding bottom ,",1,1,Parameters,math text padding top math text padding bottom
+3252,NoMatch,a token that will never match.,1,0,Parameters,a token that will never match
+4152,_OpNamespace,1,1,0,Parameters,1
+1599,BooleanArray,none,1,0,Parameters,none
+3273,NotAny,integer word nums char .,1,0,Parameters,integer word nums char
+2579,Environment,block end string,1,1,Parameters,block end string
+2235,SQLTable,uses fact that table is reflected by sqlalchemy to,1,0,Parameters,uses fact that table is reflected by sqlalchemy to
+4735,Conv3d,"a single int in which case the same value is used for the depth, height and width dimension",1,1,Parameters,a single int in which case the same value is used for the depth height and width dimension
+554,MigrationLoader,this does mean that this class must also talk to the database as well as,1,0,Parameters,this does mean that this class must also talk to the database as well as
+2624,Environment,extensions,1,1,Parameters,extensions
+927,Audio,url pointing to a file on the web.,1,1,Parameters,url pointing to a file on the web
+667,Operation,base class for migration operations.,1,0,Parameters,base class for migration operations
+3324,omdict,"items , keys , values , iteritems , iterkeys , itervalues ,",1,0,Parameters,items keys values iteritems iterkeys itervalues
+3338,omdict,"poplist , popvalue , popvalues , popitem , poplistitem ,",1,0,Parameters,poplist popvalue popvalues popitem poplistitem
+4116,TreeBuilder,base treebuilder implementation,1,0,Parameters,base treebuilder implementation
+518,MigrationGraph,"replacing migration, and repoint any dependencies that pointed to the",1,0,Parameters,replacing migration and repoint any dependencies that pointed to the
+515,MigrationGraph,"for these instead, the code to load them in here should examine the",1,0,Parameters,for these instead the code to load them in here should examine the
+22,Atomic,"exit commits the transaction or releases the savepoint on normal exit,",1,0,Parameters,exit commits the transaction or releases the savepoint on normal exit
+1592,BooleanArray,a 1 d boolean dtype array indicating missing values true,1,1,Parameters,a 1 d boolean dtype array indicating missing values true
+5327,MultiLabelMarginLoss,"text loss x, y sum ij frac max 0, 1 x y j x i text x^size 0",1,0,Parameters,text loss x y sum ij frac max 0 1 x y j x i text x size 0
+2391,And,# more easily written as,1,0,Parameters,more easily written as
+5333,MultiLabelMarginLoss,the criterion only considers a contiguous block of non negative targets that,1,0,Parameters,the criterion only considers a contiguous block of non negative targets that
+4756,Conv3d,"stride int or tuple, optional stride of the convolution.",1,1,Parameters,stride int or tuple optional stride of the convolution
+4368,BatchNorm1d,update rule for running statistics here is,1,0,Parameters,update rule for running statistics here is
+4671,ConstantPad3d,args,1,1,Parameters,args
+1332,ConfigDict,traceback most recent call last,1,0,Parameters,traceback most recent call last
+3627,Path,param path type optionally a string type that should be used to,1,1,Parameters,param path type optionally a string type that should be used to
+3101,Markup,markup em hello em &lt foo&gt,1,0,Parameters,markup em hello em lt foo gt
+1323,ConfigDict,traceback most recent call last,1,0,Parameters,traceback most recent call last
+1107,Magics,.,1,0,Parameters,nan
+5303,Module,"submodules assigned in this way will be registered, and will have their",1,0,Parameters,submodules assigned in this way will be registered and will have their
+3629,Path,the default is none which,1,1,Parameters,the default is none which
+1652,CategoricalDtype,"used in operations that combine categoricals, eg astype, and will resolve to",1,1,Parameters,used in operations that combine categoricals eg astype and will resolve to
+1671,CategoricalDtype,2:00 AM,1,0,Parameters,2 00 AM
+1704,CategoricalIndex,"categoricalindex, like categorical, can only take on a limited,",1,0,Parameters,categoricalindex like categorical can only take on a limited
+4221,Adadelta,"lr float, optional coefficient that scale delta before it is applied",1,1,Parameters,lr float optional coefficient that scale delta before it is applied
+2588,Environment,comment start string,1,1,Parameters,comment start string
+4392,BatchNorm1d,shape,1,0,Parameters,shape
+5254,LBFGS,param bytes history size 1 bytes .,1,0,Parameters,param bytes history size 1 bytes
+95,BaseCommand,"the command parsing and execution behavior, the normal flow works",1,0,Parameters,the command parsing and execution behavior the normal flow works
+2375,_MovedItems,lazy loading of moved objects,1,0,Parameters,lazy loading of moved objects
+2061,PlotAccessor,table.,1,1,Parameters,table
+1853,ExcelFile,"if a string or path object, expected to be a path to xls, xlsx or odf file.",1,1,Parameters,if a string or path object expected to be a path to xls xlsx or odf file
+2361,_BZ2Proxy,class which unlike gzip^gzipfile has no support for,1,0,Parameters,class which unlike gzip gzipfile has no support for
+1314,ConfigDict,0,1,0,Parameters,0
+5267,LBFGS,history size int update history size default 100 .,1,1,Parameters,history size int update history size default 100
+5489,QuantWrapper,modules.,1,0,Parameters,modules
+546,MigrationLoader,see,1,0,Parameters,see
+5325,MultiLabelMarginLoss,for each sample in the mini batch,1,0,Parameters,for each sample in the mini batch
+1308,ConfigDict,99,1,0,Parameters,99
+129,BaseCommand,default value is,1,1,Parameters,default value is
+2412,Argument,all parameters are passed onwards to the parameter constructor.,1,0,Parameters,all parameters are passed onwards to the parameter constructor
+4128,UndefinedEnvironmentName,a name was attempted to be used that does not exist inside of the,1,0,Parameters,a name was attempted to be used that does not exist inside of the
+1055,DummyMod,a namespace must be assigned to the module s dict .,1,0,Parameters,a namespace must be assigned to the module s dict
+1064,HelpEnd,transformer for help syntax obj?,1,0,Parameters,transformer for help syntax obj
+5709,Unfold,args,1,1,Parameters,args
+1300,ConfigDict,"sorted pot^keys , sorted pot^values",1,0,Parameters,sorted pot keys sorted pot values
+4462,BCEWithLogitsLoss,this version is more numerically stable than using a plain sigmoid,1,0,Parameters,this version is more numerically stable than using a plain sigmoid
+62,AutoFieldMeta,metaclass to maintain backward inheritance compatibility for autofield.,1,0,Parameters,metaclass to maintain backward inheritance compatibility for autofield
+1577,BooleanArray,booleanarray implements kleene logic sometimes called three value,1,0,Parameters,booleanarray implements kleene logic sometimes called three value
+2572,Environment,they are not shared and if no template was loaded so far.,1,1,Parameters,they are not shared and if no template was loaded so far
+5293,Module,import torch^nn.functional as f,1,0,Parameters,import torch nn functional as f
+2408,Argument,arguments are positional parameters to a command.,1,0,Parameters,arguments are positional parameters to a command
+4247,Adam,"weight decay float, optional weight decay l2 penalty default 0",1,1,Parameters,weight decay float optional weight decay l2 penalty default 0
+612,MultiValueDict,"which returns a list for every key, even though most web forms submit",1,0,Parameters,which returns a list for every key even though most web forms submit
+91,BaseCommand,parse the command line arguments and work out what code to call in,1,0,Parameters,parse the command line arguments and work out what code to call in
+4370,BatchNorm1d,where math hat x is the estimated statistic and math x t is the,1,0,Parameters,where math hat x is the estimated statistic and math x t is the
+2378,_PathParents,of a path.,1,0,Parameters,of a path
+117,BaseCommand,subclasses many built in commands and command types either place,1,0,Parameters,subclasses many built in commands and command types either place
+3631,Path,unicode depending on what makes most sense given the,1,1,Parameters,unicode depending on what makes most sense given the
+593,MultiPartParser,multivaluedict^parse reads the input stream in chunk size chunks,1,0,Parameters,multivaluedict parse reads the input stream in chunk size chunks
+5931,InvalidHeader,the header value provided was somehow invalid.,1,0,Parameters,the header value provided was somehow invalid
+5252,LBFGS,note,1,0,Parameters,note
+3322,omdict,"clear , copy , update , fromkeys , len",1,0,Parameters,clear copy update fromkeys len
+613,MultiValueDict,single name value pairs.,1,0,Parameters,single name value pairs
+550,MigrationLoader,if all the migrations they replace are either unapplied or missing from,1,0,Parameters,if all the migrations they replace are either unapplied or missing from
+1597,BooleanArray,none,1,0,Parameters,none
+4296,AdaptiveMaxPool3d,applies a 3d adaptive max pooling over an input signal composed of several input planes.,1,0,Parameters,applies a 3d adaptive max pooling over an input signal composed of several input planes
+1335,ConfigDict,traceback most recent call last,1,0,Parameters,traceback most recent call last
+5468,Poisson,example,1,0,Parameters,example
+20,Atomic,"when it s used as a context manager, enter creates a transaction or a",1,0,Parameters,when it s used as a context manager enter creates a transaction or a
+919,Audio,numpy 1d array containing the desired waveform mono,1,1,Parameters,numpy 1d array containing the desired waveform mono
+589,ModelSignal,of the app label^modelname form.,1,0,Parameters,of the app label modelname form
+1115,Magics,methods are properly registered at the instance level upon instance,1,0,Parameters,methods are properly registered at the instance level upon instance
+633,MultiValueField,aggregate the logic of multiple fields.,1,0,Parameters,aggregate the logic of multiple fields
+4118,TreeBuilder,elementclass the class to use for html elements,1,0,Parameters,elementclass the class to use for html elements
+1580,BooleanArray,"to construct an booleanarray from generic array like input, use",1,0,Parameters,to construct an booleanarray from generic array like input use
+1709,CategoricalIndex,are not possible.,1,0,Parameters,are not possible
+3099,Markup,markup em foo &amp bar em,1,0,Parameters,markup em foo amp bar em
+3187,MemcachedBytecodeCache,returns the value for the cache key.,1,0,Parameters,returns the value for the cache key
+3229,MethodDispatcher,list like object returns the matching value,1,0,Parameters,list like object returns the matching value
+5719,Unfold,neighborhood.,1,1,Parameters,neighborhood
+130,BaseCommand,false .,1,1,Parameters,false
+2425,Bucket,the buckets get an internal checksum from the cache assigned and use this,1,0,Parameters,the buckets get an internal checksum from the cache assigned and use this
+5490,QuantWrapper,this is used by the quantization utility functions to add the quant and,1,0,Parameters,this is used by the quantization utility functions to add the quant and
+1657,CategoricalDtype,methods,1,0,Parameters,methods
+115,BaseCommand,message to stderr .,1,0,Parameters,message to stderr
+4160,_OpNamespace,"torch^get operation , a function bound from c , and then in a similar",1,0,Parameters,torch get operation a function bound from c and then in a similar
+1733,CategoricalIndex,attributes,1,0,Parameters,attributes
+1673,CategoricalDtype,dtype category,1,0,Parameters,dtype category
+5,AmbiguityError,more than one migration matches a name prefix.,1,0,Parameters,more than one migration matches a name prefix
+3605,Path,"secondly, it can perform various",1,1,Parameters,secondly it can perform various
+1292,ConfigDict,", int, 99 ,",1,0,Parameters,int 99
+54,AtomicTests,"implementation , there are only a few basic tests with the decorator",1,0,Parameters,implementation there are only a few basic tests with the decorator
+1553,AccessorCallableDocumenter,call from the method signature for,1,0,Parameters,call from the method signature for
+2385,And,"may also be constructed using the operator, which will",1,0,Parameters,may also be constructed using the operator which will
+4254,Adam,https openreview^net forum?id ryqu7f rz,1,0,Parameters,https openreview net forum id ryqu7f rz
+5705,Unfold,sides for attr padding number of points for each dimension before,1,1,Parameters,sides for attr padding number of points for each dimension before
+1665,CategoricalDtype,for more.,1,0,Parameters,for more
+635,MultiValueField,cleaned into a single value according to self^fields.,1,0,Parameters,cleaned into a single value according to self fields
+2599,Environment,"if given and a string, this will be used as prefix for line based",1,1,Parameters,if given and a string this will be used as prefix for line based
+5299,Module,"self^conv2 nn^conv2d 20, 20, 5",1,0,Parameters,self conv2 nn conv2d 20 20 5
+1558,AccessorDocumenter,specialized documenter subclass for accessors.,1,0,Parameters,specialized documenter subclass for accessors
+5717,Unfold,"dilation int or tuple, optional a parameter that controls the",1,1,Parameters,dilation int or tuple optional a parameter that controls the
+1575,BooleanArray,represented by 2 numpy arrays a boolean array with the data and,1,0,Parameters,represented by 2 numpy arrays a boolean array with the data and
+5707,Unfold,attr dilation controls the spacing between the kernel points also known as the trous algorithm.,1,1,Parameters,attr dilation controls the spacing between the kernel points also known as the trous algorithm
+1302,ConfigDict,pot potatoes pot liquids vodka 123,1,0,Parameters,pot potatoes pot liquids vodka 123
+14,ArchiveIndexView,top level archive of date based items.,1,0,Parameters,top level archive of date based items
+3076,Markup,it to mark it safe without escaping.,1,1,Parameters,it to mark it safe without escaping
+656,MultiWidget,adds a list of subwidgets to the context as widget subwidgets .,1,0,Parameters,adds a list of subwidgets to the context as widget subwidgets
+3090,Markup,def html self,1,0,Parameters,def html self
+933,Audio,filename unicode,1,1,Parameters,filename unicode
+24,Atomic,it s possible to disable the creation of savepoints if the goal is to,1,0,Parameters,it s possible to disable the creation of savepoints if the goal is to
+4243,Adam,"betas tuple float, float , optional coefficients used for computing",1,1,Parameters,betas tuple float float optional coefficients used for computing
+3097,Markup,all methods escape their arguments and return a markup instance.,1,0,Parameters,all methods escape their arguments and return a markup instance
+4213,Adadelta,it has been proposed in adadelta an adaptive learning rate method .,1,0,Parameters,it has been proposed in adadelta an adaptive learning rate method
+5260,LBFGS,default 20,1,1,Parameters,default 20
+90,BaseCommand,use this class if you want access to all of the mechanisms which,1,0,Parameters,use this class if you want access to all of the mechanisms which
+139,BaseCommand,"rather than all applications models, call",1,1,Parameters,rather than all applications models call
+3387,Option,all other parameters are passed onwards to the parameter constructor.,1,0,Parameters,all other parameters are passed onwards to the parameter constructor
+400,IntFromGeom,"argument is a geometry, return type is an integer.",1,1,Parameters,argument is a geometry return type is an integer
+4737,Conv3d,the second int for the height dimension and the third int for the width dimension,1,1,Parameters,the second int for the height dimension and the third int for the width dimension
+583,MigrationWriter,of the migration file from it.,1,0,Parameters,of the migration file from it
+5493,QuantWrapper,will be swapped to nnq^quantize which does actual quantization.,1,0,Parameters,will be swapped to nnq quantize which does actual quantization
+1707,CategoricalIndex,"like categorical, it might have an order, but numerical operations",1,0,Parameters,like categorical it might have an order but numerical operations
+1663,CategoricalDtype,independent of the values.,1,0,Parameters,independent of the values
+3295,NotMyLock,try,1,0,Parameters,try
+1111,Magics,must,1,0,Parameters,must
+3191,MemcachedBytecodeCache,is added before the actual cache key and the timeout for the bytecode in,1,0,Parameters,is added before the actual cache key and the timeout for the bytecode in
+2586,Environment,the string marking the end of a print statement.,1,1,Parameters,the string marking the end of a print statement
+5655,TransformerEncoderLayer,dim feedforward the dimension of the feedforward network model default 2048 .,1,1,Parameters,dim feedforward the dimension of the feedforward network model default 2048
+2585,Environment,variable end string,1,1,Parameters,variable end string
+2638,Environment,expression before it is output.,1,1,Parameters,expression before it is output
+5446,OneHotCategorical,"m onehotcategorical torch^tensor 025, 025, 025, 025",1,0,Parameters,m onehotcategorical torch tensor 025 025 025 025
+3673,PoolManager,param connection pool kw,1,1,Parameters,param connection pool kw
+3269,NotAny,"# operation hierarchy, use infixnotation",1,0,Parameters,operation hierarchy use infixnotation
+2658,Environment,out the least recently used template.,1,1,Parameters,out the least recently used template
+5491,QuantWrapper,"dequant modules, before convert function quantstub will just be observer,",1,0,Parameters,dequant modules before convert function quantstub will just be observer
+4398,BatchNorm1d,# without learnable parameters,1,0,Parameters,without learnable parameters
+134,BaseCommand,requires system checks,1,1,Parameters,requires system checks
+1851,ExcelFile,"path^local.localpath ,",1,1,Parameters,path local localpath
+4241,Adam,parameter groups,1,1,Parameters,parameter groups
+2612,Environment,newline sequence,1,1,Parameters,newline sequence
+2410,Argument,provide fewer features than options but can have infinite nargs,1,0,Parameters,provide fewer features than options but can have infinite nargs
+4344,BaseTestCase,base class used for all tensorboard tests,1,0,Parameters,base class used for all tensorboard tests
+1275,ConfigDict,a human readable description of what the variable is,1,1,Parameters,a human readable description of what the variable is
+5196,EnforceUnique,raises an error if a key is seen more than once.,1,0,Parameters,raises an error if a key is seen more than once
+931,Audio,url unicode,1,1,Parameters,url unicode
+1068,HistoryAccessor,access the history database without adding to it.,1,0,Parameters,access the history database without adding to it
+3261,NotAny,a null token list.,1,0,Parameters,a null token list
+3628,Path,represent the path.,1,1,Parameters,represent the path
+52,AtomicTests,robust way to ask the database for its current transaction state.,1,0,Parameters,robust way to ask the database for its current transaction state
+4401,BatchNorm1d,output m input,1,0,Parameters,output m input
+2090,PlotAccessor,from 0 left bottom end to 1 right top end .,1,1,Parameters,from 0 left bottom end to 1 right top end
+1603,BooleanArray,create an booleanarray with func pandas^array,1,0,Parameters,create an booleanarray with func pandas array
+2069,PlotAccessor,labels with right in the legend.,1,1,Parameters,labels with right in the legend
+50,AtomicTests,tests for the atomic decorator and context manager.,1,0,Parameters,tests for the atomic decorator and context manager
+27,Atomic,connection.,1,0,Parameters,connection
+4356,BatchNorm1d,"also by default, during training this layer keeps running estimates of its",1,0,Parameters,also by default during training this layer keeps running estimates of its
+3326,omdict,"added parameters are optional, existing use remains unaffected.",1,0,Parameters,added parameters are optional existing use remains unaffected
+5219,FisherSnedecor,creates a fisher snedecor distribution parameterized by attr df1 and attr df2 .,1,0,Parameters,creates a fisher snedecor distribution parameterized by attr df1 and attr df2
+1640,BusinessMixin,mixin to business types to provide related functions.,1,0,Parameters,mixin to business types to provide related functions
+4718,Conv3d,attr padding controls the amount of implicit zero paddings on both,1,1,Parameters,attr padding controls the amount of implicit zero paddings on both
+5494,QuantWrapper,similarly,1,0,Parameters,similarly
+3073,Markup,"document, either because it was escaped or because it was marked",1,0,Parameters,document either because it was escaped or because it was marked
+1857,ExcelFile,note that odf reads tables out of opendocument formatted files.,1,1,Parameters,note that odf reads tables out of opendocument formatted files
+1561,Base,input data,1,0,Parameters,input data
+1304,ConfigDict,123,1,0,Parameters,123
+2,AccessMixin,functionality.,1,0,Parameters,functionality
+3669,PoolManager,recently used pool.,1,1,Parameters,recently used pool
+5431,NetModifier,modifier net,1,0,Parameters,modifier net
+1425,ConfigureMailboxes,"if not account is specified, the mailbox is only assigned an id for use",1,0,Parameters,if not account is specified the mailbox is only assigned an id for use
+3078,Markup,meth escape class method instead.,1,1,Parameters,meth escape class method instead
+1607,BooleanArray,"length 3, dtype boolean",1,0,Parameters,length 3 dtype boolean
+2057,PlotAccessor,"table bool, series or dataframe, default false",1,1,Parameters,table bool series or dataframe default false
+4150,_OpNamespace,"instead, the",1,0,Parameters,instead the
+4308,AdaptiveMaxPool3d,# target output size of 5x7x9,1,0,Parameters,target output size of 5x7x9
+1286,ConfigDict,"if the default value is an empty list, it is assumed to be a list of",1,0,Parameters,if the default value is an empty list it is assumed to be a list of
+5441,OneHotCategorical,"note attr probs must be non negative, finite and have a non zero sum,",1,0,Parameters,note attr probs must be non negative finite and have a non zero sum
+5936,PreparedRequest,usage,1,0,Parameters,usage
+4144,_OpNamespace,an op namespace to dynamically bind operators into python.,1,0,Parameters,an op namespace to dynamically bind operators into python
+1098,LazyEvaluate,"at that time, such as the current time or working directory.",1,0,Parameters,at that time such as the current time or working directory
+1281,ConfigDict,to be dictionaries or lists of items that match the rules defined.,1,0,Parameters,to be dictionaries or lists of items that match the rules defined
+1095,IPythonInputSplitter,an input splitter that recognizes all of ipython s special syntax.,1,0,Parameters,an input splitter that recognizes all of ipython s special syntax
+519,MigrationGraph,replaced migrations to point to the replacing one.,1,0,Parameters,replaced migrations to point to the replacing one
+1855,ExcelFile,"if io is not a buffer or path, this must be set to identify io.",1,1,Parameters,if io is not a buffer or path this must be set to identify io
+88,BaseCommand,the base class from which all management commands ultimately,1,0,Parameters,the base class from which all management commands ultimately
+5265,LBFGS,tolerance change float termination tolerance on function,1,1,Parameters,tolerance change float termination tolerance on function
+4396,BatchNorm1d,# with learnable parameters,1,0,Parameters,with learnable parameters
+4722,Conv3d,attr groups controls the connections between inputs and outputs.,1,1,Parameters,attr groups controls the connections between inputs and outputs
+3193,MemcachedBytecodeCache,we recommend a high or no timeout.,1,0,Parameters,we recommend a high or no timeout
+520,MigrationGraph,"a node should be a tuple app path, migration name .",1,1,Parameters,a node should be a tuple app path migration name
+107,BaseCommand,the execute method attempts to carry out the command by,1,0,Parameters,the execute method attempts to carry out the command by
+5427,NetModifier,inherited classes should implement the modify net method where,1,0,Parameters,inherited classes should implement the modify net method where
+4460,BCEWithLogitsLoss,this loss combines a sigmoid layer and the bceloss in one single,1,0,Parameters,this loss combines a sigmoid layer and the bceloss in one single
+2077,PlotAccessor,"specify the plotting^backend for the whole session, set",1,1,Parameters,specify the plotting backend for the whole session set
+1321,ConfigDict,123,1,0,Parameters,123
+2616,Environment,the default is n which is a,1,1,Parameters,the default is n which is a
+5371,MultiLabelMarginLoss,"x torch^floattensor 01, 02, 04, 08",1,0,Parameters,x torch floattensor 01 02 04 08
+2387,And,example,1,0,Parameters,example
+1646,CategoricalDtype,parameters,1,1,Parameters,parameters
+2053,PlotAccessor,specify relative alignments for bar plot layout.,1,1,Parameters,specify relative alignments for bar plot layout
+2049,PlotAccessor,"colorbar bool, optional",1,1,Parameters,colorbar bool optional
+611,MultiValueDict,"this class exists to solve the irritating problem raised by cgi^parse qs,",1,0,Parameters,this class exists to solve the irritating problem raised by cgi parse qs
+4752,Conv3d,args,1,1,Parameters,args
+105,BaseCommand,passing the parsed arguments.,1,0,Parameters,passing the parsed arguments
+3081,Markup,markup 42,1,0,Parameters,markup 42
+4120,TreeBuilder,doctypeclass the class to use for doctypes,1,0,Parameters,doctypeclass the class to use for doctypes
+3620,Path,this means,1,1,Parameters,this means
+3312,omdict,"dictionary, self.",1,0,Parameters,dictionary self
+2620,Environment,preserve the trailing newline when rendering templates.,1,1,Parameters,preserve the trailing newline when rendering templates
+2602,Environment,versionadded 22,1,1,Parameters,versionadded 22
+141,BaseCommand,is the list of application s configuration provided by the,1,1,Parameters,is the list of application s configuration provided by the
+3336,omdict,"load , size , reverse ,",1,0,Parameters,load size reverse
+1550,AbstractHolidayCalendar,abstract interface to create holidays following certain rules.,1,0,Parameters,abstract interface to create holidays following certain rules
+5373,MultiLabelMarginLoss,"y torch^longtensor 3, 0, 1, 1",1,0,Parameters,y torch longtensor 3 0 1 1
+3614,Path,param file okay controls if a file is a possible value.,1,1,Parameters,param file okay controls if a file is a possible value
+5505,ResNetBuilder,helper class for constructing residual blocks.,1,0,Parameters,helper class for constructing residual blocks
+1650,CategoricalDtype,whether or not this categorical is treated as a ordered categorical.,1,1,Parameters,whether or not this categorical is treated as a ordered categorical
+5713,Unfold,default 1,1,1,Parameters,default 1
+1078,InteractiveShellApp,as part of configuring a shell environment.,1,0,Parameters,as part of configuring a shell environment
+3670,PoolManager,param headers,1,1,Parameters,param headers
+4673,ConstantPad3d,"if is int , uses the same",1,1,Parameters,if is int uses the same
+2576,Environment,block start string,1,1,Parameters,block start string
+1850,ExcelFile,"io str, path object pathlib^path or py.",1,1,Parameters,io str path object pathlib path or py
+3314,omdict,"linked list node references, one for each value associated with that key.",1,0,Parameters,linked list node references one for each value associated with that key
+2225,SetopCheck,to perform the type check in advance.,1,0,Parameters,to perform the type check in advance
+3667,PoolManager,param num pools,1,1,Parameters,param num pools
+4252,Adam,https arxiv^org abs 14126980,1,0,Parameters,https arxiv org abs 14126980
+1296,ConfigDict,",",1,0,Parameters,nan
+103,BaseCommand,any environment changes requested by options like,1,0,Parameters,any environment changes requested by options like
+5263,LBFGS,tolerance grad float termination tolerance on first order optimality,1,1,Parameters,tolerance grad float termination tolerance on first order optimality
+1132,MyFrame,this is myframe.,1,0,Parameters,this is myframe
+3310,omdict,items.,1,0,Parameters,items
+3674,PoolManager,additional parameters are used to create fresh,1,1,Parameters,additional parameters are used to create fresh
+89,BaseCommand,derive.,1,0,Parameters,derive
+2080,PlotAccessor,kwargs,1,1,Parameters,kwargs
+2622,Environment,"if present, to be stripped from the end of the template.",1,1,Parameters,if present to be stripped from the end of the template
+69,AutoFieldMeta,to be implemented on field to be used instead.,1,0,Parameters,to be implemented on field to be used instead
+1298,ConfigDict,"x x , str, , ,",1,0,Parameters,x x str
+2601,Environment,see also ref line statements .,1,1,Parameters,see also ref line statements
+586,ModelBase,metaclass for all models.,1,0,Parameters,metaclass for all models
+5488,QuantWrapper,dequantstub and surround the call to module with call to quant and dequant,1,0,Parameters,dequantstub and surround the call to module with call to quant and dequant
+4678,ConstantPad3d,"math text padding front , math text padding back",1,1,Parameters,math text padding front math text padding back
+5289,Module,"modules can also contain other modules, allowing to nest them in",1,0,Parameters,modules can also contain other modules allowing to nest them in
+4362,BatchNorm1d,"keep running estimates, and batch statistics are instead used during",1,0,Parameters,keep running estimates and batch statistics are instead used during
+4148,_OpNamespace,.,1,0,Parameters,nan
+4238,Adam,it has been proposed in adam a method for stochastic optimization .,1,0,Parameters,it has been proposed in adam a method for stochastic optimization
+5724,Unfold,for the case of two input spatial dimensions this operation is sometimes,1,1,Parameters,for the case of two input spatial dimensions this operation is sometimes
+4720,Conv3d,attr dilation controls the spacing between the kernel points also known as the trous algorithm.,1,1,Parameters,attr dilation controls the spacing between the kernel points also known as the trous algorithm
+5226,FisherSnedecor,df2 float or tensor degrees of freedom parameter 2,1,1,Parameters,df2 float or tensor degrees of freedom parameter 2
+2210,SelectNSeries,implement n largest smallest for series,1,0,Parameters,implement n largest smallest for series
+3259,NotAny,not skip over leading whitespace.,1,0,Parameters,not skip over leading whitespace
+3306,omdict,key.,1,0,Parameters,key
+5121,EmbeddingBag,"offsets torch^longtensor 0,4",1,0,Parameters,offsets torch longtensor 0 4
+1070,HistoryAccessor,ipython shells use,1,0,Parameters,ipython shells use
+1581,BooleanArray,func pandas^array specifying dtype boolean see examples,1,0,Parameters,func pandas array specifying dtype boolean see examples
+1109,Magics,.,1,0,Parameters,nan
+5238,LastNWindowCollector,this layer is not thread safe.,1,0,Parameters,this layer is not thread safe
+1341,ConfigDict,TRUE,1,0,Parameters,TRUE
+4165,_OpNamespace,and subsequent accesses will incur no further lookup the namespace and,1,0,Parameters,and subsequent accesses will incur no further lookup the namespace and
+4480,BCEWithLogitsLoss,note that the targets t i should be numbers,1,0,Parameters,note that the targets t i should be numbers
+1655,CategoricalDtype,categories,1,0,Parameters,categories
+2071,PlotAccessor,"if true, boolean values can be plotted.",1,1,Parameters,if true boolean values can be plotted
+654,MultiWidget,a widget that is composed of multiple widgets.,1,0,Parameters,a widget that is composed of multiple widgets
+1048,DisplayHook,the custom ipython displayhook to replace sys^displayhook.,1,0,Parameters,the custom ipython displayhook to replace sys displayhook
+4108,Token,token class.,1,0,Parameters,token class
+3332,omdict,"name interact with lists of values, and methods with all in their name",1,0,Parameters,name interact with lists of values and methods with all in their name
+3257,NotAny,does not match at the current position.,1,0,Parameters,does not match at the current position
+3248,NativeEnvironment,an environment that renders templates to native python types.,1,0,Parameters,an environment that renders templates to native python types
+3604,Path,handle it returns just the filename.,1,1,Parameters,handle it returns just the filename
+2642,Environment,if set to true the xml html autoescaping feature is enabled by,1,1,Parameters,if set to true the xml html autoescaping feature is enabled by
+2357,_BZ2Proxy,small proxy class that enables external file object,1,0,Parameters,small proxy class that enables external file object
+3185,MemcachedBytecodeCache,item should exist.,1,0,Parameters,item should exist
+5369,MultiLabelMarginLoss,examples,1,0,Parameters,examples
+1050,DisplayHook,that gets called anytime user code returns a value.,1,0,Parameters,that gets called anytime user code returns a value
+5470,Poisson,m^sample,1,0,Parameters,m sample
+1316,ConfigDict,pot colors,1,0,Parameters,pot colors
+4298,AdaptiveMaxPool3d,the number of output features is equal to the number of input planes.,1,0,Parameters,the number of output features is equal to the number of input planes
+4366,BatchNorm1d,classes and the conventional notion of momentum.,1,0,Parameters,classes and the conventional notion of momentum
+3086,Markup,use.,1,0,Parameters,use
+663,MyModel,model subclass with a custom base using metaclass.,1,0,Parameters,model subclass with a custom base using metaclass
+5934,PreparedRequest,containing the exact bytes that will be sent to the server.,1,0,Parameters,containing the exact bytes that will be sent to the server
+2655,Environment,the size of the cache.,1,1,Parameters,the size of the cache
+5657,TransformerEncoderLayer,"activation the activation function of intermediate layer, relu or gelu default relu .",1,1,Parameters,activation the activation function of intermediate layer relu or gelu default relu
+2662,Environment,versionchanged 28,1,1,Parameters,versionchanged 28
+5495,QuantWrapper,for dequantstub .,1,0,Parameters,for dequantstub
+4351,BatchNorm1d,the mean and standard deviation are calculated per dimension over,1,0,Parameters,the mean and standard deviation are calculated per dimension over
+1337,ConfigDict,pot^rules potatoes,1,0,Parameters,pot rules potatoes
+5334,MultiLabelMarginLoss,starts at the front.,1,0,Parameters,starts at the front
+4248,Adam,"amsgrad boolean, optional whether to use the amsgrad variant of this",1,1,Parameters,amsgrad boolean optional whether to use the amsgrad variant of this
+1082,InteractiveShellApp,meth init shell to be implemented by the subclass,1,0,Parameters,meth init shell to be implemented by the subclass
+65,AutoFieldMeta,stored in the database.,1,0,Parameters,stored in the database
+4394,BatchNorm1d,"output math n, c or math n, c, l same shape as input",1,0,Parameters,output math n c or math n c l same shape as input
+3087,Markup,passing an object that implements html will wrap the,1,0,Parameters,passing an object that implements html will wrap the
+552,MigrationLoader,any dependency pointers to the replaced migrations are re pointed to the,1,0,Parameters,any dependency pointers to the replaced migrations are re pointed to the
+2067,PlotAccessor,"mark right bool, default true",1,1,Parameters,mark right bool default true
+2065,PlotAccessor,"xerr dataframe, series, array like, dict and str",1,1,Parameters,xerr dataframe series array like dict and str
+4158,_OpNamespace,torch^ops.my namespace^my op will then invoke getattr on,1,0,Parameters,torch ops my namespace my op will then invoke getattr on
+2445,CaseInsensitiveDict,all keys are expected to be strings.,1,0,Parameters,all keys are expected to be strings
+5487,QuantWrapper,"a wrapper class that wraps the input module, adds quantstub and",1,0,Parameters,a wrapper class that wraps the input module adds quantstub and
+1326,ConfigDict,traceback most recent call last,1,0,Parameters,traceback most recent call last
+2640,Environment,none implicitly into an empty string here.,1,1,Parameters,none implicitly into an empty string here
+5372,MultiLabelMarginLoss,"# for target y, only consider labels 3 and 0, not after label 1",1,0,Parameters,for target y only consider labels 3 and 0 not after label 1
+3304,omdict,ordered multivalue dictionary.,1,0,Parameters,ordered multivalue dictionary
+5711,Unfold,"stride int or tuple, optional the stride of the sliding blocks in the input",1,1,Parameters,stride int or tuple optional the stride of the sliding blocks in the input
+4119,TreeBuilder,commentclass the class to use for comments,1,0,Parameters,commentclass the class to use for comments
+2630,Environment,optimized,1,1,Parameters,optimized
+1044,CapturingDisplayPublisher,a displaypublisher that store,1,0,Parameters,a displaypublisher that store
+1080,InteractiveShellApp,of the subclass,1,0,Parameters,of the subclass
+3671,PoolManager,"headers to include with all requests, unless other headers are given",1,1,Parameters,headers to include with all requests unless other headers are given
+3297,NotMyLock,except unlockerror,1,0,Parameters,except unlockerror
+3161,MemcachedBytecodeCache,this class implements a bytecode cache that uses a memcache cache for,1,0,Parameters,this class implements a bytecode cache that uses a memcache cache for
+5429,NetModifier,example usage,1,0,Parameters,example usage
+925,Audio,string containing the filename,1,1,Parameters,string containing the filename
+5444,OneHotCategorical,attr probs and attr logits .,1,0,Parameters,attr probs and attr logits
+1667,CategoricalDtype,"t pd^categoricaldtype categories b , a , ordered true",1,0,Parameters,t pd categoricaldtype categories b a ordered true
+4154,_OpNamespace,"on the torch^ops object, which will create a new opnamespace",1,0,Parameters,on the torch ops object which will create a new opnamespace
+2423,Bucket,it s created,1,0,Parameters,it s created
+3601,Path,the path type is similar to the class file type but it performs,1,1,Parameters,the path type is similar to the class file type but it performs
+921,Audio,"shape nchan, nsamples .",1,1,Parameters,shape nchan nsamples
+5376,MultiLabelMarginLoss,tensor 08500,1,0,Parameters,tensor 08500
+18,Atomic,"when it s used as a decorator, call wraps the execution of the",1,0,Parameters,when it s used as a decorator call wraps the execution of the
+3617,Path,"param readable if true, a readable check is performed.",1,1,Parameters,param readable if true a readable check is performed
+548,MigrationLoader,some migrations will be marked as replacing another set of migrations.,1,0,Parameters,some migrations will be marked as replacing another set of migrations
+5123,EmbeddingBag,"tensor 08861, 54350, 00523 ,",1,0,Parameters,tensor 08861 54350 00523
+3082,Markup,markup 42,1,0,Parameters,markup 42
+1312,ConfigDict,", vodka",1,0,Parameters,vodka
+798,StaticFilesHandler,"defined by the static url setting, and serves those files.",1,1,Parameters,defined by the static url setting and serves those files
+63,AutoFieldMeta,it is intended that autofieldmixin become public api when it is possible to,1,0,Parameters,it is intended that autofieldmixin become public api when it is possible to
+2059,PlotAccessor,will be transposed to meet matplotlib s default layout.,1,1,Parameters,will be transposed to meet matplotlib s default layout
+3340,omdict,"iterallitems , iterallkeys , iterallvalues , iterlists ,",1,0,Parameters,iterallitems iterallkeys iterallvalues iterlists
+2589,Environment,the string marking the beginning of a comment.,1,1,Parameters,the string marking the beginning of a comment
+3318,omdict,object can be replaced with an omdict object and all interaction will,1,0,Parameters,object can be replaced with an omdict object and all interaction will
+2237,SQLTable,also holds various flags needed to avoid having to,1,0,Parameters,also holds various flags needed to avoid having to
+3615,Path,param dir okay controls if a directory is a possible value.,1,1,Parameters,param dir okay controls if a directory is a possible value
+1339,ConfigDict,", type int , 0",1,0,Parameters,type int 0
+3177,MemcachedBytecodeCache,class minimalclientinterface,1,0,Parameters,class minimalclientinterface
+2370,_FileInFile,provides a part of its data as an individual file,1,0,Parameters,provides a part of its data as an individual file
+917,Audio,"data numpy array, list, unicode, str or bytes",1,1,Parameters,data numpy array list unicode str or bytes
+2383,And,expressions may be separated by whitespace.,1,0,Parameters,expressions may be separated by whitespace
+3079,Markup,"markup hello, em world em !",1,0,Parameters,markup hello em world em
+2587,Environment,defaults to,1,1,Parameters,defaults to
+2420,BrokenStdoutLoggingError,raised if brokenpipeerror occurs for the stdout stream while logging.,1,0,Parameters,raised if brokenpipeerror occurs for the stdout stream while logging
+2636,Environment,finalize,1,1,Parameters,finalize
+2063,PlotAccessor,see ref plotting with error bars visualization^errorbars for,1,1,Parameters,see ref plotting with error bars visualization errorbars for
+1310,ConfigDict,123,1,0,Parameters,123
+4212,Adadelta,implements adadelta algorithm.,1,0,Parameters,implements adadelta algorithm
+1890,IntegerArray,"copy bool, default false",1,1,Parameters,copy bool default false
+3165,MemcachedBytecodeCache,the minimal interface required.,1,0,Parameters,the minimal interface required
+3308,omdict,retains the order of insertions and deletions.,1,0,Parameters,retains the order of insertions and deletions
+598,MultiValueDict,a subclass of dictionary customized to handle multiple values for the,1,0,Parameters,a subclass of dictionary customized to handle multiple values for the
+1,AccessMixin,abstract cbv mixin that gives access mixins the same customizable,1,0,Parameters,abstract cbv mixin that gives access mixins the same customizable
+119,BaseCommand,parsing work in handle and then delegate from it to more,1,0,Parameters,parsing work in handle and then delegate from it to more
+1590,BooleanArray,a 1 d boolean dtype array with the data.,1,1,Parameters,a 1 d boolean dtype array with the data
+1427,ConfigureMailboxes,"if an account is specified, the mailbox will be assigned to that account",1,0,Parameters,if an account is specified the mailbox will be assigned to that account
+1113,Magics,"individual methods as magic functions, and",1,0,Parameters,individual methods as magic functions and
+1329,ConfigDict,traceback most recent call last,1,0,Parameters,traceback most recent call last
+1290,ConfigDict,", int , 0 ,",1,0,Parameters,int 0
+3271,NotAny,# integers that are followed by .,1,0,Parameters,integers that are followed by
+3328,omdict,key parameter has been added to these methods,1,0,Parameters,key parameter has been added to these methods
+5323,MultiLabelMarginLoss,hinge loss margin based loss between input math x a 2d mini batch tensor,1,0,Parameters,hinge loss margin based loss between input math x a 2d mini batch tensor
+5221,FisherSnedecor,"m fishersnedecor torch^tensor 10 , torch^tensor 20",1,0,Parameters,m fishersnedecor torch tensor 10 torch tensor 20
+4476,BCEWithLogitsLoss,"operatorname sum l , & text if reduction text sum .",1,0,Parameters,operatorname sum l text if reduction text sum
+3163,MemcachedBytecodeCache,it does not enforce a specific memcache library,1,0,Parameters,it does not enforce a specific memcache library
+1588,BooleanArray,parameters,1,1,Parameters,parameters
+3619,Path,before the value is passed onwards.,1,1,Parameters,before the value is passed onwards
+1661,CategoricalDtype,notes,1,0,Parameters,notes
+5370,MultiLabelMarginLoss,loss nn^multilabelmarginloss,1,0,Parameters,loss nn multilabelmarginloss
+2084,PlotAccessor,"if the backend is not the default matplotlib one, the return value",1,1,Parameters,if the backend is not the default matplotlib one the return value
+113,BaseCommand,if handle or execute raised any exception eg,1,0,Parameters,if handle or execute raised any exception eg
+556,MigrationLoader,we re already not just operating,1,0,Parameters,we re already not just operating
+4358,BatchNorm1d,evaluation.,1,0,Parameters,evaluation
+609,MultiValueDict,nonexistent,1,0,Parameters,nonexistent
+3334,omdict,the same key.,1,0,Parameters,the same key
+2627,Environment,as strings or extension classes.,1,1,Parameters,as strings or extension classes
+1576,BooleanArray,a boolean array with the mask true indicating missing .,1,0,Parameters,a boolean array with the mask true indicating missing
+1578,BooleanArray,logic for logical operations.,1,0,Parameters,logic for logical operations
+2231,SQLiteTable,instead of a table variable just use the create table statement.,1,0,Parameters,instead of a table variable just use the create table statement
+1273,ConfigDict,each variable definition expects three values,1,1,Parameters,each variable definition expects three values
+4132,UnlockError,base class for errors arising from attempts to release the lock.,1,0,Parameters,base class for errors arising from attempts to release the lock
+5295,Module,def init self,1,0,Parameters,def init self
+4724,Conv3d,attr groups .,1,1,Parameters,attr groups
+3330,omdict,new methods have also been added to omdict.,1,0,Parameters,new methods have also been added to omdict
+2362,_BZ2Proxy,a file object argument.,1,0,Parameters,a file object argument
+2574,Environment,will lead to surprising effects and undefined behavior.,1,1,Parameters,will lead to surprising effects and undefined behavior
+5262,LBFGS,step default max iter 125 .,1,1,Parameters,step default max iter 125
+3316,omdict,key.,1,0,Parameters,key
+544,MigrationLoader,"read the python files, looking for a class called migration, which should",1,0,Parameters,read the python files looking for a class called migration which should
+3668,PoolManager,number of connection pools to cache before discarding the least,1,1,Parameters,number of connection pools to cache before discarding the least
+2618,Environment,applications.,1,1,Parameters,applications
+582,MigrationWriter,take a migration instance and is able to produce the contents,1,0,Parameters,take a migration instance and is able to produce the contents
+2443,CaseInsensitiveDict,also,1,0,Parameters,also
+3183,MemcachedBytecodeCache,"a default timeout or no timeout should be assumed, if it s",1,0,Parameters,a default timeout or no timeout should be assumed if it s
+3088,Markup,"output of that method, marking it safe.",1,0,Parameters,output of that method marking it safe
+5653,TransformerEncoderLayer,d model the number of expected features in the input required .,1,1,Parameters,d model the number of expected features in the input required
+5715,Unfold,both sides of input.,1,1,Parameters,both sides of input
+5364,MultiLabelMarginLoss,"input math c or math n, c where n is the batch size and c",1,0,Parameters,input math c or math n c where n is the batch size and c
+2441,CaseInsensitiveDict,implements all methods and operations of,1,0,Parameters,implements all methods and operations of
+4246,Adam,numerical stability default 1e 8,1,1,Parameters,numerical stability default 1e 8
+2055,PlotAccessor,default is 05,1,1,Parameters,default is 05
+5335,MultiLabelMarginLoss,this allows for different samples to have variable amounts of target classes.,1,0,Parameters,this allows for different samples to have variable amounts of target classes
+605,MultiValueDict,d^getlist doesnotexist,1,0,Parameters,d getlist doesnotexist
+132,BaseCommand,"a boolean if true , the command prints a warning if the set of",1,1,Parameters,a boolean if true the command prints a warning if the set of
+4360,BatchNorm1d,of 01.,1,0,Parameters,of 01
+3224,MetadataMissingError,a required metadata is missing,1,0,Parameters,a required metadata is missing
+929,Audio,"if a filename or url is used, the format support will be browser",1,1,Parameters,if a filename or url is used the format support will be browser
+2609,Environment,if this is set to true leading spaces and tabs are stripped,1,1,Parameters,if this is set to true leading spaces and tabs are stripped
+2082,PlotAccessor,returns,1,1,Parameters,returns
+1888,IntegerArray,mask numpy^ndarray,1,1,Parameters,mask numpy ndarray
+4245,Adam,"eps float, optional term added to the denominator to improve",1,1,Parameters,eps float optional term added to the denominator to improve
+1605,BooleanArray,booleanarray,1,0,Parameters,booleanarray
+4163,_OpNamespace,torch^ops.my namespace^my op .,1,0,Parameters,torch ops my namespace my op
+2632,Environment,default is true .,1,1,Parameters,default is true
+5224,FisherSnedecor,args,1,1,Parameters,args
+8,AppConfigStub,only provides a label and a dict of models.,1,1,Parameters,only provides a label and a dict of models
+1084,InteractiveShellApp,meth init extensions,1,0,Parameters,meth init extensions
+3255,NotAny,notany does not advance the parsing position within the,1,0,Parameters,notany does not advance the parsing position within the
+1601,BooleanArray,booleanarray,1,0,Parameters,booleanarray
+5291,Module,you can assign the submodules as regular attributes,1,0,Parameters,you can assign the submodules as regular attributes
+1319,ConfigDict,0,1,0,Parameters,0
+2614,Environment,"must be one of r ,",1,1,Parameters,must be one of r
+111,BaseCommand,"sql statements, will be wrapped in begin and commit .",1,0,Parameters,sql statements will be wrapped in begin and commit
+64,AutoFieldMeta,create a non integer automatically generated field using column defaults,1,0,Parameters,create a non integer automatically generated field using column defaults
+5213,ExternalInitializer,executed.,1,0,Parameters,executed
+4274,Adamax,it has been proposed in adam a method for stochastic optimization .,1,0,Parameters,it has been proposed in adam a method for stochastic optimization
+4364,BatchNorm1d,note,1,0,Parameters,note
+4219,Adadelta,"eps float, optional term added to the denominator to improve",1,1,Parameters,eps float optional term added to the denominator to improve
+2051,PlotAccessor,plots .,1,1,Parameters,plots
+1570,BaseInterfaceTests,interface,1,0,Parameters,interface
+2075,PlotAccessor,"for instance, matplotlib .",1,1,Parameters,for instance matplotlib
+1102,Magics,shell functions which can be reached as %function name.,1,0,Parameters,shell functions which can be reached as function name
+4136,UnlockError,pass,1,0,Parameters,pass
+923,Audio,http msdn^microsoft.com en us library windows hardware dn653308 v vs.85 ^aspx,1,1,Parameters,http msdn microsoft com en us library windows hardware dn653308 v vs 85 aspx
+4217,Adadelta,"rho float, optional coefficient used for computing a running average",1,1,Parameters,rho float optional coefficient used for computing a running average
+1648,CategoricalDtype,"must be unique, and must not contain any nulls.",1,1,Parameters,must be unique and must not contain any nulls
+1849,ExcelFile,parameters,1,1,Parameters,parameters
+5448,OneHotCategorical,"tensor 0., 0., 0., 1.",1,0,Parameters,tensor 0 0 0 1
+5492,QuantWrapper,"it observes the input tensor, after convert , quantstub",1,0,Parameters,it observes the input tensor after convert quantstub
+4645,BuildType,cmake build type env str the value of os^environ cmake build type .,1,1,Parameters,cmake build type env str the value of os environ cmake build type
+5703,Unfold,attr stride controls the stride for the sliding blocks.,1,1,Parameters,attr stride controls the stride for the sliding blocks
+3240,Module_six_moves_urllib_parse,lazy loading of moved objects in six^moves.urllib parse,1,0,Parameters,lazy loading of moved objects in six moves urllib parse

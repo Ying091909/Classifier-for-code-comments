@@ -1,0 +1,247 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+4146,_OpNamespace,to,0,1,DevelopmentNotes,to
+5252,LBFGS,note,0,1,DevelopmentNotes,note
+5062,EmbeddingBag,pass.,0,1,DevelopmentNotes,pass
+893,XFrameOptionsMiddleware,do not set the header if it s already set or if the response contains,0,1,DevelopmentNotes,do not set the header if it s already set or if the response contains
+2878,FollowedBy,followedby does not advance the parsing position within,0,1,DevelopmentNotes,followedby does not advance the parsing position within
+91,BaseCommand,parse the command line arguments and work out what code to call in,0,1,DevelopmentNotes,parse the command line arguments and work out what code to call in
+5742,Unfold,fold nn^fold output size .,0,1,DevelopmentNotes,fold nn fold output size
+3521,ParseResults,result date str^parsestring 1999 12 31,0,1,DevelopmentNotes,result date str parsestring 1999 12 31
+2325,StringMethods,patterned after python s string,0,1,DevelopmentNotes,patterned after python s string
+3023,InternalName,a new identifier for you.,0,1,DevelopmentNotes,a new identifier for you
+846,TestUtils,this doc output is required for testing.,0,1,DevelopmentNotes,this doc output is required for testing
+5738,Unfold,fold params dict kernel size .,0,1,DevelopmentNotes,fold params dict kernel size
+894,XFrameOptionsMiddleware,a xframe options exempt value set to true.,0,1,DevelopmentNotes,a xframe options exempt value set to true
+3085,Markup,this implements the html interface that some frameworks,0,1,DevelopmentNotes,this implements the html interface that some frameworks
+72,AutoFieldMeta,for detecting automatically generated fields.,0,1,DevelopmentNotes,for detecting automatically generated fields
+4154,_OpNamespace,"on the torch^ops object, which will create a new opnamespace",0,1,DevelopmentNotes,on the torch ops object which will create a new opnamespace
+5741,Unfold,", stride .",0,1,DevelopmentNotes,stride
+2088,PlotAccessor,"if kind bar or barh , you can specify relative alignments",0,1,DevelopmentNotes,if kind bar or barh you can specify relative alignments
+896,XFrameOptionsMiddleware,response can only be loaded on a frame within the same site.,0,1,DevelopmentNotes,response can only be loaded on a frame within the same site
+1563,Base,get kwargs from breaks to the expected format.,0,1,DevelopmentNotes,get kwargs from breaks to the expected format
+2880,FollowedBy,expression matches at the current position.,0,1,DevelopmentNotes,expression matches at the current position
+508,MigrationGraph,merely a convention to aid file listing.,0,1,DevelopmentNotes,merely a convention to aid file listing
+2225,SetopCheck,to perform the type check in advance.,0,1,DevelopmentNotes,to perform the type check in advance
+5737,Unfold,parameters,0,1,DevelopmentNotes,parameters
+5752,Unfold,"when the divisor tensor contains no zero elements, then",0,1,DevelopmentNotes,when the divisor tensor contains no zero elements then
+4372,BatchNorm1d,"because the batch normalization is done over the c dimension, computing statistics",0,1,DevelopmentNotes,because the batch normalization is done over the c dimension computing statistics
+5057,EmbeddingBag,"with mode mean is equivalent to class torch^nn.embedding followed by torch^mean dim 0 ,",0,1,DevelopmentNotes,with mode mean is equivalent to class torch nn embedding followed by torch mean dim 0
+4156,_OpNamespace,object.,0,1,DevelopmentNotes,object
+2090,PlotAccessor,from 0 left bottom end to 1 right top end .,0,1,DevelopmentNotes,from 0 left bottom end to 1 right top end
+4676,ConstantPad3d,"math text padding left , math text padding right ,",0,0,DevelopmentNotes,math text padding left math text padding right
+428,ListMixin,function len self,0,0,DevelopmentNotes,function len self
+5368,MultiLabelMarginLoss,"if attr reduction is none , then math n .",0,0,DevelopmentNotes,if attr reduction is none then math n
+937,Audio,the original source be referenced.,0,0,DevelopmentNotes,the original source be referenced
+4495,BCEWithLogitsLoss,the loss would act as if the dataset contains math 3 times 100 300 positive examples.,0,0,DevelopmentNotes,the loss would act as if the dataset contains math 3 times 100 300 positive examples
+4871,ConvReLU3d,we adopt the same interface as class torch^nn.quantized^conv3d .,0,0,DevelopmentNotes,we adopt the same interface as class torch nn quantized conv3d
+5579,Subset,dataset dataset the whole dataset,0,0,DevelopmentNotes,dataset dataset the whole dataset
+5266,LBFGS,value parameter changes default 1e 9 .,0,0,DevelopmentNotes,value parameter changes default 1e 9
+918,Audio,can be one of,0,0,DevelopmentNotes,can be one of
+755,ReverseGenericManyToOneDescriptor,comments genericrelation comment,0,0,DevelopmentNotes,comments genericrelation comment
+2025,PlotAccessor,"logx bool or sym , default false",0,0,DevelopmentNotes,logx bool or sym default false
+3735,Request,param files dictionary of filename fileobject files to multipart upload.,0,0,DevelopmentNotes,param files dictionary of filename fileobject files to multipart upload
+3701,PrefixLoader,the prefix is delimited from the template by a slash per,0,0,DevelopmentNotes,the prefix is delimited from the template by a slash per
+3881,Retry,if status falls in status forcelist range and retries have,0,0,DevelopmentNotes,if status falls in status forcelist range and retries have
+3019,InternalName,an internal name in the compiler.,0,0,DevelopmentNotes,an internal name in the compiler
+5706,Unfold,reshaping.,0,0,DevelopmentNotes,reshaping
+5722,Unfold,"attr stride is an int or a tuple of length 1, their values will be",0,0,DevelopmentNotes,attr stride is an int or a tuple of length 1 their values will be
+327,DjangoHTMLTranslator,django specific rest to html tweaks.,0,0,DevelopmentNotes,django specific rest to html tweaks
+412,ListMixin,the index i will always satisfy 0 i len self .,0,0,DevelopmentNotes,the index i will always satisfy 0 i len self
+2575,Environment,here are the possible initialization parameters,0,0,DevelopmentNotes,here are the possible initialization parameters
+766,SameAsLookup,"so if a and b are the same feature,",0,0,DevelopmentNotes,so if a and b are the same feature
+2557,Distribution,"a base class for distributions, whether installed or from indexes.",0,0,DevelopmentNotes,a base class for distributions whether installed or from indexes
+2264,StringArray,none,0,0,DevelopmentNotes,none
+1166,TermColors,this class should be used as a mixin for building color schemes.,0,0,DevelopmentNotes,this class should be used as a mixin for building color schemes
+1650,CategoricalDtype,whether or not this categorical is treated as a ordered categorical.,0,0,DevelopmentNotes,whether or not this categorical is treated as a ordered categorical
+1221,_MockPOP3,pm^stat,0,0,DevelopmentNotes,pm stat
+4964,CyclicLR,example,0,0,DevelopmentNotes,example
+3997,Session,or as a context manager,0,0,DevelopmentNotes,or as a context manager
+1774,CategoricalIndex,c,0,0,DevelopmentNotes,c
+210,BaseExpression,base class for all query expressions.,0,0,DevelopmentNotes,base class for all query expressions
+3507,ParseResults,"structured parse results, to provide multiple means of access to",0,0,DevelopmentNotes,structured parse results to provide multiple means of access to
+232,BoundWidget,% for radio in myform^beatles %,0,0,DevelopmentNotes,for radio in myform beatles
+4520,BCEWithLogitsLoss,on attr size average .,0,0,DevelopmentNotes,on attr size average
+487,Migration,"run before a list of tuples of app path, migration name",0,0,DevelopmentNotes,run before a list of tuples of app path migration name
+2589,Environment,the string marking the beginning of a comment.,0,0,DevelopmentNotes,the string marking the beginning of a comment
+1728,CategoricalIndex,versionadded 021.0,0,0,DevelopmentNotes,versionadded 021 0
+4536,BCEWithLogitsLoss,"input math n, where math means, any number of additional dimensions",0,0,DevelopmentNotes,input math n where math means any number of additional dimensions
+355,FallbackStorage,try to store all messages in the first backend.,0,0,DevelopmentNotes,try to store all messages in the first backend
+3671,PoolManager,"headers to include with all requests, unless other headers are given",0,0,DevelopmentNotes,headers to include with all requests unless other headers are given
+5630,TaskOutput,represents the output of a task.,0,0,DevelopmentNotes,represents the output of a task
+3161,MemcachedBytecodeCache,this class implements a bytecode cache that uses a memcache cache for,0,0,DevelopmentNotes,this class implements a bytecode cache that uses a memcache cache for
+431,ListMixin,the minimum legal length optional,0,0,DevelopmentNotes,the minimum legal length optional
+963,Audio,# can also do stereo or more channels,0,0,DevelopmentNotes,can also do stereo or more channels
+1224,_MockPOP3,"evil , good",0,0,DevelopmentNotes,evil good
+212,BaseUpdateView,base view for updating an existing object.,0,0,DevelopmentNotes,base view for updating an existing object
+4796,Conv3d,"m nn^conv3d 16, 33, 3, 5, 2 , stride 2, 1, 1 , padding 4, 2, 0",0,0,DevelopmentNotes,m nn conv3d 16 33 3 5 2 stride 2 1 1 padding 4 2 0
+1638,BusinessHour,dateoffset subclass representing possibly n business hours.,0,0,DevelopmentNotes,dateoffset subclass representing possibly n business hours
+7,AppConfigStub,stub of an appconfig.,0,0,DevelopmentNotes,stub of an appconfig
+2371,_FileInFile,object.,0,0,DevelopmentNotes,object
+2579,Environment,block end string,0,0,DevelopmentNotes,block end string
+4723,Conv3d,attr in channels and attr out channels must both be divisible by,0,0,DevelopmentNotes,attr in channels and attr out channels must both be divisible by
+1149,Struct,overloaded operators.,0,0,DevelopmentNotes,overloaded operators
+2012,PlotAccessor,use index as ticks for x axis.,0,0,DevelopmentNotes,use index as ticks for x axis
+1646,CategoricalDtype,parameters,0,0,DevelopmentNotes,parameters
+3876,Retry,"param bool raise on redirect whether, if the number of redirects is",0,0,DevelopmentNotes,param bool raise on redirect whether if the number of redirects is
+5298,Module,"self^conv1 nn^conv2d 1, 20, 5",0,0,DevelopmentNotes,self conv1 nn conv2d 1 20 5
+840,TestImageFieldFile,custom field file class that records whether or not the underlying file,0,0,DevelopmentNotes,custom field file class that records whether or not the underlying file
+3837,Retry,set to 0 to fail on the first retry of this type.,0,0,DevelopmentNotes,set to 0 to fail on the first retry of this type
+2274,StringArray,"pd^array this is , some text , none, data.",0,0,DevelopmentNotes,pd array this is some text none data
+5495,QuantWrapper,for dequantstub .,0,0,DevelopmentNotes,for dequantstub
+5292,Module,import torch^nn as nn,0,0,DevelopmentNotes,import torch nn as nn
+5366,MultiLabelMarginLoss,"target math c or math n, c , label targets padded by 1 ensuring same shape as the input.",0,0,DevelopmentNotes,target math c or math n c label targets padded by 1 ensuring same shape as the input
+2060,PlotAccessor,"if a series or dataframe is passed, use passed data to draw a",0,0,DevelopmentNotes,if a series or dataframe is passed use passed data to draw a
+4482,BCEWithLogitsLoss,it s possible to trade off recall and precision by adding weights to positive examples.,0,0,DevelopmentNotes,it s possible to trade off recall and precision by adding weights to positive examples
+3699,PrefixLoader,a loader that is passed a dict of loaders where each loader is bound,0,0,DevelopmentNotes,a loader that is passed a dict of loaders where each loader is bound
+5092,EmbeddingBag,"weight tensor the learnable weights of the module of shape num embeddings, embedding dim",0,0,DevelopmentNotes,weight tensor the learnable weights of the module of shape num embeddings embedding dim
+5362,MultiLabelMarginLoss,default mean,0,0,DevelopmentNotes,default mean
+1720,CategoricalIndex,"ordered bool, optional",0,0,DevelopmentNotes,ordered bool optional
+349,FakePayload,that wouldn t work in real life.,0,0,DevelopmentNotes,that wouldn t work in real life
+2642,Environment,if set to true the xml html autoescaping feature is enabled by,0,0,DevelopmentNotes,if set to true the xml html autoescaping feature is enabled by
+4889,CyclicLR,or per cycle basis.,0,0,DevelopmentNotes,or per cycle basis
+742,RemoteTestRunner,run tests and record everything but don t display anything.,0,0,DevelopmentNotes,run tests and record everything but don t display anything
+4539,BCEWithLogitsLoss,"if attr reduction is none , then math n, , same",0,0,DevelopmentNotes,if attr reduction is none then math n same
+2041,PlotAccessor,"rotation for ticks xticks for vertical, yticks for horizontal",0,0,DevelopmentNotes,rotation for ticks xticks for vertical yticks for horizontal
+4661,Caffe2OperatorTestCase,"when run backward is false, the run forward method will be executed, otherwise",0,0,DevelopmentNotes,when run backward is false the run forward method will be executed otherwise
+5212,ExternalInitializer,"the initializer, but rather provided in the workspace when param init net is",0,0,DevelopmentNotes,the initializer but rather provided in the workspace when param init net is
+3783,RequirementUninstaller,"exits correctly, the uninstallation is committed, otherwise rolled back.",0,0,DevelopmentNotes,exits correctly the uninstallation is committed otherwise rolled back
+4460,BCEWithLogitsLoss,this loss combines a sigmoid layer and the bceloss in one single,0,0,DevelopmentNotes,this loss combines a sigmoid layer and the bceloss in one single
+3675,PoolManager,class urllib3^connectionpool.connectionpool instances.,0,0,DevelopmentNotes,class urllib3 connectionpool connectionpool instances
+292,ConsoleDirective,a restructuredtext directive which renders a two tab code block in which,0,0,DevelopmentNotes,a restructuredtext directive which renders a two tab code block in which
+5338,MultiLabelMarginLoss,"by default,",0,0,DevelopmentNotes,by default
+859,UniqueAnchor,this is a model that can be used as,0,0,DevelopmentNotes,this is a model that can be used as
+2392,And,expr integer id name expr name integer age,0,0,DevelopmentNotes,expr integer id name expr name integer age
+2273,StringArray,examples,0,0,DevelopmentNotes,examples
+430,ListMixin,int minlength,0,0,DevelopmentNotes,int minlength
+2604,Environment,if this is set to true the first newline after a block is,0,0,DevelopmentNotes,if this is set to true the first newline after a block is
+3668,PoolManager,number of connection pools to cache before discarding the least,0,0,DevelopmentNotes,number of connection pools to cache before discarding the least
+4514,BCEWithLogitsLoss,ignored,0,0,DevelopmentNotes,ignored
+3476,PacifyFlushWrapper,so as to have minimal impact on any,0,0,DevelopmentNotes,so as to have minimal impact on any
+2265,StringArray,methods,0,0,DevelopmentNotes,methods
+3733,Request,param url url to send.,0,0,DevelopmentNotes,param url url to send
+2631,Environment,should the optimizer be enabled?,0,0,DevelopmentNotes,should the optimizer be enabled
+1220,_MockPOP3,conn cls mockpop3,0,0,DevelopmentNotes,conn cls mockpop3
+22,Atomic,"exit commits the transaction or releases the savepoint on normal exit,",0,0,DevelopmentNotes,exit commits the transaction or releases the savepoint on normal exit
+1994,PlotAccessor,allows plotting of one column versus another.,0,0,DevelopmentNotes,allows plotting of one column versus another
+3741,Request,param params url parameters to append to the url.,0,0,DevelopmentNotes,param params url parameters to append to the url
+5073,EmbeddingBag,"norm type float, optional the p of the p norm to compute for the attr max norm option.",0,0,DevelopmentNotes,norm type float optional the p of the p norm to compute for the attr max norm option
+1444,Event,this is a single event in the event log.,0,0,DevelopmentNotes,this is a single event in the event log
+3425,Option,context.,0,0,DevelopmentNotes,context
+4024,SkipTo,report,0,0,DevelopmentNotes,report
+5103,EmbeddingBag,starting index positions of each bag in attr input .,0,0,DevelopmentNotes,starting index positions of each bag in attr input
+1193,YouTubeVideo,"to calculate seconds from time as hours, minutes, seconds use",0,0,DevelopmentNotes,to calculate seconds from time as hours minutes seconds use
+5099,EmbeddingBag,attr offsets is ignored and required to be none in this case.,0,0,DevelopmentNotes,attr offsets is ignored and required to be none in this case
+3806,Retry,retry configuration.,0,0,DevelopmentNotes,retry configuration
+3625,Path,"param allow dash if this is set to true , a single dash to indicate",0,0,DevelopmentNotes,param allow dash if this is set to true a single dash to indicate
+4512,BCEWithLogitsLoss,if the field attr size average,0,0,DevelopmentNotes,if the field attr size average
+4048,SkipTo,sev critical,0,0,DevelopmentNotes,sev critical
+3421,Option,param count this flag makes an option increment an integer.,0,0,DevelopmentNotes,param count this flag makes an option increment an integer
+1576,BooleanArray,a boolean array with the mask true indicating missing .,0,0,DevelopmentNotes,a boolean array with the mask true indicating missing
+5087,EmbeddingBag,see,0,0,DevelopmentNotes,see
+5015,DiagonalTensor,example in the numpy documentation.,0,0,DevelopmentNotes,example in the numpy documentation
+5606,Task,"the mul will only execute once, after all the instances",0,0,DevelopmentNotes,the mul will only execute once after all the instances
+138,BaseCommand,to validate an individual application s models,0,0,DevelopmentNotes,to validate an individual application s models
+5082,EmbeddingBag,into consideration.,0,0,DevelopmentNotes,into consideration
+4762,Conv3d,"dilation int or tuple, optional spacing between kernel elements.",0,0,DevelopmentNotes,dilation int or tuple optional spacing between kernel elements
+1516,VCardStore,vcs^find vcards guy 0 ^fn,0,0,DevelopmentNotes,vcs find vcards guy 0 fn
+1717,CategoricalIndex,items need to be unique.,0,0,DevelopmentNotes,items need to be unique
+4501,BCEWithLogitsLoss,"criterion output, target # log sigmoid 0999",0,0,DevelopmentNotes,criterion output target log sigmoid 0999
+1273,ConfigDict,each variable definition expects three values,0,0,DevelopmentNotes,each variable definition expects three values
+2391,And,# more easily written as,0,0,DevelopmentNotes,more easily written as
+2031,PlotAccessor,"loglog bool or sym , default false",0,0,DevelopmentNotes,loglog bool or sym default false
+331,EarliestOrLatestTests,tests for the earliest and latest objects methods,0,0,DevelopmentNotes,tests for the earliest and latest objects methods
+669,Operation,"see db migrations state^py to represent what it performs, as well",0,0,DevelopmentNotes,see db migrations state py to represent what it performs as well
+3724,PyPIJSONLocator,this locator uses pypi s json interface.,0,0,DevelopmentNotes,this locator uses pypi s json interface
+4217,Adadelta,"rho float, optional coefficient used for computing a running average",0,0,DevelopmentNotes,rho float optional coefficient used for computing a running average
+3672,PoolManager,explicitly.,0,0,DevelopmentNotes,explicitly
+218,BCryptSHA256PasswordHasher,secure password hashing using the bcrypt algorithm recommended,0,0,DevelopmentNotes,secure password hashing using the bcrypt algorithm recommended
+237,BoundWidget,% endfor %,0,0,DevelopmentNotes,endfor
+433,ListMixin,the maximum legal length optional,0,0,DevelopmentNotes,the maximum legal length optional
+3610,Path,this value to be valid.,0,0,DevelopmentNotes,this value to be valid
+1730,CategoricalIndex,make a copy of input ndarray.,0,0,DevelopmentNotes,make a copy of input ndarray
+356,FallbackStorage,store any unstored,0,0,DevelopmentNotes,store any unstored
+3704,PrefixLoader,loader prefixloader,0,0,DevelopmentNotes,loader prefixloader
+5110,EmbeddingBag,to indicate all weights should be taken to be 1 .,0,0,DevelopmentNotes,to indicate all weights should be taken to be 1
+3888,Retry,param bool respect retry after header,0,0,DevelopmentNotes,param bool respect retry after header
+3183,MemcachedBytecodeCache,"a default timeout or no timeout should be assumed, if it s",0,0,DevelopmentNotes,a default timeout or no timeout should be assumed if it s
+946,Audio,set to true if the audio should immediately start playing.,0,0,DevelopmentNotes,set to true if the audio should immediately start playing
+376,ImageFileDescriptor,"just like the filedescriptor, but for imagefields.",0,0,DevelopmentNotes,just like the filedescriptor but for imagefields
+2328,StringMethods,s^str.split,0,0,DevelopmentNotes,s str split
+924,Audio,list of float or integer representing the waveform mono,0,0,DevelopmentNotes,list of float or integer representing the waveform mono
+3509,ParseResults,as a list len results,0,0,DevelopmentNotes,as a list len results
+2027,PlotAccessor,versionchanged 025.0,0,0,DevelopmentNotes,versionchanged 025 0
+2322,StringMethods,vectorized string functions for series and index.,0,0,DevelopmentNotes,vectorized string functions for series and index
+1729,CategoricalIndex,"copy bool, default false",0,0,DevelopmentNotes,copy bool default false
+4475,BCEWithLogitsLoss,"operatorname mean l , & text if reduction text mean",0,0,DevelopmentNotes,operatorname mean l text if reduction text mean
+1582,BooleanArray,below .,0,0,DevelopmentNotes,below
+961,Audio,data np^sin 2 np^pi 220 t np^sin 2 np^pi 224 t,0,0,DevelopmentNotes,data np sin 2 np pi 220 t np sin 2 np pi 224 t
+1996,PlotAccessor,dataframe.,0,0,DevelopmentNotes,dataframe
+3752,Request,preparedrequest get,0,0,DevelopmentNotes,preparedrequest get
+2609,Environment,if this is set to true leading spaces and tabs are stripped,0,0,DevelopmentNotes,if this is set to true leading spaces and tabs are stripped
+698,Permission,the delete permission limits the ability to delete an object.,0,0,DevelopmentNotes,the delete permission limits the ability to delete an object
+403,InvalidBasesError,a model s base classes can t be resolved.,0,0,DevelopmentNotes,a model s base classes can t be resolved
+2411,Argument,and are required by default.,0,0,DevelopmentNotes,and are required by default
+5262,LBFGS,step default max iter 125 .,0,0,DevelopmentNotes,step default max iter 125
+3473,PacifyFlushWrapper,of the python interpreter.,0,0,DevelopmentNotes,of the python interpreter
+2670,Environment,will reload the template.,0,0,DevelopmentNotes,will reload the template
+3813,Retry,or per request which overrides the default for the pool,0,0,DevelopmentNotes,or per request which overrides the default for the pool
+1232,_MockPOP3,"from test@mailpile^is nsubject msg 1 n noh, hi!",0,0,DevelopmentNotes,from test@mailpile is nsubject msg 1 n noh hi
+4016,SkipTo,"include default false if true, the target expression is also parsed",0,0,DevelopmentNotes,include default false if true the target expression is also parsed
+3389,Option,help page.,0,0,DevelopmentNotes,help page
+4300,AdaptiveMaxPool3d,output size the target output size of the image of the form d x h x w.,0,0,DevelopmentNotes,output size the target output size of the image of the form d x h x w
+1656,CategoricalDtype,ordered,0,0,DevelopmentNotes,ordered
+4296,AdaptiveMaxPool3d,applies a 3d adaptive max pooling over an input signal composed of several input planes.,0,0,DevelopmentNotes,applies a 3d adaptive max pooling over an input signal composed of several input planes
+337,ErrorDict,a collection of errors that knows how to display itself in various formats.,0,0,DevelopmentNotes,a collection of errors that knows how to display itself in various formats
+415,ListMixin,note that if get single internal and get single internal return,0,0,DevelopmentNotes,note that if get single internal and get single internal return
+422,ListMixin,temp list items,0,0,DevelopmentNotes,temp list items
+2580,Environment,the string marking the end of a block.,0,0,DevelopmentNotes,the string marking the end of a block
+140,BaseCommand,"self^check app configs from handle , where app configs",0,0,DevelopmentNotes,self check app configs from handle where app configs
+347,FakePayload,length.,0,0,DevelopmentNotes,length
+488,Migration,replaces a list of migration names,0,0,DevelopmentNotes,replaces a list of migration names
+5116,EmbeddingBag,examples,0,0,DevelopmentNotes,examples
+1278,ConfigDict,3,0,0,DevelopmentNotes,3
+3889,Retry,whether to respect retry after header on status codes defined as,0,0,DevelopmentNotes,whether to respect retry after header on status codes defined as
+3882,Retry,been exhausted.,0,0,DevelopmentNotes,been exhausted
+3746,Request,param cookies dictionary or cookiejar of cookies to attach to this request.,0,0,DevelopmentNotes,param cookies dictionary or cookiejar of cookies to attach to this request
+3620,Path,this means,0,0,DevelopmentNotes,this means
+951,Audio,default is true .,0,0,DevelopmentNotes,default is true
+3706,PrefixLoader,app2 packageloader mypackage^app2,0,0,DevelopmentNotes,app2 packageloader mypackage app2
+5656,TransformerEncoderLayer,dropout the dropout value default 01 .,0,0,DevelopmentNotes,dropout the dropout value default 01
+1849,ExcelFile,parameters,0,0,DevelopmentNotes,parameters
+3400,Option,prompted for input.,0,0,DevelopmentNotes,prompted for input
+4718,Conv3d,attr padding controls the amount of implicit zero paddings on both,0,0,DevelopmentNotes,attr padding controls the amount of implicit zero paddings on both
+1199,YouTubeVideo,will be inserted in the document.,0,0,DevelopmentNotes,will be inserted in the document
+5602,Task,"ops^mul globl, globl , globl",0,0,DevelopmentNotes,ops mul globl globl globl
+3244,Module_six_moves_urllib_response,lazy loading of moved objects in six^moves.urllib response,0,0,DevelopmentNotes,lazy loading of moved objects in six moves urllib response
+4499,BCEWithLogitsLoss,pos weight torch^ones 64 # all weights are equal to 1,0,0,DevelopmentNotes,pos weight torch ones 64 all weights are equal to 1
+5719,Unfold,neighborhood.,0,0,DevelopmentNotes,neighborhood
+3308,omdict,retains the order of insertions and deletions.,0,0,DevelopmentNotes,retains the order of insertions and deletions
+4015,SkipTo,expr target expression marking the end of the data to be skipped,0,0,DevelopmentNotes,expr target expression marking the end of the data to be skipped
+5936,PreparedRequest,usage,0,0,DevelopmentNotes,usage
+2287,StringArray,"true, na, false",0,0,DevelopmentNotes,true na false
+969,Audio,audio path to sound^wav # from file,0,0,DevelopmentNotes,audio path to sound wav from file
+3987,SchemaValidatorMixin,validator.,0,0,DevelopmentNotes,validator
+2680,Environment,you to take advantage of newer python features.,0,0,DevelopmentNotes,you to take advantage of newer python features
+1522,VCardStore,vcs^del vcards vcs^find vcards guy,0,0,DevelopmentNotes,vcs del vcards vcs find vcards guy
+841,TestImageFieldFile,was opened.,0,0,DevelopmentNotes,was opened
+4500,BCEWithLogitsLoss,criterion torch^nn.bcewithlogitsloss pos weight pos weight,0,0,DevelopmentNotes,criterion torch nn bcewithlogitsloss pos weight pos weight
+5567,StackTransform,"x torch^stack torch^range 1, 10 , torch^range 1, 10 , dim 1",0,0,DevelopmentNotes,x torch stack torch range 1 10 torch range 1 10 dim 1
+1071,HistoryAccessor,"historymanager, below, which is a subclass of this.",0,0,DevelopmentNotes,historymanager below which is a subclass of this
+2854,FileSystemLoader,loader filesystemloader path to templates,0,0,DevelopmentNotes,loader filesystemloader path to templates
+5014,DiagonalTensor,it is based on the diagonalarray,0,0,DevelopmentNotes,it is based on the diagonalarray
+2877,FollowedBy,lookahead matching of the given parse expression.,0,0,DevelopmentNotes,lookahead matching of the given parse expression
+3802,ResponseError,used as a container for an error reason supplied in a maxretryerror.,0,0,DevelopmentNotes,used as a container for an error reason supplied in a maxretryerror
+2353,UnsortedIndexError,subclass of keyerror .,0,0,DevelopmentNotes,subclass of keyerror
+871,VariableWrapper,an adapter class for cursor variables that prevents the wrapped object,0,0,DevelopmentNotes,an adapter class for cursor variables that prevents the wrapped object
+873,VariableWrapper,this can be used generally for any other object that should be passed into,0,0,DevelopmentNotes,this can be used generally for any other object that should be passed into
+5890,UploadTaskGroupBuilder,a simple class to upload checkpoints.,0,0,DevelopmentNotes,a simple class to upload checkpoints
+3838,Retry,param int redirect,0,0,DevelopmentNotes,param int redirect
+4714,Conv3d,"out n i, c out j bias c out j",0,0,DevelopmentNotes,out n i c out j bias c out j
+425,ListMixin,set the single item at index i to value optional,0,0,DevelopmentNotes,set the single item at index i to value optional
+5777,Unfold,"torch^nn.functional^conv2d inp, w out ^abs ^max",0,0,DevelopmentNotes,torch nn functional conv2d inp w out abs max
+109,BaseCommand,output produced by handle will be printed to standard,0,0,DevelopmentNotes,output produced by handle will be printed to standard
+4784,Conv3d,the values of these weights are sampled from,0,0,DevelopmentNotes,the values of these weights are sampled from
+1049,DisplayHook,"this class does many things, but the basic idea is that it is a callable",0,0,DevelopmentNotes,this class does many things but the basic idea is that it is a callable
+2338,TermValue,hold a term value the we use to construct a condition filter,0,0,DevelopmentNotes,hold a term value the we use to construct a condition filter
+4375,BatchNorm1d,num features math c from an expected input of size,0,0,DevelopmentNotes,num features math c from an expected input of size
+1229,_MockPOP3,"pm^get msg size evil , pm^get msg size good",0,0,DevelopmentNotes,pm get msg size evil pm get msg size good

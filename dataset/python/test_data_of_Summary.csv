@@ -1,0 +1,517 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+1081,InteractiveShellApp,meth init path,1,0,Summary,meth init path
+5373,MultiLabelMarginLoss,"y torch^longtensor 3, 0, 1, 1",1,0,Summary,y torch longtensor 3 0 1 1
+2873,Filter,alphabetizes attributes for elements,1,1,Summary,alphabetizes attributes for elements
+2370,_FileInFile,provides a part of its data as an individual file,1,1,Summary,provides a part of its data as an individual file
+4888,CyclicLR,the distance between the two boundaries can be scaled on a per iteration,1,1,Summary,the distance between the two boundaries can be scaled on a per iteration
+4120,TreeBuilder,doctypeclass the class to use for doctypes,1,0,Summary,doctypeclass the class to use for doctypes
+4370,BatchNorm1d,where math hat x is the estimated statistic and math x t is the,1,0,Summary,where math hat x is the estimated statistic and math x t is the
+548,MigrationLoader,some migrations will be marked as replacing another set of migrations.,1,0,Summary,some migrations will be marked as replacing another set of migrations
+1594,BooleanArray,"copy bool, default false",1,0,Summary,copy bool default false
+3099,Markup,markup em foo &amp bar em,1,0,Summary,markup em foo amp bar em
+4315,AdaptiveMaxPool3d,output m input,1,0,Summary,output m input
+122,BaseCommand,help,1,0,Summary,help
+3178,MemcachedBytecodeCache,"method set key, value , timeout",1,0,Summary,method set key value timeout
+1085,InteractiveShellApp,meth init code,1,0,Summary,meth init code
+4477,BCEWithLogitsLoss,end cases,1,0,Summary,end cases
+1664,CategoricalDtype,see ref categorical^categoricaldtype,1,0,Summary,see ref categorical categoricaldtype
+5005,DeQuantStub,"dequantize stub module, before calibration, this is same as identity,",1,1,Summary,dequantize stub module before calibration this is same as identity
+1307,ConfigDict,pot carrots,1,0,Summary,pot carrots
+4280,Adamax,running averages of gradient and its square,1,0,Summary,running averages of gradient and its square
+3164,MemcachedBytecodeCache,tummy s memcache or cmemcache but will accept any class that provides,1,0,Summary,tummy s memcache or cmemcache but will accept any class that provides
+2392,And,expr integer id name expr name integer age,1,0,Summary,expr integer id name expr name integer age
+3259,NotAny,not skip over leading whitespace.,1,0,Summary,not skip over leading whitespace
+603,MultiValueDict,d^getlist name,1,0,Summary,d getlist name
+3229,MethodDispatcher,list like object returns the matching value,1,0,Summary,list like object returns the matching value
+586,ModelBase,metaclass for all models.,1,1,Summary,metaclass for all models
+1590,BooleanArray,a 1 d boolean dtype array with the data.,1,0,Summary,a 1 d boolean dtype array with the data
+108,BaseCommand,calling the handle method with the parsed arguments any,1,0,Summary,calling the handle method with the parsed arguments any
+4134,UnlockError,raise unlockerror,1,0,Summary,raise unlockerror
+4364,BatchNorm1d,note,1,0,Summary,note
+3087,Markup,passing an object that implements html will wrap the,1,0,Summary,passing an object that implements html will wrap the
+3500,ParseFatalException,is found stops all parsing immediately,1,0,Summary,is found stops all parsing immediately
+1330,ConfigDict,invalidkeyerror invalid key for config liquids evil,1,0,Summary,invalidkeyerror invalid key for config liquids evil
+3186,MemcachedBytecodeCache,method get key,1,0,Summary,method get key
+84,BadSignature,signature does not match.,1,1,Summary,signature does not match
+4401,BatchNorm1d,output m input,1,0,Summary,output m input
+3390,Option,"normally, defaults are not shown.",1,0,Summary,normally defaults are not shown
+5237,LastNWindowCollector,use packrecords to pack it before using this layer.,1,0,Summary,use packrecords to pack it before using this layer
+5289,Module,"modules can also contain other modules, allowing to nest them in",1,0,Summary,modules can also contain other modules allowing to nest them in
+1561,Base,input data,1,0,Summary,input data
+5681,Unfold,extracts sliding local blocks from a batched input tensor.,1,1,Summary,extracts sliding local blocks from a batched input tensor
+3101,Markup,markup em hello em &lt foo&gt,1,0,Summary,markup em hello em lt foo gt
+1299,ConfigDict,"colors colors , red , blue ,",1,0,Summary,colors colors red blue
+5493,QuantWrapper,will be swapped to nnq^quantize which does actual quantization.,1,0,Summary,will be swapped to nnq quantize which does actual quantization
+4638,BuildType,checks build type.,1,1,Summary,checks build type
+1724,CategoricalIndex,categorical will be unordered.,1,0,Summary,categorical will be unordered
+1106,Magics,"this can make some functions easier to type, eg%cd .",1,0,Summary,this can make some functions easier to type eg cd
+4145,_OpNamespace,say a user has created a custom operator called my namespace my op .,1,0,Summary,say a user has created a custom operator called my namespace my op
+3332,omdict,"name interact with lists of values, and methods with all in their name",1,0,Summary,name interact with lists of values and methods with all in their name
+1297,ConfigDict,"tags tags , c c , int, 0 ,",1,0,Summary,tags tags c c int 0
+2371,_FileInFile,object.,1,1,Summary,object
+1606,BooleanArray,"true, false, na",1,0,Summary,true false na
+2076,PlotAccessor,"alternatively, to",1,0,Summary,alternatively to
+4249,Adam,algorithm from the paper on the convergence of adam and beyond,1,0,Summary,algorithm from the paper on the convergence of adam and beyond
+2051,PlotAccessor,plots .,1,0,Summary,plots
+3082,Markup,markup 42,1,0,Summary,markup 42
+544,MigrationLoader,"read the python files, looking for a class called migration, which should",1,0,Summary,read the python files looking for a class called migration which should
+3176,MemcachedBytecodeCache,the minimal interface for the client passed to the constructor is this,1,0,Summary,the minimal interface for the client passed to the constructor is this
+3337,omdict,"getlist , add , addlist , set , setlist , setdefaultlist ,",1,0,Summary,getlist add addlist set setlist setdefaultlist
+3326,omdict,"added parameters are optional, existing use remains unaffected.",1,0,Summary,added parameters are optional existing use remains unaffected
+3423,Option,parameter will be pulled from an environment,1,0,Summary,parameter will be pulled from an environment
+1108,Magics,vs. %cd .,1,0,Summary,vs cd
+1712,CategoricalIndex,the values of the categorical.,1,0,Summary,the values of the categorical
+1320,ConfigDict,pot tags 0 c,1,0,Summary,pot tags 0 c
+5121,EmbeddingBag,"offsets torch^longtensor 0,4",1,0,Summary,offsets torch longtensor 0 4
+912,Audio,create an audio object.,1,1,Summary,create an audio object
+1498,Vcard,display a single vcard,1,1,Summary,display a single vcard
+1502,VCardStore,this is a disk backed in memory collection of vcards.,1,1,Summary,this is a disk backed in memory collection of vcards
+3335,omdict,the new omdict methods are,1,0,Summary,the new omdict methods are
+4147,_OpNamespace,"call this op, the user will write torch^ops.my namespace^my op .",1,0,Summary,call this op the user will write torch ops my namespace my op
+4390,BatchNorm1d,statistics in both training and eval modes.,1,0,Summary,statistics in both training and eval modes
+1672,CategoricalDtype,3 nan,1,0,Summary,3 nan
+2382,And,requires all given class parseexpression s to be found in the given order.,1,0,Summary,requires all given class parseexpression s to be found in the given order
+4164,_OpNamespace,then calls this new operation,1,0,Summary,then calls this new operation
+110,BaseCommand,"output and, if the command is intended to produce a block of",1,0,Summary,output and if the command is intended to produce a block of
+5345,MultiLabelMarginLoss,when reduce is false .,1,0,Summary,when reduce is false
+4374,BatchNorm1d,args,1,0,Summary,args
+3091,Markup,return a href foo foo a,1,0,Summary,return a href foo foo a
+2059,PlotAccessor,will be transposed to meet matplotlib s default layout.,1,0,Summary,will be transposed to meet matplotlib s default layout
+5291,Module,you can assign the submodules as regular attributes,1,0,Summary,you can assign the submodules as regular attributes
+3263,NotAny,example,1,0,Summary,example
+3341,omdict,iterlistitems,1,0,Summary,iterlistitems
+5295,Module,def init self,1,0,Summary,def init self
+4283,Adamax,"weight decay float, optional weight decay l2 penalty default 0",1,0,Summary,weight decay float optional weight decay l2 penalty default 0
+5,AmbiguityError,more than one migration matches a name prefix.,1,1,Summary,more than one migration matches a name prefix
+1604,BooleanArray,"pd^array true, false, none , dtype boolean",1,0,Summary,pd array true false none dtype boolean
+4384,BatchNorm1d,"affine a boolean value that when set to true , this module has",1,0,Summary,affine a boolean value that when set to true this module has
+2212,SelectNSeries,obj series,1,0,Summary,obj series
+4153,_OpNamespace,torch^ops.my namespace will invoke the getattr magic method,1,0,Summary,torch ops my namespace will invoke the getattr magic method
+5222,FisherSnedecor,m^sample # fisher snedecor distributed with df1 1 and df2 2,1,0,Summary,m sample fisher snedecor distributed with df1 1 and df2 2
+5258,LBFGS,lr float learning rate default 1,1,0,Summary,lr float learning rate default 1
+3476,PacifyFlushWrapper,so as to have minimal impact on any,1,0,Summary,so as to have minimal impact on any
+1662,CategoricalDtype,this class is useful for specifying the type of a categorical,1,0,Summary,this class is useful for specifying the type of a categorical
+2889,FollowedBy,label data word followedby,1,1,Summary,label data word followedby
+1283,ConfigDict,should be used with an empty list or dictionary as a default value.,1,0,Summary,should be used with an empty list or dictionary as a default value
+2338,TermValue,hold a term value the we use to construct a condition filter,1,1,Summary,hold a term value the we use to construct a condition filter
+4360,BatchNorm1d,of 01.,1,0,Summary,of 01
+2088,PlotAccessor,"if kind bar or barh , you can specify relative alignments",1,0,Summary,if kind bar or barh you can specify relative alignments
+2410,Argument,provide fewer features than options but can have infinite nargs,1,0,Summary,provide fewer features than options but can have infinite nargs
+2369,_FileInFile,a thin wrapper around an existing file object that,1,1,Summary,a thin wrapper around an existing file object that
+556,MigrationLoader,we re already not just operating,1,0,Summary,we re already not just operating
+1602,BooleanArray,examples,1,0,Summary,examples
+4312,AdaptiveMaxPool3d,# target output size of 7x7x7 cube,1,0,Summary,target output size of 7x7x7 cube
+4222,Adadelta,to the parameters default 10,1,0,Summary,to the parameters default 10
+4382,BatchNorm1d,ie simple average .,1,0,Summary,ie simple average
+1110,Magics,"classes providing magic functions need to subclass this class, and they",1,0,Summary,classes providing magic functions need to subclass this class and they
+1588,BooleanArray,parameters,1,0,Summary,parameters
+100,BaseCommand,2,1,0,Summary,2
+1079,InteractiveShellApp,the following methods should be called by the meth initialize method,1,0,Summary,the following methods should be called by the meth initialize method
+3255,NotAny,notany does not advance the parsing position within the,1,0,Summary,notany does not advance the parsing position within the
+2091,PlotAccessor,default is 05,1,0,Summary,default is 05
+576,MigrationQuestioner,interactive subclass is what the command line arguments will use.,1,0,Summary,interactive subclass is what the command line arguments will use
+2509,Context_,and are allowed to access the context read only.,1,0,Summary,and are allowed to access the context read only
+2245,StringArray,extension array for string data.,1,1,Summary,extension array for string data
+1646,CategoricalDtype,parameters,1,0,Summary,parameters
+4388,BatchNorm1d,"module tracks the running mean and variance, and when set to false ,",1,0,Summary,module tracks the running mean and variance and when set to false
+2830,FileMetadata,metadata handler for standalone pkg info files,1,1,Summary,metadata handler for standalone pkg info files
+2385,And,"may also be constructed using the operator, which will",1,0,Summary,may also be constructed using the operator which will
+66,AutoFieldMeta,in many areas django also relies on using isinstance to check for an,1,0,Summary,in many areas django also relies on using isinstance to check for an
+2083,PlotAccessor,class matplotlib^axes.axes or numpy^ndarray of them,1,0,Summary,class matplotlib axes axes or numpy ndarray of them
+1725,CategoricalIndex,"dtype categoricaldtype or category , optional",1,0,Summary,dtype categoricaldtype or category optional
+519,MigrationGraph,replaced migrations to point to the replacing one.,1,0,Summary,replaced migrations to point to the replacing one
+1291,ConfigDict,carrots how many carrots?,1,0,Summary,carrots how many carrots
+4118,TreeBuilder,elementclass the class to use for html elements,1,0,Summary,elementclass the class to use for html elements
+3518,ParseResults,# equivalent form,1,0,Summary,equivalent form
+1721,CategoricalIndex,whether or not this categorical is treated as an ordered,1,0,Summary,whether or not this categorical is treated as an ordered
+4129,UndefinedEnvironmentName,environment.,1,1,Summary,environment
+583,MigrationWriter,of the migration file from it.,1,1,Summary,of the migration file from it
+2508,Context_,func contextfunction s get the active context passed as first argument,1,0,Summary,func contextfunction s get the active context passed as first argument
+1311,ConfigDict,"pot^walk liquids vodka , parent true",1,0,Summary,pot walk liquids vodka parent true
+1477,StorageBackedLongs,and save sets of ints.,1,1,Summary,and save sets of ints
+3184,MemcachedBytecodeCache,provided it s an integer with the number of seconds the cache,1,0,Summary,provided it s an integer with the number of seconds the cache
+2384,And,may be constructed using the operator.,1,0,Summary,may be constructed using the operator
+5639,TestYellowFin,yellowfin an automatic tuner for momentum sgd,1,1,Summary,yellowfin an automatic tuner for momentum sgd
+93,BaseCommand,consider using one of the subclasses defined in this file.,1,0,Summary,consider using one of the subclasses defined in this file
+16,Atomic,guarantee the atomic execution of a given block.,1,1,Summary,guarantee the atomic execution of a given block
+5293,Module,import torch^nn.functional as f,1,0,Summary,import torch nn functional as f
+1708,CategoricalIndex,"additions, divisions, .",1,0,Summary,additions divisions
+2079,PlotAccessor,versionadded 10.0,1,0,Summary,versionadded 10 0
+4394,BatchNorm1d,"output math n, c or math n, c, l same shape as input",1,0,Summary,output math n c or math n c l same shape as input
+3271,NotAny,# integers that are followed by .,1,0,Summary,integers that are followed by
+4396,BatchNorm1d,# with learnable parameters,1,0,Summary,with learnable parameters
+3339,omdict,"allitems , allkeys , allvalues , lists , listitems ,",1,0,Summary,allitems allkeys allvalues lists listitems
+5211,ExternalInitializer,this class is used in cases when the parameter should not be initialized by,1,0,Summary,this class is used in cases when the parameter should not be initialized by
+5347,MultiLabelMarginLoss,"reduce bool, optional deprecated see attr reduction .",1,0,Summary,reduce bool optional deprecated see attr reduction
+4240,Adam,params iterable iterable of parameters to optimize or dicts defining,1,0,Summary,params iterable iterable of parameters to optimize or dicts defining
+538,MigrationLoader,load migration files from disk and their status from the database.,1,1,Summary,load migration files from disk and their status from the database
+2504,Context_,modifications on attr parent must not,1,0,Summary,modifications on attr parent must not
+4128,UndefinedEnvironmentName,a name was attempted to be used that does not exist inside of the,1,1,Summary,a name was attempted to be used that does not exist inside of the
+2086,PlotAccessor,notes,1,0,Summary,notes
+5327,MultiLabelMarginLoss,"text loss x, y sum ij frac max 0, 1 x y j x i text x^size 0",1,0,Summary,text loss x y sum ij frac max 0 1 x y j x i text x size 0
+5937,PreparedRequest,import requests,1,0,Summary,import requests
+636,MultiValueField,each value in,1,0,Summary,each value in
+2457,CaseInsensitiveDict,"value of a content encoding response header, regardless",1,0,Summary,value of a content encoding response header regardless
+4245,Adam,"eps float, optional term added to the denominator to improve",1,0,Summary,eps float optional term added to the denominator to improve
+554,MigrationLoader,this does mean that this class must also talk to the database as well as,1,0,Summary,this does mean that this class must also talk to the database as well as
+5287,Module,base class for all neural network modules.,1,1,Summary,base class for all neural network modules
+4313,AdaptiveMaxPool3d,m nn^adaptivemaxpool3d 7,1,0,Summary,m nn adaptivemaxpool3d 7
+1083,InteractiveShellApp,meth init gui pylab,1,0,Summary,meth init gui pylab
+513,MigrationGraph,this is to support the squash feature.,1,0,Summary,this is to support the squash feature
+2089,PlotAccessor,for bar plot layout by position keyword.,1,0,Summary,for bar plot layout by position keyword
+3397,Option,"normally, environment variables",1,0,Summary,normally environment variables
+3086,Markup,use.,1,0,Summary,use
+5352,MultiLabelMarginLoss,batch element instead and ignores attr size average .,1,0,Summary,batch element instead and ignores attr size average
+5372,MultiLabelMarginLoss,"# for target y, only consider labels 3 and 0, not after label 1",1,0,Summary,for target y only consider labels 3 and 0 not after label 1
+4278,Adamax,"lr float, optional learning rate default 2e 3",1,0,Summary,lr float optional learning rate default 2e 3
+3078,Markup,meth escape class method instead.,1,0,Summary,meth escape class method instead
+2231,SQLiteTable,instead of a table variable just use the create table statement.,1,0,Summary,instead of a table variable just use the create table statement
+4386,BatchNorm1d,default true,1,0,Summary,default true
+914,Audio,"display function, it will result in audio controls being displayed",1,0,Summary,display function it will result in audio controls being displayed
+2503,Context_,the context is immutable.,1,0,Summary,the context is immutable
+3182,MemcachedBytecodeCache,if timeout is not provided,1,0,Summary,if timeout is not provided
+5958,Response,server s response to an http request.,1,1,Summary,server s response to an http request
+5341,MultiLabelMarginLoss,"some losses, there are multiple elements per sample.",1,0,Summary,some losses there are multiple elements per sample
+4279,Adamax,"betas tuple float, float , optional coefficients used for computing",1,0,Summary,betas tuple float float optional coefficients used for computing
+5440,OneHotCategorical,samples are one hot coded vectors of size probs^size 1 .,1,0,Summary,samples are one hot coded vectors of size probs size 1
+102,BaseCommand,"an argumentparser for the arguments, parses them, performs",1,0,Summary,an argumentparser for the arguments parses them performs
+1668,CategoricalDtype,"pd^series a , b , a , c , dtype t",1,0,Summary,pd series a b a c dtype t
+1674,CategoricalDtype,"categories 2, object b a",1,0,Summary,categories 2 object b a
+2563,DocumentErrorTree,implements a dict like class to query errors by indexes following the,1,1,Summary,implements a dict like class to query errors by indexes following the
+2824,FileMetadata,metadata handler for standalone pkg info files,1,1,Summary,metadata handler for standalone pkg info files
+5356,MultiLabelMarginLoss,"none no reduction will be applied,",1,0,Summary,none no reduction will be applied
+5254,LBFGS,param bytes history size 1 bytes .,1,0,Summary,param bytes history size 1 bytes
+4310,AdaptiveMaxPool3d,"input torch^randn 1, 64, 8, 9, 10",1,0,Summary,input torch randn 1 64 8 9 10
+2445,CaseInsensitiveDict,all keys are expected to be strings.,1,0,Summary,all keys are expected to be strings
+4311,AdaptiveMaxPool3d,output m input,1,0,Summary,output m input
+3188,MemcachedBytecodeCache,if the item does not,1,0,Summary,if the item does not
+1098,LazyEvaluate,"at that time, such as the current time or working directory.",1,0,Summary,at that time such as the current time or working directory
+3474,PacifyFlushWrapper,notably ^flush is always called on,1,0,Summary,notably flush is always called on
+4475,BCEWithLogitsLoss,"operatorname mean l , & text if reduction text mean",1,0,Summary,operatorname mean l text if reduction text mean
+2501,Context_,automatically at various stages of the template evaluation and should not,1,0,Summary,automatically at various stages of the template evaluation and should not
+2572,Environment,they are not shared and if no template was loaded so far.,1,1,Summary,they are not shared and if no template was loaded so far
+4136,UnlockError,pass,1,0,Summary,pass
+2459,CaseInsensitiveDict,"if the constructor, ^update , or equality comparison",1,0,Summary,if the constructor update or equality comparison
+3227,MethodDispatcher,"on initiation, keys that are lists, sets or tuples are converted to",1,0,Summary,on initiation keys that are lists sets or tuples are converted to
+116,BaseCommand,"thus, the handle method is typically the starting point for",1,0,Summary,thus the handle method is typically the starting point for
+3089,Markup,class foo,1,0,Summary,class foo
+2879,FollowedBy,"the input string, it only verifies that the specified parse",1,1,Summary,the input string it only verifies that the specified parse
+2435,CallBlock,call is called with,1,0,Summary,call is called with
+1044,CapturingDisplayPublisher,a displaypublisher that store,1,1,Summary,a displaypublisher that store
+1658,CategoricalDtype,none,1,0,Summary,none
+104,BaseCommand,"pythonpath , and then calls the execute method,",1,0,Summary,pythonpath and then calls the execute method
+3273,NotAny,integer word nums char .,1,0,Summary,integer word nums char
+1550,AbstractHolidayCalendar,abstract interface to create holidays following certain rules.,1,1,Summary,abstract interface to create holidays following certain rules
+2461,CaseInsensitiveDict,behavior is undefined.,1,0,Summary,behavior is undefined
+1315,ConfigDict,"pot colors ^extend blue , red , red",1,0,Summary,pot colors extend blue red red
+5465,Poisson,"samples are nonnegative integers, with a pmf given by",1,0,Summary,samples are nonnegative integers with a pmf given by
+5505,ResNetBuilder,helper class for constructing residual blocks.,1,1,Summary,helper class for constructing residual blocks
+2063,PlotAccessor,see ref plotting with error bars visualization^errorbars for,1,0,Summary,see ref plotting with error bars visualization errorbars for
+4216,Adadelta,parameter groups,1,0,Summary,parameter groups
+2412,Argument,all parameters are passed onwards to the parameter constructor.,1,0,Summary,all parameters are passed onwards to the parameter constructor
+5426,NetModifier,an abstraction class for supporting modifying a generated net.,1,1,Summary,an abstraction class for supporting modifying a generated net
+1706,CategoricalIndex,"also,",1,0,Summary,also
+797,StaticFilesHandler,"wsgi middleware that intercepts calls to the static files directory, as",1,1,Summary,wsgi middleware that intercepts calls to the static files directory as
+1293,ConfigDict,"liquids fluids we like , false,",1,0,Summary,liquids fluids we like false
+3601,Path,the path type is similar to the class file type but it performs,1,1,Summary,the path type is similar to the class file type but it performs
+51,AtomicTests,the tests make assertions on internal attributes because there isn t a,1,0,Summary,the tests make assertions on internal attributes because there isn t a
+1175,UserMagics,"all magics are eventually merged into a single namespace at runtime, but we",1,0,Summary,all magics are eventually merged into a single namespace at runtime but we
+4117,TreeBuilder,documentclass the class to use for the bottommost node of a document,1,0,Summary,documentclass the class to use for the bottommost node of a document
+550,MigrationLoader,if all the migrations they replace are either unapplied or missing from,1,0,Summary,if all the migrations they replace are either unapplied or missing from
+4119,TreeBuilder,commentclass the class to use for comments,1,0,Summary,commentclass the class to use for comments
+2214,SelectNSeries,"keep first , last , default first",1,0,Summary,keep first last default first
+5256,LBFGS,"try reducing the history size, or use a different algorithm.",1,0,Summary,try reducing the history size or use a different algorithm
+4305,AdaptiveMaxPool3d,useful to pass to nn^maxunpool3d.,1,0,Summary,useful to pass to nn maxunpool3d
+3298,NotMyLock,pass,1,0,Summary,pass
+70,AutoFieldMeta,"when these issues have been addressed, this metaclass could be used to",1,0,Summary,when these issues have been addressed this metaclass could be used to
+2512,Context_,"getitem , contains .",1,0,Summary,getitem contains
+4309,AdaptiveMaxPool3d,"m nn^adaptivemaxpool3d 5,7,9",1,0,Summary,m nn adaptivemaxpool3d 5 7 9
+3514,ParseResults,integer word nums,1,0,Summary,integer word nums
+3388,Option,param show default controls if the default value should be shown on the,1,0,Summary,param show default controls if the default value should be shown on the
+98,BaseCommand,django admin or manage^py loads the command class,1,0,Summary,django admin or manage py loads the command class
+4314,AdaptiveMaxPool3d,"input torch^randn 1, 64, 10, 9, 8",1,0,Summary,input torch randn 1 64 10 9 8
+5252,LBFGS,note,1,0,Summary,note
+594,MultiPartParser,"and returns a tuple of multivaluedict post , multivaluedict files .",1,0,Summary,and returns a tuple of multivaluedict post multivaluedict files
+14,ArchiveIndexView,top level archive of date based items.,1,1,Summary,top level archive of date based items
+1474,Rescan,add new messages to index,1,1,Summary,add new messages to index
+4358,BatchNorm1d,evaluation.,1,0,Summary,evaluation
+3080,Markup,"markup hello, em world em !",1,0,Summary,markup hello em world em
+3666,PoolManager,necessary connection pools for you.,1,1,Summary,necessary connection pools for you
+5226,FisherSnedecor,df2 float or tensor degrees of freedom parameter 2,1,0,Summary,df2 float or tensor degrees of freedom parameter 2
+4316,AdaptiveMaxPool3d,# target output size of 7x9x8,1,0,Summary,target output size of 7x9x8
+5370,MultiLabelMarginLoss,loss nn^multilabelmarginloss,1,0,Summary,loss nn multilabelmarginloss
+2513,Context_,additionally there is a meth resolve,1,0,Summary,additionally there is a meth resolve
+4307,AdaptiveMaxPool3d,examples,1,0,Summary,examples
+2085,PlotAccessor,will be the object returned by the backend.,1,0,Summary,will be the object returned by the backend
+1716,CategoricalIndex,the categories for the categorical.,1,0,Summary,the categories for the categorical
+3265,NotAny,# take care not to mistake keywords for identifiers,1,0,Summary,take care not to mistake keywords for identifiers
+1095,IPythonInputSplitter,an input splitter that recognizes all of ipython s special syntax.,1,1,Summary,an input splitter that recognizes all of ipython s special syntax
+72,AutoFieldMeta,for detecting automatically generated fields.,1,0,Summary,for detecting automatically generated fields
+2507,Context_,template filters and global functions marked as,1,0,Summary,template filters and global functions marked as
+7,AppConfigStub,stub of an appconfig.,1,1,Summary,stub of an appconfig
+4465,BCEWithLogitsLoss,the unreduced ie with attr reduction set to none loss can be described as,1,0,Summary,the unreduced ie with attr reduction set to none loss can be described as
+1598,BooleanArray,methods,1,0,Summary,methods
+2875,Filter_,sanitizes token stream of xhtml mathml svg and of inline style attributes,1,1,Summary,sanitizes token stream of xhtml mathml svg and of inline style attributes
+1562,Base,"to be supplied in breaks format, then converted by the subclass method",1,0,Summary,to be supplied in breaks format then converted by the subclass method
+1582,BooleanArray,below .,1,0,Summary,below
+21,Atomic,"savepoint, depending on whether a transaction is already in progress, and",1,0,Summary,savepoint depending on whether a transaction is already in progress and
+53,AtomicTests,since the decorator syntax is converted into a context manager see the,1,0,Summary,since the decorator syntax is converted into a context manager see the
+5470,Poisson,m^sample,1,0,Summary,m sample
+3257,NotAny,does not match at the current position.,1,0,Summary,does not match at the current position
+5297,Module,init,1,0,Summary,init
+2505,Context_,happen and modifications on attr vars are allowed from generated,1,0,Summary,happen and modifications on attr vars are allowed from generated
+3399,Option,param prompt if set to true or a non empty string then the user will be,1,0,Summary,param prompt if set to true or a non empty string then the user will be
+5430,NetModifier,modifier somenetmodifier opts,1,0,Summary,modifier somenetmodifier opts
+2388,And,integer word nums,1,0,Summary,integer word nums
+3324,omdict,"items , keys , values , iteritems , iterkeys , itervalues ,",1,0,Summary,items keys values iteritems iterkeys itervalues
+3427,Option,param hidden hide this option from help outputs.,1,0,Summary,param hidden hide this option from help outputs
+4276,Adamax,params iterable iterable of parameters to optimize or dicts defining,1,0,Summary,params iterable iterable of parameters to optimize or dicts defining
+4380,BatchNorm1d,computation.,1,0,Summary,computation
+2511,Context_,"keys , values , items , iterkeys , itervalues , iteritems ,",1,0,Summary,keys values items iterkeys itervalues iteritems
+3180,MemcachedBytecodeCache,value is a string and,1,0,Summary,value is a string and
+3190,MemcachedBytecodeCache,the other arguments to the constructor are the prefix for all keys that,1,0,Summary,the other arguments to the constructor are the prefix for all keys that
+5494,QuantWrapper,similarly,1,0,Summary,similarly
+2887,FollowedBy,# use followedby to match a label only if it is followed by a,1,1,Summary,use followedby to match a label only if it is followed by a
+1592,BooleanArray,a 1 d boolean dtype array indicating missing values true,1,0,Summary,a 1 d boolean dtype array indicating missing values true
+4243,Adam,"betas tuple float, float , optional coefficients used for computing",1,0,Summary,betas tuple float float optional coefficients used for computing
+574,MigrationQuestioner,give the autodetector responses to questions it might have.,1,1,Summary,give the autodetector responses to questions it might have
+5326,MultiLabelMarginLoss,math,1,0,Summary,math
+798,StaticFilesHandler,"defined by the static url setting, and serves those files.",1,1,Summary,defined by the static url setting and serves those files
+5448,OneHotCategorical,"tensor 0., 0., 0., 1.",1,0,Summary,tensor 0 0 0 1
+1710,CategoricalIndex,parameters,1,0,Summary,parameters
+5238,LastNWindowCollector,this layer is not thread safe.,1,0,Summary,this layer is not thread safe
+4372,BatchNorm1d,"because the batch normalization is done over the c dimension, computing statistics",1,0,Summary,because the batch normalization is done over the c dimension computing statistics
+3520,ParseResults,# parsestring returns a parseresults object,1,0,Summary,parsestring returns a parseresults object
+3392,Option,"value is a string, it shows the string instead of the",1,0,Summary,value is a string it shows the string instead of the
+5360,MultiLabelMarginLoss,"and attr reduce are in the process of being deprecated, and in the meantime,",1,0,Summary,and attr reduce are in the process of being deprecated and in the meantime
+4241,Adam,parameter groups,1,0,Summary,parameter groups
+2092,PlotAccessor,center,1,0,Summary,center
+1666,CategoricalDtype,examples,1,0,Summary,examples
+4366,BatchNorm1d,classes and the conventional notion of momentum.,1,0,Summary,classes and the conventional notion of momentum
+1553,AccessorCallableDocumenter,call from the method signature for,1,1,Summary,call from the method signature for
+4368,BatchNorm1d,update rule for running statistics here is,1,0,Summary,update rule for running statistics here is
+307,CustomCacheKeyValidationTests,a custom cache backend that otherwise inherits from a builtin,1,1,Summary,a custom cache backend that otherwise inherits from a builtin
+1144,Struct,attribute style access.,1,0,Summary,attribute style access
+546,MigrationLoader,see,1,0,Summary,see
+2386,And,suppress backtracking.,1,0,Summary,suppress backtracking
+1305,ConfigDict,pot liquids vodka,1,0,Summary,pot liquids vodka
+5220,FisherSnedecor,example,1,0,Summary,example
+1050,DisplayHook,that gets called anytime user code returns a value.,1,0,Summary,that gets called anytime user code returns a value
+4277,Adamax,parameter groups,1,0,Summary,parameter groups
+3076,Markup,it to mark it safe without escaping.,1,0,Summary,it to mark it safe without escaping
+5491,QuantWrapper,"dequant modules, before convert function quantstub will just be observer,",1,0,Summary,dequant modules before convert function quantstub will just be observer
+1289,ConfigDict,pot configdict rules potatoes how many potatoes?,1,0,Summary,pot configdict rules potatoes how many potatoes
+2362,_BZ2Proxy,a file object argument.,1,0,Summary,a file object argument
+97,BaseCommand,1,1,0,Summary,1
+4155,_OpNamespace,object called my namespace and set it as an attribute on the ops,1,0,Summary,object called my namespace and set it as an attribute on the ops
+4149,_OpNamespace,"at startup, this operation will not yet be bound into python.",1,0,Summary,at startup this operation will not yet be bound into python
+789,SpatialRefSysMixin,the spatialrefsysmixin is a class used by the database dependent,1,1,Summary,the spatialrefsysmixin is a class used by the database dependent
+25,Atomic,ensure that some code runs within a transaction without creating overhead.,1,0,Summary,ensure that some code runs within a transaction without creating overhead
+5428,NetModifier,related operators are added to the net.,1,0,Summary,related operators are added to the net
+2390,And,"expr and integer id ,name expr name ,integer age",1,0,Summary,expr and integer id name expr name integer age
+1650,CategoricalDtype,whether or not this categorical is treated as a ordered categorical.,1,0,Summary,whether or not this categorical is treated as a ordered categorical
+1871,Holiday,for observance.,1,1,Summary,for observance
+3394,Option,this is particularly useful for dynamic options.,1,0,Summary,this is particularly useful for dynamic options
+1723,CategoricalIndex,"if not given here or in dtype , the resulting",1,0,Summary,if not given here or in dtype the resulting
+11,Archive,the external api class that encapsulates an archive implementation.,1,1,Summary,the external api class that encapsulates an archive implementation
+96,BaseCommand,as follows,1,0,Summary,as follows
+1176,UserMagics,use this class to isolate the magics defined dynamically by the user into,1,0,Summary,use this class to isolate the magics defined dynamically by the user into
+3401,Option,if set to true the prompt will be the,1,0,Summary,if set to true the prompt will be the
+5931,InvalidHeader,the header value provided was somehow invalid.,1,1,Summary,the header value provided was somehow invalid
+2502,Context_,be created by hand.,1,0,Summary,be created by hand
+2426,Bucket,to automatically reject outdated cache material.,1,0,Summary,to automatically reject outdated cache material
+294,ConsoleDirective,unix oriented examples.,1,1,Summary,unix oriented examples
+3310,omdict,items.,1,0,Summary,items
+114,BaseCommand,"commanderror , run from argv will instead print an error",1,0,Summary,commanderror run from argv will instead print an error
+5446,OneHotCategorical,"m onehotcategorical torch^tensor 025, 025, 025, 025",1,0,Summary,m onehotcategorical torch tensor 025 025 025 025
+4884,CyclicLR,cyclical learning rate policy clr .,1,1,Summary,cyclical learning rate policy clr
+2071,PlotAccessor,"if true, boolean values can be plotted.",1,0,Summary,if true boolean values can be plotted
+2816,fdspawn,this is like pexpect^spawn but allows you to supply your own open file,1,1,Summary,this is like pexpect spawn but allows you to supply your own open file
+3162,MemcachedBytecodeCache,storing the information.,1,1,Summary,storing the information
+1714,CategoricalIndex,categories will be replaced with nan.,1,0,Summary,categories will be replaced with nan
+4351,BatchNorm1d,the mean and standard deviation are calculated per dimension over,1,0,Summary,the mean and standard deviation are calculated per dimension over
+4110,TokenStreamIterator,the iterator for tokenstreams.,1,1,Summary,the iterator for tokenstreams
+5490,QuantWrapper,this is used by the quantization utility functions to add the quant and,1,0,Summary,this is used by the quantization utility functions to add the quant and
+99,BaseCommand,and calls its run from argv method.,1,0,Summary,and calls its run from argv method
+3192,MemcachedBytecodeCache,the cache system.,1,0,Summary,the cache system
+5358,MultiLabelMarginLoss,"elements in the output, sum the output will be summed.",1,0,Summary,elements in the output sum the output will be summed
+5635,TestBuiltins,tests for torchscript support of python builtin functions.,1,1,Summary,tests for torchscript support of python builtin functions
+3097,Markup,all methods escape their arguments and return a markup instance.,1,0,Summary,all methods escape their arguments and return a markup instance
+3512,ParseResults,resultsname see class parserelement^setresultsname,1,0,Summary,resultsname see class parserelement setresultsname
+2449,CaseInsensitiveDict,will contain case sensitive keys.,1,0,Summary,will contain case sensitive keys
+4392,BatchNorm1d,shape,1,0,Summary,shape
+1563,Base,get kwargs from breaks to the expected format.,1,0,Summary,get kwargs from breaks to the expected format
+1166,TermColors,this class should be used as a mixin for building color schemes.,1,0,Summary,this class should be used as a mixin for building color schemes
+4281,Adamax,"eps float, optional term added to the denominator to improve",1,0,Summary,eps float optional term added to the denominator to improve
+4157,_OpNamespace,2,1,0,Summary,2
+4473,BCEWithLogitsLoss,math,1,0,Summary,math
+1101,Magics,base class for implementing magic functions.,1,1,Summary,base class for implementing magic functions
+575,MigrationQuestioner,"this base class has a built in noninteractive mode, but the",1,0,Summary,this base class has a built in noninteractive mode but the
+300,CryptPasswordHasher,password hashing using unix crypt not recommended,1,1,Summary,password hashing using unix crypt not recommended
+1558,AccessorDocumenter,specialized documenter subclass for accessors.,1,1,Summary,specialized documenter subclass for accessors
+4362,BatchNorm1d,"keep running estimates, and batch statistics are instead used during",1,0,Summary,keep running estimates and batch statistics are instead used during
+3421,Option,param count this flag makes an option increment an integer.,1,0,Summary,param count this flag makes an option increment an integer
+3417,Option,multiple times and recorded.,1,0,Summary,multiple times and recorded
+1333,ConfigDict,valueerror invalid value for config potatoes moo,1,0,Summary,valueerror invalid value for config potatoes moo
+3419,Option,in how it works but supports arbitrary number of,1,0,Summary,in how it works but supports arbitrary number of
+5368,MultiLabelMarginLoss,"if attr reduction is none , then math n .",1,0,Summary,if attr reduction is none then math n
+3403,Option,param confirmation prompt if set then the value will need to be confirmed,1,0,Summary,param confirmation prompt if set then the value will need to be confirmed
+5472,Poisson,args,1,0,Summary,args
+5442,OneHotCategorical,and it will be normalized to sum to 1.,1,0,Summary,and it will be normalized to sum to 1
+3315,omdict,standard dict methods interact with the first value associated with a given,1,0,Summary,standard dict methods interact with the first value associated with a given
+1648,CategoricalDtype,"must be unique, and must not contain any nulls.",1,0,Summary,must be unique and must not contain any nulls
+2850,FileSystemLoader,in folders on the file system and is the preferred way to load them.,1,1,Summary,in folders on the file system and is the preferred way to load them
+123,BaseCommand,"a short description of the command, which will be printed in",1,0,Summary,a short description of the command which will be printed in
+2055,PlotAccessor,default is 05,1,0,Summary,default is 05
+3261,NotAny,a null token list.,1,0,Summary,a null token list
+5468,Poisson,example,1,0,Summary,example
+5564,StackTransform,component wise to each submatrix at dim,1,1,Summary,component wise to each submatrix at dim
+3425,Option,context.,1,0,Summary,context
+101,BaseCommand,the run from argv method calls create parser to get,1,0,Summary,the run from argv method calls create parser to get
+3522,ParseResults,"def test s, fn repr",1,0,Summary,def test s fn repr
+2065,PlotAccessor,"xerr dataframe, series, array like, dict and str",1,0,Summary,xerr dataframe series array like dict and str
+112,BaseCommand,4,1,0,Summary,4
+4273,Adamax,implements adamax algorithm a variant of adam based on infinity norm .,1,1,Summary,implements adamax algorithm a variant of adam based on infinity norm
+4883,CyclicLR,sets the learning rate of each parameter group according to,1,1,Summary,sets the learning rate of each parameter group according to
+3330,omdict,new methods have also been added to omdict.,1,0,Summary,new methods have also been added to omdict
+2510,Context_,"the template context supports read only dict operations get ,",1,0,Summary,the template context supports read only dict operations get
+4398,BatchNorm1d,# without learnable parameters,1,0,Summary,without learnable parameters
+1596,BooleanArray,attributes,1,0,Summary,attributes
+2061,PlotAccessor,table.,1,0,Summary,table
+118,BaseCommand,"all of their logic in handle , or perform some additional",1,0,Summary,all of their logic in handle or perform some additional
+2358,_BZ2Proxy,support for r bz2 and w bz2 modes.,1,1,Summary,support for r bz2 and w bz2 modes
+298,Context,a stack container for variable context,1,1,Summary,a stack container for variable context
+1704,CategoricalIndex,"categoricalindex, like categorical, can only take on a limited,",1,0,Summary,categoricalindex like categorical can only take on a limited
+4275,Adamax,arguments,1,0,Summary,arguments
+1324,ConfigDict,valueerror invalid value for config tags 1 .,1,0,Summary,valueerror invalid value for config tags 1
+1301,ConfigDict,"colors , liquids , tags , , ,",1,0,Summary,colors liquids tags
+5637,TestQuantizedLinear,tests the correctness of the quantized linear and linear relu op.,1,1,Summary,tests the correctness of the quantized linear and linear relu op
+2053,PlotAccessor,specify relative alignments for bar plot layout.,1,0,Summary,specify relative alignments for bar plot layout
+1309,ConfigDict,pot^walk liquids^vodka,1,0,Summary,pot walk liquids vodka
+1281,ConfigDict,to be dictionaries or lists of items that match the rules defined.,1,0,Summary,to be dictionaries or lists of items that match the rules defined
+1569,BaseInterfaceTests,tests that the basic interface is satisfied.,1,1,Summary,tests that the basic interface is satisfied
+3267,NotAny,boolean term optional not ident,1,0,Summary,boolean term optional not ident
+4220,Adadelta,numerical stability default 1e 6,1,0,Summary,numerical stability default 1e 6
+2455,CaseInsensitiveDict,list cid accept # true,1,0,Summary,list cid accept true
+4247,Adam,"weight decay float, optional weight decay l2 penalty default 0",1,0,Summary,weight decay float optional weight decay l2 penalty default 0
+5364,MultiLabelMarginLoss,"input math c or math n, c where n is the batch size and c",1,0,Summary,input math c or math n c where n is the batch size and c
+3269,NotAny,"# operation hierarchy, use infixnotation",1,0,Summary,operation hierarchy use infixnotation
+3663,PipError,base pip exception,1,1,Summary,base pip exception
+3510,ParseResults,"by list index results 0 , results 1 , etc",1,0,Summary,by list index results 0 results 1 etc
+1303,ConfigDict,pot potatoes,1,0,Summary,pot potatoes
+2389,And,name expr oneormore word alphas,1,0,Summary,name expr oneormore word alphas
+1652,CategoricalDtype,"used in operations that combine categoricals, eg astype, and will resolve to",1,0,Summary,used in operations that combine categoricals eg astype and will resolve to
+2057,PlotAccessor,"table bool, series or dataframe, default false",1,0,Summary,table bool series or dataframe default false
+5354,MultiLabelMarginLoss,"reduction string, optional specifies the reduction to apply to the output",1,0,Summary,reduction string optional specifies the reduction to apply to the output
+5343,MultiLabelMarginLoss,"is set to false , the losses are instead summed for each minibatch.",1,0,Summary,is set to false the losses are instead summed for each minibatch
+1718,CategoricalIndex,"if the categories are not given here and also not in dtype , they",1,0,Summary,if the categories are not given here and also not in dtype they
+4218,Adadelta,of squared gradients default 09,1,0,Summary,of squared gradients default 09
+1500,VCardSet,"add a lines to a vcard, ensuring vcard exists",1,1,Summary,add a lines to a vcard ensuring vcard exists
+602,MultiValueDict,simon,1,0,Summary,simon
+1287,ConfigDict,values of the type specified.,1,0,Summary,values of the type specified
+1295,ConfigDict,"vodka liters , int, 12",1,0,Summary,vodka liters int 12
+4376,BatchNorm1d,"math n, c, l or math l from input of size math n, l",1,0,Summary,math n c l or math l from input of size math n l
+4162,_OpNamespace,3,1,0,Summary,3
+5342,MultiLabelMarginLoss,if the field attr size average,1,0,Summary,if the field attr size average
+5561,StackedLSTMWithDropout,necessary for iterating through self^layers and dropout support,1,1,Summary,necessary for iterating through self layers and dropout support
+3516,ParseResults,integer^setresultsname month,1,0,Summary,integer setresultsname month
+5939,PreparedRequest,r req^prepare,1,0,Summary,r req prepare
+2447,CaseInsensitiveDict,"case of the last key to be set, and iter instance ,",1,0,Summary,case of the last key to be set and iter instance
+1496,Util,utility functions for builds,1,1,Summary,utility functions for builds
+5325,MultiLabelMarginLoss,for each sample in the mini batch,1,0,Summary,for each sample in the mini batch
+3084,Markup,markup hello &lt em&gt world&lt em&gt !,1,0,Summary,markup hello lt em gt world lt em gt
+292,ConsoleDirective,a restructuredtext directive which renders a two tab code block in which,1,1,Summary,a restructuredtext directive which renders a two tab code block in which
+2387,And,example,1,0,Summary,example
+5350,MultiLabelMarginLoss,on attr size average .,1,0,Summary,on attr size average
+19,Atomic,"decorated function in the instance itself, used as a context manager.",1,0,Summary,decorated function in the instance itself used as a context manager
+1313,ConfigDict,pot colors ^append red,1,0,Summary,pot colors append red
+2500,Context_,creating instances is neither supported nor useful as it s created,1,0,Summary,creating instances is neither supported nor useful as it s created
+1177,UserMagics,their own class.,1,0,Summary,their own class
+3296,NotMyLock,raise notmylock,1,0,Summary,raise notmylock
+1317,ConfigDict,"red , blue , red , red",1,0,Summary,red blue red red
+4378,BatchNorm1d,default 1e 5,1,0,Summary,default 1e 5
+4151,_OpNamespace,following sequence of magic tricks will occur,1,0,Summary,following sequence of magic tricks will occur
+1327,ConfigDict,invalidkeyerror invalid key for config evil,1,0,Summary,invalidkeyerror invalid key for config evil
+329,Dumpdata,tests for dumpdata management command.,1,1,Summary,tests for dumpdata management command
+2817,fdspawn,descriptor.,1,1,Summary,descriptor
+1654,CategoricalDtype,attributes,1,0,Summary,attributes
+4166,_OpNamespace,operation will already exist .,1,0,Summary,operation will already exist
+3328,omdict,key parameter has been added to these methods,1,0,Summary,key parameter has been added to these methods
+2506,Context_,template code only.,1,0,Summary,template code only
+5224,FisherSnedecor,args,1,0,Summary,args
+27,Atomic,connection.,1,0,Summary,connection
+106,BaseCommand,3,1,0,Summary,3
+4253,Adam,on the convergence of adam and beyond,1,0,Summary,on the convergence of adam and beyond
+2069,PlotAccessor,labels with right in the legend.,1,0,Summary,labels with right in the legend
+1163,TermColors,also defines a nocolor escape which is just the null,1,1,Summary,also defines a nocolor escape which is just the null
+515,MigrationGraph,"for these instead, the code to load them in here should examine the",1,0,Summary,for these instead the code to load them in here should examine the
+4159,_OpNamespace,"the my namespace object, which will retrieve the operation via",1,0,Summary,the my namespace object which will retrieve the operation via
+120,BaseCommand,specialized methods as needed.,1,0,Summary,specialized methods as needed
+1554,AccessorCallableDocumenter,callable accessors like series^plot,1,1,Summary,callable accessors like series plot
+916,Audio,parameters,1,0,Summary,parameters
+29,Atomic,this allows reentrancy even if the same atomicwrapper is reused.,1,0,Summary,this allows reentrancy even if the same atomicwrapper is reused
+1285,ConfigDict,rules in place of the default value.,1,0,Summary,rules in place of the default value
+1112,Magics,use the method decorators @line magic and @cell magic to decorate,1,0,Summary,use the method decorators @line magic and @cell magic to decorate
+520,MigrationGraph,"a node should be a tuple app path, migration name .",1,0,Summary,a node should be a tuple app path migration name
+5890,UploadTaskGroupBuilder,a simple class to upload checkpoints.,1,1,Summary,a simple class to upload checkpoints
+4298,AdaptiveMaxPool3d,the number of output features is equal to the number of input planes.,1,0,Summary,the number of output features is equal to the number of input planes
+3322,omdict,"clear , copy , update , fromkeys , len",1,0,Summary,clear copy update fromkeys len
+1600,BooleanArray,returns,1,0,Summary,returns
+517,MigrationGraph,"or not present, it should ignore the replaced ones, load in just the",1,0,Summary,or not present it should ignore the replaced ones load in just the
+2360,_BZ2Proxy,a workaround for a limitation in bz2 module s bz2file,1,0,Summary,a workaround for a limitation in bz2 module s bz2file
+592,MultiPartParser,a rfc2388 multipart form data parser.,1,1,Summary,a rfc2388 multipart form data parser
+4244,Adam,"running averages of gradient and its square default 09, 0999",1,0,Summary,running averages of gradient and its square default 09 0999
+4239,Adam,arguments,1,0,Summary,arguments
+2391,And,# more easily written as,1,0,Summary,more easily written as
+552,MigrationLoader,any dependency pointers to the replaced migrations are re pointed to the,1,0,Summary,any dependency pointers to the replaced migrations are re pointed to the
+94,BaseCommand,if you are interested in overriding customizing various aspects of,1,0,Summary,if you are interested in overriding customizing various aspects of
+2383,And,expressions may be separated by whitespace.,1,0,Summary,expressions may be separated by whitespace
+1161,TermColors,this class defines the escape sequences for all the standard ansi?,1,1,Summary,this class defines the escape sequences for all the standard ansi
+4242,Adam,"lr float, optional learning rate default 1e 3",1,0,Summary,lr float optional learning rate default 1e 3
+1060,GeoJSON,"scalar types none, number, string are not allowed, only dict containers.",1,0,Summary,scalar types none number string are not allowed only dict containers
+2418,BaseCommand_,a cli command.,1,1,Summary,a cli command
+1070,HistoryAccessor,ipython shells use,1,0,Summary,ipython shells use
+5492,QuantWrapper,"it observes the input tensor, after convert , quantstub",1,0,Summary,it observes the input tensor after convert quantstub
+62,AutoFieldMeta,metaclass to maintain backward inheritance compatibility for autofield.,1,1,Summary,metaclass to maintain backward inheritance compatibility for autofield
+4238,Adam,it has been proposed in adam a method for stochastic optimization .,1,0,Summary,it has been proposed in adam a method for stochastic optimization
+3318,omdict,object can be replaced with an omdict object and all interaction will,1,0,Summary,object can be replaced with an omdict object and all interaction will
+2090,PlotAccessor,from 0 left bottom end to 1 right top end .,1,0,Summary,from 0 left bottom end to 1 right top end
+3477,PacifyFlushWrapper,"other cleanup code, and the case where the underlying file is not a broken",1,0,Summary,other cleanup code and the case where the underlying file is not a broken
+2931,HashMissing,a hash was needed for a requirement but is absent.,1,1,Summary,a hash was needed for a requirement but is absent
+601,MultiValueDict,d name,1,0,Summary,d name
+5213,ExternalInitializer,executed.,1,0,Summary,executed
+4116,TreeBuilder,base treebuilder implementation,1,1,Summary,base treebuilder implementation
+3475,PacifyFlushWrapper,sys^stdout and sys^stderr .,1,0,Summary,sys stdout and sys stderr
+23,Atomic,and rolls back the transaction or to the savepoint on exceptions.,1,0,Summary,and rolls back the transaction or to the savepoint on exceptions
+4356,BatchNorm1d,"also by default, during training this layer keeps running estimates of its",1,0,Summary,also by default during training this layer keeps running estimates of its
+2081,PlotAccessor,options to pass to matplotlib plotting method.,1,0,Summary,options to pass to matplotlib plotting method
+588,ModelSignal,signal subclass that allows the sender to be lazily specified as a string,1,1,Summary,signal subclass that allows the sender to be lazily specified as a string
+2087,PlotAccessor,see matplotlib documentation online for more on this subject,1,0,Summary,see matplotlib documentation online for more on this subject
+3320,omdict,all dict methods that retain parity with omdict are,1,0,Summary,all dict methods that retain parity with omdict are
+1146,Struct,style access.,1,0,Summary,style access
+2067,PlotAccessor,"mark right bool, default true",1,0,Summary,mark right bool default true
+4106,TarFile,the tarfile class provides an interface to tar archives.,1,1,Summary,the tarfile class provides an interface to tar archives
+1116,Magics,initialization.,1,0,Summary,initialization
+1114,Magics,use the class decorator @magics class to ensure that the magic,1,0,Summary,use the class decorator @magics class to ensure that the magic
+50,AtomicTests,tests for the atomic decorator and context manager.,1,1,Summary,tests for the atomic decorator and context manager
+4886,CyclicLR,"rate between two boundaries with a constant frequency, as detailed in",1,1,Summary,rate between two boundaries with a constant frequency as detailed in
+918,Audio,can be one of,1,0,Summary,can be one of
+1322,ConfigDict,pot tags ^append z invalid,1,0,Summary,pot tags append z invalid
+5376,MultiLabelMarginLoss,tensor 08500,1,0,Summary,tensor 08500
+4251,Adam,adam a method for stochastic optimization,1,0,Summary,adam a method for stochastic optimization
+5123,EmbeddingBag,"tensor 08861, 54350, 00523 ,",1,0,Summary,tensor 08861 54350 00523
+2571,Environment,instances of this class may be modified if,1,1,Summary,instances of this class may be modified if
+5260,LBFGS,default 20,1,0,Summary,default 20
+3312,omdict,"dictionary, self.",1,0,Summary,dictionary self
+582,MigrationWriter,take a migration instance and is able to produce the contents,1,1,Summary,take a migration instance and is able to produce the contents
+55,AtomicTests,syntax and the bulk of the tests use the context manager syntax.,1,0,Summary,syntax and the bulk of the tests use the context manager syntax
+1,AccessMixin,abstract cbv mixin that gives access mixins the same customizable,1,1,Summary,abstract cbv mixin that gives access mixins the same customizable
+1656,CategoricalDtype,ordered,1,0,Summary,ordered
+1670,CategoricalDtype,1 b,1,0,Summary,1 b
+68,AutoFieldMeta,a new flag needs,1,0,Summary,a new flag needs
+5450,OneHotCategorical,probs tensor event probabilities,1,0,Summary,probs tensor event probabilities
+4300,AdaptiveMaxPool3d,output size the target output size of the image of the form d x h x w.,1,0,Summary,output size the target output size of the image of the form d x h x w
+1148,Struct,intelligent merging.,1,0,Summary,intelligent merging
+2049,PlotAccessor,"colorbar bool, optional",1,0,Summary,colorbar bool optional
+4142,ZipResourceFinder,resource finder for resources in ^zip files.,1,1,Summary,resource finder for resources in zip files
+5495,QuantWrapper,for dequantstub .,1,0,Summary,for dequantstub

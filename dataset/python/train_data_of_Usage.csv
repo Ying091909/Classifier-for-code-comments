@@ -1,0 +1,1403 @@
+comment_sentence_id,class,comment_sentence,partition,instance_type,category,pre_sentence
+1666,CategoricalDtype,examples,0,1,Usage,examples
+3532,ParseResults,"list result 1999 , , 12 , , 31",0,1,Usage,list result 1999 12 31
+2276,StringArray,stringarray,0,1,Usage,stringarray
+1306,ConfigDict,123,0,1,Usage,123
+3810,Retry,"retries retry connect 5, read 2, redirect 5",0,1,Usage,retries retry connect 5 read 2 redirect 5
+5429,NetModifier,example usage,0,1,Usage,example usage
+101,BaseCommand,the run from argv method calls create parser to get,0,1,Usage,the run from argv method calls create parser to get
+1520,VCardStore,vcs^get vcard d@evil^com is none,0,1,Usage,vcs get vcard d@evil com is none
+5770,Unfold,"inp torch^randn 1, 3, 10, 12",0,1,Usage,inp torch randn 1 3 10 12
+5607,Task,of the task have finished.,0,1,Usage,of the task have finished
+1901,IntegerArray,int array,0,1,Usage,int array
+1483,StorageBackedLongs,sbl^save,0,1,Usage,sbl save
+4035,SkipTo,"string data skipto sep, ignore quotedstring",0,1,Usage,string data skipto sep ignore quotedstring
+3509,ParseResults,as a list len results,0,1,Usage,as a list len results
+1192,YouTubeVideo,display vid,0,1,Usage,display vid
+5659,TransformerEncoderLayer,"encoder layer nn^transformerencoderlayer d model 512, nhead 8",0,1,Usage,encoder layer nn transformerencoderlayer d model 512 nhead 8
+5471,Poisson,tensor 3.,0,1,Usage,tensor 3
+1507,VCardStore,"vcs^add vcards mailpilevcard vcardline fn dude ,",0,1,Usage,vcs add vcards mailpilevcard vcardline fn dude
+3997,Session,or as a context manager,0,1,Usage,or as a context manager
+4050,SkipTo,days open 14,0,1,Usage,days open 14
+5221,FisherSnedecor,"m fishersnedecor torch^tensor 10 , torch^tensor 20",0,1,Usage,m fishersnedecor torch tensor 10 torch tensor 20
+3324,omdict,"items , keys , values , iteritems , iterkeys , itervalues ,",0,1,Usage,items keys values iteritems iterkeys itervalues
+3748,Request,usage,0,1,Usage,usage
+26,Atomic,a stack of savepoints identifiers is maintained as an attribute of the,0,1,Usage,a stack of savepoints identifiers is maintained as an attribute of the
+5598,Task,"ops^copy globl, local",0,1,Usage,ops copy globl local
+2274,StringArray,"pd^array this is , some text , none, data.",0,1,Usage,pd array this is some text none data
+5213,ExternalInitializer,executed.,0,1,Usage,executed
+5569,StackTransform,y t x,0,1,Usage,y t x
+2452,CaseInsensitiveDict,cid caseinsensitivedict,0,1,Usage,cid caseinsensitivedict
+486,Migration,"dependencies a list of tuples of app path, migration name",0,1,Usage,dependencies a list of tuples of app path migration name
+3541,ParseResults,year 1999,0,1,Usage,year 1999
+2508,Context_,func contextfunction s get the active context passed as first argument,0,1,Usage,func contextfunction s get the active context passed as first argument
+1226,_MockPOP3,"true, false",0,1,Usage,true false
+488,Migration,replaces a list of migration names,0,1,Usage,replaces a list of migration names
+1914,IntegerArray,"length 3, dtype uint16",0,1,Usage,length 3 dtype uint16
+2851,FileSystemLoader,"the loader takes the path to the templates as string, or if multiple",0,1,Usage,the loader takes the path to the templates as string or if multiple
+895,XFrameOptionsMiddleware,"by default, set the x frame options header to sameorigin , meaning the",0,1,Usage,by default set the x frame options header to sameorigin meaning the
+1605,BooleanArray,booleanarray,0,1,Usage,booleanarray
+3523,ParseResults,"print %s %s % s, fn eval s",0,1,Usage,print s s s fn eval s
+3182,MemcachedBytecodeCache,if timeout is not provided,0,1,Usage,if timeout is not provided
+4318,AdaptiveMaxPool3d,"input torch^randn 1, 64, 10, 9, 8",0,1,Usage,input torch randn 1 64 10 9 8
+3335,omdict,the new omdict methods are,0,1,Usage,the new omdict methods are
+1069,HistoryAccessor,this is intended for use by standalone history tools.,0,1,Usage,this is intended for use by standalone history tools
+3995,Session,s^get https httpbin^org get,0,1,Usage,s get https httpbin org get
+1227,_MockPOP3,msg subject for msg in pm,0,1,Usage,msg subject for msg in pm
+3037,InvalidVersion,"an invalid version was found, users should refer to pep 440.",0,1,Usage,an invalid version was found users should refer to pep 440
+28,Atomic,none denotes the absence of a savepoint.,0,1,Usage,none denotes the absence of a savepoint
+5015,DiagonalTensor,example in the numpy documentation.,0,1,Usage,example in the numpy documentation
+755,ReverseGenericManyToOneDescriptor,comments genericrelation comment,0,1,Usage,comments genericrelation comment
+1904,IntegerArray,"length 3, dtype int32",0,1,Usage,length 3 dtype int32
+235,BoundWidget,span class radio radio^tag span,0,1,Usage,span class radio radio tag span
+4053,SkipTo,sev cosmetic,0,1,Usage,sev cosmetic
+1229,_MockPOP3,"pm^get msg size evil , pm^get msg size good",0,1,Usage,pm get msg size evil pm get msg size good
+3053,LockFailed,try,0,1,Usage,try
+609,MultiValueDict,nonexistent,0,1,Usage,nonexistent
+2940,HebrewProber,with the scores of the two sbcharsetprobers to produce a final answer.,0,1,Usage,with the scores of the two sbcharsetprobers to produce a final answer
+4311,AdaptiveMaxPool3d,output m input,0,1,Usage,output m input
+3704,PrefixLoader,loader prefixloader,0,1,Usage,loader prefixloader
+4965,CyclicLR,"optimizer torch^optim.sgd model^parameters , lr 01, momentum 09",0,1,Usage,optimizer torch optim sgd model parameters lr 01 momentum 09
+4038,SkipTo,string data sev sep,0,1,Usage,string data sev sep
+2409,Argument,they generally,0,1,Usage,they generally
+3530,ParseResults,"test result^dump , str",0,1,Usage,test result dump str
+3535,ParseResults,result^day 31,0,1,Usage,result day 31
+1761,CategoricalIndex,examples,0,1,Usage,examples
+1319,ConfigDict,0,0,1,Usage,0
+4310,AdaptiveMaxPool3d,"input torch^randn 1, 64, 8, 9, 10",0,1,Usage,input torch randn 1 64 8 9 10
+4157,_OpNamespace,2,0,1,Usage,2
+3269,NotAny,"# operation hierarchy, use infixnotation",0,1,Usage,operation hierarchy use infixnotation
+602,MultiValueDict,simon,0,1,Usage,simon
+2286,StringArray,booleanarray,0,1,Usage,booleanarray
+4795,Conv3d,# non square kernels and unequal stride and with padding,0,1,Usage,non square kernels and unequal stride and with padding
+1762,CategoricalIndex,"pd^categoricalindex a , b , c , a , b , c",0,1,Usage,pd categoricalindex a b c a b c
+1902,IntegerArray,integerarray,0,1,Usage,integerarray
+237,BoundWidget,% endfor %,0,1,Usage,endfor
+959,Audio,framerate 44100,0,1,Usage,framerate 44100
+1288,ConfigDict,examples,0,1,Usage,examples
+3188,MemcachedBytecodeCache,if the item does not,0,1,Usage,if the item does not
+1505,VCardStore,this will,0,1,Usage,this will
+4045,SkipTo,days open 6,0,1,Usage,days open 6
+1329,ConfigDict,traceback most recent call last,0,1,Usage,traceback most recent call last
+4964,CyclicLR,example,0,1,Usage,example
+896,XFrameOptionsMiddleware,response can only be loaded on a frame within the same site.,0,1,Usage,response can only be loaded on a frame within the same site
+3331,omdict,methods with list in their,0,1,Usage,methods with list in their
+1907,IntegerArray,"pd^array 1, none, 3 , dtype int32",0,1,Usage,pd array 1 none 3 dtype int32
+1340,ConfigDict,"isinstance pot liquids , configdict",0,1,Usage,isinstance pot liquids configdict
+4049,SkipTo,"94 , cosmetic , spelling error on login log n , 14",0,1,Usage,94 cosmetic spelling error on login log n 14
+3520,ParseResults,# parsestring returns a parseresults object,0,1,Usage,parsestring returns a parseresults object
+107,BaseCommand,the execute method attempts to carry out the command by,0,1,Usage,the execute method attempts to carry out the command by
+5293,Module,import torch^nn.functional as f,0,1,Usage,import torch nn functional as f
+5894,UseOptimizer,with useoptimizer optim,0,1,Usage,with useoptimizer optim
+3339,omdict,"allitems , allkeys , allvalues , lists , listitems ,",0,1,Usage,allitems allkeys allvalues lists listitems
+1480,StorageBackedLongs,1 in sbl,0,1,Usage,1 in sbl
+5597,Task,with ops^loop 100,0,1,Usage,with ops loop 100
+1304,ConfigDict,123,0,1,Usage,123
+1481,StorageBackedLongs,TRUE,0,1,Usage,TRUE
+3707,PrefixLoader,"by loading app1 index^html the file from the app1 package is loaded,",0,1,Usage,by loading app1 index html the file from the app1 package is loaded
+3521,ParseResults,result date str^parsestring 1999 12 31,0,1,Usage,result date str parsestring 1999 12 31
+5893,UseOptimizer,example usage with brew,0,1,Usage,example usage with brew
+5373,MultiLabelMarginLoss,"y torch^longtensor 3, 0, 1, 1",0,1,Usage,y torch longtensor 3 0 1 1
+5117,EmbeddingBag,# an embedding module containing 10 tensors of size 3,0,1,Usage,an embedding module containing 10 tensors of size 3
+4159,_OpNamespace,"the my namespace object, which will retrieve the operation via",0,1,Usage,the my namespace object which will retrieve the operation via
+1222,_MockPOP3,"2, 123456",0,1,Usage,2 123456
+233,BoundWidget,label for radio^id for label,0,1,Usage,label for radio id for label
+5371,MultiLabelMarginLoss,"x torch^floattensor 01, 02, 04, 08",0,1,Usage,x torch floattensor 01 02 04 08
+3267,NotAny,boolean term optional not ident,0,1,Usage,boolean term optional not ident
+5599,Task,with ops^task instance exit,0,1,Usage,with ops task instance exit
+5519,SGD,"optimizer torch^optim.sgd model^parameters , lr 01, momentum 09",0,1,Usage,optimizer torch optim sgd model parameters lr 01 momentum 09
+483,Migration,it will have one or more,0,1,Usage,it will have one or more
+4969,CyclicLR,for batch in data loader,0,1,Usage,for batch in data loader
+388,Individual,corresponding raw id widget won t have a magnifying glass link to select,0,1,Usage,corresponding raw id widget won t have a magnifying glass link to select
+5940,PreparedRequest,r,0,1,Usage,r
+2457,CaseInsensitiveDict,"value of a content encoding response header, regardless",0,1,Usage,value of a content encoding response header regardless
+108,BaseCommand,calling the handle method with the parsed arguments any,0,1,Usage,calling the handle method with the parsed arguments any
+4501,BCEWithLogitsLoss,"criterion output, target # log sigmoid 0999",0,1,Usage,criterion output target log sigmoid 0999
+3340,omdict,"iterallitems , iterallkeys , iterallvalues , iterlists ,",0,1,Usage,iterallitems iterallkeys iterallvalues iterlists
+1323,ConfigDict,traceback most recent call last,0,1,Usage,traceback most recent call last
+600,MultiValueDict,"d multivaluedict name adrian , simon , position developer",0,1,Usage,d multivaluedict name adrian simon position developer
+2411,Argument,and are required by default.,0,1,Usage,and are required by default
+2328,StringMethods,s^str.split,0,1,Usage,s str split
+898,XFrameOptionsMiddleware,"response from being loaded in a frame in any site, set x frame options in",0,1,Usage,response from being loaded in a frame in any site set x frame options in
+5014,DiagonalTensor,it is based on the diagonalarray,0,1,Usage,it is based on the diagonalarray
+4794,Conv3d,"m nn^conv3d 16, 33, 3, stride 2",0,1,Usage,m nn conv3d 16 33 3 stride 2
+1577,BooleanArray,booleanarray implements kleene logic sometimes called three value,0,1,Usage,booleanarray implements kleene logic sometimes called three value
+3524,ParseResults,test list result,0,1,Usage,test list result
+608,MultiValueDict,"d^get lastname , nonexistent",0,1,Usage,d get lastname nonexistent
+5764,Unfold,output unfold input,0,1,Usage,output unfold input
+5299,Module,"self^conv2 nn^conv2d 20, 20, 5",0,1,Usage,self conv2 nn conv2d 20 20 5
+1771,CategoricalIndex,ci,0,1,Usage,ci
+4308,AdaptiveMaxPool3d,# target output size of 5x7x9,0,1,Usage,target output size of 5x7x9
+4026,SkipTo,# severity description days open,0,1,Usage,severity description days open
+3994,Session,s requests^session,0,1,Usage,s requests session
+4642,BuildType,"if cmakecache^txt does not exist,",0,1,Usage,if cmakecache txt does not exist
+5944,PreparedRequest,response 200,0,1,Usage,response 200
+3097,Markup,all methods escape their arguments and return a markup instance.,0,1,Usage,all methods escape their arguments and return a markup instance
+5369,MultiLabelMarginLoss,examples,0,1,Usage,examples
+4792,Conv3d,examples,0,1,Usage,examples
+3271,NotAny,# integers that are followed by .,0,1,Usage,integers that are followed by
+4052,SkipTo,issue num 94,0,1,Usage,issue num 94
+2459,CaseInsensitiveDict,"if the constructor, ^update , or equality comparison",0,1,Usage,if the constructor update or equality comparison
+4966,CyclicLR,"scheduler torch^optim.lr scheduler^cycliclr optimizer, base lr 001, max lr 01",0,1,Usage,scheduler torch optim lr scheduler cycliclr optimizer base lr 001 max lr 01
+1326,ConfigDict,traceback most recent call last,0,1,Usage,traceback most recent call last
+3999,Session,s^get https httpbin^org get,0,1,Usage,s get https httpbin org get
+4533,BCEWithLogitsLoss,"pos weight tensor, optional a weight of positive examples.",0,1,Usage,pos weight tensor optional a weight of positive examples
+1230,_MockPOP3,"47, 51",0,1,Usage,47 51
+219,BCryptSHA256PasswordHasher,this is considered by many to be the most secure algorithm but you,0,1,Usage,this is considered by many to be the most secure algorithm but you
+1187,YouTubeVideo,do,0,1,Usage,do
+1310,ConfigDict,123,0,1,Usage,123
+5595,Task,with ops^task instance init,0,1,Usage,with ops task instance init
+4312,AdaptiveMaxPool3d,# target output size of 7x7x7 cube,0,1,Usage,target output size of 7x7x7 cube
+4146,_OpNamespace,to,0,1,Usage,to
+5296,Module,"super model, self .",0,1,Usage,super model self
+1986,PlotAccessor,option plotting^backend .,0,1,Usage,option plotting backend
+899,XFrameOptionsMiddleware,your project s django settings to deny .,0,1,Usage,your project s django settings to deny
+5376,MultiLabelMarginLoss,tensor 08500,0,1,Usage,tensor 08500
+5302,Module,return f^relu self^conv2 x,0,1,Usage,return f relu self conv2 x
+3752,Request,preparedrequest get,0,1,Usage,preparedrequest get
+4967,CyclicLR,data loader torch^utils.data^dataloader .,0,1,Usage,data loader torch utils data dataloader
+5124,EmbeddingBag,"11306, 25798, 10044",0,1,Usage,11306 25798 10044
+110,BaseCommand,"output and, if the command is intended to produce a block of",0,1,Usage,output and if the command is intended to produce a block of
+5430,NetModifier,modifier somenetmodifier opts,0,1,Usage,modifier somenetmodifier opts
+4313,AdaptiveMaxPool3d,m nn^adaptivemaxpool3d 7,0,1,Usage,m nn adaptivemaxpool3d 7
+518,MigrationGraph,"replacing migration, and repoint any dependencies that pointed to the",0,1,Usage,replacing migration and repoint any dependencies that pointed to the
+1522,VCardStore,vcs^del vcards vcs^find vcards guy,0,1,Usage,vcs del vcards vcs find vcards guy
+1510,VCardStore,vcards can be looked up directly by e mail.,0,1,Usage,vcards can be looked up directly by e mail
+3539,ParseResults,day 31,0,1,Usage,day 31
+1516,VCardStore,vcs^find vcards guy 0 ^fn,0,1,Usage,vcs find vcards guy 0 fn
+1338,ConfigDict,how many potatoes?,0,1,Usage,how many potatoes
+2453,CaseInsensitiveDict,cid accept application json,0,1,Usage,cid accept application json
+5116,EmbeddingBag,examples,0,1,Usage,examples
+1879,IntegerArray,we represent an integerarray with 2 numpy arrays,0,1,Usage,we represent an integerarray with 2 numpy arrays
+114,BaseCommand,"commanderror , run from argv will instead print an error",0,1,Usage,commanderror run from argv will instead print an error
+1774,CategoricalIndex,c,0,1,Usage,c
+1485,StorageBackedLongs,TRUE,0,1,Usage,TRUE
+5902,UseOptimizer,brew^func,0,1,Usage,brew func
+2885,FollowedBy,name.,0,1,Usage,name
+5900,UseOptimizer,brew^func,0,1,Usage,brew func
+1219,_MockPOP3,"pm pop3mailbox localhost , user a , password b ,",0,1,Usage,pm pop3mailbox localhost user a password b
+756,ReverseGenericManyToOneDescriptor,post^comments is a reversegenericmanytoonedescriptor instance.,0,1,Usage,post comments is a reversegenericmanytoonedescriptor instance
+5895,UseOptimizer,brew^func,0,1,Usage,brew func
+3514,ParseResults,integer word nums,0,1,Usage,integer word nums
+5223,FisherSnedecor,tensor 02453,0,1,Usage,tensor 02453
+1336,ConfigDict,configvalueerror invalid value for config colors 4 green,0,1,Usage,configvalueerror invalid value for config colors 4 green
+3992,Session,basic usage,0,1,Usage,basic usage
+389,Individual,related instances rendering will be called programmatically in this case .,0,1,Usage,related instances rendering will be called programmatically in this case
+3705,PrefixLoader,"app1 packageloader mypackage^app1 ,",0,1,Usage,app1 packageloader mypackage app1
+3079,Markup,"markup hello, em world em !",0,1,Usage,markup hello em world em
+4043,SkipTo,prints,0,1,Usage,prints
+3812,Retry,"response http^request get , http example^com",0,1,Usage,response http request get http example com
+1768,CategoricalIndex,ordered categoricalindex can have a min and max value.,0,1,Usage,ordered categoricalindex can have a min and max value
+5370,MultiLabelMarginLoss,loss nn^multilabelmarginloss,0,1,Usage,loss nn multilabelmarginloss
+3508,ParseResults,the parsed data,0,1,Usage,the parsed data
+236,BoundWidget,label,0,1,Usage,label
+5778,Unfold,tensor 19073e 06,0,1,Usage,tensor 19073e 06
+3337,omdict,"getlist , add , addlist , set , setlist , setdefaultlist ,",0,1,Usage,getlist add addlist set setlist setdefaultlist
+5684,Unfold,and math represent arbitrary spatial dimensions.,0,1,Usage,and math represent arbitrary spatial dimensions
+5466,Poisson,math,0,1,Usage,math
+691,Permission,"the permission system is used by the django admin site, but may also be",0,1,Usage,the permission system is used by the django admin site but may also be
+694,Permission,the add permission limits the user s ability to view the add form,0,1,Usage,the add permission limits the user s ability to view the add form
+3089,Markup,class foo,0,1,Usage,class foo
+962,Audio,"audio data,rate framerate",0,1,Usage,audio data rate framerate
+1519,VCardStore,vcs^del vcards vcs^get vcard d@evil^com,0,1,Usage,vcs del vcards vcs get vcard d@evil com
+1906,IntegerArray,they are capitalized.,0,1,Usage,they are capitalized
+115,BaseCommand,message to stderr .,0,1,Usage,message to stderr
+693,Permission,the django admin site uses permissions as follows,0,1,Usage,the django admin site uses permissions as follows
+1114,Magics,use the class decorator @magics class to ensure that the magic,0,1,Usage,use the class decorator @magics class to ensure that the magic
+4150,_OpNamespace,"instead, the",0,1,Usage,instead the
+3517,ParseResults,integer^setresultsname day,0,1,Usage,integer setresultsname day
+1478,StorageBackedLongs,storage sbl x01 x00 x00 x00 x00 x00 x00 x00,0,1,Usage,storage sbl x01 x00 x00 x00 x00 x00 x00 x00
+4152,_OpNamespace,1,0,1,Usage,1
+1238,_MockPOP3,keyerror .,0,1,Usage,keyerror
+1236,_MockPOP3,pm invalid key,0,1,Usage,pm invalid key
+2387,And,example,0,1,Usage,example
+1987,PlotAccessor,"by default, matplotlib is used.",0,1,Usage,by default matplotlib is used
+1112,Magics,use the method decorators @line magic and @cell magic to decorate,0,1,Usage,use the method decorators @line magic and @cell magic to decorate
+3750,Request,"req requests^request get , https httpbin^org get",0,1,Usage,req requests request get https httpbin org get
+3511,ParseResults,by attribute results.,0,1,Usage,by attribute results
+3055,LockFailed,except lockerror,0,1,Usage,except lockerror
+1116,Magics,initialization.,0,1,Usage,initialization
+1220,_MockPOP3,conn cls mockpop3,0,1,Usage,conn cls mockpop3
+4499,BCEWithLogitsLoss,pos weight torch^ones 64 # all weights are equal to 1,0,1,Usage,pos weight torch ones 64 all weights are equal to 1
+1300,ConfigDict,"sorted pot^keys , sorted pot^values",0,1,Usage,sorted pot keys sorted pot values
+5606,Task,"the mul will only execute once, after all the instances",0,1,Usage,the mul will only execute once after all the instances
+3330,omdict,new methods have also been added to omdict.,0,1,Usage,new methods have also been added to omdict
+1216,_MockPOP3,"pm pop3mailbox localhost , user bad , conn cls mockpop3",0,1,Usage,pm pop3mailbox localhost user bad conn cls mockpop3
+2558,Distribution,"either way, it must have some metadata, so that s all that s needed",0,1,Usage,either way it must have some metadata so that s all that s needed
+1292,ConfigDict,", int, 99 ,",0,1,Usage,int 99
+2506,Context_,template code only.,0,1,Usage,template code only
+3804,ResponseNotChunked,response needs to be chunked in order to read it as chunks.,0,1,Usage,response needs to be chunked in order to read it as chunks
+2858,FileSystemLoader,"to follow symbolic links, set the followlinks parameter to true",0,1,Usage,to follow symbolic links set the followlinks parameter to true
+4498,BCEWithLogitsLoss,"output torch^full 10, 64 , 0999 # a prediction logit",0,1,Usage,output torch full 10 64 0999 a prediction logit
+3536,ParseResults,month in result true,0,1,Usage,month in result true
+3512,ParseResults,resultsname see class parserelement^setresultsname,0,1,Usage,resultsname see class parserelement setresultsname
+4042,SkipTo,print tkt^dump,0,1,Usage,print tkt dump
+966,Audio,"audio dataleft, dataright ,rate framerate",0,1,Usage,audio dataleft dataright rate framerate
+1913,IntegerArray,"1, nan, 3",0,1,Usage,1 nan 3
+1765,CategoricalIndex,"c pd^categorical a , b , c , a , b , c",0,1,Usage,c pd categorical a b c a b c
+5122,EmbeddingBag,"embedding sum input, offsets",0,1,Usage,embedding sum input offsets
+5012,DiagonalTensor,this class has limited utility and is mostly useful for verifying that the,0,1,Usage,this class has limited utility and is mostly useful for verifying that the
+2878,FollowedBy,followedby does not advance the parsing position within,0,1,Usage,followedby does not advance the parsing position within
+5013,DiagonalTensor,dispatch mechanism works as expected.,0,1,Usage,dispatch mechanism works as expected
+4031,SkipTo,sep suppress,0,1,Usage,sep suppress
+1341,ConfigDict,TRUE,0,1,Usage,TRUE
+3263,NotAny,example,0,1,Usage,example
+1198,YouTubeVideo,"when converting the notebook using nbconvert, a jpeg representation of the video",0,1,Usage,when converting the notebook using nbconvert a jpeg representation of the video
+1514,VCardStore,TRUE,0,1,Usage,TRUE
+4546,BCEWithLogitsLoss,output^backward,0,1,Usage,output backward
+1191,YouTubeVideo,"vid youtubevideo abc , start 30",0,1,Usage,vid youtubevideo abc start 30
+18,Atomic,"when it s used as a decorator, call wraps the execution of the",0,1,Usage,when it s used as a decorator call wraps the execution of the
+3296,NotMyLock,raise notmylock,0,1,Usage,raise notmylock
+3099,Markup,markup em foo &amp bar em,0,1,Usage,markup em foo amp bar em
+5605,Task,to globl once.,0,1,Usage,to globl once
+4482,BCEWithLogitsLoss,it s possible to trade off recall and precision by adding weights to positive examples.,0,1,Usage,it s possible to trade off recall and precision by adding weights to positive examples
+1506,VCardStore,"# create a file for the card on disk, using a random name.",0,1,Usage,create a file for the card on disk using a random name
+1607,BooleanArray,"length 3, dtype boolean",0,1,Usage,length 3 dtype boolean
+2891,FollowedBy,oneormore attr expr ^parsestring shape square color black posn upper left ^pprint,0,1,Usage,oneormore attr expr parsestring shape square color black posn upper left pprint
+1674,CategoricalDtype,"categories 2, object b a",0,1,Usage,categories 2 object b a
+1339,ConfigDict,", type int , 0",0,1,Usage,type int 0
+100,BaseCommand,2,0,1,Usage,2
+2852,FileSystemLoader,locations are wanted a list of them which is then looked up in the,0,1,Usage,locations are wanted a list of them which is then looked up in the
+5566,StackTransform,example,0,1,Usage,example
+5689,Unfold,math c times prod text kernel size is the total number of values,0,1,Usage,math c times prod text kernel size is the total number of values
+5700,Unfold,gives all values within a certain block.,0,1,Usage,gives all values within a certain block
+4058,SkipTo,sev minor,0,1,Usage,sev minor
+1199,YouTubeVideo,will be inserted in the document.,0,1,Usage,will be inserted in the document
+5593,Task,with ops^task init,0,1,Usage,with ops task init
+1231,_MockPOP3,pm^get bytes evil,0,1,Usage,pm get bytes evil
+1218,_MockPOP3,accesserror,0,1,Usage,accesserror
+3326,omdict,"added parameters are optional, existing use remains unaffected.",0,1,Usage,added parameters are optional existing use remains unaffected
+974,Audio,audio data b raw wav data.,0,1,Usage,audio data b raw wav data
+3701,PrefixLoader,the prefix is delimited from the template by a slash per,0,1,Usage,the prefix is delimited from the template by a slash per
+3525,ParseResults,test result 0,0,1,Usage,test result 0
+5301,Module,x f^relu self^conv1 x,0,1,Usage,x f relu self conv1 x
+897,XFrameOptionsMiddleware,to prevent the,0,1,Usage,to prevent the
+5469,Poisson,m poisson torch^tensor 4,0,1,Usage,m poisson torch tensor 4
+4051,SkipTo,desc spelling error on login log n,0,1,Usage,desc spelling error on login log n
+1523,VCardStore,vcs^find vcards guy,0,1,Usage,vcs find vcards guy
+4044,SkipTo,"101 , critical , intermittent system crash , 6",0,1,Usage,101 critical intermittent system crash 6
+1302,ConfigDict,pot potatoes pot liquids vodka 123,0,1,Usage,pot potatoes pot liquids vodka 123
+2826,FileMetadata,metadata filemetadata path to pkg info,0,1,Usage,metadata filemetadata path to pkg info
+696,Permission,the change permission limits a user s ability to view the change,0,1,Usage,the change permission limits a user s ability to view the change
+1237,_MockPOP3,traceback most recent call last,0,1,Usage,traceback most recent call last
+1294,ConfigDict,"water liters , int, 0 ,",0,1,Usage,water liters int 0
+3176,MemcachedBytecodeCache,the minimal interface for the client passed to the constructor is this,0,1,Usage,the minimal interface for the client passed to the constructor is this
+5723,Unfold,replicated across all spatial dimensions.,0,1,Usage,replicated across all spatial dimensions
+1235,_MockPOP3,from,0,1,Usage,from
+2832,FileMetadata,metadata filemetadata path to pkg info,0,1,Usage,metadata filemetadata path to pkg info
+4039,SkipTo,string data desc sep,0,1,Usage,string data desc sep
+3273,NotAny,integer word nums char .,0,1,Usage,integer word nums char
+3338,omdict,"poplist , popvalue , popvalues , popitem , poplistitem ,",0,1,Usage,poplist popvalue popvalues popitem poplistitem
+112,BaseCommand,4,0,1,Usage,4
+1217,_MockPOP3,traceback most recent call last,0,1,Usage,traceback most recent call last
+2504,Context_,modifications on attr parent must not,0,1,Usage,modifications on attr parent must not
+3083,Markup,"markup^escape hello, em world em !",0,1,Usage,markup escape hello em world em
+232,BoundWidget,% for radio in myform^beatles %,0,1,Usage,for radio in myform beatles
+4971,CyclicLR,scheduler^step,0,1,Usage,scheduler step
+1751,CategoricalIndex,if an explicit ordered true is given but no categories and the,0,1,Usage,if an explicit ordered true is given but no categories and the
+3528,ParseResults,test month in result,0,1,Usage,test month in result
+1668,CategoricalDtype,"pd^series a , b , a , c , dtype t",0,1,Usage,pd series a b a c dtype t
+1232,_MockPOP3,"from test@mailpile^is nsubject msg 1 n noh, hi!",0,1,Usage,from test@mailpile is nsubject msg 1 n noh hi
+4544,BCEWithLogitsLoss,target torch^empty 3 ^random 2,0,1,Usage,target torch empty 3 random 2
+3334,omdict,the same key.,0,1,Usage,the same key
+1193,YouTubeVideo,"to calculate seconds from time as hours, minutes, seconds use",0,1,Usage,to calculate seconds from time as hours minutes seconds use
+1321,ConfigDict,123,0,1,Usage,123
+698,Permission,the delete permission limits the ability to delete an object.,0,1,Usage,the delete permission limits the ability to delete an object
+2391,And,# more easily written as,0,1,Usage,more easily written as
+2892,FollowedBy,prints,0,1,Usage,prints
+1195,YouTubeVideo,"start int timedelta hours 1, minutes 46, seconds 40 ^total seconds",0,1,Usage,start int timedelta hours 1 minutes 46 seconds 40 total seconds
+99,BaseCommand,and calls its run from argv method.,0,1,Usage,and calls its run from argv method
+3518,ParseResults,# equivalent form,0,1,Usage,equivalent form
+1670,CategoricalDtype,1 b,0,1,Usage,1 b
+4396,BatchNorm1d,# with learnable parameters,0,1,Usage,with learnable parameters
+3703,PrefixLoader,something else,0,1,Usage,something else
+5899,UseOptimizer,weight weight optim,0,1,Usage,weight weight optim
+1903,IntegerArray,"1, nan, 3",0,1,Usage,1 nan 3
+2857,FileSystemLoader,by setting the encoding parameter to something else.,0,1,Usage,by setting the encoding parameter to something else
+5590,Task,example,0,1,Usage,example
+5300,Module,"def forward self, x",0,1,Usage,def forward self x
+4047,SkipTo,issue num 101,0,1,Usage,issue num 101
+103,BaseCommand,any environment changes requested by options like,0,1,Usage,any environment changes requested by options like
+1508,VCardStore,"vcardline email d@evil^com ,",0,1,Usage,vcardline email d@evil com
+4541,BCEWithLogitsLoss,examples,0,1,Usage,examples
+20,Atomic,"when it s used as a context manager, enter creates a transaction or a",0,1,Usage,when it s used as a context manager enter creates a transaction or a
+2455,CaseInsensitiveDict,list cid accept # true,0,1,Usage,list cid accept true
+3180,MemcachedBytecodeCache,value is a string and,0,1,Usage,value is a string and
+4640,BuildType,if attr cmake build type env,0,1,Usage,if attr cmake build type env
+1877,IntegerArray,"integerarray is currently experimental, and its api or internal",0,1,Usage,integerarray is currently experimental and its api or internal
+975,Audio,.,0,1,Usage,nan
+4024,SkipTo,report,0,1,Usage,report
+109,BaseCommand,output produced by handle will be printed to standard,0,1,Usage,output produced by handle will be printed to standard
+4793,Conv3d,# with square kernels and equal stride,0,1,Usage,with square kernels and equal stride
+2881,FollowedBy,followedby,0,1,Usage,followedby
+2927,Getattr,get an attribute or item from an expression that is a ascii only,0,1,Usage,get an attribute or item from an expression that is a ascii only
+1071,HistoryAccessor,"historymanager, below, which is a subclass of this.",0,1,Usage,historymanager below which is a subclass of this
+1333,ConfigDict,valueerror invalid value for config potatoes moo,0,1,Usage,valueerror invalid value for config potatoes moo
+4398,BatchNorm1d,# without learnable parameters,0,1,Usage,without learnable parameters
+4395,BatchNorm1d,examples,0,1,Usage,examples
+2270,StringArray,a stringarray.,0,1,Usage,a stringarray
+1113,Magics,"individual methods as magic functions, and",0,1,Usage,individual methods as magic functions and
+3184,MemcachedBytecodeCache,provided it s an integer with the number of seconds the cache,0,1,Usage,provided it s an integer with the number of seconds the cache
+1767,CategoricalIndex,"categoricalindex a , b , c , a , b , c , categories a , b , c , ordered false, dtype category # noqa",0,1,Usage,categoricalindex a b c a b c categories a b c ordered false dtype category noqa
+3809,Retry,retries can be defined as a default for a pool,0,1,Usage,retries can be defined as a default for a pool
+3077,Markup,"to escape the text, use the",0,1,Usage,to escape the text use the
+4309,AdaptiveMaxPool3d,"m nn^adaptivemaxpool3d 5,7,9",0,1,Usage,m nn adaptivemaxpool3d 5 7 9
+2825,FileMetadata,usage,0,1,Usage,usage
+4037,SkipTo,ticket expr integer issue num sep,0,1,Usage,ticket expr integer issue num sep
+2890,FollowedBy,"attr expr group label suppress oneormore data word, stopon label ^setparseaction ^join",0,1,Usage,attr expr group label suppress oneormore data word stopon label setparseaction join
+3336,omdict,"load , size , reverse ,",0,1,Usage,load size reverse
+4543,BCEWithLogitsLoss,"input torch^randn 3, requires grad true",0,1,Usage,input torch randn 3 requires grad true
+5470,Poisson,m^sample,0,1,Usage,m sample
+1479,StorageBackedLongs,"sbl storagebackedlongs storage, sbl",0,1,Usage,sbl storagebackedlongs storage sbl
+610,MultiValueDict,"d^setlist lastname , holovaty , willison",0,1,Usage,d setlist lastname holovaty willison
+3261,NotAny,a null token list.,0,1,Usage,a null token list
+2456,CaseInsensitiveDict,"for example, headers content encoding will return the",0,1,Usage,for example headers content encoding will return the
+5592,Task,"with node trainer , task name my task , num instances 2",0,1,Usage,with node trainer task name my task num instances 2
+3322,omdict,"clear , copy , update , fromkeys , len",0,1,Usage,clear copy update fromkeys len
+2883,FollowedBy,if any results names are defined,0,1,Usage,if any results names are defined
+4689,ConstantPad3d,# using different paddings for different sides,0,1,Usage,using different paddings for different sides
+4400,BatchNorm1d,"input torch^randn 20, 100",0,1,Usage,input torch randn 20 100
+105,BaseCommand,passing the parsed arguments.,0,1,Usage,passing the parsed arguments
+4670,ConstantPad3d,"for n dimensional padding, use func torch^nn.functional^pad .",0,1,Usage,for n dimensional padding use func torch nn functional pad
+3013,InstalledDistribution,"instantiated., or uses a passed in metadata instance useful for when",0,1,Usage,instantiated or uses a passed in metadata instance useful for when
+1909,IntegerArray,"1, nan, 3",0,1,Usage,1 nan 3
+2853,FileSystemLoader,given order,0,1,Usage,given order
+2390,And,"expr and integer id ,name expr name ,integer age",0,1,Usage,expr and integer id name expr name integer age
+3677,PoolManager,manager poolmanager num pools 2,0,1,Usage,manager poolmanager num pools 2
+1225,_MockPOP3,"evil in pm, bogon in pm",0,1,Usage,evil in pm bogon in pm
+3332,omdict,"name interact with lists of values, and methods with all in their name",0,1,Usage,name interact with lists of values and methods with all in their name
+3533,ParseResults,result 0 1999,0,1,Usage,result 0 1999
+2882,FollowedBy,always returns a null token list.,0,1,Usage,always returns a null token list
+3516,ParseResults,integer^setresultsname month,0,1,Usage,integer setresultsname month
+2287,StringArray,"true, na, false",0,1,Usage,true na false
+98,BaseCommand,django admin or manage^py loads the command class,0,1,Usage,django admin or manage py loads the command class
+1513,VCardStore,vcs^get vcard nosuch@email^address is none,0,1,Usage,vcs get vcard nosuch@email address is none
+1764,CategoricalIndex,categoricalindex can also be instantiated from a categorical,0,1,Usage,categoricalindex can also be instantiated from a categorical
+5602,Task,"ops^mul globl, globl , globl",0,1,Usage,ops mul globl globl globl
+1228,_MockPOP3,"msg 1 , msg 2",0,1,Usage,msg 1 msg 2
+4136,UnlockError,pass,0,1,Usage,pass
+1766,CategoricalIndex,pd^categoricalindex c,0,1,Usage,pd categoricalindex c
+1223,_MockPOP3,pm^iterkeys,0,1,Usage,pm iterkeys
+2284,StringArray,"for comparison methods, this returns a class pandas^booleanarray",0,1,Usage,for comparison methods this returns a class pandas booleanarray
+4314,AdaptiveMaxPool3d,"input torch^randn 1, 64, 10, 9, 8",0,1,Usage,input torch randn 1 64 10 9 8
+1337,ConfigDict,pot^rules potatoes,0,1,Usage,pot rules potatoes
+4502,BCEWithLogitsLoss,tensor 03135,0,1,Usage,tensor 03135
+230,BoundWidget,"for example, the following can be used in a",0,1,Usage,for example the following can be used in a
+2831,FileMetadata,usage,0,1,Usage,usage
+1912,IntegerArray,integerarray,0,1,Usage,integerarray
+484,Migration,of the following attributes,0,1,Usage,of the following attributes
+5896,UseOptimizer,with useoptimizer weight weight optim,0,1,Usage,with useoptimizer weight weight optim
+957,Audio,# generate a sound,0,1,Usage,generate a sound
+1308,ConfigDict,99,0,1,Usage,99
+5468,Poisson,example,0,1,Usage,example
+5768,Unfold,"torch^size 2, 30, 4",0,1,Usage,torch size 2 30 4
+4316,AdaptiveMaxPool3d,# target output size of 7x9x8,0,1,Usage,target output size of 7x9x8
+1115,Magics,methods are properly registered at the instance level upon instance,0,1,Usage,methods are properly registered at the instance level upon instance
+5760,Unfold,"output math n, c times prod text kernel size , l as described above",0,1,Usage,output math n c times prod text kernel size l as described above
+234,BoundWidget,radio^choice label,0,1,Usage,radio choice label
+5601,Task,with ops^task exit,0,1,Usage,with ops task exit
+3387,Option,all other parameters are passed onwards to the parameter constructor.,0,1,Usage,all other parameters are passed onwards to the parameter constructor
+3054,LockFailed,raise lockfailed,0,1,Usage,raise lockfailed
+5567,StackTransform,"x torch^stack torch^range 1, 10 , torch^range 1, 10 , dim 1",0,1,Usage,x torch stack torch range 1 10 torch range 1 10 dim 1
+874,VariableWrapper,cursor^execute as is.,0,1,Usage,cursor execute as is
+1883,IntegerArray,func pandas^array with one of the integer dtypes see examples .,0,1,Usage,func pandas array with one of the integer dtypes see examples
+4033,SkipTo,"# ignore quoted strings, so that a character inside a quoted string does not match",0,1,Usage,ignore quoted strings so that a character inside a quoted string does not match
+3998,Session,with requests^session as s,0,1,Usage,with requests session as s
+697,Permission,"list, view the change form and change an object.",0,1,Usage,list view the change form and change an object
+231,BoundWidget,template,0,1,Usage,template
+695,Permission,and add an object.,0,1,Usage,and add an object
+3531,ParseResults,prints,0,1,Usage,prints
+106,BaseCommand,3,0,1,Usage,3
+2461,CaseInsensitiveDict,behavior is undefined.,0,1,Usage,behavior is undefined
+2392,And,expr integer id name expr name integer age,0,1,Usage,expr integer id name expr name integer age
+1515,VCardStore,or they can be found using searches.,0,1,Usage,or they can be found using searches
+5772,Unfold,"inp unf torch^nn.functional^unfold inp, 4, 5",0,1,Usage,inp unf torch nn functional unfold inp 4 5
+2884,FollowedBy,"in the lookahead expression, those will be returned for access by",0,1,Usage,in the lookahead expression those will be returned for access by
+1316,ConfigDict,pot colors,0,1,Usage,pot colors
+5431,NetModifier,modifier net,0,1,Usage,modifier net
+1290,ConfigDict,", int , 0 ,",0,1,Usage,int 0
+3101,Markup,markup em hello em &lt foo&gt,0,1,Usage,markup em hello em lt foo gt
+4307,AdaptiveMaxPool3d,examples,0,1,Usage,examples
+873,VariableWrapper,this can be used generally for any other object that should be passed into,0,1,Usage,this can be used generally for any other object that should be passed into
+4155,_OpNamespace,object called my namespace and set it as an attribute on the ops,0,1,Usage,object called my namespace and set it as an attribute on the ops
+3510,ParseResults,"by list index results 0 , results 1 , etc",0,1,Usage,by list index results 0 results 1 etc
+1512,VCardStore,u dude,0,1,Usage,u dude
+1504,VCardStore,# vcards are added to the collection using add vcard.,0,1,Usage,vcards are added to the collection using add vcard
+4166,_OpNamespace,operation will already exist .,0,1,Usage,operation will already exist
+5118,EmbeddingBag,"embedding sum nn^embeddingbag 10, 3, mode sum",0,1,Usage,embedding sum nn embeddingbag 10 3 mode sum
+3328,omdict,key parameter has been added to these methods,0,1,Usage,key parameter has been added to these methods
+5941,PreparedRequest,preparedrequest get,0,1,Usage,preparedrequest get
+3529,ParseResults,test minutes in result,0,1,Usage,test minutes in result
+753,ReverseGenericManyToOneDescriptor,in the example,0,1,Usage,in the example
+5904,UseOptimizer,brew^func,0,1,Usage,brew func
+1905,IntegerArray,string aliases for the dtypes are also available.,0,1,Usage,string aliases for the dtypes are also available
+5594,Task,globl ops^const 0,0,1,Usage,globl ops const 0
+1332,ConfigDict,traceback most recent call last,0,1,Usage,traceback most recent call last
+1070,HistoryAccessor,ipython shells use,0,1,Usage,ipython shells use
+1186,YouTubeVideo,"eg to embed the video from https www^youtube.com watch?v foo , you would",0,1,Usage,eg to embed the video from https www youtube com watch v foo you would
+2886,FollowedBy,example,0,1,Usage,example
+3680,PoolManager,"r manager^request get , http yahoo^com",0,1,Usage,r manager request get http yahoo com
+2236,SQLTable,do better type conversions.,0,0,Usage,do better type conversions
+5450,OneHotCategorical,probs tensor event probabilities,0,0,Usage,probs tensor event probabilities
+5076,EmbeddingBag,the words in the mini batch.,0,0,Usage,the words in the mini batch
+4759,Conv3d,default 0,0,0,Usage,default 0
+2061,PlotAccessor,table.,0,0,Usage,table
+3853,Retry,"by default, we only retry on methods which are considered to be",0,0,Usage,by default we only retry on methods which are considered to be
+2215,SelectNSeries,returns,0,0,Usage,returns
+4672,ConstantPad3d,"padding int, tuple the size of the padding.",0,0,Usage,padding int tuple the size of the padding
+1084,InteractiveShellApp,meth init extensions,0,0,Usage,meth init extensions
+594,MultiPartParser,"and returns a tuple of multivaluedict post , multivaluedict files .",0,0,Usage,and returns a tuple of multivaluedict post multivaluedict files
+4888,CyclicLR,the distance between the two boundaries can be scaled on a per iteration,0,0,Usage,the distance between the two boundaries can be scaled on a per iteration
+3744,Request,take place.,0,0,Usage,take place
+3983,SafeFileCache,not be accessible or writable.,0,0,Usage,not be accessible or writable
+407,ListMixin,a base class which provides complete list interface.,0,0,Usage,a base class which provides complete list interface
+751,ReverseGenericManyToOneDescriptor,accessor to the related objects manager on the one to many relation created,0,0,Usage,accessor to the related objects manager on the one to many relation created
+1271,ConfigDict,"a structured way what variables exist, what their legal values are,",0,0,Usage,a structured way what variables exist what their legal values are
+11,Archive,the external api class that encapsulates an archive implementation.,0,0,Usage,the external api class that encapsulates an archive implementation
+5083,EmbeddingBag,mean computes the average of the values,0,0,Usage,mean computes the average of the values
+2621,Environment,"the default is false , which causes a single newline,",0,0,Usage,the default is false which causes a single newline
+2441,CaseInsensitiveDict,implements all methods and operations of,0,0,Usage,implements all methods and operations of
+4147,_OpNamespace,"call this op, the user will write torch^ops.my namespace^my op .",0,0,Usage,call this op the user will write torch ops my namespace my op
+5236,LastNWindowCollector,"if you have complex data,",0,0,Usage,if you have complex data
+3746,Request,param cookies dictionary or cookiejar of cookies to attach to this request.,0,0,Usage,param cookies dictionary or cookiejar of cookies to attach to this request
+945,Audio,autoplay bool,0,0,Usage,autoplay bool
+4717,Conv3d,attr stride controls the stride for the cross correlation.,0,0,Usage,attr stride controls the stride for the cross correlation
+5645,TransformerEncoderLayer,"lukasz kaiser, and illia polosukhin.",0,0,Usage,lukasz kaiser and illia polosukhin
+3841,Retry,loops.,0,0,Usage,loops
+1574,BooleanArray,"this is a pandas extension array for boolean data, under the hood",0,0,Usage,this is a pandas extension array for boolean data under the hood
+3421,Option,param count this flag makes an option increment an integer.,0,0,Usage,param count this flag makes an option increment an integer
+1138,Obj,namespace to hold arbitrary information.,0,0,Usage,namespace to hold arbitrary information
+5091,EmbeddingBag,attributes,0,0,Usage,attributes
+1273,ConfigDict,each variable definition expects three values,0,0,Usage,each variable definition expects three values
+2937,HebrewProber,"fact some kind of hebrew, logical or visual.",0,0,Usage,fact some kind of hebrew logical or visual
+4662,Caffe2OperatorTestCase,run backward method will be executed.,0,0,Usage,run backward method will be executed
+3788,RequiresPythonCache,cache a candidate s requires python information.,0,0,Usage,cache a candidate s requires python information
+5726,Unfold,note,0,0,Usage,note
+5514,SGD,"momentum float, optional momentum factor default 0",0,0,Usage,momentum float optional momentum factor default 0
+3845,Retry,set to false to disable and imply raise on redirect false .,0,0,Usage,set to false to disable and imply raise on redirect false
+307,CustomCacheKeyValidationTests,a custom cache backend that otherwise inherits from a builtin,0,0,Usage,a custom cache backend that otherwise inherits from a builtin
+5681,Unfold,extracts sliding local blocks from a batched input tensor.,0,0,Usage,extracts sliding local blocks from a batched input tensor
+3227,MethodDispatcher,"on initiation, keys that are lists, sets or tuples are converted to",0,0,Usage,on initiation keys that are lists sets or tuples are converted to
+4885,CyclicLR,the policy cycles the learning,0,0,Usage,the policy cycles the learning
+4503,BCEWithLogitsLoss,args,0,0,Usage,args
+2619,Environment,keep trailing newline,0,0,Usage,keep trailing newline
+916,Audio,parameters,0,0,Usage,parameters
+4638,BuildType,checks build type.,0,0,Usage,checks build type
+1459,MailpileJinjaLoader,and plugin system to find template files.,0,0,Usage,and plugin system to find template files
+2258,StringArray,where the elements are python strings.,0,0,Usage,where the elements are python strings
+3859,Retry,a set of integer http status codes that we should force a retry on.,0,0,Usage,a set of integer http status codes that we should force a retry on
+859,UniqueAnchor,this is a model that can be used as,0,0,Usage,this is a model that can be used as
+5102,EmbeddingBag,attr offsets is required to be a 1d tensor containing the,0,0,Usage,attr offsets is required to be a 1d tensor containing the
+1735,CategoricalIndex,categories,0,0,Usage,categories
+4512,BCEWithLogitsLoss,if the field attr size average,0,0,Usage,if the field attr size average
+1599,BooleanArray,none,0,0,Usage,none
+814,TemplateDoesNotExist,tried,0,0,Usage,tried
+3862,Retry,"by default, this is disabled with none .",0,0,Usage,by default this is disabled with none
+3843,Retry,308,0,0,Usage,308
+5021,DiagonalTensor,the,0,0,Usage,the
+4732,Conv3d,"its own set of filters, of size",0,0,Usage,its own set of filters of size
+3877,Retry,"exhausted, to raise a maxretryerror, or to return a response with a",0,0,Usage,exhausted to raise a maxretryerror or to return a response with a
+890,XFrameOptionsDecoratorsTests,tests for the x frame options decorators.,0,0,Usage,tests for the x frame options decorators
+4777,Conv3d,math,0,0,Usage,math
+5639,TestYellowFin,yellowfin an automatic tuner for momentum sgd,0,0,Usage,yellowfin an automatic tuner for momentum sgd
+1162,TermColors,colors in terminals.,0,0,Usage,colors in terminals
+4678,ConstantPad3d,"math text padding front , math text padding back",0,0,Usage,math text padding front math text padding back
+4747,Conv3d,"in other words, for an input of size math n, c in , d in , h in , w in ,",0,0,Usage,in other words for an input of size math n c in d in h in w in
+5564,StackTransform,component wise to each submatrix at dim,0,0,Usage,component wise to each submatrix at dim
+2645,Environment,class jinja2^utils.markup .,0,0,Usage,class jinja2 utils markup
+4153,_OpNamespace,torch^ops.my namespace will invoke the getattr magic method,0,0,Usage,torch ops my namespace will invoke the getattr magic method
+840,TestImageFieldFile,custom field file class that records whether or not the underlying file,0,0,Usage,custom field file class that records whether or not the underlying file
+127,BaseCommand,"statements if true , the output will automatically be",0,0,Usage,statements if true the output will automatically be
+4519,BCEWithLogitsLoss,losses are averaged or summed over observations for each minibatch depending,0,0,Usage,losses are averaged or summed over observations for each minibatch depending
+410,ListMixin,"function get single external self, i",0,0,Usage,function get single external self i
+2004,PlotAccessor,kde kernel density estimation plot,0,0,Usage,kde kernel density estimation plot
+844,TestRouter,routes to the other database if the model name starts with other .,0,0,Usage,routes to the other database if the model name starts with other
+5710,Unfold,kernel size int or tuple the size of the sliding blocks,0,0,Usage,kernel size int or tuple the size of the sliding blocks
+2353,UnsortedIndexError,subclass of keyerror .,0,0,Usage,subclass of keyerror
+3423,Option,parameter will be pulled from an environment,0,0,Usage,parameter will be pulled from an environment
+734,RawPostDataException,.,0,0,Usage,nan
+1185,YouTubeVideo,"class for embedding a youtube video in an ipython session, based on its video id.",0,0,Usage,class for embedding a youtube video in an ipython session based on its video id
+3663,PipError,base pip exception,0,0,Usage,base pip exception
+3242,Module_six_moves_urllib_request,lazy loading of moved objects in six^moves.urllib request,0,0,Usage,lazy loading of moved objects in six moves urllib request
+1269,ConfigDict,"a sanity checking, self documenting dictionary of program settings.",0,0,Usage,a sanity checking self documenting dictionary of program settings
+5444,OneHotCategorical,attr probs and attr logits .,0,0,Usage,attr probs and attr logits
+433,ListMixin,the maximum legal length optional,0,0,Usage,the maximum legal length optional
+5063,EmbeddingBag,this scales the output of the embedding before performing a weighted,0,0,Usage,this scales the output of the embedding before performing a weighted
+2500,Context_,creating instances is neither supported nor useful as it s created,0,0,Usage,creating instances is neither supported nor useful as it s created
+3024,InternalName,this identifier is not available from the,0,0,Usage,this identifier is not available from the
+2563,DocumentErrorTree,implements a dict like class to query errors by indexes following the,0,0,Usage,implements a dict like class to query errors by indexes following the
+745,RequestFactoryEnvironmentTests,regression tests for #8551 and #17067 ensure that environment variables,0,0,Usage,regression tests for 8551 and 17067 ensure that environment variables
+5716,Unfold,default 0,0,0,Usage,default 0
+4784,Conv3d,the values of these weights are sampled from,0,0,Usage,the values of these weights are sampled from
+250,CacheHandler,ensure only one instance of each alias exists per thread.,0,0,Usage,ensure only one instance of each alias exists per thread
+3857,Retry,set to a false value to retry on any verb.,0,0,Usage,set to a false value to retry on any verb
+2046,PlotAccessor,colormap to select colors from.,0,0,Usage,colormap to select colors from
+118,BaseCommand,"all of their logic in handle , or perform some additional",0,0,Usage,all of their logic in handle or perform some additional
+1737,CategoricalIndex,methods,0,0,Usage,methods
+341,ExceptionThatFailsUnpickling,"after pickling, this class fails unpickling with an error about incorrect",0,0,Usage,after pickling this class fails unpickling with an error about incorrect
+919,Audio,numpy 1d array containing the desired waveform mono,0,0,Usage,numpy 1d array containing the desired waveform mono
+5587,Task,be run by a session.,0,0,Usage,be run by a session
+72,AutoFieldMeta,for detecting automatically generated fields.,0,0,Usage,for detecting automatically generated fields
+5441,OneHotCategorical,"note attr probs must be non negative, finite and have a non zero sum,",0,0,Usage,note attr probs must be non negative finite and have a non zero sum
+3315,omdict,standard dict methods interact with the first value associated with a given,0,0,Usage,standard dict methods interact with the first value associated with a given
+4657,Caffe2OperatorTestCase,this class includes all the information needed to benchmark an operator.,0,0,Usage,this class includes all the information needed to benchmark an operator
+766,SameAsLookup,"so if a and b are the same feature,",0,0,Usage,so if a and b are the same feature
+5243,LBFGS,"implements l bfgs algorithm, heavily inspired by minfunc",0,0,Usage,implements l bfgs algorithm heavily inspired by minfunc
+1065,HelpEnd,and obj?,0,0,Usage,and obj
+2604,Environment,if this is set to true the first newline after a block is,0,0,Usage,if this is set to true the first newline after a block is
+5708,Unfold,"it is harder to describe, but this link has a nice visualization of what attr dilation does.",0,0,Usage,it is harder to describe but this link has a nice visualization of what attr dilation does
+633,MultiValueField,aggregate the logic of multiple fields.,0,0,Usage,aggregate the logic of multiple fields
+3612,Path,"file does indeed not exist, then all further checks are",0,0,Usage,file does indeed not exist then all further checks are
+4507,BCEWithLogitsLoss,"size average bool, optional deprecated see attr reduction .",0,0,Usage,size average bool optional deprecated see attr reduction
+1856,ExcelFile,"acceptable values are none, xlrd , openpyxl or odf .",0,0,Usage,acceptable values are none xlrd openpyxl or odf
+5086,EmbeddingBag,"sparse bool, optional if true , gradient w^r.t. attr weight matrix will be a sparse tensor.",0,0,Usage,sparse bool optional if true gradient w r t attr weight matrix will be a sparse tensor
+3474,PacifyFlushWrapper,notably ^flush is always called on,0,0,Usage,notably flush is always called on
+2569,Environment,"important shared variables like configuration, filters, tests,",0,0,Usage,important shared variables like configuration filters tests
+4711,Conv3d,"in the simplest case, the output value of the layer with input size math n, c in , d, h, w",0,0,Usage,in the simplest case the output value of the layer with input size math n c in d h w
+4111,TokenStreamIterator,iterate over the stream,0,0,Usage,iterate over the stream
+5588,Task,task outputs are fetched by the session at the end of the run.,0,0,Usage,task outputs are fetched by the session at the end of the run
+732,RawPostDataException,"multipart post data if it has been accessed via post,",0,0,Usage,multipart post data if it has been accessed via post
+2628,Environment,for more information have a,0,0,Usage,for more information have a
+2027,PlotAccessor,versionchanged 025.0,0,0,Usage,versionchanged 025 0
+3837,Retry,set to 0 to fail on the first retry of this type.,0,0,Usage,set to 0 to fail on the first retry of this type
+2944,HebrewProber,it reduces any sequence of such characters to a single space.,0,0,Usage,it reduces any sequence of such characters to a single space
+3829,Retry,how many connection related errors to retry on.,0,0,Usage,how many connection related errors to retry on
+599,MultiValueDict,same key.,0,0,Usage,same key
+1719,CategoricalIndex,will be inferred from the data .,0,0,Usage,will be inferred from the data
+2024,PlotAccessor,the matplotlib line style per column.,0,0,Usage,the matplotlib line style per column
+2359,_BZ2Proxy,this is actually,0,0,Usage,this is actually
+3734,Request,param headers dictionary of headers to send.,0,0,Usage,param headers dictionary of headers to send
+5495,QuantWrapper,for dequantstub .,0,0,Usage,for dequantstub
+4522,BCEWithLogitsLoss,batch element instead and ignores attr size average .,0,0,Usage,batch element instead and ignores attr size average
+4277,Adamax,parameter groups,0,0,Usage,parameter groups
+5107,EmbeddingBag,"empty bags ie, having 0 length will have",0,0,Usage,empty bags ie having 0 length will have
+262,Client,a class that can act as a client for testing purposes.,0,0,Usage,a class that can act as a client for testing purposes
+2641,Environment,autoescape,0,0,Usage,autoescape
+5428,NetModifier,related operators are added to the net.,0,0,Usage,related operators are added to the net
+4525,BCEWithLogitsLoss,none mean sum .,0,0,Usage,none mean sum
+5516,SGD,"dampening float, optional dampening for momentum default 0",0,0,Usage,dampening float optional dampening for momentum default 0
+3834,Retry,how many times to retry on read errors.,0,0,Usage,how many times to retry on read errors
+4767,Conv3d,default true,0,0,Usage,default true
+2655,Environment,the size of the cache.,0,0,Usage,the size of the cache
+1988,PlotAccessor,parameters,0,0,Usage,parameters
+1874,IntegerArray,array of integer optional missing values.,0,0,Usage,array of integer optional missing values
+3609,Path,"param exists if set to true, the file or directory needs to exist for",0,0,Usage,param exists if set to true the file or directory needs to exist for
+3023,InternalName,a new identifier for you.,0,0,Usage,a new identifier for you
+1149,Struct,overloaded operators.,0,0,Usage,overloaded operators
+681,OverwritingStorage,unused name.,0,0,Usage,unused name
+2808,ExceptionPexpect,base class for all exceptions raised by this module.,0,0,Usage,base class for all exceptions raised by this module
+1502,VCardStore,this is a disk backed in memory collection of vcards.,0,0,Usage,this is a disk backed in memory collection of vcards
+4480,BCEWithLogitsLoss,note that the targets t i should be numbers,0,0,Usage,note that the targets t i should be numbers
+4465,BCEWithLogitsLoss,the unreduced ie with attr reduction set to none loss can be described as,0,0,Usage,the unreduced ie with attr reduction set to none loss can be described as
+1881,IntegerArray,"mask a boolean array holding a mask on the data, true is missing",0,0,Usage,mask a boolean array holding a mask on the data true is missing
+3849,Retry,status forcelist .,0,0,Usage,status forcelist
+348,FakePayload,this makes sure that views can t do anything under the test client,0,0,Usage,this makes sure that views can t do anything under the test client
+2671,Environment,for higher performance it s possible to,0,0,Usage,for higher performance it s possible to
+5517,SGD,"nesterov bool, optional enables nesterov momentum default false",0,0,Usage,nesterov bool optional enables nesterov momentum default false
+2956,HebrewProber,the hebrewprober is not using any language model.,0,0,Usage,the hebrewprober is not using any language model
+923,Audio,http msdn^microsoft.com en us library windows hardware dn653308 v vs.85 ^aspx,0,0,Usage,http msdn microsoft com en us library windows hardware dn653308 v vs 85 aspx
+3035,InvalidHeaderError,exception for invalid headers.,0,0,Usage,exception for invalid headers
+1177,UserMagics,their own class.,0,0,Usage,their own class
+273,Client,html rendered to the end user.,0,0,Usage,html rendered to the end user
+1570,BaseInterfaceTests,interface,0,0,Usage,interface
+5740,Unfold,", padding .",0,0,Usage,padding
+2999,HTMLParser,html parser,0,0,Usage,html parser
+3884,Retry,each call to meth retry^increment .,0,0,Usage,each call to meth retry increment
+2491,CommandError,raised when there is an error in command line arguments,0,0,Usage,raised when there is an error in command line arguments
+3790,Resource,"a class representing an in package resource, such as a data file.",0,0,Usage,a class representing an in package resource such as a data file
+545,MigrationLoader,inherit from django^db.migrations^migration.,0,0,Usage,inherit from django db migrations migration
+5696,Unfold,where math text spatial size is formed by the spatial dimensions,0,0,Usage,where math text spatial size is formed by the spatial dimensions
+2029,PlotAccessor,use log scaling or symlog scaling on y axis.,0,0,Usage,use log scaling or symlog scaling on y axis
+865,UserCreationForm,"a form that creates a user, with no privileges, from the given username and",0,0,Usage,a form that creates a user with no privileges from the given username and
+2585,Environment,variable end string,0,0,Usage,variable end string
+3675,PoolManager,class urllib3^connectionpool.connectionpool instances.,0,0,Usage,class urllib3 connectionpool connectionpool instances
+5326,MultiLabelMarginLoss,math,0,0,Usage,math
+3614,Path,param file okay controls if a file is a possible value.,0,0,Usage,param file okay controls if a file is a possible value
+2597,Environment,see also ref line statements .,0,0,Usage,see also ref line statements
+1995,PlotAccessor,only used if data is a,0,0,Usage,only used if data is a
+346,FakePayload,the network can t be sought and cannot be read outside of its content,0,0,Usage,the network can t be sought and cannot be read outside of its content
+3066,LRUCache,won t do any harm.,0,0,Usage,won t do any harm
+778,Serializer,convert a queryset to json.,0,0,Usage,convert a queryset to json
+5512,SGD,parameter groups,0,0,Usage,parameter groups
+2614,Environment,"must be one of r ,",0,0,Usage,must be one of r
+4464,BCEWithLogitsLoss,we take advantage of the log sum exp trick for numerical stability.,0,0,Usage,we take advantage of the log sum exp trick for numerical stability
+3161,MemcachedBytecodeCache,this class implements a bytecode cache that uses a memcache cache for,0,0,Usage,this class implements a bytecode cache that uses a memcache cache for
+3782,RequirementUninstaller,if the inner block,0,0,Usage,if the inner block
+4279,Adamax,"betas tuple float, float , optional coefficients used for computing",0,0,Usage,betas tuple float float optional coefficients used for computing
+930,Audio,dependent.,0,0,Usage,dependent
+4677,ConstantPad3d,"math text padding top , math text padding bottom ,",0,0,Usage,math text padding top math text padding bottom
+3830,Retry,"these are errors raised before the request is sent to the remote server,",0,0,Usage,these are errors raised before the request is sent to the remote server
+871,VariableWrapper,an adapter class for cursor variables that prevents the wrapped object,0,0,Usage,an adapter class for cursor variables that prevents the wrapped object
+5578,Subset,arguments,0,0,Usage,arguments
+4377,BatchNorm1d,eps a value added to the denominator for numerical stability.,0,0,Usage,eps a value added to the denominator for numerical stability
+1711,CategoricalIndex,data array like 1 dimensional,0,0,Usage,data array like 1 dimensional
+2025,PlotAccessor,"logx bool or sym , default false",0,0,Usage,logx bool or sym default false
+816,TemplateDoesNotExist,this,0,0,Usage,this
+3625,Path,"param allow dash if this is set to true , a single dash to indicate",0,0,Usage,param allow dash if this is set to true a single dash to indicate
+3735,Request,param files dictionary of filename fileobject files to multipart upload.,0,0,Usage,param files dictionary of filename fileobject files to multipart upload
+4521,BCEWithLogitsLoss,"when attr reduce is false , returns a loss per",0,0,Usage,when attr reduce is false returns a loss per
+4538,BCEWithLogitsLoss,output scalar.,0,0,Usage,output scalar
+3876,Retry,"param bool raise on redirect whether, if the number of redirects is",0,0,Usage,param bool raise on redirect whether if the number of redirects is
+5651,TransformerEncoderLayer,in a different way during application.,0,0,Usage,in a different way during application
+5647,TransformerEncoderLayer,attention is all you need.,0,0,Usage,attention is all you need
+5729,Unfold,class torch^nn.unfold extracts the values in the local blocks by,0,0,Usage,class torch nn unfold extracts the values in the local blocks by
+227,BoundWidget,a container class used for iterating over widgets.,0,0,Usage,a container class used for iterating over widgets
+1871,Holiday,for observance.,0,0,Usage,for observance
+2667,Environment,if,0,0,Usage,if
+4535,BCEWithLogitsLoss,shape,0,0,Usage,shape
+5082,EmbeddingBag,into consideration.,0,0,Usage,into consideration
+1650,CategoricalDtype,whether or not this categorical is treated as a ordered categorical.,0,0,Usage,whether or not this categorical is treated as a ordered categorical
+397,InputStreamExhausted,no more reads are allowed from this device.,0,0,Usage,no more reads are allowed from this device
+4241,Adam,parameter groups,0,0,Usage,parameter groups
+3827,Retry,set to false to disable and imply raise on redirect false .,0,0,Usage,set to false to disable and imply raise on redirect false
+5752,Unfold,"when the divisor tensor contains no zero elements, then",0,0,Usage,when the divisor tensor contains no zero elements then
+4757,Conv3d,default 1,0,0,Usage,default 1
+3858,Retry,param iterable status forcelist,0,0,Usage,param iterable status forcelist
+3478,PacifyFlushWrapper,"pipe, all calls and attributes are proxied.",0,0,Usage,pipe all calls and attributes are proxied
+5703,Unfold,attr stride controls the stride for the sliding blocks.,0,0,Usage,attr stride controls the stride for the sliding blocks
+4369,BatchNorm1d,"math hat x text new 1 text momentum times hat x text momentum times x t ,",0,0,Usage,math hat x text new 1 text momentum times hat x text momentum times x t
+2028,PlotAccessor,logy bool or sym default false,0,0,Usage,logy bool or sym default false
+764,SameAsLookup,it tests actual geometric,0,0,Usage,it tests actual geometric
+4468,BCEWithLogitsLoss,l n w n left y n cdot log sigma x n,0,0,Usage,l n w n left y n cdot log sigma x n
+1593,BooleanArray,indicates missing .,0,0,Usage,indicates missing
+5565,StackTransform,in a way compatible with func torch^stack .,0,0,Usage,in a way compatible with func torch stack
+126,BaseCommand,a boolean indicating whether the command outputs sql,0,0,Usage,a boolean indicating whether the command outputs sql
+2285,StringArray,"pd^array a , none, c , dtype string a",0,0,Usage,pd array a none c dtype string a
+1597,BooleanArray,none,0,0,Usage,none
+3780,RequirementUninstaller,a context manager to remove a package for the inner block.,0,0,Usage,a context manager to remove a package for the inner block
+746,RequestFactoryEnvironmentTests,are set correctly in requestfactory.,0,0,Usage,are set correctly in requestfactory
+670,Operation,as actually performing it against a live database.,0,0,Usage,as actually performing it against a live database
+2647,Environment,be a callable that is passed the template name and has to,0,0,Usage,be a callable that is passed the template name and has to
+2224,SetopCheck,this is called to decorate the set operations of intervalindex,0,0,Usage,this is called to decorate the set operations of intervalindex
+414,ListMixin,"same as above, but for use within the class optional",0,0,Usage,same as above but for use within the class optional
+3793,Resource,class resourcefinder which manages the resource.,0,0,Usage,class resourcefinder which manages the resource
+5101,EmbeddingBag,it will be treated as a concatenation of multiple bags sequences .,0,0,Usage,it will be treated as a concatenation of multiple bags sequences
+1658,CategoricalDtype,none,0,0,Usage,none
+5890,UploadTaskGroupBuilder,a simple class to upload checkpoints.,0,0,Usage,a simple class to upload checkpoints
+2448,CaseInsensitiveDict,"keys , items , iterkeys , and iteritems",0,0,Usage,keys items iterkeys and iteritems
+2583,Environment,the string marking the beginning of a print statement.,0,0,Usage,the string marking the beginning of a print statement
+2602,Environment,versionadded 22,0,0,Usage,versionadded 22
+1758,CategoricalIndex,see the user guide,0,0,Usage,see the user guide
+3840,Retry,limit this to avoid infinite redirect,0,0,Usage,limit this to avoid infinite redirect
+1722,CategoricalIndex,categorical.,0,0,Usage,categorical
+912,Audio,create an audio object.,0,0,Usage,create an audio object
+5719,Unfold,neighborhood.,0,0,Usage,neighborhood
+3842,Retry,"a redirect is a http response with a status code 301, 302, 303, 307 or",0,0,Usage,a redirect is a http response with a status code 301 302 303 307 or
+1095,IPythonInputSplitter,an input splitter that recognizes all of ipython s special syntax.,0,0,Usage,an input splitter that recognizes all of ipython s special syntax
+5654,TransformerEncoderLayer,nhead the number of heads in the multiheadattention models required .,0,0,Usage,nhead the number of heads in the multiheadattention models required
+4221,Adadelta,"lr float, optional coefficient that scale delta before it is applied",0,0,Usage,lr float optional coefficient that scale delta before it is applied
+5209,ExceptionWrapper,wraps an exception plus traceback to communicate across threads,0,0,Usage,wraps an exception plus traceback to communicate across threads
+505,MigrationGraph,"each migration is a node, and each dependency is an edge.",0,0,Usage,each migration is a node and each dependency is an edge
+5103,EmbeddingBag,starting index positions of each bag in attr input .,0,0,Usage,starting index positions of each bag in attr input
+1997,PlotAccessor,kind str,0,0,Usage,kind str
+5577,Subset,subset of a dataset at specified indices.,0,0,Usage,subset of a dataset at specified indices
+931,Audio,url unicode,0,0,Usage,url unicode
+2011,PlotAccessor,"use index bool, default true",0,0,Usage,use index bool default true
+5751,Unfold,divisor fold unfold input ones,0,0,Usage,divisor fold unfold input ones
+2008,PlotAccessor,scatter scatter plot,0,0,Usage,scatter scatter plot
+3868,Retry,backoff factor 2 number of total retries 1,0,0,Usage,backoff factor 2 number of total retries 1
+2383,And,expressions may be separated by whitespace.,0,0,Usage,expressions may be separated by whitespace
+4765,Conv3d,default 1,0,0,Usage,default 1
+2640,Environment,none implicitly into an empty string here.,0,0,Usage,none implicitly into an empty string here
+1734,CategoricalIndex,codes,0,0,Usage,codes
+471,ManagementForm,keep track of how many form instances are displayed on the page.,0,0,Usage,keep track of how many form instances are displayed on the page
+1743,CategoricalIndex,set categories,0,0,Usage,set categories
+4486,BCEWithLogitsLoss,"l n,c w n,c left p c y n,c cdot log sigma x n,c",0,0,Usage,l n c w n c left p c y n c cdot log sigma x n c
+3665,PoolManager,allows for arbitrary requests while transparently keeping track of,0,0,Usage,allows for arbitrary requests while transparently keeping track of
+4890,CyclicLR,cyclical learning rate policy changes the learning rate after every batch.,0,0,Usage,cyclical learning rate policy changes the learning rate after every batch
+4240,Adam,params iterable iterable of parameters to optimize or dicts defining,0,0,Usage,params iterable iterable of parameters to optimize or dicts defining
+4353,BatchNorm1d,of size c where c is the input size .,0,0,Usage,of size c where c is the input size
+5705,Unfold,sides for attr padding number of points for each dimension before,0,0,Usage,sides for attr padding number of points for each dimension before
+2326,StringMethods,"methods, with some inspiration from r s stringr package.",0,0,Usage,methods with some inspiration from r s stringr package
+3835,Retry,"these errors are raised after the request was sent to the server, so the",0,0,Usage,these errors are raised after the request was sent to the server so the
+5559,SharedCache,dictionary from multiprocessing handles to storageweakref,0,0,Usage,dictionary from multiprocessing handles to storageweakref
+3867,Retry,urllib3 will sleep for,0,0,Usage,urllib3 will sleep for
+5653,TransformerEncoderLayer,d model the number of expected features in the input required .,0,0,Usage,d model the number of expected features in the input required
+2230,SQLiteTable,patch the sqltable for fallback support.,0,0,Usage,patch the sqltable for fallback support
+4718,Conv3d,attr padding controls the amount of implicit zero paddings on both,0,0,Usage,attr padding controls the amount of implicit zero paddings on both
+5340,MultiLabelMarginLoss,note that for,0,0,Usage,note that for
+3629,Path,the default is none which,0,0,Usage,the default is none which
+1718,CategoricalIndex,"if the categories are not given here and also not in dtype , they",0,0,Usage,if the categories are not given here and also not in dtype they
+4476,BCEWithLogitsLoss,"operatorname sum l , & text if reduction text sum .",0,0,Usage,operatorname sum l text if reduction text sum
+2021,PlotAccessor,legend bool or reverse,0,0,Usage,legend bool or reverse
+1851,ExcelFile,"path^local.localpath ,",0,0,Usage,path local localpath
+2340,TestDatetimelikeSubtype,tests specific to intervalindex with datetime like subtype,0,0,Usage,tests specific to intervalindex with datetime like subtype
+863,UpdateError,occurs if django tries to update a session that was deleted.,0,0,Usage,occurs if django tries to update a session that was deleted
+2237,SQLTable,also holds various flags needed to avoid having to,0,0,Usage,also holds various flags needed to avoid having to
+4478,BCEWithLogitsLoss,this is used for measuring the error of a reconstruction in for example,0,0,Usage,this is used for measuring the error of a reconstruction in for example
+4870,ConvReLU3d,a convrelu3d module is a fused module of conv3d and relu,0,0,Usage,a convrelu3d module is a fused module of conv3d and relu
+5736,Unfold,class torch^nn.unfold instances created with the same,0,0,Usage,class torch nn unfold instances created with the same
+5100,EmbeddingBag,"if attr input is 1d of shape n ,",0,0,Usage,if attr input is 1d of shape n
+257,ChunkIter,given a file like object as the,0,0,Usage,given a file like object as the
+4391,BatchNorm1d,default true,0,0,Usage,default true
+4223,Adadelta,"weight decay float, optional weight decay l2 penalty default 0",0,0,Usage,weight decay float optional weight decay l2 penalty default 0
+893,XFrameOptionsMiddleware,do not set the header if it s already set or if the response contains,0,0,Usage,do not set the header if it s already set or if the response contains
+3807,Retry,"each retry attempt will create a new retry object with updated values, so",0,0,Usage,each retry attempt will create a new retry object with updated values so
+3395,Option,param show envvar controls if an environment variable should be shown on,0,0,Usage,param show envvar controls if an environment variable should be shown on
+4871,ConvReLU3d,we adopt the same interface as class torch^nn.quantized^conv3d .,0,0,Usage,we adopt the same interface as class torch nn quantized conv3d
+5892,UseOptimizer,context class to allow setting the current context.,0,0,Usage,context class to allow setting the current context
+4723,Conv3d,attr in channels and attr out channels must both be divisible by,0,0,Usage,attr in channels and attr out channels must both be divisible by
+4761,Conv3d,accepted values zeros and circular default zeros,0,0,Usage,accepted values zeros and circular default zeros
+3668,PoolManager,number of connection pools to cache before discarding the least,0,0,Usage,number of connection pools to cache before discarding the least
+431,ListMixin,the minimum legal length optional,0,0,Usage,the minimum legal length optional
+4735,Conv3d,"a single int in which case the same value is used for the depth, height and width dimension",0,0,Usage,a single int in which case the same value is used for the depth height and width dimension
+5325,MultiLabelMarginLoss,for each sample in the mini batch,0,0,Usage,for each sample in the mini batch
+5366,MultiLabelMarginLoss,"target math c or math n, c , label targets padded by 1 ensuring same shape as the input.",0,0,Usage,target math c or math n c label targets padded by 1 ensuring same shape as the input
+947,Audio,default is false .,0,0,Usage,default is false
+3411,Option,auto detection.,0,0,Usage,auto detection
+5342,MultiLabelMarginLoss,if the field attr size average,0,0,Usage,if the field attr size average
+304,CustomArticleAdmin,tests various hooks for using custom templates and contexts.,0,0,Usage,tests various hooks for using custom templates and contexts
+1733,CategoricalIndex,attributes,0,0,Usage,attributes
+5511,SGD,params iterable iterable of parameters to optimize or dicts defining,0,0,Usage,params iterable iterable of parameters to optimize or dicts defining
+2608,Environment,lstrip blocks,0,0,Usage,lstrip blocks
+1148,Struct,intelligent merging.,0,0,Usage,intelligent merging
+2062,PlotAccessor,"yerr dataframe, series, array like, dict and str",0,0,Usage,yerr dataframe series array like dict and str
+2612,Environment,newline sequence,0,0,Usage,newline sequence
+3864,Retry,a backoff factor to apply between attempts after the second try,0,0,Usage,a backoff factor to apply between attempts after the second try
+3854,Retry,idempotent multiple requests with the same parameters end with the,0,0,Usage,idempotent multiple requests with the same parameters end with the
+655,MultiWidget,"in addition to the values added by widget^get context , this widget",0,0,Usage,in addition to the values added by widget get context this widget
+2349,TestSorted,everything you wanted to test about sorting,0,0,Usage,everything you wanted to test about sorting
+2591,Environment,comment end string,0,0,Usage,comment end string
+866,UserCreationForm,password.,0,0,Usage,password
+2678,Environment,enable async,0,0,Usage,enable async
+5646,TransformerEncoderLayer,2017,0,0,Usage,2017
+1899,IntegerArray,create an integerarray with func pandas^array .,0,0,Usage,create an integerarray with func pandas array
+347,FakePayload,length.,0,0,Usage,length
+1760,CategoricalIndex,for more.,0,0,Usage,for more
+3880,Retry,"whether we should raise an exception, or return a response,",0,0,Usage,whether we should raise an exception or return a response
+5357,MultiLabelMarginLoss,mean the sum of the output will be divided by the number of,0,0,Usage,mean the sum of the output will be divided by the number of
+4883,CyclicLR,sets the learning rate of each parameter group according to,0,0,Usage,sets the learning rate of each parameter group according to
+3074,Markup,safe.,0,0,Usage,safe
+1850,ExcelFile,"io str, path object pathlib^path or py.",0,0,Usage,io str path object pathlib path or py
+4253,Adam,on the convergence of adam and beyond,0,0,Usage,on the convergence of adam and beyond
+1146,Struct,style access.,0,0,Usage,style access
+2361,_BZ2Proxy,class which unlike gzip^gzipfile has no support for,0,0,Usage,class which unlike gzip gzipfile has no support for
+928,Audio,"if the array option is used, the waveform will be normalized.",0,0,Usage,if the array option is used the waveform will be normalized
+64,AutoFieldMeta,create a non integer automatically generated field using column defaults,0,0,Usage,create a non integer automatically generated field using column defaults
+2023,PlotAccessor,style list or dict,0,0,Usage,style list or dict
+917,Audio,"data numpy array, list, unicode, str or bytes",0,0,Usage,data numpy array list unicode str or bytes
+2680,Environment,you to take advantage of newer python features.,0,0,Usage,you to take advantage of newer python features
+3062,LRUCache,a simple lru cache implementation.,0,0,Usage,a simple lru cache implementation
+5561,StackedLSTMWithDropout,necessary for iterating through self^layers and dropout support,0,0,Usage,necessary for iterating through self layers and dropout support
+2610,Environment,from the start of a line to a block.,0,0,Usage,from the start of a line to a block
+3294,NotMyLock,raised when an attempt is made to unlock a file someone else locked.,0,0,Usage,raised when an attempt is made to unlock a file someone else locked
+2386,And,suppress backtracking.,0,0,Usage,suppress backtracking
+3394,Option,this is particularly useful for dynamic options.,0,0,Usage,this is particularly useful for dynamic options
+5099,EmbeddingBag,attr offsets is ignored and required to be none in this case.,0,0,Usage,attr offsets is ignored and required to be none in this case
+3844,Retry,set to 0 to fail on the first retry of this type.,0,0,Usage,set to 0 to fail on the first retry of this type
+4729,Conv3d,"and producing half the output channels, and both subsequently",0,0,Usage,and producing half the output channels and both subsequently
+4781,Conv3d,weight tensor the learnable weights of the module of shape,0,0,Usage,weight tensor the learnable weights of the module of shape
+2015,PlotAccessor,"if a string is passed, print the string",0,0,Usage,if a string is passed print the string
+4719,Conv3d,sides for attr padding number of points for each dimension.,0,0,Usage,sides for attr padding number of points for each dimension
+1078,InteractiveShellApp,as part of configuring a shell environment.,0,0,Usage,as part of configuring a shell environment
+5649,TransformerEncoderLayer,"neural information processing systems, pages 6000 6010.",0,0,Usage,neural information processing systems pages 6000 6010
+4726,Conv3d,"at groups 1, all inputs are convolved to all outputs.",0,0,Usage,at groups 1 all inputs are convolved to all outputs
+5368,MultiLabelMarginLoss,"if attr reduction is none , then math n .",0,0,Usage,if attr reduction is none then math n
+3492,ParseError,this error occurs when the parser encounters a syntax error,0,0,Usage,this error occurs when the parser encounters a syntax error
+2849,FileSystemLoader,this loader can find templates,0,0,Usage,this loader can find templates
+476,MemcachedCache,an implementation of a cache binding using python memcached,0,0,Usage,an implementation of a cache binding using python memcached
+1263,AutocryptSearch,search for the autocrypt database.,0,0,Usage,search for the autocrypt database
+3724,PyPIJSONLocator,this locator uses pypi s json interface.,0,0,Usage,this locator uses pypi s json interface
+3042,Katakana,unicode set for katakana unicode character range,0,0,Usage,unicode set for katakana unicode character range
+841,TestImageFieldFile,was opened.,0,0,Usage,was opened
+2581,Environment,defaults to % .,0,0,Usage,defaults to
+4218,Adadelta,of squared gradients default 09,0,0,Usage,of squared gradients default 09
+742,RemoteTestRunner,run tests and record everything but don t display anything.,0,0,Usage,run tests and record everything but don t display anything
+2264,StringArray,none,0,0,Usage,none
+5109,EmbeddingBag,"per sample weights tensor, optional a tensor of float double weights, or none",0,0,Usage,per sample weights tensor optional a tensor of float double weights or none
+256,ChunkIter,an iterable that will yield chunks of data.,0,0,Usage,an iterable that will yield chunks of data
+3309,omdict,"internally, items are stored in a doubly linked list, self.",0,0,Usage,internally items are stored in a doubly linked list self
+4669,ConstantPad3d,pads the input tensor boundaries with a constant value.,0,0,Usage,pads the input tensor boundaries with a constant value
+2662,Environment,versionchanged 28,0,0,Usage,versionchanged 28
+2681,Environment,this requires,0,0,Usage,this requires
+5104,EmbeddingBag,"therefore,",0,0,Usage,therefore
+2577,Environment,the string marking the beginning of a block.,0,0,Usage,the string marking the beginning of a block
+4530,BCEWithLogitsLoss,"and attr reduce are in the process of being deprecated, and in the meantime,",0,0,Usage,and attr reduce are in the process of being deprecated and in the meantime
+3737,Request,if a dictionary or,0,0,Usage,if a dictionary or
+4534,BCEWithLogitsLoss,must be a vector with length equal to the number of classes.,0,0,Usage,must be a vector with length equal to the number of classes
+723,ProxyModelInheritanceTests,proxy model inheritance across apps can result in migrate not creating the table,0,0,Usage,proxy model inheritance across apps can result in migrate not creating the table
+2812,FakeFile,wrap a list of lines in an object with readline to make,0,0,Usage,wrap a list of lines in an object with readline to make
+1176,UserMagics,use this class to isolate the magics defined dynamically by the user into,0,0,Usage,use this class to isolate the magics defined dynamically by the user into
+2032,PlotAccessor,use log scaling or symlog scaling on both x and y axes.,0,0,Usage,use log scaling or symlog scaling on both x and y axes
+2034,PlotAccessor,xticks sequence,0,0,Usage,xticks sequence
+3806,Retry,retry configuration.,0,0,Usage,retry configuration
+3670,PoolManager,param headers,0,0,Usage,param headers
+2817,fdspawn,descriptor.,0,0,Usage,descriptor
+2650,Environment,versionchanged 24,0,0,Usage,versionchanged 24
+357,FallbackStorage,messages in each subsequent backend.,0,0,Usage,messages in each subsequent backend
+5929,AuthBase,base class that all auth implementations derive from,0,0,Usage,base class that all auth implementations derive from
+2000,PlotAccessor,bar vertical bar plot,0,0,Usage,bar vertical bar plot
+3885,Retry,the list is in the order,0,0,Usage,the list is in the order
+3865,Retry,most errors are resolved immediately by a second try without a,0,0,Usage,most errors are resolved immediately by a second try without a
+5094,EmbeddingBag,"inputs attr input longtensor , attr offsets longtensor, optional , and",0,0,Usage,inputs attr input longtensor attr offsets longtensor optional and
+4526,BCEWithLogitsLoss,"none no reduction will be applied,",0,0,Usage,none no reduction will be applied
+1161,TermColors,this class defines the escape sequences for all the standard ansi?,0,0,Usage,this class defines the escape sequences for all the standard ansi
+4249,Adam,algorithm from the paper on the convergence of adam and beyond,0,0,Usage,algorithm from the paper on the convergence of adam and beyond
+91,BaseCommand,parse the command line arguments and work out what code to call in,0,0,Usage,parse the command line arguments and work out what code to call in
+2225,SetopCheck,to perform the type check in advance.,0,0,Usage,to perform the type check in advance
+3052,LockFailed,lock file creation failed for some other reason.,0,0,Usage,lock file creation failed for some other reason
+125,BaseCommand,output transaction,0,0,Usage,output transaction
+5334,MultiLabelMarginLoss,starts at the front.,0,0,Usage,starts at the front
+5507,SGD,implements stochastic gradient descent optionally with momentum .,0,0,Usage,implements stochastic gradient descent optionally with momentum
+5062,EmbeddingBag,pass.,0,0,Usage,pass
+944,Audio,only required when data parameter is being used as an array,0,0,Usage,only required when data parameter is being used as an array
+4275,Adamax,arguments,0,0,Usage,arguments
+3224,MetadataMissingError,a required metadata is missing,0,0,Usage,a required metadata is missing
+5112,EmbeddingBag,must have exactly the same shape as input and is treated as having the same,0,0,Usage,must have exactly the same shape as input and is treated as having the same
+894,XFrameOptionsMiddleware,a xframe options exempt value set to true.,0,0,Usage,a xframe options exempt value set to true
+1854,ExcelFile,"engine str, default none",0,0,Usage,engine str default none
+4658,Caffe2OperatorTestCase,op bench it s a user defined class child of caffe2benchmarkbase,0,0,Usage,op bench it s a user defined class child of caffe2benchmarkbase
+2247,StringArray,warning,0,0,Usage,warning
+4359,BatchNorm1d,the running estimates are kept with a default attr momentum,0,0,Usage,the running estimates are kept with a default attr momentum
+5737,Unfold,parameters,0,0,Usage,parameters
+2600,Environment,comments.,0,0,Usage,comments
+3851,Retry,param iterable method whitelist,0,0,Usage,param iterable method whitelist
+3019,InternalName,an internal name in the compiler.,0,0,Usage,an internal name in the compiler
+4306,AdaptiveMaxPool3d,default false,0,0,Usage,default false
+2214,SelectNSeries,"keep first , last , default first",0,0,Usage,keep first last default first
+1164,TermColors,"string, suitable for defining dummy color schemes in terminals which get",0,0,Usage,string suitable for defining dummy color schemes in terminals which get
+3847,Retry,how many times to retry on bad status codes.,0,0,Usage,how many times to retry on bad status codes
+955,Audio,audio are never normalized.,0,0,Usage,audio are never normalized
+1892,IntegerArray,attributes,0,0,Usage,attributes
+5067,EmbeddingBag,attr per sample weights .,0,0,Usage,attr per sample weights
+142,BaseCommand,app registry.,0,0,Usage,app registry
+929,Audio,"if a filename or url is used, the format support will be browser",0,0,Usage,if a filename or url is used the format support will be browser
+5713,Unfold,default 1,0,0,Usage,default 1
+4755,Conv3d,kernel size int or tuple size of the convolving kernel,0,0,Usage,kernel size int or tuple size of the convolving kernel
+3869,Retry,seconds.,0,0,Usage,seconds
+4237,Adam,implements adam algorithm.,0,0,Usage,implements adam algorithm
+5935,PreparedRequest,generated from either a class request request object or manually.,0,0,Usage,generated from either a class request request object or manually
+551,MigrationLoader,"disk, then they are injected into the main set, replacing the named migrations.",0,0,Usage,disk then they are injected into the main set replacing the named migrations
+293,ConsoleDirective,the second tab shows a windows command line equivalent of the usual,0,0,Usage,the second tab shows a windows command line equivalent of the usual
+2031,PlotAccessor,"loglog bool or sym , default false",0,0,Usage,loglog bool or sym default false
+1991,PlotAccessor,"x label or position, default none",0,0,Usage,x label or position default none
+2547,DataViewSequence,each entry is an instance of item class .,0,0,Usage,each entry is an instance of item class
+3791,Resource,this is,0,0,Usage,this is
+4752,Conv3d,args,0,0,Usage,args
+3800,ResourceManager,manage resource extraction and packages,0,0,Usage,manage resource extraction and packages
+1992,PlotAccessor,only used if data is a dataframe.,0,0,Usage,only used if data is a dataframe
+415,ListMixin,note that if get single internal and get single internal return,0,0,Usage,note that if get single internal and get single internal return
+51,AtomicTests,the tests make assertions on internal attributes because there isn t a,0,0,Usage,the tests make assertions on internal attributes because there isn t a
+795,SplitHiddenDateTimeWidget,a widget that splits datetime input into two input type hidden inputs.,0,0,Usage,a widget that splits datetime input into two input type hidden inputs
+5290,Module,a tree structure.,0,0,Usage,a tree structure
+2234,SQLTable,for mapping pandas tables to sql tables.,0,0,Usage,for mapping pandas tables to sql tables
+432,ListMixin,int maxlength,0,0,Usage,int maxlength
+2016,PlotAccessor,at the top of the figure.,0,0,Usage,at the top of the figure
+1736,CategoricalIndex,ordered,0,0,Usage,ordered
+5650,TransformerEncoderLayer,users may modify or implement,0,0,Usage,users may modify or implement
+2344,TestFromTuples,tests specific to intervalindex^from tuples,0,0,Usage,tests specific to intervalindex from tuples
+423,ListMixin,before clobbering the original storage.,0,0,Usage,before clobbering the original storage
+3076,Markup,it to mark it safe without escaping.,0,0,Usage,it to mark it safe without escaping
+5656,TransformerEncoderLayer,dropout the dropout value default 01 .,0,0,Usage,dropout the dropout value default 01
+5957,Response,"the class response response object, which contains a",0,0,Usage,the class response response object which contains a
+2216,SelectNSeries,nordered series,0,0,Usage,nordered series
+1582,BooleanArray,below .,0,0,Usage,below
+1964,IntervalDtype,subtype,0,0,Usage,subtype
+1049,DisplayHook,"this class does many things, but the basic idea is that it is a callable",0,0,Usage,this class does many things but the basic idea is that it is a callable
+1744,CategoricalIndex,as ordered,0,0,Usage,as ordered
+3476,PacifyFlushWrapper,so as to have minimal impact on any,0,0,Usage,so as to have minimal impact on any
+4281,Adamax,"eps float, optional term added to the denominator to improve",0,0,Usage,eps float optional term added to the denominator to improve
+5579,Subset,dataset dataset the whole dataset,0,0,Usage,dataset dataset the whole dataset
+506,MigrationGraph,there are,0,0,Usage,there are
+4734,Conv3d,"the parameters attr kernel size , attr stride , attr padding , attr dilation can either be",0,0,Usage,the parameters attr kernel size attr stride attr padding attr dilation can either be
+1642,BYearBegin,dateoffset increments between business year begin dates.,0,0,Usage,dateoffset increments between business year begin dates
+2834,FileMetadata,"which is treated as existing, and will be the contents of the file at",0,0,Usage,which is treated as existing and will be the contents of the file at
+933,Audio,filename unicode,0,0,Usage,filename unicode
+1,AccessMixin,abstract cbv mixin that gives access mixins the same customizable,0,0,Usage,abstract cbv mixin that gives access mixins the same customizable
+3250,Node,represents an item in the tree,0,0,Usage,represents an item in the tree
+4012,SkipTo,token for skipping over all undefined text until the matched,0,0,Usage,token for skipping over all undefined text until the matched
+5749,Unfold,and dtype of the input,0,0,Usage,and dtype of the input
+950,Audio,range.,0,0,Usage,range
+2598,Environment,line comment prefix,0,0,Usage,line comment prefix
+1757,CategoricalIndex,notes,0,0,Usage,notes
+2384,And,may be constructed using the operator.,0,0,Usage,may be constructed using the operator
+2022,PlotAccessor,place legend on axis subplots.,0,0,Usage,place legend on axis subplots
+5586,Task,"tasks are executed in the context of a taskgroup, which, in turn, can",0,0,Usage,tasks are executed in the context of a taskgroup which in turn can
+2256,StringArray,warning,0,0,Usage,warning
+2887,FollowedBy,# use followedby to match a label only if it is followed by a,0,0,Usage,use followedby to match a label only if it is followed by a
+4749,Conv3d,"math in channels c in , out channels c in times k, .",0,0,Usage,math in channels c in out channels c in times k
+342,ExceptionThatFailsUnpickling,arguments passed to init .,0,0,Usage,arguments passed to init
+2352,UnsortedIndexError,and the index has not been lexsorted.,0,0,Usage,and the index has not been lexsorted
+612,MultiValueDict,"which returns a list for every key, even though most web forms submit",0,0,Usage,which returns a list for every key even though most web forms submit
+2076,PlotAccessor,"alternatively, to",0,0,Usage,alternatively to
+1454,HashCash,try to collide a hash using the smtorp algorithm,0,0,Usage,try to collide a hash using the smtorp algorithm
+4247,Adam,"weight decay float, optional weight decay l2 penalty default 0",0,0,Usage,weight decay float optional weight decay l2 penalty default 0
+665,NestedObjectsTests,tests for nestedobject utility collection.,0,0,Usage,tests for nestedobject utility collection
+5717,Unfold,"dilation int or tuple, optional a parameter that controls the",0,0,Usage,dilation int or tuple optional a parameter that controls the
+5089,EmbeddingBag,note this option is not,0,0,Usage,note this option is not
+5735,Unfold,consider class torch^nn.fold and,0,0,Usage,consider class torch nn fold and
+376,ImageFileDescriptor,"just like the filedescriptor, but for imagefields.",0,0,Usage,just like the filedescriptor but for imagefields
+2664,Environment,auto reload,0,0,Usage,auto reload
+138,BaseCommand,to validate an individual application s models,0,0,Usage,to validate an individual application s models
+3388,Option,param show default controls if the default value should be shown on the,0,0,Usage,param show default controls if the default value should be shown on the
+2346,TestPeriodIndexSeriesComparisonConsistency,test periodindex and period series ops consistency,0,0,Usage,test periodindex and period series ops consistency
+767,SameAsLookup,"vertex by vertex, the operator returns true.",0,0,Usage,vertex by vertex the operator returns true
+2351,UnsortedIndexError,"error raised when attempting to get a slice of a multiindex,",0,0,Usage,error raised when attempting to get a slice of a multiindex
+2254,StringArray,values array like,0,0,Usage,values array like
+1265,AutoTlsConnBroker,"this broker tries to auto upgrade connections to use tls, or at",0,0,Usage,this broker tries to auto upgrade connections to use tls or at
+5255,LBFGS,if it doesn t fit in memory,0,0,Usage,if it doesn t fit in memory
+5753,Unfold,fold and unfold operations are inverses of each,0,0,Usage,fold and unfold operations are inverses of each
+5657,TransformerEncoderLayer,"activation the activation function of intermediate layer, relu or gelu default relu .",0,0,Usage,activation the activation function of intermediate layer relu or gelu default relu
+3045,KeyType,"keys can be bare unquoted , or quoted using basic , or literal",0,0,Usage,keys can be bare unquoted or quoted using basic or literal
+361,FootNote,model added for ticket 19838,0,0,Usage,model added for ticket 19838
+3307,omdict,an ordered multivalue dictionary is a multivalue dictionary that,0,0,Usage,an ordered multivalue dictionary is a multivalue dictionary that
+356,FallbackStorage,store any unstored,0,0,Usage,store any unstored
+3882,Retry,been exhausted.,0,0,Usage,been exhausted
+5287,Module,base class for all neural network modules.,0,0,Usage,base class for all neural network modules
+286,Combinable,provide the ability to combine one or two objects with,0,0,Usage,provide the ability to combine one or two objects with
+2622,Environment,"if present, to be stripped from the end of the template.",0,0,Usage,if present to be stripped from the end of the template
+5257,LBFGS,arguments,0,0,Usage,arguments
+4753,Conv3d,in channels int number of channels in the input image,0,0,Usage,in channels int number of channels in the input image
+4712,Conv3d,"and output math n, c out , d out , h out , w out can be precisely described as",0,0,Usage,and output math n c out d out h out w out can be precisely described as
+1424,ConfigureMailboxes,add one or more mailboxes.,0,0,Usage,add one or more mailboxes
+228,BoundWidget,this is useful for,0,0,Usage,this is useful for
+922,Audio,"for the standard channel order, see",0,0,Usage,for the standard channel order see
+1548,AbstractEngine,object serving as a base class for all engines.,0,0,Usage,object serving as a base class for all engines
+367,Group,table column fields,0,0,Usage,table column fields
+465,LogoutThenLoginTests,tests for the logout then login view,0,0,Usage,tests for the logout then login view
+935,Audio,embed boolean,0,0,Usage,embed boolean
+2573,Environment,modifications on environments after the first template was loaded,0,0,Usage,modifications on environments after the first template was loaded
+1446,Event,rendering of events should be handled by the respective source class.,0,0,Usage,rendering of events should be handled by the respective source class
+3619,Path,before the value is passed onwards.,0,0,Usage,before the value is passed onwards
+3820,Retry,total number of retries to allow.,0,0,Usage,total number of retries to allow
+2090,PlotAccessor,from 0 left bottom end to 1 right top end .,0,0,Usage,from 0 left bottom end to 1 right top end
+2601,Environment,see also ref line statements .,0,0,Usage,see also ref line statements
+3889,Retry,whether to respect retry after header on status codes defined as,0,0,Usage,whether to respect retry after header on status codes defined as
+4760,Conv3d,"padding mode string, optional .",0,0,Usage,padding mode string optional
+1746,CategoricalIndex,map,0,0,Usage,map
+5344,MultiLabelMarginLoss,ignored,0,0,Usage,ignored
+3738,Request,"list of tuples key, value is provided, form encoding will",0,0,Usage,list of tuples key value is provided form encoding will
+5020,DiagonalTensor,diagonal entries set to value and all other entries set to zero.,0,0,Usage,diagonal entries set to value and all other entries set to zero
+3741,Request,param params url parameters to append to the url.,0,0,Usage,param params url parameters to append to the url
+2637,Environment,a callable that can be used to process the result of a variable,0,0,Usage,a callable that can be used to process the result of a variable
+1839,CythonCommand,"to compile pyx c, and stop there.",0,0,Usage,to compile pyx c and stop there
+5715,Unfold,both sides of input.,0,0,Usage,both sides of input
+4529,BCEWithLogitsLoss,note attr size average,0,0,Usage,note attr size average
+4758,Conv3d,"padding int or tuple, optional zero padding added to all three sides of the input.",0,0,Usage,padding int or tuple optional zero padding added to all three sides of the input
+4505,BCEWithLogitsLoss,of each batch element.,0,0,Usage,of each batch element
+2044,PlotAccessor,font size for xticks and yticks.,0,0,Usage,font size for xticks and yticks
+3699,PrefixLoader,a loader that is passed a dict of loaders where each loader is bound,0,0,Usage,a loader that is passed a dict of loaders where each loader is bound
+549,MigrationLoader,these are loaded into a separate set of migrations away from the main ones.,0,0,Usage,these are loaded into a separate set of migrations away from the main ones
+3722,ProcessedTraceback,holds a jinja preprocessed traceback for printing or reraising.,0,0,Usage,holds a jinja preprocessed traceback for printing or reraising
+1895,IntegerArray,none,0,0,Usage,none
+3891,Retry,param iterable remove headers on redirect,0,0,Usage,param iterable remove headers on redirect
+377,ImageFileDescriptor,the only difference is,0,0,Usage,the only difference is
+2255,StringArray,the array of data.,0,0,Usage,the array of data
+882,WindowFrame,means intended to be complete is done here.,0,0,Usage,means intended to be complete is done here
+3671,PoolManager,"headers to include with all requests, unless other headers are given",0,0,Usage,headers to include with all requests unless other headers are given
+926,Audio,bytestring containing raw pcm data or,0,0,Usage,bytestring containing raw pcm data or
+2587,Environment,defaults to,0,0,Usage,defaults to
+267,Client,process of serving the request.,0,0,Usage,process of serving the request
+4365,BatchNorm1d,this attr momentum argument is different from one used in optimizer,0,0,Usage,this attr momentum argument is different from one used in optimizer
+2030,PlotAccessor,versionchanged 025.0,0,0,Usage,versionchanged 025 0
+4239,Adam,arguments,0,0,Usage,arguments
+3403,Option,param confirmation prompt if set then the value will need to be confirmed,0,0,Usage,param confirmation prompt if set then the value will need to be confirmed
+4163,_OpNamespace,torch^ops.my namespace^my op .,0,0,Usage,torch ops my namespace my op
+4536,BCEWithLogitsLoss,"input math n, where math means, any number of additional dimensions",0,0,Usage,input math n where math means any number of additional dimensions
+363,FrenchTestCase,tests using the french translations of the sampleproject.,0,0,Usage,tests using the french translations of the sampleproject
+2038,PlotAccessor,xlim 2 tuple list,0,0,Usage,xlim 2 tuple list
+1595,BooleanArray,whether to copy the values and mask arrays.,0,0,Usage,whether to copy the values and mask arrays
+263,Client,"it allows the user to compose get and post requests, and",0,0,Usage,it allows the user to compose get and post requests and
+4763,Conv3d,default 1,0,0,Usage,default 1
+5088,EmbeddingBag,notes for more details regarding sparse gradients.,0,0,Usage,notes for more details regarding sparse gradients
+5011,DiagonalTensor,a class with torch function and a specific diagonal representation,0,0,Usage,a class with torch function and a specific diagonal representation
+3008,InspectedValidator,metaclass for all validators,0,0,Usage,metaclass for all validators
+2091,PlotAccessor,default is 05,0,0,Usage,default is 05
+1886,IntegerArray,values numpy^ndarray,0,0,Usage,values numpy ndarray
+3063,LRUCache,this is fast for small capacities something below 1000 but doesn t,0,0,Usage,this is fast for small capacities something below 1000 but doesn t
+2378,_PathParents,of a path.,0,0,Usage,of a path
+3006,InsecurePlatformWarning,warned when certain ssl configuration is not available on a platform.,0,0,Usage,warned when certain ssl configuration is not available on a platform
+3025,InternalName,template and is not threated specially by the compiler.,0,0,Usage,template and is not threated specially by the compiler
+3871,Retry,"for 00s, 02s, 04s, .",0,0,Usage,for 00s 02s 04s
+430,ListMixin,int minlength,0,0,Usage,int minlength
+3673,PoolManager,param connection pool kw,0,0,Usage,param connection pool kw
+271,Client,the like it is here to allow testing against the,0,0,Usage,the like it is here to allow testing against the
+71,AutoFieldMeta,deprecate inheritance from autofield and use of isinstance with autofield,0,0,Usage,deprecate inheritance from autofield and use of isinstance with autofield
+1656,CategoricalDtype,ordered,0,0,Usage,ordered
+4710,Conv3d,planes.,0,0,Usage,planes
+1958,IntervalDtype,an extensiondtype for interval data.,0,0,Usage,an extensiondtype for interval data
+1994,PlotAccessor,allows plotting of one column versus another.,0,0,Usage,allows plotting of one column versus another
+3821,Retry,takes precedence over other counts.,0,0,Usage,takes precedence over other counts
+5635,TestBuiltins,tests for torchscript support of python builtin functions.,0,0,Usage,tests for torchscript support of python builtin functions
+4245,Adam,"eps float, optional term added to the denominator to improve",0,0,Usage,eps float optional term added to the denominator to improve
+2652,Environment,loader,0,0,Usage,loader
+574,MigrationQuestioner,give the autodetector responses to questions it might have.,0,0,Usage,give the autodetector responses to questions it might have
+5108,EmbeddingBag,returned vectors filled by zeros.,0,0,Usage,returned vectors filled by zeros
+3881,Retry,if status falls in status forcelist range and retries have,0,0,Usage,if status falls in status forcelist range and retries have
+2056,PlotAccessor,center .,0,0,Usage,center
+5070,EmbeddingBag,embedding dim int the size of each embedding vector,0,0,Usage,embedding dim int the size of each embedding vector
+3040,Kanji,unicode set for kanji unicode character range,0,0,Usage,unicode set for kanji unicode character range
+3072,Markup,a string that is ready to be safely inserted into an html or xml,0,0,Usage,a string that is ready to be safely inserted into an html or xml
+4786,Conv3d,math k frac 1 c text in prod i 0 ^ 2 text kernel size i,0,0,Usage,math k frac 1 c text in prod i 0 2 text kernel size i
+2058,PlotAccessor,"if true, draw a table using the data in the dataframe and the data",0,0,Usage,if true draw a table using the data in the dataframe and the data
+5079,EmbeddingBag,"mode string, optional sum , mean or max .",0,0,Usage,mode string optional sum mean or max
+4506,BCEWithLogitsLoss,"if given, has to be a tensor of size nbatch .",0,0,Usage,if given has to be a tensor of size nbatch
+1280,ConfigDict,"if the sanity check is itself a dictionary of rules, values are expected",0,0,Usage,if the sanity check is itself a dictionary of rules values are expected
+2830,FileMetadata,metadata handler for standalone pkg info files,0,0,Usage,metadata handler for standalone pkg info files
+2001,PlotAccessor,barh horizontal bar plot,0,0,Usage,barh horizontal bar plot
+3393,Option,value.,0,0,Usage,value
+424,ListMixin,"function set single self, i, value",0,0,Usage,function set single self i value
+3666,PoolManager,necessary connection pools for you.,0,0,Usage,necessary connection pools for you
+5709,Unfold,args,0,0,Usage,args
+1560,Base,common tests for all variations of intervalindex construction.,0,0,Usage,common tests for all variations of intervalindex construction
+120,BaseCommand,specialized methods as needed.,0,0,Usage,specialized methods as needed
+2324,StringMethods,handled otherwise by a particular method.,0,0,Usage,handled otherwise by a particular method
+2873,Filter,alphabetizes attributes for elements,0,0,Usage,alphabetizes attributes for elements
+5718,Unfold,stride of elements within the,0,0,Usage,stride of elements within the
+4762,Conv3d,"dilation int or tuple, optional spacing between kernel elements.",0,0,Usage,dilation int or tuple optional spacing between kernel elements
+266,Client,of the contexts and templates that were rendered during the,0,0,Usage,of the contexts and templates that were rendered during the
+5738,Unfold,fold params dict kernel size .,0,0,Usage,fold params dict kernel size
+2620,Environment,preserve the trailing newline when rendering templates.,0,0,Usage,preserve the trailing newline when rendering templates
+5721,Unfold,"if attr kernel size , attr dilation , attr padding or",0,0,Usage,if attr kernel size attr dilation attr padding or
+5730,Unfold,copying from the large tensor.,0,0,Usage,copying from the large tensor
+2043,PlotAccessor,"fontsize int, default none",0,0,Usage,fontsize int default none
+2040,PlotAccessor,"rot int, default none",0,0,Usage,rot int default none
+4872,ConvReLU3d,note,0,0,Usage,note
+5053,EmbeddingBag,"computes sums or means of bags of embeddings, without instantiating the",0,0,Usage,computes sums or means of bags of embeddings without instantiating the
+3065,LRUCache,but as long as it s only used as storage for templates this,0,0,Usage,but as long as it s only used as storage for templates this
+5652,TransformerEncoderLayer,args,0,0,Usage,args
+1887,IntegerArray,a 1 d integer dtype array.,0,0,Usage,a 1 d integer dtype array
+420,ListMixin,note items may be a generator which calls get single internal.,0,0,Usage,note items may be a generator which calls get single internal
+1426,ConfigureMailboxes,in the metadata index.,0,0,Usage,in the metadata index
+3313,omdict,"map, is also maintained and stores an ordered list of",0,0,Usage,map is also maintained and stores an ordered list of
+3606,Path,basic checks about what the file or directory should be.,0,0,Usage,basic checks about what the file or directory should be
+2810,ExtractError,general exception for extract errors.,0,0,Usage,general exception for extract errors
+5655,TransformerEncoderLayer,dim feedforward the dimension of the feedforward network model default 2048 .,0,0,Usage,dim feedforward the dimension of the feedforward network model default 2048
+946,Audio,set to true if the audio should immediately start playing.,0,0,Usage,set to true if the audio should immediately start playing
+1466,MailpileVFS,"this is a router object that implements the vfs interface but,",0,0,Usage,this is a router object that implements the vfs interface but
+4873,ConvReLU3d,attributes same as torch^nn.quantized^conv3d,0,0,Usage,attributes same as torch nn quantized conv3d
+135,BaseCommand,"a boolean if true , entire django project will be checked for errors",0,0,Usage,a boolean if true entire django project will be checked for errors
+292,ConsoleDirective,a restructuredtext directive which renders a two tab code block in which,0,0,Usage,a restructuredtext directive which renders a two tab code block in which
+2003,PlotAccessor,box boxplot,0,0,Usage,box boxplot
+3886,Retry,the requests occurred.,0,0,Usage,the requests occurred
+954,Audio,applies only when data is a list or array of samples other types of,0,0,Usage,applies only when data is a list or array of samples other types of
+1728,CategoricalIndex,versionadded 021.0,0,0,Usage,versionadded 021 0
+1996,PlotAccessor,dataframe.,0,0,Usage,dataframe
+2007,PlotAccessor,pie pie plot,0,0,Usage,pie pie plot
+2661,Environment,1 the cache will not be cleaned.,0,0,Usage,1 the cache will not be cleaned
+2835,FileMetadata,the provided location.,0,0,Usage,the provided location
+4128,UndefinedEnvironmentName,a name was attempted to be used that does not exist inside of the,0,0,Usage,a name was attempted to be used that does not exist inside of the
+5,AmbiguityError,more than one migration matches a name prefix.,0,0,Usage,more than one migration matches a name prefix
+5105,EmbeddingBag,"for attr offsets of shape b , attr input will be viewed as",0,0,Usage,for attr offsets of shape b attr input will be viewed as
+4472,BCEWithLogitsLoss,"default mean , then",0,0,Usage,default mean then
+2067,PlotAccessor,"mark right bool, default true",0,0,Usage,mark right bool default true
+3419,Option,in how it works but supports arbitrary number of,0,0,Usage,in how it works but supports arbitrary number of
+3872,Retry,between retries.,0,0,Usage,between retries
+1720,CategoricalIndex,"ordered bool, optional",0,0,Usage,ordered bool optional
+468,MakeListTests,escaped.,0,0,Usage,escaped
+4714,Conv3d,"out n i, c out j bias c out j",0,0,Usage,out n i c out j bias c out j
+2936,HebrewProber,the two sbcharsetprobers identify that the text is in,0,0,Usage,the two sbcharsetprobers identify that the text is in
+5509,SGD,on the importance of initialization and momentum in deep learning .,0,0,Usage,on the importance of initialization and momentum in deep learning
+3732,Request,param method http method to use.,0,0,Usage,param method http method to use
+5259,LBFGS,max iter int maximal number of iterations per optimization step,0,0,Usage,max iter int maximal number of iterations per optimization step
+1589,BooleanArray,values numpy^ndarray,0,0,Usage,values numpy ndarray
+1742,CategoricalIndex,remove unused categories,0,0,Usage,remove unused categories
+3826,Retry,set to 0 to fail on the first retry.,0,0,Usage,set to 0 to fail on the first retry
+1197,YouTubeVideo,https developers^google.com youtube player parameters#parameters,0,0,Usage,https developers google com youtube player parameters parameters
+403,InvalidBasesError,a model s base classes can t be resolved.,0,0,Usage,a model s base classes can t be resolved
+4713,Conv3d,math,0,0,Usage,math
+3808,Retry,they can be safely reused.,0,0,Usage,they can be safely reused
+1439,EncryptedIntDict,this also adds a working keys function.,0,0,Usage,this also adds a working keys function
+2013,PlotAccessor,title str or list,0,0,Usage,title str or list
+817,TemplateDoesNotExist,"is formatted as a list of tuples containing origin, status , where",0,0,Usage,is formatted as a list of tuples containing origin status where
+4509,BCEWithLogitsLoss,the losses are averaged over each loss element in the batch.,0,0,Usage,the losses are averaged over each loss element in the batch
+4673,ConstantPad3d,"if is int , uses the same",0,0,Usage,if is int uses the same
+3986,SchemaValidatorMixin,this validator mixin provides mechanics to validate schemas passed to a cerberus,0,0,Usage,this validator mixin provides mechanics to validate schemas passed to a cerberus
+3613,Path,silently skipped.,0,0,Usage,silently skipped
+948,Audio,normalize bool,0,0,Usage,normalize bool
+1463,MailpileMailbox,instead of in filenames,0,0,Usage,instead of in filenames
+2824,FileMetadata,metadata handler for standalone pkg info files,0,0,Usage,metadata handler for standalone pkg info files
+1890,IntegerArray,"copy bool, default false",0,0,Usage,copy bool default false
+824,TemplateDoesNotExist,engines.,0,0,Usage,engines
+1160,TermColors,color escape sequences.,0,0,Usage,color escape sequences
+4675,ConstantPad3d,"if a 6 tuple , uses",0,0,Usage,if a 6 tuple uses
+5707,Unfold,attr dilation controls the spacing between the kernel points also known as the trous algorithm.,0,0,Usage,attr dilation controls the spacing between the kernel points also known as the trous algorithm
+5697,Unfold,"of attr input math above , and math d is over all spatial",0,0,Usage,of attr input math above and math d is over all spatial
+4357,BatchNorm1d,"computed mean and variance, which are then used for normalization during",0,0,Usage,computed mean and variance which are then used for normalization during
+4347,BatchNorm1d,inputs with optional additional channel dimension as described in the paper,0,0,Usage,inputs with optional additional channel dimension as described in the paper
+2806,EOF,this usually means the child has exited.,0,0,Usage,this usually means the child has exited
+1109,Magics,.,0,0,Usage,nan
+3507,ParseResults,"structured parse results, to provide multiple means of access to",0,0,Usage,structured parse results to provide multiple means of access to
+2009,PlotAccessor,hexbin hexbin plot.,0,0,Usage,hexbin hexbin plot
+4756,Conv3d,"stride int or tuple, optional stride of the convolution.",0,0,Usage,stride int or tuple optional stride of the convolution
+272,Client,"contexts and templates produced by a view, rather than the",0,0,Usage,contexts and templates produced by a view rather than the
+5219,FisherSnedecor,creates a fisher snedecor distribution parameterized by attr df1 and attr df2 .,0,0,Usage,creates a fisher snedecor distribution parameterized by attr df1 and attr df2
+1058,GeoJSON,geojson expects json able dict,0,0,Usage,geojson expects json able dict
+264,Client,obtain the response that the server gave to those requests.,0,0,Usage,obtain the response that the server gave to those requests
+5322,MultiLabelMarginLoss,creates a criterion that optimizes a multi class multi classification,0,0,Usage,creates a criterion that optimizes a multi class multi classification
+374,HiddenRangeWidget,a widget that splits input into two input type hidden inputs.,0,0,Usage,a widget that splits input into two input type hidden inputs
+5006,DeQuantStub,this will be swapped as nnq^dequantize in convert .,0,0,Usage,this will be swapped as nnq dequantize in convert
+3305,omdict,a multivalue dictionary is a dictionary that can store multiple values per,0,0,Usage,a multivalue dictionary is a dictionary that can store multiple values per
+1279,ConfigDict,a default value,0,0,Usage,a default value
+5351,MultiLabelMarginLoss,"when attr reduce is false , returns a loss per",0,0,Usage,when attr reduce is false returns a loss per
+1891,IntegerArray,whether to copy the values and mask .,0,0,Usage,whether to copy the values and mask
+2012,PlotAccessor,use index as ticks for x axis.,0,0,Usage,use index as ticks for x axis
+5747,Unfold,fold unfold input divisor input,0,0,Usage,fold unfold input divisor input
+822,TemplateDoesNotExist,this is used to,0,0,Usage,this is used to
+4523,BCEWithLogitsLoss,default true,0,0,Usage,default true
+925,Audio,string containing the filename,0,0,Usage,string containing the filename
+3033,InvalidDateError,a date field was improperly specified.,0,0,Usage,a date field was improperly specified
+4283,Adamax,"weight decay float, optional weight decay l2 penalty default 0",0,0,Usage,weight decay float optional weight decay l2 penalty default 0
+3413,Option,enabled.,0,0,Usage,enabled
+216,BaseYearArchiveView,list of objects published in a given year.,0,0,Usage,list of objects published in a given year
+1458,MailpileJinjaLoader,a jinja2 template loader which uses the mailpile configuration,0,0,Usage,a jinja2 template loader which uses the mailpile configuration
+4528,BCEWithLogitsLoss,"elements in the output, sum the output will be summed.",0,0,Usage,elements in the output sum the output will be summed
+4469,BCEWithLogitsLoss,"1 y n cdot log 1 sigma x n right ,",0,0,Usage,1 y n cdot log 1 sigma x n right
+820,TemplateDoesNotExist,chain,0,0,Usage,chain
+4720,Conv3d,attr dilation controls the spacing between the kernel points also known as the trous algorithm.,0,0,Usage,attr dilation controls the spacing between the kernel points also known as the trous algorithm
+4539,BCEWithLogitsLoss,"if attr reduction is none , then math n, , same",0,0,Usage,if attr reduction is none then math n same
+2514,Context_,method that doesn t fail with a keyerror but returns an,0,0,Usage,method that doesn t fail with a keyerror but returns an
+3874,Retry,than attr retry^backoff max .,0,0,Usage,than attr retry backoff max
+4471,BCEWithLogitsLoss,if attr reduction is not none,0,0,Usage,if attr reduction is not none
+4375,BatchNorm1d,num features math c from an expected input of size,0,0,Usage,num features math c from an expected input of size
+1721,CategoricalIndex,whether or not this categorical is treated as an ordered,0,0,Usage,whether or not this categorical is treated as an ordered
+1452,Group_,view groups,0,0,Usage,view groups
+5439,OneHotCategorical,attr logits .,0,0,Usage,attr logits
+4537,BCEWithLogitsLoss,"target math n, , same shape as the input",0,0,Usage,target math n same shape as the input
+5727,Unfold,class torch^nn.fold calculates each combined value in the resulting,0,0,Usage,class torch nn fold calculates each combined value in the resulting
+780,SessionStorage,"store messages in the session that is, django^contrib.sessions .",0,0,Usage,store messages in the session that is django contrib sessions
+308,CustomCacheKeyValidationTests,"backend, and override the default key validation.",0,0,Usage,backend and override the default key validation
+4770,Conv3d,"output math n, c out , d out , h out , w out where",0,0,Usage,output math n c out d out h out w out where
+1107,Magics,.,0,0,Usage,nan
+1496,Util,utility functions for builds,0,0,Usage,utility functions for builds
+480,Migration,the base class for all migrations.,0,0,Usage,the base class for all migrations
+2682,Environment,python 36 or later.,0,0,Usage,python 36 or later
+3258,NotAny,"also, notany does",0,0,Usage,also notany does
+4511,BCEWithLogitsLoss,"some losses, there are multiple elements per sample.",0,0,Usage,some losses there are multiple elements per sample
+5237,LastNWindowCollector,use packrecords to pack it before using this layer.,0,0,Usage,use packrecords to pack it before using this layer
+2266,StringArray,none,0,0,Usage,none
+5074,EmbeddingBag,default 2 .,0,0,Usage,default 2
+258,ChunkIter,"constructor, yield chunks of read operations from that object.",0,0,Usage,constructor yield chunks of read operations from that object
+5022,DiagonalTensor,main functionality of diagonaltensor is to provide a more compact,0,0,Usage,main functionality of diagonaltensor is to provide a more compact
+1963,IntervalDtype,attributes,0,0,Usage,attributes
+1278,ConfigDict,3,0,0,Usage,3
+4470,BCEWithLogitsLoss,where math n is the batch size.,0,0,Usage,where math n is the batch size
+1759,CategoricalIndex,http pandas^pydata.org pandas docs stable user guide advanced^html#categoricalindex,0,0,Usage,http pandas pydata org pandas docs stable user guide advanced html categoricalindex
+131,BaseCommand,requires migrations checks,0,0,Usage,requires migrations checks
+2238,SQLTable,pass them between functions all the time.,0,0,Usage,pass them between functions all the time
+1042,capture_output,context manager for capturing stdout err,0,0,Usage,context manager for capturing stdout err
+2052,PlotAccessor,position float,0,0,Usage,position float
+5355,MultiLabelMarginLoss,none mean sum .,0,0,Usage,none mean sum
+3617,Path,"param readable if true, a readable check is performed.",0,0,Usage,param readable if true a readable check is performed
+3887,Retry,each list item is of class class requesthistory .,0,0,Usage,each list item is of class class requesthistory
+3020,InternalName,you cannot create these nodes,0,0,Usage,you cannot create these nodes
+345,FakePayload,a wrapper around bytesio that restricts what can be read since data from,0,0,Usage,a wrapper around bytesio that restricts what can be read since data from
+5057,EmbeddingBag,"with mode mean is equivalent to class torch^nn.embedding followed by torch^mean dim 0 ,",0,0,Usage,with mode mean is equivalent to class torch nn embedding followed by torch mean dim 0
+86,BarAccount,a service specific account of type bar.,0,0,Usage,a service specific account of type bar
+1498,Vcard,display a single vcard,0,0,Usage,display a single vcard
+435,ListMixin,a type or tuple of allowed item types optional,0,0,Usage,a type or tuple of allowed item types optional
+3888,Retry,param bool respect retry after header,0,0,Usage,param bool respect retry after header
+4132,UnlockError,base class for errors arising from attempts to release the lock.,0,0,Usage,base class for errors arising from attempts to release the lock
+941,Audio,default value is false .,0,0,Usage,default value is false
+5080,EmbeddingBag,specifies the way to reduce the bag.,0,0,Usage,specifies the way to reduce the bag
+1857,ExcelFile,note that odf reads tables out of opendocument formatted files.,0,0,Usage,note that odf reads tables out of opendocument formatted files
+269,Client,thus session details for the lifetime of the client instance.,0,0,Usage,thus session details for the lifetime of the client instance
+939,Audio,audio to playable later with no internet connection in the notebook.,0,0,Usage,audio to playable later with no internet connection in the notebook
+128,BaseCommand,wrapped with begin and commit .,0,0,Usage,wrapped with begin and commit
+4019,SkipTo,comments that might contain false matches to the target expression,0,0,Usage,comments that might contain false matches to the target expression
+3740,Request,param json json for the body to attach to the request if files or data is not specified .,0,0,Usage,param json json for the body to attach to the request if files or data is not specified
+787,SimpleView,a simple view with a docstring.,0,0,Usage,a simple view with a docstring
+2035,PlotAccessor,values to use for the xticks.,0,0,Usage,values to use for the xticks
+1961,IntervalDtype,"subtype str, np^dtype",0,0,Usage,subtype str np dtype
+5630,TaskOutput,represents the output of a task.,0,0,Usage,represents the output of a task
+810,TemplateDoesNotExist,the exception used when a template does not exist.,0,0,Usage,the exception used when a template does not exist
+1467,MailpileVFS,delegating calls to individual implementations.,0,0,Usage,delegating calls to individual implementations
+213,BaseUpdateView,using this base class requires subclassing to provide a response mixin.,0,0,Usage,using this base class requires subclassing to provide a response mixin
+412,ListMixin,the index i will always satisfy 0 i len self .,0,0,Usage,the index i will always satisfy 0 i len self
+2253,StringArray,parameters,0,0,Usage,parameters
+4116,TreeBuilder,base treebuilder implementation,0,0,Usage,base treebuilder implementation
+4884,CyclicLR,cyclical learning rate policy clr .,0,0,Usage,cyclical learning rate policy clr
+3728,ReadError,raised when an archive cannot be read,0,0,Usage,raised when an archive cannot be read
+872,VariableWrapper,from being converted into a string when used to instantiate an oracleparam.,0,0,Usage,from being converted into a string when used to instantiate an oracleparam
+5731,Unfold,"so, if the blocks overlap, they are not",0,0,Usage,so if the blocks overlap they are not
+4733,Conv3d,math left lfloor frac out channels in channels right rfloor .,0,0,Usage,math left lfloor frac out channels in channels right rfloor
+2045,PlotAccessor,"colormap str or matplotlib colormap object, default none",0,0,Usage,colormap str or matplotlib colormap object default none
+2631,Environment,should the optimizer be enabled?,0,0,Usage,should the optimizer be enabled
+411,ListMixin,return single item with index i for general use.,0,0,Usage,return single item with index i for general use
+2449,CaseInsensitiveDict,will contain case sensitive keys.,0,0,Usage,will contain case sensitive keys
+2594,Environment,line statement prefix,0,0,Usage,line statement prefix
+4532,BCEWithLogitsLoss,default mean,0,0,Usage,default mean
+4893,CyclicLR,triangular a basic triangular cycle without amplitude scaling.,0,0,Usage,triangular a basic triangular cycle without amplitude scaling
+1959,IntervalDtype,"this is not an actual numpy dtype , but a duck type.",0,0,Usage,this is not an actual numpy dtype but a duck type
+2589,Environment,the string marking the beginning of a comment.,0,0,Usage,the string marking the beginning of a comment
+3839,Retry,how many redirects to perform.,0,0,Usage,how many redirects to perform
+3398,Option,are not shown.,0,0,Usage,are not shown
+3743,Request,"list of tuples key, value is provided, form encoding will",0,0,Usage,list of tuples key value is provided form encoding will
+3991,Session,"provides cookie persistence, connection pooling, and configuration.",0,0,Usage,provides cookie persistence connection pooling and configuration
+2039,PlotAccessor,ylim 2 tuple list,0,0,Usage,ylim 2 tuple list
+5637,TestQuantizedLinear,tests the correctness of the quantized linear and linear relu op.,0,0,Usage,tests the correctness of the quantized linear and linear relu op
+4477,BCEWithLogitsLoss,end cases,0,0,Usage,end cases
+2362,_BZ2Proxy,a file object argument.,0,0,Usage,a file object argument
+4216,Adadelta,parameter groups,0,0,Usage,parameter groups
+4371,BatchNorm1d,new observed value.,0,0,Usage,new observed value
+5732,Unfold,inverses of each other.,0,0,Usage,inverses of each other
+2079,PlotAccessor,versionadded 10.0,0,0,Usage,versionadded 10 0
+16,Atomic,guarantee the atomic execution of a given block.,0,0,Usage,guarantee the atomic execution of a given block
+4674,ConstantPad3d,padding in all boundaries.,0,0,Usage,padding in all boundaries
+2540,ConvertingTuple,a converting tuple wrapper.,0,0,Usage,a converting tuple wrapper
+1855,ExcelFile,"if io is not a buffer or path, this must be set to identify io.",0,0,Usage,if io is not a buffer or path this must be set to identify io
+1885,IntegerArray,parameters,0,0,Usage,parameters
+2833,FileMetadata,"this provider rejects all data and metadata requests except for pkg info,",0,0,Usage,this provider rejects all data and metadata requests except for pkg info
+938,Audio,set this to true if you want the,0,0,Usage,set this to true if you want the
+2580,Environment,the string marking the end of a block.,0,0,Usage,the string marking the end of a block
+5473,Poisson,"rate number, tensor the rate parameter",0,0,Usage,rate number tensor the rate parameter
+4737,Conv3d,the second int for the height dimension and the third int for the width dimension,0,0,Usage,the second int for the height dimension and the third int for the width dimension
+2412,Argument,all parameters are passed onwards to the parameter constructor.,0,0,Usage,all parameters are passed onwards to the parameter constructor
+4721,Conv3d,"it is harder to describe, but this link has a nice visualization of what attr dilation does.",0,0,Usage,it is harder to describe but this link has a nice visualization of what attr dilation does
+4022,SkipTo,the skipto is not a match,0,0,Usage,the skipto is not a match
+881,WindowFrame,"clauses which are subclasses, however, all processing and validation by no",0,0,Usage,clauses which are subclasses however all processing and validation by no
+1462,MailpileMailbox,a maildir class for windows using !,0,0,Usage,a maildir class for windows using
+1870,Holiday,class that defines a holiday with start end dates and rules,0,0,Usage,class that defines a holiday with start end dates and rules
+4508,BCEWithLogitsLoss,"by default,",0,0,Usage,by default
+427,ListMixin,the object using set list.,0,0,Usage,the object using set list
+2037,PlotAccessor,values to use for the yticks.,0,0,Usage,values to use for the yticks
+133,BaseCommand,migrations on disk don t match the migrations in the database.,0,0,Usage,migrations on disk don t match the migrations in the database
+3503,ParserElement,abstract base level parser element class.,0,0,Usage,abstract base level parser element class
+5098,EmbeddingBag,this will return b values aggregated in a way depending on the attr mode .,0,0,Usage,this will return b values aggregated in a way depending on the attr mode
+1965,IntervalDtype,methods,0,0,Usage,methods
+952,Audio,"when set to false , data must be between",0,0,Usage,when set to false data must be between
+4273,Adamax,implements adamax algorithm a variant of adam based on infinity norm .,0,0,Usage,implements adamax algorithm a variant of adam based on infinity norm
+1500,VCardSet,"add a lines to a vcard, ensuring vcard exists",0,0,Usage,add a lines to a vcard ensuring vcard exists
+2425,Bucket,the buckets get an internal checksum from the cache assigned and use this,0,0,Usage,the buckets get an internal checksum from the cache assigned and use this
+5054,EmbeddingBag,intermediate embeddings.,0,0,Usage,intermediate embeddings
+5648,TransformerEncoderLayer,in advances in,0,0,Usage,in advances in
+3254,NotAny,lookahead to disallow matching with the given parse expression.,0,0,Usage,lookahead to disallow matching with the given parse expression
+942,Audio,rate integer,0,0,Usage,rate integer
+5746,Unfold,equality holds,0,0,Usage,equality holds
+382,IncompleteCategoryFormWithExclude,a form that replaces the model s url field with a custom one.,0,0,Usage,a form that replaces the model s url field with a custom one
+940,Audio,"default is true , unless the keyword argument url is set, then",0,0,Usage,default is true unless the keyword argument url is set then
+5725,Unfold,called im2col .,0,0,Usage,called im2col
+4516,BCEWithLogitsLoss,default true,0,0,Usage,default true
+1772,CategoricalIndex,"categoricalindex a , b , c , a , b , c , categories c , b , a , ordered true, dtype category # noqa",0,0,Usage,categoricalindex a b c a b c categories c b a ordered true dtype category noqa
+2675,Environment,cache for the internal jinja bytecode so that templates don t,0,0,Usage,cache for the internal jinja bytecode so that templates don t
+934,Audio,path to a local file to load the data from.,0,0,Usage,path to a local file to load the data from
+1054,DummyMod,a dummy module used for ipython s interactive module when,0,0,Usage,a dummy module used for ipython s interactive module when
+657,MultiWidget,these can be looped over and rendered like normal widgets.,0,0,Usage,these can be looped over and rendered like normal widgets
+3165,MemcachedBytecodeCache,the minimal interface required.,0,0,Usage,the minimal interface required
+4780,Conv3d,attributes,0,0,Usage,attributes
+3783,RequirementUninstaller,"exits correctly, the uninstallation is committed, otherwise rolled back.",0,0,Usage,exits correctly the uninstallation is committed otherwise rolled back
+3399,Option,param prompt if set to true or a non empty string then the user will be,0,0,Usage,param prompt if set to true or a non empty string then the user will be
+4463,BCEWithLogitsLoss,"followed by a bceloss as, by combining the operations into one layer,",0,0,Usage,followed by a bceloss as by combining the operations into one layer
+1984,PlotAccessor,make plots of series or dataframe.,0,0,Usage,make plots of series or dataframe
+783,SessionStore,inside the custom session model.,0,0,Usage,inside the custom session model
+4513,BCEWithLogitsLoss,"is set to false , the losses are instead summed for each minibatch.",0,0,Usage,is set to false the losses are instead summed for each minibatch
+4361,BatchNorm1d,"if attr track running stats is set to false , this layer then does not",0,0,Usage,if attr track running stats is set to false this layer then does not
+2618,Environment,applications.,0,0,Usage,applications
+1474,Rescan,add new messages to index,0,0,Usage,add new messages to index
+425,ListMixin,set the single item at index i to value optional,0,0,Usage,set the single item at index i to value optional
+1769,CategoricalIndex,"ci pd^categoricalindex a , b , c , a , b , c , ordered true,",0,0,Usage,ci pd categoricalindex a b c a b c ordered true
+421,ListMixin,"therefore, it is necessary to cache the values in a temporary",0,0,Usage,therefore it is necessary to cache the values in a temporary
+2599,Environment,"if given and a string, this will be used as prefix for line based",0,0,Usage,if given and a string this will be used as prefix for line based
+2212,SelectNSeries,obj series,0,0,Usage,obj series
+1726,CategoricalIndex,"if class categoricaldtype , cannot be used together with",0,0,Usage,if class categoricaldtype cannot be used together with
+5701,Unfold,"the attr padding , attr stride and attr dilation arguments specify",0,0,Usage,the attr padding attr stride and attr dilation arguments specify
+5087,EmbeddingBag,see,0,0,Usage,see
+5714,Unfold,"padding int or tuple, optional implicit zero padding to be added on",0,0,Usage,padding int or tuple optional implicit zero padding to be added on
+4475,BCEWithLogitsLoss,"operatorname mean l , & text if reduction text mean",0,0,Usage,operatorname mean l text if reduction text mean
+5324,MultiLabelMarginLoss,and output math y which is a 2d tensor of target class indices .,0,0,Usage,and output math y which is a 2d tensor of target class indices
+2636,Environment,finalize,0,0,Usage,finalize
+2235,SQLTable,uses fact that table is reflected by sqlalchemy to,0,0,Usage,uses fact that table is reflected by sqlalchemy to
+5072,EmbeddingBag,is renormalized to have norm attr max norm .,0,0,Usage,is renormalized to have norm attr max norm
+4728,Conv3d,"layers side by side, each seeing half the input channels,",0,0,Usage,layers side by side each seeing half the input channels
+3246,Mul,multiplies the left with the right node.,0,0,Usage,multiplies the left with the right node
+298,Context,a stack container for variable context,0,0,Usage,a stack container for variable context
+2447,CaseInsensitiveDict,"case of the last key to be set, and iter instance ,",0,0,Usage,case of the last key to be set and iter instance
+3163,MemcachedBytecodeCache,it does not enforce a specific memcache library,0,0,Usage,it does not enforce a specific memcache library
+265,Client,the server response objects are annotated with the details,0,0,Usage,the server response objects are annotated with the details
+507,MigrationGraph,no implicit dependencies between numbered migrations the numbering is,0,0,Usage,no implicit dependencies between numbered migrations the numbering is
+5744,Unfold,unfold nn^unfold fold params,0,0,Usage,unfold nn unfold fold params
+4479,BCEWithLogitsLoss,an auto encoder.,0,0,Usage,an auto encoder
+2626,Environment,this can either be import paths,0,0,Usage,this can either be import paths
+1286,ConfigDict,"if the default value is an empty list, it is assumed to be a list of",0,0,Usage,if the default value is an empty list it is assumed to be a list of
+1638,BusinessHour,dateoffset subclass representing possibly n business hours.,0,0,Usage,dateoffset subclass representing possibly n business hours
+765,SameAsLookup,equality of two features.,0,0,Usage,equality of two features
+3669,PoolManager,recently used pool.,0,0,Usage,recently used pool
+349,FakePayload,that wouldn t work in real life.,0,0,Usage,that wouldn t work in real life
+4238,Adam,it has been proposed in adam a method for stochastic optimization .,0,0,Usage,it has been proposed in adam a method for stochastic optimization
+4158,_OpNamespace,torch^ops.my namespace^my op will then invoke getattr on,0,0,Usage,torch ops my namespace my op will then invoke getattr on
+4473,BCEWithLogitsLoss,math,0,0,Usage,math
+2259,StringArray,this may,0,0,Usage,this may
+3311,omdict,a,0,0,Usage,a
+1175,UserMagics,"all magics are eventually merged into a single namespace at runtime, but we",0,0,Usage,all magics are eventually merged into a single namespace at runtime but we
+4297,AdaptiveMaxPool3d,"the output is of size d x h x w, for any input size.",0,0,Usage,the output is of size d x h x w for any input size
+1654,CategoricalDtype,attributes,0,0,Usage,attributes
+5349,MultiLabelMarginLoss,losses are averaged or summed over observations for each minibatch depending,0,0,Usage,losses are averaged or summed over observations for each minibatch depending
+129,BaseCommand,default value is,0,0,Usage,default value is
+1664,CategoricalDtype,see ref categorical^categoricaldtype,0,0,Usage,see ref categorical categoricaldtype
+1591,BooleanArray,mask numpy^ndarray,0,0,Usage,mask numpy ndarray
+3863,Retry,param float backoff factor,0,0,Usage,param float backoff factor
+2654,Environment,cache size,0,0,Usage,cache size
+932,Audio,a url to download the data from.,0,0,Usage,a url to download the data from
+4363,BatchNorm1d,evaluation time as well.,0,0,Usage,evaluation time as well
+417,ListMixin,between the two and handle each appropriately.,0,0,Usage,between the two and handle each appropriately
+321,DblFromGeom,in by reference as the last argument.,0,0,Usage,in by reference as the last argument
+1060,GeoJSON,"scalar types none, number, string are not allowed, only dict containers.",0,0,Usage,scalar types none number string are not allowed only dict containers
+3987,SchemaValidatorMixin,validator.,0,0,Usage,validator
+4244,Adam,"running averages of gradient and its square default 09, 0999",0,0,Usage,running averages of gradient and its square default 09 0999
+4886,CyclicLR,"rate between two boundaries with a constant frequency, as detailed in",0,0,Usage,rate between two boundaries with a constant frequency as detailed in
+327,DjangoHTMLTranslator,django specific rest to html tweaks.,0,0,Usage,django specific rest to html tweaks
+5065,EmbeddingBag,"if attr per sample weights is passed, the",0,0,Usage,if attr per sample weights is passed the
+1846,ExcelFile,class for parsing tabular excel sheets into dataframe objects.,0,0,Usage,class for parsing tabular excel sheets into dataframe objects
+797,StaticFilesHandler,"wsgi middleware that intercepts calls to the static files directory, as",0,0,Usage,wsgi middleware that intercepts calls to the static files directory as
+2382,And,requires all given class parseexpression s to be found in the given order.,0,0,Usage,requires all given class parseexpression s to be found in the given order
+4389,BatchNorm1d,this module does not track such statistics and always uses batch,0,0,Usage,this module does not track such statistics and always uses batch
+3618,Path,"param resolve path if this is true, then the path is fully resolved",0,0,Usage,param resolve path if this is true then the path is fully resolved
+434,ListMixin,type or tuple allowed,0,0,Usage,type or tuple allowed
+2083,PlotAccessor,class matplotlib^axes.axes or numpy^ndarray of them,0,0,Usage,class matplotlib axes axes or numpy ndarray of them
+3000,HTMLParser,generates a tree structure from a stream of possibly malformed html.,0,0,Usage,generates a tree structure from a stream of possibly malformed html
+1561,Base,input data,0,0,Usage,input data
+953,Audio,"1 and 1 inclusive , otherwise an error is raised.",0,0,Usage,1 and 1 inclusive otherwise an error is raised
+287,Combinable,some connector.,0,0,Usage,some connector
+2850,FileSystemLoader,in folders on the file system and is the preferred way to load them.,0,0,Usage,in folders on the file system and is the preferred way to load them
+3022,InternalName,meth jinja2^parser.parser^free identifier method that creates,0,0,Usage,meth jinja2 parser parser free identifier method that creates
+2672,Environment,disable that.,0,0,Usage,disable that
+5060,EmbeddingBag,operations.,0,0,Usage,operations
+3674,PoolManager,additional parameters are used to create fresh,0,0,Usage,additional parameters are used to create fresh
+4736,Conv3d,"a tuple of three ints in which case, the first int is used for the depth dimension,",0,0,Usage,a tuple of three ints in which case the first int is used for the depth dimension
+1982,NonConsolidatableMixIn,hold methods for the nonconsolidatable blocks,0,0,Usage,hold methods for the nonconsolidatable blocks
+325,DisallowedModelAdminToField,invalid to field was passed to admin view via url query string,0,0,Usage,invalid to field was passed to admin view via url query string
+547,MigrationLoader,django^db.migrations^migration for what that looks like.,0,0,Usage,django db migrations migration for what that looks like
+2231,SQLiteTable,instead of a table variable just use the create table statement.,0,0,Usage,instead of a table variable just use the create table statement
+731,RawPostDataException,you cannot access raw post data from a request that has,0,0,Usage,you cannot access raw post data from a request that has
+1648,CategoricalDtype,"must be unique, and must not contain any nulls.",0,0,Usage,must be unique and must not contain any nulls
+249,CacheHandler,a cache handler to manage access to cache instances.,0,0,Usage,a cache handler to manage access to cache instances
+1144,Struct,attribute style access.,0,0,Usage,attribute style access
+4484,BCEWithLogitsLoss,math,0,0,Usage,math
+880,WindowFrame,there are two types of frame,0,0,Usage,there are two types of frame
+5336,MultiLabelMarginLoss,args,0,0,Usage,args
+5069,EmbeddingBag,num embeddings int size of the dictionary of embeddings,0,0,Usage,num embeddings int size of the dictionary of embeddings
+2357,_BZ2Proxy,small proxy class that enables external file object,0,0,Usage,small proxy class that enables external file object
+5238,LastNWindowCollector,this layer is not thread safe.,0,0,Usage,this layer is not thread safe
+913,Audio,when this object is returned by an input cell or passed to the,0,0,Usage,when this object is returned by an input cell or passed to the
+4769,Conv3d,"input math n, c in , d in , h in , w in",0,0,Usage,input math n c in d in h in w in
+1576,BooleanArray,a boolean array with the mask true indicating missing .,0,0,Usage,a boolean array with the mask true indicating missing
+3823,Retry,counts.,0,0,Usage,counts
+5084,EmbeddingBag,"in the bag, max computes the max value over each bag.",0,0,Usage,in the bag max computes the max value over each bag
+1562,Base,"to be supplied in breaks format, then converted by the subclass method",0,0,Usage,to be supplied in breaks format then converted by the subclass method
+3850,Retry,set to 0 to fail on the first retry of this type.,0,0,Usage,set to 0 to fail on the first retry of this type
+5073,EmbeddingBag,"norm type float, optional the p of the p norm to compute for the attr max norm option.",0,0,Usage,norm type float optional the p of the p norm to compute for the attr max norm option
+4014,SkipTo,parameters,0,0,Usage,parameters
+4108,Token,token class.,0,0,Usage,token class
+5110,EmbeddingBag,to indicate all weights should be taken to be 1 .,0,0,Usage,to indicate all weights should be taken to be 1
+5093,EmbeddingBag,"initialized from math mathcal n 0, 1 .",0,0,Usage,initialized from math mathcal n 0 1
+1960,IntervalDtype,parameters,0,0,Usage,parameters
+1046,CellMagicRole,cross reference role displayed with a %% prefix,0,0,Usage,cross reference role displayed with a prefix
+4730,Conv3d,concatenated.,0,0,Usage,concatenated
+3781,RequirementUninstaller,this uses uninstallpathset to control the workflow.,0,0,Usage,this uses uninstallpathset to control the workflow
+2010,PlotAccessor,"figsize a tuple width, height in inches",0,0,Usage,figsize a tuple width height in inches
+1444,Event,this is a single event in the event log.,0,0,Usage,this is a single event in the event log
+2070,PlotAccessor,"include bool bool, default is false",0,0,Usage,include bool bool default is false
+1853,ExcelFile,"if a string or path object, expected to be a path to xls, xlsx or odf file.",0,0,Usage,if a string or path object expected to be a path to xls xlsx or odf file
+2510,Context_,"the template context supports read only dict operations get ,",0,0,Usage,the template context supports read only dict operations get
+3745,Request,"param auth auth handler or user, pass tuple.",0,0,Usage,param auth auth handler or user pass tuple
+1731,CategoricalIndex,"name object, optional",0,0,Usage,name object optional
+2592,Environment,the string marking the end of a comment.,0,0,Usage,the string marking the end of a comment
+4379,BatchNorm1d,momentum the value used for the running mean and running var,0,0,Usage,momentum the value used for the running mean and running var
+5056,EmbeddingBag,"with mode sum is equivalent to class torch^nn.embedding followed by torch^sum dim 0 ,",0,0,Usage,with mode sum is equivalent to class torch nn embedding followed by torch sum dim 0
+4731,Conv3d,"at groups attr in channels , each input channel is convolved with",0,0,Usage,at groups attr in channels each input channel is convolved with
+2377,_PathParents,this object provides sequence like access to the logical ancestors,0,0,Usage,this object provides sequence like access to the logical ancestors
+1477,StorageBackedLongs,and save sets of ints.,0,0,Usage,and save sets of ints
+846,TestUtils,this doc output is required for testing.,0,0,Usage,this doc output is required for testing
+5198,Error,each error is a section in the output of cuda memcheck.,0,0,Usage,each error is a section in the output of cuda memcheck
+4510,BCEWithLogitsLoss,note that for,0,0,Usage,note that for
+3824,Retry,it s a good idea to set this to some sensibly high value to,0,0,Usage,it s a good idea to set this to some sensibly high value to
