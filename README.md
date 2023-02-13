@@ -17,7 +17,14 @@
 - ### preprocess.py: the python file to preprocess the dataset.
 - ### codeT5.py: the python file to fine-tune codeT5 for a binary classifier.
 - ### result: the folder contains the training log and the result. The trained model were uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500) 
-    use the trained model as follows
+    use the trained model for the category deprecation as follows 
+    1. Download the trained model from [Figshare](https://figshare.com/articles/dataset/java_deprecation/22084031) to `java_deprecation_output/checkpoint-best-ppl/`
+    - `.bin` file is the trained model
+    - `test_1.gold` is the gold of testing data
+    - `test_1.output` is the prediction of the trained model
+    - `test_data_of_deprecation.jsonl` is the testing data, `val_data_of_deprecation.jsonl` is the validation data,`train_data_of_deprecation.jsonl` is the training data
+    2. use the command below:
+    
 ```commandline
 python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --output_dir="java_deprecation_output" --train_log_filename="java_deprecation" --load_model_path=java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
 ```
