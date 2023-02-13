@@ -39,7 +39,6 @@ import pandas as pd
 
 MODEL_CLASSES = {'roberta': (RobertaConfig, RobertaModel, RobertaTokenizer)}
 
-
 logger = logging.getLogger(__name__)
 
 
@@ -183,7 +182,6 @@ def set_seed(seed=42):
     torch.backends.cudnn.deterministic = True
 
 
-
 @record
 def main():
     parser = argparse.ArgumentParser()
@@ -198,7 +196,7 @@ def main():
     parser.add_argument("--load_model_path", default=None, type=str,
                         help="Path to trained model: Should contain the .bin files")
     parser.add_argument("--train_log_filename", default="train", type=str, help="The train log file for this task.")
-    
+
     parser.add_argument("--train_filename", default=None, type=str,
                         help="The train filename. Should contain the .jsonl files for this task.")
     parser.add_argument("--dev_filename", default=None, type=str,
@@ -224,7 +222,7 @@ def main():
     parser.add_argument("--do_test", action='store_true',
                         help="Whether to run eval on the dev set.")
     parser.add_argument("--do_pred", action='store_true',
-                    help="Whether to predict only.")                    
+                        help="Whether to predict only.")
     parser.add_argument("--do_lower_case", action='store_true',
                         help="Set this flag if you are using an uncased model.")
     parser.add_argument("--no_cuda", action='store_true',
@@ -246,7 +244,7 @@ def main():
                         help="Epsilon for Adam optimizer.")
     parser.add_argument("--max_grad_norm", default=1.0, type=float,
                         help="Max gradient norm.")
-    parser.add_argument("--num_train_epochs", default=120, type=int,
+    parser.add_argument("--num_train_epochs", default=3, type=int,
                         help="Total number of training epochs to perform.")
     parser.add_argument("--max_steps", default=-1, type=int,
                         help="If > 0: set total number of training steps to perform. Override num_train_epochs.")
@@ -266,14 +264,13 @@ def main():
     # print arguments
     args = parser.parse_args()
     logging.basicConfig(format='%(asctime)s - %(levelname)s - %(name)s -   %(message)s',
-                    datefmt='%m/%d/%Y %H:%M:%S',
-                    filename="train_" + args.train_log_filename + ".log",
-                    filemode='w',
-                    level=logging.INFO)
+                        datefmt='%m/%d/%Y %H:%M:%S',
+                        filename="train_" + args.train_log_filename + ".log",
+                        filemode='w',
+                        level=logging.INFO)
     logger.info(args)
 
     os.environ["CUDA_VISIBLE_DEVICES"] = args.visible_gpu
-
 
     # Setup CUDA, GPU & distributed training
     if args.local_rank == -1 or args.no_cuda:
@@ -304,7 +301,10 @@ def main():
 
     if args.load_model_path is not None:
         logger.info("reload model from {}".format(args.load_model_path))
-        model.load_state_dict(torch.load(args.load_model_path))
+        if not torch.cuda.is_available():
+            model.load_state_dict(torch.load(args.load_model_path, map_location=torch.device('cpu')))
+        else:
+            model.load_state_dict(torch.load(args.load_model_path))
 
     model.to(device)
 
@@ -498,8 +498,8 @@ def main():
                     batch = tuple(t.to(device) for t in batch)
                     source_ids, source_mask = batch
                     with torch.no_grad():
-                        model1 = model.module if hasattr(model, 'module') else model
-                        preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
+                        model_ = model.module if hasattr(model, 'module') else model
+                        preds = model_.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
                         # preds = model(input_ids=source_ids, attention_mask=source_mask)
 
                         for pred in preds:
@@ -548,9 +548,9 @@ def main():
                 batch = tuple(t.to(device) for t in batch)
                 source_ids, source_mask = batch
                 with torch.no_grad():
-                    model1 = model.module if hasattr(model, 'module') else model
+                    model_ = model.module if hasattr(model, 'module') else model
                     # preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
-                    preds = model1.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
+                    preds = model_.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
 
                     for pred in preds:
                         text = tokenizer.decode(pred, skip_special_tokens=True, clean_up_tokenization_spaces=False)
@@ -566,10 +566,10 @@ def main():
                 # 	p.append(text)
             model.train()
             predictions = []
-            gold_info = {'all_count':len(eval_examples), 'Positive': 0, 'Negative':0}
-            gold_info['Positive'] = sum([ 1 if i.target == "true" else 0 for i in eval_examples])
+            gold_info = {'all_count': len(eval_examples), 'Positive': 0, 'Negative': 0}
+            gold_info['Positive'] = sum([1 if i.target == "true" else 0 for i in eval_examples])
             gold_info['Negative'] = len(eval_examples) - gold_info['Positive']
-            pre_info = {'TP':0, 'FP':0, 'TN': 0, 'FN':0}
+            pre_info = {'TP': 0, 'FP': 0, 'TN': 0, 'FN': 0}
             with open(os.path.join(args.output_dir, "test_{}.output".format(str(idx))), 'w') as f, open(
                     os.path.join(args.output_dir, "test_{}.gold".format(str(idx))), 'w') as f1:
                 for ref, gold in zip(p, eval_examples):
@@ -588,7 +588,7 @@ def main():
                             pre_info['FN'] += 1
             true_count = pre_info['TP'] + pre_info['TN']
             logger.info("gold_info:{}".format(gold_info))
-            logger.info("pre_info:{}".format(pre_info)) 
+            logger.info("pre_info:{}".format(pre_info))
             accuracy = true_count / len(eval_examples)
             try:
                 precision = pre_info['TP'] / (pre_info['TP'] + pre_info['FP'])
@@ -603,7 +603,10 @@ def main():
             else:
                 fscore = 2 * precision * recall / (precision + recall)
             # logger.info("Epoch {}, the accuracy is {}, the precision is {}, the recall is {}, the fscore is {}".format(epoch, accuracy, precision, recall, fscore))
-            logger.info(" the accuracy is {}, the precision is {}, the recall is {}, the fscore is {}".format(accuracy, precision, recall, fscore))
+            logger.info(" the accuracy is {}, the precision is {}, the recall is {}, the fscore is {}".format(accuracy,
+                                                                                                              precision,
+                                                                                                              recall,
+                                                                                                              fscore))
 
     if args.do_pred:
         files = []
@@ -627,8 +630,8 @@ def main():
                 batch = tuple(t.to(device) for t in batch)
                 source_ids, source_mask = batch
                 with torch.no_grad():
-                    model1 = model.module if hasattr(model, 'module') else model
-                    preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
+                    model_ = model.module if hasattr(model, 'module') else model
+                    preds = model_.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
 
                     for pred in preds:
                         text = tokenizer.decode(pred, skip_special_tokens=True, clean_up_tokenization_spaces=False)
@@ -647,7 +650,6 @@ def main():
                 for line in p:
                     f.write(str(line) + '\n')
             logger.info(" Prediction finished !")
-
 
 
 if __name__ == "__main__":
