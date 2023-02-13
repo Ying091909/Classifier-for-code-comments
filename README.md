@@ -16,7 +16,7 @@
   - #### python: Same structure as Java.
 - ### preprocess.py: the python file to preprocess the dataset.
 - ### codeT5.py: the python file to fine-tune codeT5 for a binary classifier.
-- ### result: the folder contains the training log and the result. The trained model were uploaded. 
+- ### result: the folder contains the training log and the result. The trained model were uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500) 
 - ### model: the folder contains the pre-trained model and tokenizer from the [CodeT5-base](https://huggingface.co/Salesforce/codet5-base/tree/main)
 
 ## Tips
