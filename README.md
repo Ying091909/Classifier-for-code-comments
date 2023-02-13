@@ -33,7 +33,7 @@ python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --outp
 ```
 - ### model: the folder contains the pre-trained model and tokenizer from the [CodeT5-base](https://huggingface.co/Salesforce/codet5-base/tree/main)
 
-## Tips
+## Overflow flow
 - ### Dependency
   transformers 4.17.0 \
   torchvision 0.14.0\
