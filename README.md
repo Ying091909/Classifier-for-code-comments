@@ -16,7 +16,11 @@
   - #### python: Same structure as Java.
 - ### preprocess.py: the python file to preprocess the dataset.
 - ### codeT5.py: the python file to fine-tune codeT5 for a binary classifier.
-- ### result: the folder contains the training log and the result. The trained model were uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500) 
+- ### result: the folder contains the training log and the result. The trained model were uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500) \
+    use the trained model as follows
+```commandline
+python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --output_dir="java_deprecation_output" --train_log_filename="java_deprecation" --load_model_path=java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
+```
 - ### model: the folder contains the pre-trained model and tokenizer from the [CodeT5-base](https://huggingface.co/Salesforce/codet5-base/tree/main)
 
 ## Tips
@@ -42,21 +46,26 @@
   }
   ```
 - ### Train
-    - Train the model on a single GPU/CPU:\
-    `python codeT5.py --local_rank=-1 --do_train --do_eval --do_test --train_log_filename="java_deprecation" --train_filename="dataset/java/train_data_of_deprecation.jsonl" --dev_filename="dataset/java/val_data_of_deprecation.jsonl" --test_filename="dataset/java/test_data_of_deprecation.jsonl"
-`
+    - Train the model on a single GPU/CPU:
+    ```commandline
+    python codeT5.py --local_rank=-1 --do_train --do_eval --do_test --train_log_filename="java_deprecation" --train_filename="dataset/java/train_data_of_deprecation.jsonl" --dev_filename="dataset/java/val_data_of_deprecation.jsonl" --test_filename="dataset/java/test_data_of_deprecation.jsonl"
+    ```
   
-    - Distributed training on multi-GPUs: \
-    `python -m torch.distributed.launch --nproc_per_node=2 codeT5.py  --do_train --do_eval --do_test --output_dir="java_deprecation_output" --train_log_filename="java_deprecation" --train_filename="dataset/java/train_data_of_deprecation.jsonl" --dev_filename="dataset/java/val_data_of_deprecation.jsonl" --test_filename="dataset/java/test_data_of_deprecation.jsonl"
-`    
+    - Distributed training on multi-GPUs: 
+    ```commandline
+    python -m torch.distributed.launch --nproc_per_node=2 codeT5.py  --do_train --do_eval --do_test --output_dir="java_deprecation_output" --train_log_filename="java_deprecation" --train_filename="dataset/java/train_data_of_deprecation.jsonl" --dev_filename="dataset/java/val_data_of_deprecation.jsonl" --test_filename="dataset/java/test_data_of_deprecation.jsonl"
+    ```    
  
-- ### Prediect
-    - Predict the category on a single GPU/CPU:\
-    ` python codeT5.py --local_rank=-1 --do_pred --load_model_path=java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"`  
+- ### Predict
+    - Predict the category on a single GPU/CPU:
+    ``` commandline
+    python codeT5.py --local_rank=-1 --do_pred --load_model_path=java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
+    ```  
 
-  - Predict the category on multi-GPUs:\
-  `python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_pred --load_model_path=result_non_preprocess/java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
-`
+  - Predict the category on multi-GPUs:
+  ```commandline
+  python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_pred --load_model_path=result_non_preprocess/java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
+   ```
 
   
         
