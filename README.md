@@ -24,6 +24,9 @@
     - `test_1.output` is the prediction of the trained model
     - `test_data_of_deprecation.jsonl` is the testing data, `val_data_of_deprecation.jsonl` is the validation data,`train_data_of_deprecation.jsonl` is the training data
     2. use the command below:
+```commandline
+python codeT5.py --do_test --test_filename="test_data_of_deprecation.jsonl" --local_rank=-1 --load_model_path=dataset/java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin
+```
     
 ```commandline
 python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --output_dir="java_deprecation_output" --train_log_filename="java_deprecation" --load_model_path=java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
@@ -73,6 +76,7 @@ python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --outp
   ```commandline
   python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_pred --load_model_path=result_non_preprocess/java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
    ```
+  
 
   
         
