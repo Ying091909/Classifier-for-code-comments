@@ -35,9 +35,10 @@ python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --outp
 
 ## Tips
 - ### Dependency
-  transformers 4.10.0 \
+  transformers 4.17.0 \
   torchvision 0.14.0\
-  torch 1.13.0 
+  torch 1.13.0 \
+  python 3.7.11
 - ### The data format for training 
   ```
   {
