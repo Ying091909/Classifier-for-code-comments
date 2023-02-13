@@ -16,7 +16,7 @@
   - #### python: Same structure as Java.
 - ### preprocess.py: the python file to preprocess the dataset.
 - ### codeT5.py: the python file to fine-tune codeT5 for a binary classifier.
-- ### result: the folder contains the training log and the result. The trained model were uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500) \
+- ### result: the folder contains the training log and the result. The trained model were uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500) 
     use the trained model as follows
 ```commandline
 python -m torch.distributed.launch --nproc_per_node=2 codeT5.py --do_test --output_dir="java_deprecation_output" --train_log_filename="java_deprecation" --load_model_path=java_deprecation_output/checkpoint-best-ppl/pytorch_model.bin --test_filename="dataset/java/test_data_of_deprecation.jsonl"
