@@ -198,7 +198,7 @@ def main():
     parser.add_argument("--load_model_path", default=None, type=str,
                         help="Path to trained model: Should contain the .bin files")
     parser.add_argument("--train_log_filename", default="train", type=str, help="The train log file for this task.")
-    
+    ## Other parameters /home/liying/CODE/codet5/dataset
     parser.add_argument("--train_filename", default=None, type=str,
                         help="The train filename. Should contain the .jsonl files for this task.")
     parser.add_argument("--dev_filename", default=None, type=str,
@@ -498,6 +498,7 @@ def main():
                     batch = tuple(t.to(device) for t in batch)
                     source_ids, source_mask = batch
                     with torch.no_grad():
+                        model1 = model.module if hasattr(model, 'module') else model
                         preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
                         # preds = model(input_ids=source_ids, attention_mask=source_mask)
 
@@ -547,11 +548,22 @@ def main():
                 batch = tuple(t.to(device) for t in batch)
                 source_ids, source_mask = batch
                 with torch.no_grad():
-                    preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
+                    model1 = model.module if hasattr(model, 'module') else model
+                    # preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
+                    preds = model1.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
 
                     for pred in preds:
                         text = tokenizer.decode(pred, skip_special_tokens=True, clean_up_tokenization_spaces=False)
                         p.append(text)
+
+                # preds = model(input_ids=source_ids, attention_mask=source_mask)
+                # for pred in preds:
+                # 	t = pred[0].cpu().numpy()
+                # 	t = list(t)
+                # 	if 0 in t:
+                # 		t = t[:t.index(0)]
+                # 	text = tokenizer.decode(t, clean_up_tokenization_spaces=False)
+                # 	p.append(text)
             model.train()
             predictions = []
             gold_info = {'all_count':len(eval_examples), 'Positive': 0, 'Negative':0}
@@ -615,11 +627,21 @@ def main():
                 batch = tuple(t.to(device) for t in batch)
                 source_ids, source_mask = batch
                 with torch.no_grad():
+                    model1 = model.module if hasattr(model, 'module') else model
                     preds = model.module.generate(input_ids=source_ids, attention_mask=source_mask, max_length=128)
 
                     for pred in preds:
                         text = tokenizer.decode(pred, skip_special_tokens=True, clean_up_tokenization_spaces=False)
                         p.append(text)
+
+                # preds = model(input_ids=source_ids, attention_mask=source_mask)
+                # for pred in preds:
+                # 	t = pred[0].cpu().numpy()
+                # 	t = list(t)
+                # 	if 0 in t:
+                # 		t = t[:t.index(0)]
+                # 	text = tokenizer.decode(t, clean_up_tokenization_spaces=False)
+                # 	p.append(text)
             model.train()
             with open(os.path.join(args.output_dir, "pred_{}.output".format(str(idx))), 'w') as f:
                 for line in p:
