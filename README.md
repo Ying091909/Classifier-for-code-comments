@@ -33,7 +33,6 @@
 ## Experiment
 - ### Step 1 : Install the dependency
   transformers 4.17.0  
-  torchvision 0.14.0\
   torch 1.13.0 \
   python 3.7.11 \
   \
