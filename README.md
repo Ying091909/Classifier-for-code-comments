@@ -21,7 +21,7 @@
 - ### result: 
     This folder contains the training logs, which record the precision, recall  and fscore of the corresponding models. Since github has a limit on the size of files that can be uploaded, the zip files of the 19 trained classifiers and dataset has been uploaded to [Figshare](https://figshare.com/articles/dataset/Classifier_zip/22083500). 
     In [Figshare](https://figshare.com/articles/dataset/java_deprecation/22084031). 
-    In order to facilitate the reproduction of our experiments, we also uploaded a classifier separately. \
+    In order to facilitate the reproduction of our experiments, we also uploaded a classifier separately. [deprecation](https://figshare.com/articles/dataset/java_deprecation/22084031)
     - `.bin` file is the trained model
     - `test_1.gold` is the gold of testing data
     - `test_1.output` is the prediction of the trained model
