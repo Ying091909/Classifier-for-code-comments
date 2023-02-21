@@ -26,6 +26,19 @@
     - `test_1.gold` is the gold of testing data
     - `test_1.output` is the prediction of the trained model
     - `test_data_of_deprecation.jsonl` is the testing data,  `val_data_of_deprecation.jsonl` is the validation data,`train_data_of_deprecation.jsonl` is the training data
+    
+    If you can't download the file successfully, you can try to download from other link below.
+    - [zenodo](https://zenodo.org/record/7659286#.Y_Q973ZBzEY)：Each classifier can be downloaded separately.
+    - [zenodo](https://zenodo.org/record/7659231#.Y_Q_t3ZBzEY): All classifiers are compressed to one file
+    
+    unzip the zip file:
+
+    - `checkpoint-best-ppl`: the best model on the validation dataset
+    - `checkpoint-last`: the last model in the training. We used it to test the testing dataset to calculate the precision, recall, fscore recorded in the paper.
+    - the `dev.gold` is the ground truth of the validation dataset; the `dev.output` is the ground truth of the validation dataset in the trainning stage. 
+    - the `test_0.gold` is the ground truth of the validation dataset; the `test_0.output` is the ground truth of the validation dataset in the testing stage.
+    - the `test_1.gold` is the ground truth of the testing dataset; the `test_1.output` is the prediction of our classifier.
+    
 
 - ### model:
   The folder contains the config files for the pre-trained model from the [CodeT5-base](https://huggingface.co/Salesforce/codet5-base/tree/main)
