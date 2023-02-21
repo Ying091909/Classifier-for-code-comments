@@ -27,9 +27,9 @@
     - `test_1.output` is the prediction of the trained model
     - `test_data_of_deprecation.jsonl` is the testing data,  `val_data_of_deprecation.jsonl` is the validation data,`train_data_of_deprecation.jsonl` is the training data
     
-    If you can't download the file successfully, you can try to download from other link below.
-    - [zenodo](https://zenodo.org/record/7659286#.Y_Q973ZBzEY)：Each classifier can be downloaded separately.
-    - [zenodo](https://zenodo.org/record/7659231#.Y_Q_t3ZBzEY): All classifiers are compressed to one file
+    If you can't download the file successfully from figshare, you can try to download from other link below.
+    - [zenodo](https://www.zenodo.org/record/7659286#.Y_Q973ZBzEY)：Each classifier can be downloaded separately.
+    - [zenodo](https://www.zenodo.org/record/7659231#.Y_Q_t3ZBzEY): All classifiers are compressed to one file
     
     unzip the zip file:
 
