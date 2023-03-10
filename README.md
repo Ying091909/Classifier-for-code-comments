@@ -46,6 +46,7 @@
 ## Experiment
 - ### Step 1 : Install the dependency
   transformers 4.17.0  
+  pandas 1.5.3 \
   torch 1.13.0 \
   python 3.7.11 \
   \
